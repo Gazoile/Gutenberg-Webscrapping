@@ -1,0 +1,632 @@
+
+
+
+
+
+
+
+[Extrait des OEuvres compl�tes de Diderot, �dit�es par Jules Ass�zat,
+5�me volume, Paris, Garnier Fr�res, 1875.]
+
+
+
+
+LES DEUX AMIS DE BOURBONNE
+
+(�crit en 1770--Publi� en 1773)
+
+
+
+
+NOTICE PR�LIMINAIRE
+
+
+Voici la Notice qui pr�c�de ce conte dans l'�dition Bri�re:
+
+�Au mois d'ao�t 1770, Diderot[1] vint � Bourbonne-les-Bains, pr�s de
+Langres, pour y voir une amie qui avait men� sa fille aux eaux dans
+l'esp�rance de lui rendre la sant� alt�r�e par les suites d'une premi�re
+couche. Il trouva ces dames occup�es, pour se d�sennuyer, � �crire des
+contes qu'elles adressaient � leurs correspondants de Paris. L'un d'eux
+venait � son tour de leur envoyer les _Deux Amis, conte iroquois_ que
+Saint-Lambert avait fait para�tre peu de jours apr�s sa r�ception �
+l'Acad�mie fran�aise. Diderot eut l'id�e de riposter par l'histoire des
+_Deux Amis de Bourbonne_, dont la simplicit� contraste d'une mani�re si
+touchante avec la pr�tention du conte de Saint-Lambert. Cet �crit,
+�chapp� sans effort � la plume du philosophe, et dans lequel on retrouve
+des personnages contemporains, fut adress� par la jeune malade, ou la
+_petite soeur_, au _petit fr�re_, son correspondant, qui lui avait
+envoy� le conte iroquois.�
+
+Nous n'avons � ajouter � ce qui pr�c�de que deux mots. Les dames que
+retrouva Diderot � Bourbonne �taient Mme de Meaux et Mme de Prunevaux,
+sa fille. Le conte passa pour �tre de cette derni�re, et comme son
+correspondant le croyait vrai, elle dut avoir de nouveau recours �
+Diderot pour le compl�ter. C'est � ce m�me moment que Diderot fit une
+courte excursion � Langres. Il revint de ce voyage ayant en
+portefeuille, outre les _Deux Amis de Bourbonne_, l'_Entretien d'un p�re
+avec ses enfants_, inspir� par la visite de la maison paternelle. Sur
+ces entrefaites, Gessner lui fit demander, comme une faveur, quelques
+pages pour accompagner la traduction de ses _Nouvelles Idylles_. Il lui
+donna les deux morceaux qui furent ins�r�s en t�te des _Contes moraux et
+Nouvelles Idylles de MM. D... et Gessner_ (Zuric, chez Orel, Gessner,
+Fuessli et Cie, 1773, petit in-8�), sous ce titre: _Contes moraux_ de M.
+D... Ils ont �t� souvent r�imprim�s.
+
+Voici ce que dit � ce sujet Gessner, dans la pr�face de l'�dition in-4�
+orn�e de frontispice, figures, en-t�tes et culs-de-lampe grav�s �
+l'eau-forte par lui-m�me (1773, IV, 184 pages. Zuric, chez l'auteur):
+
+�Les premiers ouvrages de M. Gessner ont �t� re�us si favorablement dans
+les pa�s �trangers et surtout en France, qu'il ne s'int�resse pas moins
+� la traduction[2] de celui-ci qu'� l'original m�me...
+
+�M. Gessner a communiqu� son projet aux amis qu'il a � Paris, et
+particuli�rement � M. D..., dont l'approbation lui a toujours �t� si
+pr�cieuse. Cet homme c�l�bre a eu la bont� de lui envoyer en manuscript
+les deux contes moraux qui pr�c�dent la traduction des _Nouvelles
+Idylles_. M. Gessner se trouve heureux de pouvoir offrir � la France un
+pr�sent qu'elle recevra sans doute avec plaisir et qui sera le monument
+d'une amiti� que la seule culture des lettres a fait na�tre entre deux
+hommes que des contr�es �loign�es ont toujours tenus s�par�s.�
+
+Dans la pr�face de l'�dition des _Idylles_ de Gessner, illustr�es par
+Moreau (1795), Renouard dit qu'il a pu corriger sur les manuscrits
+annot�s par Diderot, _et qui �taient en sa possession_, le texte des
+_Deux Amis de Bourbonne_ et de l'_Entretien d'un p�re et de ses
+enfants_.
+
+C'est de ces deux contes que l'abb� de Vauxcelles, dont nous avons d�j�
+parl� (_Notice_ du _Suppl�ment au voyage de Bougainville_), disait
+qu'ils faisaient au milieu des _Idylles_ de Gessner l'effet �de satyres
+parmi des nymphes!�
+
+Disons, par contre, que Goethe, dans ses _M�moires_, constate que les
+_Deux Amis_ firent une vive impression dans le petit cercle des
+�tudiants allemands, � Strasbourg, o� il �tait alors. �Nous f�mes ravis,
+dit-il, de ses braves braconniers, de ses vaillants contrebandiers,
+canaille po�tique, qui ne tarda pas � venir faire des siennes sur le
+th��tre allemand:� dans _les Brigands_ de Schiller d'abord.
+
+                   *       *       *       *       *
+
+Nous recommanderons, comme compl�tant ce que nous avons pu dire � propos
+de l'annexe de la _Religieuse_, l'annexe des _Amis de Bourbonne_: �Et
+puis, il y a trois sortes de contes...�
+
+
+
+
+LES DEUX AMIS DE BOURBONNE
+
+
+Il y avait ici deux hommes, qu'on pourrait appeler les Oreste et Pylade
+de Bourbonne. L'un se nommait Olivier, et l'autre F�lix; ils �taient n�s
+le m�me jour, dans la m�me maison, et des deux soeurs. Ils avaient �t�
+nourris du m�me lait; car l'une des m�res �tant morte en couche, l'autre
+se chargea des deux enfants. Ils avaient �t� �lev�s ensemble; ils
+�taient toujours s�par�s des autres: ils s'aimaient comme on existe,
+comme on vit, sans s'en douter; ils le sentaient � tout moment, et ils
+ne se l'�taient peut-�tre jamais dit. Olivier avait une fois sauv� la
+vie � F�lix, qui se piquait d'�tre grand nageur, et qui avait failli de
+se noyer: ils ne s'en souvenaient ni l'un ni l'autre. Cent fois F�lix
+avait tir� Olivier des aventures f�cheuses o� son caract�re imp�tueux
+l'avait engag�; et jamais celui-ci n'avait song� � l'en remercier: ils
+s'en retournaient ensemble � la maison, sans se parler, ou en parlant
+d'autre chose.
+
+Lorsqu'on tira pour la milice, le premier billet fatal �tant tomb� sur
+F�lix, Olivier dit: �L'autre est pour moi.� Ils firent leur temps de
+service; ils revinrent au pays: plus chers l'un � l'autre qu'ils ne
+l'�taient encore auparavant, c'est ce que je ne saurais vous assurer:
+car, petit fr�re, si les bienfaits r�ciproques cimentent les amiti�s
+r�fl�chies, peut-�tre ne font-ils rien � celles que j'appellerais
+volontiers des amiti�s animales et domestiques. � l'arm�e, dans une
+rencontre, Olivier �tant menac� d'avoir la t�te fendue d'un coup de
+sabre, F�lix se mit machinalement au-devant du coup, et en resta
+balafr�: on pr�tend qu'il �tait fier de cette blessure; pour moi, je
+n'en crois rien. � Hastembeck[3], Olivier avait retir� F�lix d'entre la
+foule des morts, o� il �tait demeur�. Quand on les interrogeait, ils
+parlaient quelquefois des secours qu'ils avaient re�us l'un de l'autre,
+jamais de ceux qu'ils avaient rendus l'un � l'autre. Olivier disait de
+F�lix, F�lix disait d'Olivier; mais ils ne se louaient pas. Au bout de
+quelque temps de s�jour au pays, ils aim�rent; et le hasard voulut que
+ce f�t la m�me fille. Il n'y eut entre eux aucune rivalit�; le premier
+qui s'aper�ut de la passion de son ami se retira: ce fut F�lix. Olivier
+�pousa; et F�lix d�go�t� de la vie sans savoir pourquoi, se pr�cipita
+dans toutes sortes de m�tiers dangereux; le dernier fut de se faire
+contrebandier[4].
+
+Vous n'ignorez pas, petit fr�re, qu'il y a quatre tribunaux en France,
+Caen, Reims, Valence et Toulouse, o� les contrebandiers sont jug�s; et
+que le plus s�v�re des quatre, c'est celui de Reims, o� pr�side un nomm�
+Coleau, l'�me la plus f�roce que la nature ait encore form�e. F�lix fut
+pris les armes � la main, conduit devant le terrible Coleau, et condamn�
+� mort, comme cinq cents autres qui l'avaient pr�c�d�. Olivier apprit le
+sort de F�lix. Une nuit, il se l�ve d'� c�t� de sa femme, et, sans lui
+rien dire, il s'en va � Reims. Il s'adresse au juge Coleau; il se jette
+� ses pieds, et lui demande la gr�ce de voir et d'embrasser F�lix.
+Coleau le regarde, se tait un moment, et lui fait signe de s'asseoir.
+Olivier s'assied. Au bout d'une demi-heure, Coleau tire sa montre et dit
+� Olivier: �Si tu veux voir et embrasser ton ami vivant, d�p�che-toi, il
+est en chemin; et si ma montre va bien, avant qu'il soit dix minutes il
+sera pendu.� Olivier, transport� de fureur, se l�ve, d�charge sur la
+nuque du cou au juge Coleau un �norme coup de b�ton, dont il l'�tend
+presque mort; court vers la place, arrive, crie, frappe le bourreau,
+frappe les gens de la justice, soul�ve la populace indign�e de ces
+ex�cutions. Les pierres volent; F�lix d�livr� s'enfuit; Olivier songe �
+son salut: mais un soldat de mar�chauss�e lui avait perc� les flancs
+d'un coup de ba�onnette, sans qu'il s'en f�t aper�u. Il gagna la porte
+de la ville, mais il ne put aller plus loin; des voituriers charitables
+le jet�rent sur leur charrette, et le d�pos�rent � la porte de sa maison
+un moment avant qu'il expir�t; il n'eut que le temps de dire � sa femme:
+�Femme, approche, que je t'embrasse; je me meurs, mais le balafr� est
+sauv�.�
+
+Un soir que nous allions � la promenade, selon notre usage, nous v�mes
+au-devant d'une chaumi�re une grande femme debout, avec quatre petits
+enfants � ses pieds; sa contenance triste et ferme attira notre
+attention, et notre attention fixa la sienne. Apr�s un moment de
+silence, elle nous dit: �Voil� quatre petits enfants, je suis leur m�re,
+et je n'ai plus de mari.� Cette mani�re haute de solliciter la
+commis�ration �tait bien faite pour nous toucher. Nous lui offr�mes nos
+secours, qu'elle accepta avec honn�tet�: c'est � cette occasion que nous
+avons appris l'histoire de son mari Olivier et de F�lix son ami. Nous
+avons parl� d'elle, et j'esp�re que notre recommandation ne lui aura pas
+�t� inutile. Vous voyez, petit fr�re, que la grandeur d'�me et les
+hautes qualit�s sont de toutes les conditions et de tous les pays; que
+tel meurt obscur, � qui il n'a manqu� qu'un autre th��tre; et qu'il ne
+faut pas aller jusque chez les Iroquois pour trouver deux amis.
+
+Dans le temps que le brigand Testalunga infestait la Sicile avec sa
+troupe, Romano, son ami et son confident, fut pris. C'�tait le
+lieutenant de Testalunga, et son second. Le p�re de ce Romano fut arr�t�
+et emprisonn� pour crimes. On lui promit sa gr�ce et sa libert�, pourvu
+que Romano trah�t et livr�t son chef Testalunga. Le combat entre la
+tendresse filiale et l'amiti� jur�e fut violent. Mais Romano p�re
+persuada son fils de donner la pr�f�rence � l'amiti�, honteux de devoir
+la vie � une trahison. Romano se rendit � l'avis de son p�re. Romano
+p�re fut mis � mort; et jamais les tortures les plus cruelles ne purent
+arracher de Romano fils la d�lation de ses complices.
+
+                   *       *       *       *       *
+
+Vous avez d�sir�, petit fr�re, de savoir ce qu'est devenu F�lix; c'est
+une curiosit� si simple, et le motif en est si louable, que nous nous
+sommes un peu reproch� de ne l'avoir pas eue. Pour r�parer cette faute,
+nous avons pens� d'abord � M. Papin, docteur en th�ologie, et cur� de
+Sainte-Marie � Bourbonne: mais maman s'est ravis�e; et nous avons donn�
+la pr�f�rence au subd�l�gu� Aubert, qui est un bon homme, bien rond, et
+qui nous a envoy� le r�cit suivant, sur la v�rit� duquel vous pouvez
+compter:
+
+�Le nomm� F�lix vit encore. �chapp� des mains de la justice, il se jeta
+dans les for�ts de la province, dont il avait appris � conna�tre les
+tours et les d�tours pendant qu'il faisait la contrebande, cherchant �
+s'approcher peu � peu de la demeure d'Olivier, dont il ignorait le sort.
+
+�Il y avait au fond d'un bois, o� vous vous �tes promen�e quelquefois,
+un charbonnier dont la cabane servait d'asile � ces sortes de gens;
+c'�tait aussi l'entrep�t de leurs marchandises et de leurs armes: ce fut
+l� que F�lix se rendit, non sans avoir couru le danger de tomber dans
+les emb�ches de la mar�chauss�e, qui le suivait � la piste. Quelques-uns
+de ses associ�s y avaient port� la nouvelle de son emprisonnement �
+Reims; et le charbonnier et la charbonni�re le croyaient justici�,
+lorsqu'il leur apparut.
+
+�Je vais vous raconter la chose, comme je la tiens de la charbonni�re,
+qui est d�c�d�e ici il n'y a pas longtemps.
+
+�Ce furent ses enfants, en r�dant autour de la cabane, qui le virent les
+premiers. Tandis qu'il s'arr�tait � caresser le plus jeune, dont il
+�tait le parrain, les autres entr�rent dans la cabane en criant: F�lix!
+F�lix! Le p�re et la m�re sortirent en r�p�tant le m�me cri de joie;
+mais ce mis�rable �tait si harass� de fatigue et de besoin, qu'il n'eut
+pas la force de r�pondre, et qu'il tomba presque d�faillant entre leurs
+bras.
+
+�Ces bonnes gens le secoururent de ce qu'ils avaient, lui donn�rent du
+pain, du vin, quelques l�gumes: il mangea, et s'endormit.
+
+�� son r�veil, son premier mot fut: �Olivier! Enfants, ne savez-vous
+rien d'Olivier?--Non,� lui r�pondirent-ils. Il leur raconta l'aventure
+de Reims; il passa la nuit et le jour suivant avec eux. Il soupirait, il
+pronon�ait le nom d'Olivier; il le croyait dans les prisons de Reims; il
+voulait y aller, il voulait aller mourir avec lui; et ce ne fut pas sans
+peine que le charbonnier et la charbonni�re le d�tourn�rent de ce
+dessein.
+
+�Sur le milieu de la seconde nuit, il prit un fusil, il mit un sabre
+sous son bras, et s'adressant � voix basse au charbonnier...
+�Charbonnier!
+
+�--F�lix!
+
+�--Prends ta cogn�e, et marchons.
+
+�--O�!
+
+�--Belle demande! chez Olivier.�
+
+�Ils vont; mais tout en sortant de la for�t, les voil� envelopp�s d'un
+d�tachement de mar�chauss�e.
+
+�Je m'en rapporte � ce que m'en a dit la charbonni�re; mais il est inou�
+que deux hommes � pied aient pu tenir contre une vingtaine d'hommes �
+cheval: apparemment que ceux-ci �taient �pars, et qu'ils voulaient se
+saisir de leur proie en vie. Quoi qu'il en soit, l'action fut
+tr�s-chaude; il y eut cinq chevaux d'estropi�s et sept cavaliers de
+hach�s ou sabr�s. Le pauvre charbonnier resta mort sur la place d'un
+coup de feu � la tempe; F�lix regagna la for�t; et comme il est d'une
+agilit� incroyable, il courait d'un endroit � l'autre; en courant, il
+chargeait son fusil, tirait, donnait un coup de sifflet. Ces coups de
+sifflet, ces coups de fusil donn�s, tir�s � diff�rents intervalles et de
+diff�rents c�t�s, firent craindre aux cavaliers de mar�chauss�e qu'il
+n'y e�t l� une horde de contrebandiers; et ils se retir�rent en
+diligence.
+
+�Lorsque F�lix les vit �loign�s, il revint sur le champ de bataille; il
+mit le cadavre du charbonnier sur ses �paules, et reprit le chemin de la
+cabane, o� la charbonni�re et ses enfants dormaient encore. Il s'arr�te
+� la porte, il �tend le cadavre � ses pieds, et s'assied le dos appuy�
+contre un arbre et le visage tourn� vers l'entr�e de la cabane. Voil� le
+spectacle qui attendait la charbonni�re au sortir de sa baraque.
+
+�Elle s'�veille, elle ne trouve point son mari � c�t� d'elle; elle
+cherche des yeux F�lix, point de F�lix. Elle se l�ve, elle sort, elle
+voit, elle crie, elle tombe � la renverse. Ses enfants accourent, ils
+voient, ils crient; ils se roulent sur leur p�re, ils se roulent sur
+leur m�re. La charbonni�re, rappel�e � elle-m�me par le tumulte et les
+cris de ses enfants, s'arrache les cheveux, se d�chire les joues. F�lix,
+immobile au pied de son arbre, les yeux ferm�s, la t�te renvers�e en
+arri�re, leur disait d'une voix �teinte: �Tuez-moi.� Il se faisait un
+moment de silence; ensuite la douleur et les cris reprenaient, et F�lix
+leur redisait: �Tuez-moi; enfants, par piti�, tuez-moi.�
+
+�Ils pass�rent ainsi trois jours et trois nuits � se d�soler; le
+quatri�me, F�lix dit � la charbonni�re: �Femme, prends ton bissac,
+mets-y du pain, et suis-moi.� Apr�s un long circuit � travers nos
+montagnes et nos for�ts, ils arriv�rent � la maison d'Olivier, qui est
+situ�e, comme vous savez, � l'extr�mit� du bourg, � l'endroit o� la voie
+se partage en deux routes, dont l'une conduit en Franche-Comt� et
+l'autre en Lorraine[5].
+
+�C'est l� que F�lix va apprendre la mort d'Olivier et se trouver entre
+les veuves de deux hommes massacr�s � son sujet. Il entre et dit
+brusquement � la femme Olivier: �O� est Olivier?� Au silence de cette
+femme, � son v�tement, � ses pleurs, il comprit qu'Olivier n'�tait plus.
+Il se trouva mal; il tomba et se fendit la t�te contre la huche � p�trir
+le pain. Les deux veuves le relev�rent; son sang coulait sur elles; et
+tandis qu'elles s'occupaient � l'�tancher avec leurs tabliers, il leur
+disait: �Et vous �tes leurs femmes, et vous me secourez!� Puis il
+d�faillait, puis il revenait et disait en soupirant: �Que ne me
+laissait-il? Pourquoi s'en venir � Reims? Pourquoi l'y laisser
+venir?...� Puis sa t�te se perdait, il entrait en fureur, il se roulait
+� terre et d�chirait ses v�tements. Dans un de ces acc�s, il tira son
+sabre, et il allait s'en frapper; mais les deux femmes se jet�rent sur
+lui, cri�rent au secours; les voisins accoururent: on le lia avec des
+cordes, et il fut saign� sept � huit fois. Sa fureur tomba avec
+l'�puisement de ses forces; et il resta comme mort pendant trois ou
+quatre jours, au bout desquels la raison lui revint. Dans le premier
+moment, il tourna ses yeux autour de lui, comme un homme qui sort d'un
+profond sommeil, et il dit: �O� suis-je? Femmes, qui �tes-vous?� La
+charbonni�re lui r�pondit: �Je suis la charbonni�re...� Il reprit: �Ah!
+oui, la charbonni�re... Et vous?...� La femme Olivier se tut. Alors il
+se mit � pleurer, il se tourna du c�t� de la muraille, et dit en
+sanglotant: �Je suis chez Olivier... ce lit est celui d'Olivier... et
+cette femme qui est l�, c'�tait la sienne! Ah!�
+
+�Ces deux femmes en eurent tant de soin, elles lui inspir�rent tant de
+piti�, elles le pri�rent si instamment de vivre, elles lui remontr�rent
+d'une mani�re si touchante qu'il �tait leur unique ressource, qu'il se
+laissa persuader.
+
+�Pendant tout le temps qu'il resta dans cette maison, il ne se coucha
+plus. Il sortait la nuit, il errait dans les champs, il se roulait sur
+la terre, il appelait Olivier; une des femmes le suivait et le ramenait
+au point du jour.
+
+�Plusieurs personnes le savaient dans la maison d'Olivier; et parmi ces
+personnes il y en avait de malintentionn�es. Les deux veuves
+l'avertirent du p�ril qu'il courait: c'�tait une apr�s-midi, il �tait
+assis sur un banc, son sabre sur ses genoux, les coudes appuy�s sur une
+table et ses deux poings sur ses deux yeux. D'abord il ne r�pondit rien.
+La femme Olivier avait un gar�on de dix-sept � dix-huit ans, la
+charbonni�re une fille de quinze. Tout � coup il dit � la charbonni�re:
+�La charbonni�re, va chercher ta fille et am�ne-la ici...� Il avait
+quelques fauch�es de pr�s, il les vendit. La charbonni�re revint avec sa
+fille, le fils d'Olivier l'�pousa: F�lix leur donna l'argent de ses
+pr�s, les embrassa, leur demanda pardon en pleurant; et ils all�rent
+s'�tablir dans la cabane o� ils sont encore et o� ils servent de p�re et
+de m�re aux autres enfants. Les deux veuves demeur�rent ensemble; et les
+enfants d'Olivier eurent un p�re et deux m�res.
+
+�Il y a � peu pr�s un an et demi que la charbonni�re est morte; la femme
+d'Olivier la pleure encore tous les jours.
+
+�Un soir qu'elles �piaient F�lix (car il y en avait une des deux qui le
+gardait toujours � vue), elles le virent qui fondait en larmes; il
+tournait en silence ses bras vers la porte qui le s�parait d'elles, et
+il se remettait ensuite � faire son sac. Elles ne lui dirent rien, car
+elles comprenaient de reste combien son d�part �tait n�cessaire. Ils
+soup�rent tous les trois sans parler. La nuit, il se leva; les femmes ne
+dormaient point: il s'avan�a vers la porte sur la pointe des pieds. L�,
+il s'arr�ta, regarda vers le lit des deux femmes, essuya ses yeux de ses
+mains et sortit. Les deux femmes se serr�rent dans les bras l'une de
+l'autre et pass�rent le reste de la nuit � pleurer. On ignore o� il se
+r�fugia; mais il n'y a gu�re eu de semaines qu'il ne leur ait envoy�
+quelques secours.
+
+�La for�t o� la fille de la charbonni�re vit avec le fils d'Olivier,
+appartient � un M. Leclerc de Ran�onni�res, homme fort riche et seigneur
+d'un autre village de ces cantons, appel� Courcelles[6]. Un jour que M.
+de Ran�onni�res ou de Courcelles, comme il vous plaira, faisait une
+chasse dans sa for�t, il arriva � la cabane du fils d'Olivier; il y
+entra, il se mit � jouer avec les enfants, qui sont jolis; il les
+questionna; la figure de la femme, qui n'est pas mal, lui revint; le ton
+ferme du mari, qui tient beaucoup de son p�re, l'int�ressa; il apprit
+l'aventure de leurs parents, il promit de solliciter la gr�ce de F�lix;
+il la sollicita et l'obtint.
+
+�F�lix passa au service de M. de Ran�onni�res, qui lui donna une place
+de garde-chasse.
+
+�Il y avait environ deux ans qu'il vivait dans le ch�teau de
+Ran�onni�res, envoyant aux veuves une bonne partie de ses gages, lorsque
+l'attachement � son ma�tre et la fiert� de son caract�re l'impliqu�rent
+dans une affaire qui n'�tait rien dans son origine, mais qui eut les
+suites les plus f�cheuses.
+
+�M. de Ran�onni�res avait pour voisin � Courcelles, un M. Fourmont,
+conseiller au pr�sidial de Ch...[7]. Les deux maisons n'�taient s�par�es
+que par une borne; cette borne g�nait la porte de M. de Ran�onni�res et
+en rendait l'entr�e difficile aux voitures. M. de Ran�onni�res la fit
+reculer de quelques pieds du c�t� de M. Fourmont; celui-ci renvoya la
+borne d'autant sur M. de Ran�onni�res; et puis voil� de la haine, des
+insultes, un proc�s entre les deux voisins. Le proc�s de la borne en
+suscita deux ou trois autres plus consid�rables. Les choses en �taient
+l�, lorsqu'un soir M. de Ran�onni�res, revenant de la chasse, accompagn�
+de son garde F�lix, fit rencontre, sur le grand chemin, de M. Fourmont
+le magistrat et de son fr�re le militaire. Celui-ci dit � son fr�re:
+�Mon fr�re, si l'on coupait le visage � ce vieux bougre-l�, qu'en
+pensez-vous?� Ce propos ne fut pas entendu de M. de Ran�onni�res, mais
+il le fut malheureusement de F�lix, qui s'adressant fi�rement au jeune
+homme, lui dit: �Mon officier, seriez-vous assez brave pour vous mettre
+seulement en devoir de faire ce que vous avez dit?� Au m�me instant, il
+pose son fusil � terre et met la main sur la garde de son sabre, car il
+n'allait jamais sans son sabre. Le jeune militaire tire son �p�e,
+s'avance sur F�lix; M. de Ran�onni�res accourt, s'interpose, saisit son
+garde. Cependant le militaire s'empare du fusil qui �tait � terre, tire
+sur F�lix, le manque; celui-ci riposte d'un coup de sabre, fait tomber
+l'�p�e de la main au jeune homme, et avec l'�p�e la moiti� du bras: et
+voil� un proc�s criminel en sus de trois ou quatre proc�s civils; F�lix
+confin� dans les prisons; une proc�dure effrayante; et � la suite de
+cette proc�dure, un magistrat d�pouill� de son �tat et presque
+d�shonor�, un militaire exclus de son corps, M. de Ran�onni�res mort de
+chagrin, et F�lix, dont la d�tention durait toujours, expos� � tout le
+ressentiment des Fourmont. Sa fin e�t �t� malheureuse, si l'amour ne
+l'e�t secouru; la fille du ge�lier prit de la passion pour lui et
+facilita son �vasion: si cela n'est pas vrai, c'est du moins l'opinion
+publique. Il s'en est all� en Prusse, o� il sert aujourd'hui dans le
+r�giment des gardes. On dit qu'il y est aim� de ses camarades, et m�me
+connu du roi. Son nom de guerre est le Triste; la veuve Olivier m'a dit
+qu'il continuait � la soulager.
+
+�Voil�, madame, tout ce que j'ai pu recueillir de l'histoire de F�lix.
+Je joins � mon r�cit une lettre de M. Papin, notre cur�. Je ne sais ce
+qu'elle contient; mais je crains bien que le pauvre pr�tre, qui a la
+t�te un peu �troite et le coeur assez mal tourn�, ne vous parle
+d'Olivier et de F�lix d'apr�s ses pr�ventions. Je vous conjure, madame,
+de vous en tenir aux faits sur la v�rit� desquels vous pouvez compter,
+et � la bont� de votre coeur, qui vous conseillera mieux que le premier
+casuiste de Sorbonne, qui n'est pas M. Papin.�
+
+
+LETTRE
+
+DE M. PAPIN, DOCTEUR EN TH�OLOGIE, ET CUR� DE SAINTE-MARIE � BOURBONNE.
+
+J'ignore, madame, ce que M. le subd�l�gu� a pu vous conter d'Olivier et
+de F�lix, ni quel int�r�t vous pouvez prendre � deux brigands, dont tous
+les pas dans ce monde ont �t� tremp�s de sang. La Providence qui a
+ch�ti� l'un, a laiss� � l'autre quelques moments de r�pit, dont je
+crains bien qu'il ne profite pas; mais que la volont� de Dieu soit
+faite! Je sais qu'il y a des gens ici (et je ne serais point �tonn� que
+M. le subd�l�gu� f�t de ce nombre) qui parlent de ces deux hommes comme
+de mod�les d'une d'amiti� rare; mais qu'est-ce aux yeux de Dieu que la
+plus sublime vertu, d�nu�e des sentiments de la pi�t�, du respect d� �
+l'�glise et � ses ministres, et de la soumission � la loi du souverain?
+Olivier est mort � la porte de sa maison, sans sacrements; quand je fus
+appel� aupr�s de F�lix, chez les deux veuves, je n'en pus jamais tirer
+autre chose que le nom d'Olivier; aucun signe de religion, aucune marque
+de repentir. Je n'ai pas m�moire que celui-ci se soit pr�sent� une fois
+au tribunal de la p�nitence. La femme Olivier est une arrogante qui m'a
+manqu� en plus d'une occasion; sous pr�texte qu'elle sait lire et
+�crire, elle se croit en �tat d'�lever ses enfants; et on ne les voit ni
+aux �coles de la paroisse, ni � mes instructions. Que madame juge
+d'apr�s cela, si des gens de cette esp�ce sont bien dignes de ses
+bont�s! L'�vangile ne cesse de nous recommander la commis�ration pour
+les pauvres; mais on double le m�rite de sa charit� par un bon choix des
+mis�rables; et personne ne conna�t mieux les vrais indigents que le
+pasteur commun des indigents et des riches. Si madame daignait m'honorer
+de sa confiance, je placerais peut-�tre les marques de sa bienfaisance
+d'une mani�re plus utile pour les malheureux, et plus m�ritoire pour
+elle.
+
+Je suis avec respect, etc.
+
+
+Madame de *** remercia M. le subd�l�gu� Aubert de ses intentions, et
+envoya ses aum�nes � M. Papin, avec le billet qui suit:
+
+
+�Je vous suis tr�s-oblig�e, monsieur, de vos sages conseils. Je vous
+avoue que l'histoire de ces deux hommes m'avait touch�e; et vous
+conviendrez que l'exemple d'une amiti� aussi rare �tait bien faite pour
+s�duire une �me honn�te et sensible: mais vous m'avez �clair�e, et j'ai
+con�u qu'il valait mieux porter ses secours � des vertus chr�tiennes et
+malheureuses, qu'� des vertus naturelles et pa�ennes. Je vous prie
+d'accepter la somme modique que je vous envoie, et de la distribuer
+d'apr�s une charit� mieux entendue que la mienne.
+
+�J'ai l'honneur d'�tre, etc.�
+
+
+On pense bien que la veuve Olivier et F�lix n'eurent aucune part aux
+aum�nes de madame de ***. F�lix mourut; et la pauvre femme aurait p�ri
+de mis�re avec ses enfants, si elle ne s'�tait r�fugi�e dans la for�t,
+chez son fils a�n�, o� elle travaille, malgr� son grand �ge, et subsiste
+comme elle peut � c�t� de ses enfants et de ses petits-enfants[8].
+
+
+
+
+Et puis, il y a trois sortes de contes... Il y en a bien davantage, me
+direz-vous... � la bonne heure; mais je distingue le conte � la mani�re
+d'Hom�re, de Virgile, du Tasse, et je l'appelle le conte merveilleux. La
+nature y est exag�r�e; la v�rit� y est hypoth�tique: et si le conteur a
+bien gard� le module qu'il a choisi, si tout r�pond � ce module, et dans
+les actions, et dans les discours, il a obtenu le degr� de perfection
+que le genre de son ouvrage comportait, et vous n'avez rien de plus �
+lui demander. En entrant dans son po�me, vous mettez le pied dans une
+terre inconnue, o� rien ne se passe comme dans celle que vous habitez,
+mais o� tout se fait en grand comme les choses se font autour de vous en
+petit. Il y a le conte plaisant � la fa�on de La Fontaine, de Vergier,
+de l'Arioste, d'Hamilton, o� le conteur ne se propose ni l'imitation de
+la nature, ni la v�rit�, ni l'illusion; il s'�lance dans les espaces
+imaginaires. Dites � celui-ci: Soyez gai, ing�nieux, vari�, original,
+m�me extravagant, j'y consens; mais s�duisez-moi par les d�tails; que le
+charme de la forme me d�robe toujours l'invraisemblance du fond: et si
+ce conteur fait ce que vous exigez ici, il a tout fait. Il y a enfin le
+conte historique, tel qu'il est �crit dans les Nouvelles de Scarron, de
+Cervantes, de Marmontel...
+
+--Au diable le conte et le conteur historiques! c'est un menteur plat et
+froid...
+
+--Oui, s'il ne sait pas son m�tier. Celui-ci se propose de vous tromper;
+il est assis au coin de votre �tre; il a pour objet la v�rit�
+rigoureuse; il veut �tre cru; il veut int�resser, toucher, entra�ner,
+�mouvoir, faire frissonner la peau et couler les larmes; effet qu'on
+n'obtient point sans �loquence et sans po�sie. Mais l'�loquence est une
+sorte de mensonge, et rien de plus contraire � l'illusion que la po�sie;
+l'une et l'autre exag�rent, surfont, amplifient, inspirent la m�fiance:
+comment s'y prendra donc ce conteur-ci pour vous tromper? Le voici. Il
+pars�mera son r�cit de petites circonstances si li�es � la chose, de
+traits si simples, si naturels, et toutefois si difficiles � imaginer,
+que vous serez forc� de vous dire en vous-m�me: Ma foi, cela est vrai:
+on n'invente pas ces choses-l�. C'est ainsi qu'il sauvera l'exag�ration
+de l'�loquence et de la po�sie; que la v�rit� de la nature couvrira le
+prestige de l'art; et qu'il satisfera � deux conditions qui semblent
+contradictoires, d'�tre en m�me temps historien et po�te, v�ridique et
+menteur.
+
+Un exemple emprunt� d'un autre art rendra peut-�tre plus sensible ce que
+je veux vous dire. Un peintre ex�cute sur la toile une t�te. Toutes les
+formes en sont fortes, grandes et r�guli�res; c'est l'ensemble le plus
+parfait et le plus rare. J'�prouve, en le consid�rant, du respect, de
+l'admiration, de l'effroi. J'en cherche le mod�le dans la nature, et ne
+l'y trouve pas; en comparaison, tout y est faible, petit et mesquin;
+c'est une t�te id�ale; je le sens, je me le dis. Mais que l'artiste me
+fasse apercevoir au front de cette t�te une cicatrice l�g�re, une verrue
+� l'une de ses tempes, une coupure imperceptible � la l�vre inf�rieure;
+et, d'id�ale qu'elle �tait, � l'instant la t�te devient un portrait; une
+marque de petite v�role au coin de l'oeil ou � c�t� du nez, et ce visage
+de femme n'est plus celui de V�nus; c'est le portrait de quelqu'une de
+mes voisines. Je dirai donc � nos conteurs historiques: Vos figures sont
+belles, si vous voulez; mais il y manque la verrue � la tempe, la
+coupure � la l�vre, la marque de petite v�role � c�t� du nez, qui les
+rendraient vraies; et, comme disait mon ami Caillot[9]: �Un peu de
+poussi�re sur mes souliers, et je ne sors pas de ma loge, je reviens de
+la campagne.�
+
+    Atque ita mentitur, sic veris falsa remiscet,
+    Primo ne medium, medio ne discrepet imum.
+
+  HORAT. _De Art. poet._, v. 151.
+
+Et puis un peu de morale apr�s un peu de po�tique, cela va si bien!
+F�lix �tait un gueux qui n'avait rien; Olivier �tait un autre gueux qui
+n'avait rien: dites-en autant du charbonnier, de la charbonni�re, et des
+autres personnages de ce conte; et concluez qu'en g�n�ral il ne peut
+gu�re y avoir d'amiti�s enti�res et solides qu'entre des hommes qui
+n'ont rien. Un homme alors est toute la fortune de son ami, et son ami
+est toute la sienne. De l� la v�rit� de l'exp�rience, que le malheur
+resserre les liens; et la mati�re d'un petit paragraphe de plus pour la
+premi�re �dition du livre de _l'Esprit_[10].
+
+
+
+
+NOTES
+
+
+  [1] Il n'y alla pas seul, il �tait avec Grimm, qui raconte les faits
+    (_Correspondance litt�raire_, 1er d�cembre 1770) et donne comme
+    motifs ayant d�termin� le titre et le sujet du conte, non-seulement
+    les _Deux Amis_, de Saint-Lambert, mais encore les _Deux Amis_,
+    drame de Beaumarchais, et les _Deux Amis_ ou _le Comte de Meralbi_
+    (par Sellier de Moranville), roman en 4 volumes, tous ouvrages dont
+    on s'occupait alors et qui n'avaient pas eu de succ�s.
+
+  [2] C'�tait Meister le traducteur.
+
+  [3] Cette bataille, livr�e le 26 juillet 1757, fut gagn�e par le
+    mar�chal d'Estr�es contre le duc de Cumberland. (Note de l'�dition
+    BRI�RE.)
+
+  [4] Bourbonne, alors chef-lieu de subd�l�gation, �tait fronti�re de la
+    Champagne, de la Lorraine et de la Franche-Comt�, et il s'y faisait
+    beaucoup de contrebande. (Note de l'�dition BRI�RE.)
+
+  [5] La route de _Villars_ et celle d'_Iche_. (Note de l'�dition
+    BRI�RE.)
+
+  [6] Sur une copie qui est en notre possession, _Ran�onni�res_ est
+    remplac� par _Romainville_, et _Courcelles_ par _Jolibois_.
+
+  [7] Toutes les �ditions portent _Lh..._ au lieu de _Ch..._ Diderot a
+    voulu d�signer Chaumont. (Note de l'�dition BRI�RE.)
+
+  [8] Il est � supposer que nous n'avons pas ici la premi�re version du
+    conte. Nous trouvons dans une lettre � Grimm, du 21 octobre 1770, la
+    preuve qu'il doit avoir subi divers remaniements. Voici, en effet,
+    ce que nous y lisons:
+
+    �J'avais pens� comme vous que l'atrocit� du pr�tre �tait tout le
+    path�tique de l'histoire de _F�lix_. Envoyez-moi une copie de cette
+    histoire et de celle d'_Olivier_, et ce que vous me demandez sera
+    fait; mais d�p�chez-vous.�
+
+    Dans une autre lettre du 2 novembre au m�me, Diderot �crit:
+
+    �On m'a envoy� le papier de _F�lix_, mais on aurait bien fait d'y
+    joindre celui d'_Olivier_ que j'avais demand�, afin de donner aux
+    deux contes un peu d'unit�. N'importe, je me passerai de celui qui
+    me manque et je ferai de mon mieux.�
+
+    Quelle fut la nature des corrections op�r�es? Nous ne savons; mais
+    peut-�tre la lettre de M. Papin a-t-elle remplac� une intervention
+    plus directe et plus _atroce_ du pr�tre.
+
+  [9] L'un des meilleurs acteurs de la com�die italienne, devin� par
+    Garrick, et dont Grimm disait qu'il �tait sublime sans effort.
+    �Personne, �crit-il, ne faisait avec une mesure plus juste tout ce
+    qu'il voulait faire. Le Kain est un homme prodigieusement rare;
+    peut-�tre Caillot est-il plus rare que lui. Caillot ne se doutait
+    point de son talent; il se croyait fait pour chanter avec beaucoup
+    d'agr�ment, jouer avec beaucoup de gaiet�, avec une belle mine bien
+    r�jouie; mais il ne se croyait pas path�tique. Garrick, l'ayant vu
+    jouer pendant son s�jour en France, lui apprit qu'il serait acteur
+    quand il lui plairait...� Caillot quitta le th��tre en 1772 et fut
+    remplac� par un jeune abb� appel� Narbonne, �chapp� de la musique de
+    Notre-Dame.
+
+  [10] Cette �dition ne se fit pas attendre. Condamn� en 1759,
+    l'_Esprit_ reparut en 1771 (Londres). Diderot �tait sans doute au
+    courant de ce qui se pr�parait.
+
+
+
+
+

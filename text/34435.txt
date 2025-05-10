@@ -1,0 +1,523 @@
+Online Distributed Proofreading Team at http://www.pgdp.net
+(This book was produced from scanned images of public
+domain material from the Google Print project.)
+
+
+
+
+
+
+
+  Note de transcription:
+
+  Cette version �lectronique reproduit, dans son int�gralit�, le
+  texte d'origine avec toutes ses incoh�rences, tant du point de vue
+  de l'orthographe et du vocabulaire que de la grammaire.
+
+  Les mots et phrases imprim�s en gras dans le texte d'origine sont
+  marqu�s =ainsi=.
+
+
+
+
+LE SYST�ME SOLAIRE
+SE MOUVANT.
+
+
+  On est dans une grande erreur, quand on suppose, que les
+    astronomes et ceux qui s'occupent de l'astronomie, ont par cette
+    raison, en g�n�ral, plus de capacit� et d'intelligence que les
+    autres mortels, qui cultivent la science.
+
+
+PAR
+AUGUST TISCHNER.
+
+
+LEIPZIG
+GUSTAV FOCK
+
+1894.
+
+
+
+
+LE SYST�ME SOLAIRE SE MOUVANT.
+
+
+
+
+Le syst�me solaire se mouvant.
+
+
+Que _la th�orie astronomique actuelle_ se trouve dans un �tat
+pitoyable, nous avons d�j� montr� dans nos brochures, qui sont nomm�es
+� la fin de ce livre.
+
+Dans la brochure pr�sente nous avons quitt� _l'hypoth�se de Copernic_,
+fond�e sur le soleil fixe au centre de l'univers et proposons un
+syst�me solaire fond� sur le soleil se mouvant dans l'espace.
+
+C'est tout indiff�rent quelles id�es on se fait sur la m�canique
+c�leste, si elles sont seulement rationnelles, mais jamais on y
+parviendra � prouver, qu'elles sont la vraie explication de la
+r�alit�.
+
+       *       *       *       *       *
+
+C'est tout clair, que l'attraction continuelle du soleil fixe rend
+impossible la circulation des plan�tes _en orbites form�es autour de
+lui_; les plan�tes circulent _autour de la ligne du mouvement du
+soleil_, elles doivent suivre le mouvement du soleil, en circulant
+_autour de la ligne de sa marche_.
+
+Nous voulons maintenant proposer un syst�me solaire dans lequel
+_l'arrangement des plan�tes_ est tel quelles se rapportent au soleil
+se mouvant dans l'espace.
+
+Apr�s le soleil, _qui marche au-devant des plan�tes_, comme le noyau
+d'une com�te, viennent rang�es l'une apr�s l'autre les plan�tes des
+quelles les courves r�volutives deviennent toujours plus grandes,
+selon leur distance du soleil, comme si elles repr�sentaient autant
+de pendules centrifuges, dont les fils partent du centre du soleil.
+
+Si les plan�tes sont toutes en circulation et le soleil est admis, en
+pens�es, immobile, les fils (radii vectores) d�crivent _des c�nes
+r�guliers_, dont la base est _perpendiculaire_ sur l'axe du c�ne. La
+circonf�rence de cette base du c�ne est ce que nous nommons la _curve
+r�volutive originaire_. Si les c�nes sont dans le m�me angle ils
+semblent ne faire qu'un seule et les plan�tes circulent sur la surface
+du c�ne. A en juger d'apr�s les observations il semble en effet que
+les c�nes sont presque dans le m�me angle et que par suite de cette
+position le zodiaque � �t� a consid�r� comme une borne commune des
+orbites.
+
+La _projection centrale des anneaux des orbites_ est naturellement un
+_cercle_, qui _par la projection_ se change en ellipse quelconque. Vus
+du soleil les orbites des plan�tes _paraissent projet�es_ dans une
+configuration, qui repr�sentent exactement le diagramme de Copernic;
+le soleil est au milieu de toutes les orbites et les plan�tes semblent
+circuler autour de son centre.
+
+Le _c�ne_ m�me montre le syst�me _vu de c�t�_; si les curves sont dans
+le m�me angle, alors la grandeur des orbites--leur demi-diam�tre--se
+rapportent comme la distance du soleil. C'est clair que d'aucune
+plan�te cette curve peut �tre vue d'une autre plan�te _comme
+centrale_, il faut qu'elles se repr�sentent comme _cercles
+excentriques_ ou elliptiques. La terre en rapport � une autre plan�te
+vient dans des diff�rentes positions, aussi dans une telle que ses
+satellites montrent des orbites projet�es centralement.
+
+Si le soleil se meut, alors la direction de son mouvement est _l'axe
+commun du c�ne_, c. a. d. que les plan�tes circulent autour de la
+linge d�crite par le soleil dans l'espace, que ligne nous pouvons
+nommer _l'orbite du soleil_.
+
+Par le mouvement propre du soleil les anneaux du mouvement des
+plan�tes consid�r�es jusqu'� pr�sent, comme des _courves planes_, sont
+chang�es _en spirales_, qui sont d'autant plus �tendues ou along�es,
+que la vitesse du soleil est plus grande en comparaison de la _propre_
+vitesse de la plan�te: ces courves de _double courbure ne sont plus
+perpendiculaires � l'axe du c�ne_ ou sur l'orbite du soleil, mais
+elles ont une inclinaison vers lui, ce qui est indiqu� _par l'angle du
+c�ne_.
+
+Supposons que le soleil se meut _en ligne droite_, alors les anneaux
+des spirales, qui sont d�crites par les plan�tes forment un _cylindre
+droit_ dont le diam�tre est �gal au diam�tre _de la courve r�volutive
+originaire_ ou _� l'anneau spiral_: dans ce cas on pourrait nommer
+_les spirales cylindrique_, par ce que les anneaux suivant les uns les
+autres, ont le m�me diam�tre et la m�me position. Mais c'est clair que
+le soleil _ne pouvant pas se mouvoir en ligne droite_, se meuve aussi
+dans une curve; ainsi le cylindre, que nous nous sommes repr�sent�
+recevra une courbure. C'est bien clair, que les diam�tres _des anneaux
+spirales_ ne sont pas chang�s par cette _troisi�me_ courbure, mais la
+projection de ceux-ci est modifiee.
+
+En regardant de cette mani�re le c�ne--la figure c�nique du syst�me
+solaire--recevra une faible courbure, et pr�sentera l'image, qui nous
+rappelle � la figure d'une corne d'abondance.
+
+La section centrale--en longeur de l'axe--_du c�ne courb�_ est un
+triangle sph�rique. Vu centralement le soleil _ne se trouve plus au
+centre de toutes les orbites_--anneaux spirales--mais il se produiront
+les _excentricit�s_ et les _inclinaisons apparentes_ des orbites l'une
+vers l'autre.
+
+La terre est peu �loign�e de la pointe du c�ne--du soleil--et se meut
+sur sa surface; les positions continuellement changeantes et variables
+des plan�tes elle voit _perspectivement_, chaque moment du mouvement
+il y a _une autre projection_.
+
+Si on se repr�sente, que toutes les plan�tes sont situ�es dans la m�me
+ligne sur la surface du c�ne, cela est comme si l'on disait, que les
+plan�tes inferieures, Mercure et Venus sont en m�me temps en
+conjonction et les plan�tes superieres Mars, Jupiter, Satourne, Uranus
+et Neptune en opposition d'apr�s le syst�me de Copernic; cette
+position de toutes les plan�tes avait d�j� �t� consid�r�e par les
+anciens et leur retour nomm� la grande p�riode. Que cette p�riode soit
+agrandie par les deux nouvelles plan�tes Uranus et Neptune c'est
+clair.
+
+Ce qui concerne les p�riodes et les positions des corps du syst�me
+solaire se mouvant dans l'espace, leur changement est peu apparent,
+parce que _l'entier reste ensemble_ et par cons�quent la _figure du
+syst�me_ n'est pas chang�e. Les distances relatives sont enchain�es au
+mouvement r�gl�: si d'apr�s cela l'observation des corps appartenant
+au syst�me solaire �tait suffisante � l'astronomie, alors les
+ph�nom�nes pourraient �tre reduits � leur plus grande simplicit�; mais
+comme pour comparaison le ciel sert de fondement et base, il s'ensuit
+une complication d'apr�s laquelle le ciel �toil� entier semble lui
+m�me se d�placer comme un entier dans l'espace.
+
+Consid�rons _la figure c�nique du syst�me solaire_ sous condition, que
+le soleil est _immobile_, alors les plan�tes peuvent d�crire des
+_courves ferm�es_, c. a. d. qu'elles _circulent constamment dans les
+m�mes courves planes_, que nous avons nomm�es l'anneau ou la courve
+r�volutive originaire de la plan�te et qui ne change pas d'endroit
+dans l'espaces, par la raison que ces _plans_, d'apr�s les id�es
+d'aujourd'hui doivent �tre consid�r�s comme _invariables_; mais ceci
+fait pr�sumer une autre condition indispensable, d'apr�s laquelle
+_l'attraction solaire_ n'exige aucun autre effet sur les plan�tes, que
+celui qui est n�cessaire pour conserver _l'�quilibre du syst�me
+solaire_ et la _distance invariable_ de ces corps du soleil, afin
+qu'aucune plan�te ne s'approche de lui et qu'aucune ne puisse
+s'�loigner, cette condition reste invariable avec le syst�me solaire
+se mouvant et l'attraction du soleil se reduit � la communication de
+sa propre vitesse, par suite de l� _les courves r�volutives
+originaires se changent en spirales_. Par cet effet de l'attraction
+c'est concevable que les plan�tes doivent rester n�cessairement dans
+la m�me distance du soleil.[A]
+
+  [A] C'est difficile � comprendre comment l'attraction, une force
+  dont la quantit� et la grandeur sont donn�es _par les masses
+  invariables du soleil et la terre_ est alternativement _croissante
+  ou d�craissante_. Mais si on ajoute encore, que la vitesse de
+  cette force est _infinie_ et par cons�quant sa pr�tendue action
+  _est en m�me temps momentane_, on est tout � fait troubl� et
+  stupifi�. O� est le motif, o� est la cause du decroissement d'une
+  force dont la grandeur et l'action _sont constantes et momentans_
+  et dont _la vitesse est infini_? C'est une des questions �
+  laquelle la physique ne donne pas de r�ponce? Vide: Le pouvoir
+  grossisant de l'atmosph�re par August Tischner.
+
+Que l'alongation des spirales d�pend du rapport entre la vitesse
+correspondante du soleil et des plan�tes et d'une plan�te et de ses
+satellites c'est clair. Cette �tendue de l'alongation de la courve
+r�volutive est en m�me temps l'inclinaison (ou d�clinaison c'est �gal)
+de _l'orbite spirale_ vers l'axe du syst�me solaire (orbite solaire ou
+l'�quateur c�leste); l'angle de l'inclinaison est ainsi donn� par la
+_propre vitesse_ de la plan�te et de celle du soleil. Que la _vitesse
+d'entrainement_ la m�me pour toutes les plan�tes du syst�me solaire,
+c'est compr�hensible.
+
+On voit que si on aper�oit au ciel �toil� un d�placement perceptible
+du soleil, qui parait ind�pendant _du double mouvement de la terre_,
+mais qui est accus� clairement par les �toiles (50'', 25, la
+praecession) on peut conclure avec certitude, que c'est la suite du
+mouvement propre du soleil ou du mouvement de son syst�me dans
+l'espace.
+
+En continuant nos diff�rents regards nous pouvons apporter quelque
+clart� � la question concernant les _r�volutions_ et les _temps de
+r�volutions_. Le _d�placement continuel du soleil_ stipule le
+changement continuel des plan�tes et de leur circulation sans
+interruption; il y a donc un mouvement sans interruption du m�me
+mouvement et ni une r�volution proprement dite, ni un temps de
+circulation. Une p�riode de r�volution est ainsi _le retour du m�me
+ph�nom�ne_ ou de la _m�me position apparente au ciel_, elle est
+_relative_, elle est _co�nidence_. Que ces co�ncidences reviennent
+p�riodiquement, quelles reviennent r�guli�rement, c'est selon toute
+vraisemblance l'ouvrage _de l'attraction_ universelle.
+
+Il se demand maintenant, quelle ph�nom�ne de retour est � considerer
+comme une r�volution ou p�riode r�volutive accomplie et _� quoi_ cette
+p�riode a � se rapporter? La science _th�orique_ s'est d�cid�e pour la
+r�volution _sid�rale_, comme il semble dans l'intention de d�terminer
+une conformit�e parmi tous les corps du syst�me solaire, que la
+_th�orie_ n'a pas fond� son _choix_ ou sa _decision_ sur une
+conception rationelle, qui ressort de l'�tude des ph�nom�nes, elle a
+_prouv�_, en rapportant la rotation de la terre aux �toiles et a
+�tablie ainsi une _rotation sid�rale_ o� c'est pourtant assez clair,
+que ce mouvement de la terre ne peut se rapporter qu'� lui-m�me.
+
+Si le syst�me de Copernic �tait fond� _sur la r�alit�_ et les plan�tes
+circuleraient _toujours � la m�me place_, en verit� autour du soleil
+et dans des courves ferm�es, c'est bien clair qu'apr�s une circulation
+de 360� elles puissent revenir � la m�me place de leur orbite et dans
+ce cas leur position en rapport � une �toile de comparaison pourrait
+�tre, apr�s une r�volution accomplie de cette mani�re, la m�me; mais
+comme _d'apr�s les observations_ cette co�ncidence avec l'�toile �
+lieu dans des p�riodes _croissants_, il s'ensuit que le mouvement des
+plan�tes _n'a pas lieu d'apr�s le syst�me de Copernic_ et que la
+p�riode r�volutive des corps, qui forment le syst�me solaire peuvent
+se rapporter seulement � leur guide c. a. d. _au soleil_, et l'on peut
+conclure avec certitude, que ces co�ncidences de la position r�lative
+au ciel, tombe dans le m�me temps qu'elles conservent leur distance du
+soleil et qu'elles se meuvent avec la m�me vitesse uniforme.
+
+C'est bien compr�hensible, que par suite des _orbites serpentant sans
+cesse_, se produisent des co�ncidence diff�rentes et qu'ainsi
+apparaissent p�riodiquement des diff�rents ph�nom�nes. Cette
+circonstance fut la cause, pourquoi la _th�orie_ attribue � la lune
+_cinq divers temps de r�volutions_. �_R�volution_� et �_temps de
+r�volution_�, employ�s de cette mani�re n'ont plus aucune
+signification, aucun sens; car d'apr�s la nature de la chose, on n'a
+qu'� rester _� une seule_ p�riode r�volutive.
+
+Si nous nommons _orbites_ l'espace parcouru des plan�tes et de leurs
+satellites _spirales sans fin_, le chemin du mouvement des corps
+c�lestes d�crit par elles, alors nous corporisons, pour faciliter, en
+pens�e, notre imagination. Nommons nous _le parcours d'un anneau
+spirale etendue_, la description de 360� et la r�volution accomplie,
+nous rapportons cela au soleil et supposens, que les deux points
+finales (commencement et fin) d'un anneau spirale ainsi r�pr�sent�, se
+trouvent dans la m�me ligne, c. a. d. si les points commencent d'une
+spirale _co�ncident_ avec le soleil � l'equinoque vernal, ses fins
+co�ncideront �galement avec le soleil apr�s une r�volution tropique
+accomplie.
+
+Ce syst�me solaire, se mouvant sans fin et sens borne dans l'espace
+infini, _ce c�ne_--un point en grandeur disparaissant dans
+l'univers--qui parcourt dans une ligne de _double courbure_, contient
+presque tout ce que l'homme peut distinctiment appercevoir au ciel;
+les mouvemens et les positions toujours changeants sans fin, les
+variations p�riodiques et s�culaires etc. tout est l�; c'est l'unit�
+de la science, le fondement de sa th�orie; si on comprend le mouvement
+dans l'espace, on n'a pas besoin de recourir � des _forces cach�es_,
+chaque explication est superflue, inutile, la nature s'explique
+elle-m�me, suppos� que l'homme soit capable de l'�tudier.
+
+  Remarque: Quelques lecteurs pourrait s'�tonner de ce que nous
+  faisons un usage trop fr�quent de l'expression �cercle�, mais
+  apr�s quelques r�flections ils reconna�tront eux-m�mes que ce mot
+  a un sens bien �tendu, qu'il conserve toujours encore, si nous
+  transformont p. ex un cercle donn� en diff�rents flexions, qui lui
+  donne une ou plusieurs courbures. Tous les esp�ces de lignes
+  courb�es, qui se laissent projeter comme cercle ou sont men�es �
+  360� peuvent �tre nomm�es circulaires. Ainsi on a p. ex decrit un
+  cercle par la lettre _S_ ou avec le chiffre 2; la ligne
+  serpentante, l'ellipse, la cycloide, et plusieurs esp�ce de
+  spirales ect. se projetent comme circulaires et peuvent �tre
+  consid�rer comme une partie sans fin, contenant 360� produit par
+  la circulation. Le mot �circulation nous rapelle d�j� un mouvement
+  circulaire, sans que par cela un cercle soit imm�diatement d�crit;
+  puisque une circulation accomplie ou une r�volution dut contenir
+  360�, c'est compr�hensible, que ceux-ci se rapport au cercle. Le
+  double mouvement courb� de la terre, comme nons nous la
+  repr�sentons par un _anneaux spirale cylindrique_, quand il s'agit
+  d'une partie repondante � une p�riode annuelle est en effet un
+  cercle transform� en un anneaux spirale.
+
+
+
+
+Autant que les astronomes n�gligent d'�tudier avec soin attantif _les
+apparitions c�lestes et leur signification_ et soutiendront avec
+obstination la th�orie astronomique actuelle, fond�e sur les
+suppositions et les imaginations de Copernic[B], Kepler et Newton,
+l'astronomie comme elle est enseign�e aujourd'hui, n'est rien de plus
+qu'un jeu de phantasie.
+
+  [B] Solis coelique stator.
+
+Nous sommes persuad�s, que le Bon-sens de l'homme
+normal se d�cidera enfin de rejeter les id�es des astronomes
+sur la m�canique c�leste profess�e aujourd'hui, m�me contre
+les efforts des astronomes les plus c�l�bres � soutenir les
+superstitions, qu'ils propagent, mais qui ne servent qu'�
+flatter leur vanit�.
+
+Nous demandons pourquoi les astronomes n'ont-ils pas le courage de
+s'�lever contre le syst�me solaire insoutenable et impossible fond�
+sur le soleil fixe de Copernic, et pourquoi ne veulent-ils pas
+_proposer_ un syst�me fond� sur le soleil se mouvant dans l'espace?
+
+Ils ont peur, comme Alexandre de Humboldt, de heurter au gu�pier.[C]
+Le courage moral leur manque de s'opposer � des id�es g�n�ralement
+accept�es et proclam�es comme des v�rit�s incontestables, mais qui ne
+s'accordent pas � la r�alit� et qui sont m�me en contradiction avec
+la th�orie adopt�e.
+
+  [C] vide: L'astronomie et les astronomes, par A. Tischner 1893, p.
+  39.
+
+La pr�somption de tout savoir, est la vraie cause, qui emp�che le
+progr�s. Nous esp�rons que la question soulev�e par nous sera d�cid�e
+dans le si�cle � venir.
+
+Nous r�p�tons, que nous n'attaquons pas _l'astronomie pratique_, mais
+nous rejetons _la th�orie de l'astronomie actuelle_ c. a. d.
+l'explication des ph�nom�nes c�lestes _apparents_.
+
+
+
+
+Un grand astronome.
+
+Himmel und Erde 1889, p. p. 333 und 334.
+
+
+Mr. W. Meyer dit: �C'est bien compr�hensible, _qu'il faut avoir appris
+� connaitre les choses avec tous leurs d'�tails, que l'on veut
+expliquer_. C'est une supposition primitive, que malheureusement on ne
+peut pas assez souvent r�p�ter, aussi aujourd'hui, � des milliers de
+t�tes sp�culatives, qui entreprennent de construire avec leur
+phantaisie tout l'edifice du monde, � l'aide d'un material des
+connaissances positives, � peine dignes de nomm�es. Ces architects du
+monde, qui construisent tout l'univers dans une brochure de quelques
+vingtaines ou trentaines de pages--qui sont en proportion tr�s
+harmoniques avec leur savoir--sont pour les astronomes une secte tr�s
+incommodes. Ces gens tiennent avec ent�tement tout � fait in�branlable
+� leurs id�es fixes, et avec des arguments des science positives ce
+n'est pas possible de les persuader. Une vieille experience enseigne
+que ce serait une peine tout � fait vaine de les persuader de quelque
+chose de meilleur et que malgr� toute la bonne volont� et tout
+l'enthousiasme on ne pourrait rependre une explication g�n�rale sur
+cet objet. Contre de tels gens il faut se resoudre � une resignation
+douloureuse et leurs laisser continuer tranquillement leur faux
+chemin.�
+
+Ainsi parle un Copernicain, qui ne peut pas comprendre, que quoique
+depuis 1783, _le propre mouvement du soleil_ a �t� reconnu par
+observation et qu'il se meut avec une vitesse de 30 Kilom�tre par
+seconde, la terre qui marche presque avec la m�me vitesse que le
+soleil ne peut pas circuler autour du centre du soleil. Ou bien le
+soleil se meut ou bien il ne se meut pas, mais de supposer le soleil
+en repos sur la m�me place et se mouvant en m�me temps trente
+Kilom�tre par seconde, c'est un non-sens.
+
+Mr. Wilhelm Meyer, n� 1853, directeur de l'observatoire de la soci�t�
+des actionaires �Urania� � Berlin, est un grand astronome, qui a
+approfondit _tous les d�tailes_ de l'astronomie et de la m�canique
+c�lestes et sait ce que se passe dans les replis les plus profonds de
+l'espace c�leste.
+
+
+
+
+  =Sta, sol, ne moveare.= _August Tischner._ Leipzig 1881-1882.
+     Gustav Fock.
+
+  =Die Gr�sse, Entfernung und Masse der Sonne.= _August Tischner._
+     Leipzig 1882. Gustav Fock.
+
+  =The sun changes his position in space=, therefore he cannot be
+     regarded as being �in a condition of rest�. _August Tischner._
+     Leipzig 1883. Gustav Fock.
+
+  =The fixed Idea of astronomical Theory.= _August Tischner._ Leipzig
+     1885. Gustav Fock.
+
+  =L'Histoire de la d�couverte de la Plan�te Neptune, par Em.
+     Liais.= Astronome de l'observatoire imp�rial de Paris.
+     Reproduit de l'ouvrage: L'espace c�leste et la nature tropical,
+     Paris 1866. Par _Auguste Tischner_. Leipzig 1892. Gustav Fock.
+
+  =Le mouvement de la Lumi�re.= _August Tischner._ Leipzig 1892.
+     Gustav Fock.
+
+  =Le pouvoir grossissant de l'Atmosph�re.= _August Tischner._
+     Leipzig 1892. Gustav Fock.
+
+  =Le mouvement universel.= _August Tischner._ Leipzig 1893. Gustav
+     Fock.
+
+  =Les astronomes.= _August Tischner._ Leipzig 1893. Gustav Fock.
+
+  =L'astronomie et les Astronomes.= _August Tischner._ Leipzig
+     1893. Gustav Fock.
+
+
+
+
+Litt�rature.
+
+
+   1. =De orbitis planetarum.= _Georg Wilh. Hegel._ Jena 1801.
+
+   2. =De l'imposibilit� du syst�me astronomique de Copernic et de
+       Newton.= _L. J. Mercier._ Paris 1806.
+
+   3. =Ueber Newton's, Euler's, K�stner's und Konsorten Pfuschereien
+       in der Mathematik.= _Langsberg._ Heidelberg 1807.
+
+   4. =Die Sonne bewegt sich.= Folgerungen aus dieser Lehre in Bezug
+       auf die Fixsterne und Planeten. _C. R(ohrbach)._ Berlin 1852.
+
+   5. =The solar System as it is, and not as it is represented.= _R.
+       J. Morrison._ London 1857.
+
+   6. =M�moire sur le syst�me solaire et sur l'explication des
+       ph�nom�nes c�lestes.= _Charles Nagy._ Paris 1862.
+
+   7. =Consid�ration sur les Com�tes, �l�ments de Com�tologie.=
+       _Charles Nagy._ Paris 1862.
+
+   8. =Die Sonne und die Astronomie.= _K. Nagy._ Leipzig 1866.
+
+   9. =Das wahre Sonnensystem.= Bewegung und Bahnen der Gestirne nach
+       einer neuen Auffassung �ber dieselben im Himmelsraume und
+       zwar, welche nicht in Ellipsen statt hat. _James Milberg._
+       M�nchen 1862.
+
+  10. =Die wahre Gestalt der Planeten- und Cometenbahnen.= _Fried.
+       Carl Gustav Stieber._ Dresden 1864.
+
+  11. =Mathematische Sophismen.= _Joh. Viola._ Wien 1865.
+
+  12. =Die absolute Bewegung der Himmelsk�rper und die wahre Natur
+      der Dinge.= _Hugo Keifenheim._ K�ln und Leipzig 1868.
+
+  13. =Unumst�sslicher Nachweis, dass die Erde nicht um die Sonne
+      herumgehe.= _Xaver Schechner._ M�nchen 1868.
+
+  14. =L'astronomie moderne.= _W. de Fonvielle._ Paris 1869.
+
+  15. =Die Widerspr�che in der Astronomie.= _C. Sch�pffner._ Berlin
+      1869.
+
+  16. =Der Himmels-Mechanik Reform auf Grund der inductiven Logik.=
+      _V. P. Kluck-Kluczycky._ 1880.
+
+  17. =Nuevo sistema planetario.= _A. Morera._ Barcelona 1883.
+
+  18. =Kritik der drei Kepler'schen Gesetze.= _Reindorf._
+      Neuhaldesheim.
+
+  19. =Ueber die Veranschaulichungsmittel f�r mathematische
+      Geographie.= _F. A. P�schmann._ Grimma.
+
+  20. =Syst�me solaire d'apr�s la march r�elle du soleil.= _E. G.
+      Fahrner._ 2me �d. Paris 1869.
+
+  21. =Sterntafeln f�r alle Jahrhunderte von -2000 bis +1800.= _Dr.
+      O. Danckwortt._
+
+  22. =Freret. D�fense de la chronologie, contre le syst�me
+      chronologique de Newton.= Paris 1758.
+
+  23. =Mathematisch begr�ndete Bedenken gegen das Kopernikanische
+      Weltsystem.= _A. L. Dispek._ Frankfurt a. M. 1822.
+
+  24. =Die Frage der Ver�nderlichkeit des Sonnendurchmessers.= _K.
+      Remeis._ Leipzig 1880.
+
+  25. =Das Mangelhafte der Newton'schen Gravitations-Theorie= v. _L.
+      C. H. Boritsch_, gen. _Barnet_. Rostock 1866.
+
+  26. =Discours pr�liminaire d'un syst�me du monde, bas� sur la
+      propri�t� la plus g�n�ral des corps.= _L. Delobel._ Bruxelles
+      1846.
+
+
+
+
+G. KREYSING, LEIPZIG.
+
+
+Druck von G. Kreysing in Leipzig.
+
+
+
+

@@ -1,0 +1,393 @@
+Online Distributed Proofreading Team. This file was produced
+from images generously made available by the Biblioth�que
+nationale de France (BnF/Gallica)
+
+
+
+
+
+
+NOUVEAU MOYEN
+DE
+PR�PARER LA COUCHE SENSIBLE DES PLAQUES
+DESTIN�ES A RECEVOIR LES
+IMAGES PHOTOGRAPHIQUES,
+PAR M. DAGUERRE.
+
+LETTRE A M. ARAGO.
+
+
+PARIS,
+BACHELIER, IMPRIMEUR-LIBRAIRE
+DU BUREAU DES LONGITUDES, DE L'�COLE POLYTECHNIQUE, ETC.,
+QUAI DES AUGUSTINS, 55.
+
+1844.
+
+
+
+
+NOUVEAU MOYEN
+DE
+PR�PARER LA COUCHE SENSIBLE DES PLAQUES
+DESTIN�ES A RECEVOIR
+LES IMAGES PHOTOGRAPHIQUES.
+
+
+
+
+LETTRE A M. ARAGO.
+
+
+Vous avez bien voulu annoncer � l'Acad�mie que j'�tais arriv�, par une
+suite d'exp�riences, � reconna�tre d'une mani�re certaine que, dans
+l'�tat actuel de mon proc�d�, la couche sensible � la lumi�re �tant trop
+mince, elle ne pouvait fournir toute la d�gradation de teintes
+n�cessaire pour reproduire la nature avec relief et fermet�; en effet,
+quoique les �preuves obtenues jusqu'� ce jour ne manquent pas de puret�,
+elles laissent, � quelques exceptions pr�s, beaucoup � d�sirer sous le
+rapport de l'effet g�n�ral et du model�[1].
+
+C'est en superposant sur la plaque plusieurs m�taux, en les y r�duisant
+en poussi�re par le frottement et en acidulant les espaces vides que
+laissent leurs mol�cules, que je suis parvenu � d�velopper des actions
+galvaniques qui permettent l'emploi d'une couche d'iodure beaucoup plus
+�paisse sans avoir � redouter, pendant l'op�ration de la lumi�re dans la
+chambre noire, l'influence de l'iode devenu libre.
+
+La nouvelle combinaison que j'emploie, et qui se compose de plusieurs
+iodures m�talliques, a l'avantage de donner une couche sensible qui se
+laisse impressionner simultan�ment par toutes les valeurs de ton, et
+j'obtiens ainsi, dans un tr�s-court espace de temps, la repr�sentation
+d'objets vivement �clair�s avec des demi-teintes qui conservent toutes,
+comme dans la nature, leur transparence et leur valeur relative.
+
+En ajoutant l'or aux m�taux dont je me servais d'abord, je suis parvenu
+� aplanir la grande difficult� que pr�sentait l'usage du brome comme
+substance acc�l�ratrice. On sait que les personnes tr�s-exerc�es
+pouvaient seules employer le brome avec succ�s et qu'elles n'arrivaient
+� obtenir le maximum de sensibilit� que par hasard, puisque ce point est
+impossible � d�terminer tr�s-pr�cis�ment, et qu'imm�diatement au del� le
+brome attaque l'argent et s'oppose � la formation de l'image[2].
+
+Avec mon nouveau moyen, la couche d'iodure est toujours satur�e de
+brome, puisqu'on peut laisser sans inconv�nient la plaque expos�e � la
+vapeur de cette substance la moiti� au moins du temps n�cessaire; car
+l'application de la couche d'or s'oppose � la formation de ce qu'on
+appelle _le voile de brome_. Il ne faut cependant pas abuser de cette
+facilit�, car la couche d'or, �tant tr�s-mince, pourrait �tre attaqu�e,
+surtout si on l'avait trop us�e par le polissage[3]. On trouvera
+peut-�tre le proc�d� que je vais donner un peu compliqu�; mais, malgr�
+le d�sir que j'avais de le simplifier autant que possible, j'ai �t� au
+contraire conduit, par les r�sultats de mes exp�riences, � multiplier
+les substances employ�es qui, toutes, jouent un r�le important dans
+l'ensemble du proc�d�. Je les regarde comme �tant toutes n�cessaires
+pour obtenir un r�sultat complet, et cela doit �tre, puisque ce n'est
+que graduellement que je suis arriv� � d�couvrir les propri�t�s de ces
+diff�rents m�taux, dont l'un aide � la promptitude, l'autre � la vigueur
+de l'�preuve, etc.[4].
+
+Il na�t du concours de ces substances une puissance qui neutralise tous
+les effets inconnus qui venaient si souvent s'opposer � la formation de
+l'image[5].
+
+Je crois d'ailleurs que la science et l'art ne doivent pas �tre arr�t�s
+par la consid�ration d'une manipulation plus ou moins longue; on doit se
+croire heureux d'obtenir � ce prix de beaux r�sultats, surtout lorsque
+les moyens d'ex�cution sont faciles.
+
+Car la pr�paration galvanique de la plaque ne pr�sente aucune
+difficult�. L'op�ration se divise en deux parties principales: la
+premi�re, qui est la plus longue, peut �tre faite tr�s-longtemps �
+l'avance, et peut �tre consid�r�e comme le compl�ment de la fabrication
+de la plaque. Cette op�ration une fois faite, sert ind�finiment, et l'on
+peut, sans la recommencer, faire un grand nombre d'�preuves sur la m�me
+plaque.
+
+
+_D�signation des nouvelles substances._
+
+Solution aqueuse de bichlorure de mercure (sublim� corrosif);
+
+Solution de cyanure de mercure;
+
+Huile de p�trole blanche acidul�e avec de l'acide nitrique;
+
+Dissolution de chlorure d'or et de platine.
+
+
+_Pr�paration des substances._
+
+_Solution aqueuse de bichlorure de mercure (sublim� corrosif)._--5
+d�cigrammes de bichlorure de mercure dans 700 grammes d'eau distill�e.
+
+_Solution de cyanure de mercure_.--On sature un flacon d'eau distill�e
+de cyanure de mercure, et l'on en d�cante un volume quelconque, que l'on
+allonge d'une �gale quantit� d'eau distill�e.
+
+_Huile de p�trole blanche acidul�e_[6].--On acidule cette huile en y
+m�lant un dixi�me d'acide nitrique pur, qu'on y laisse au moins
+quarante-huit heures, en ayant soin d'agiter le flacon de temps en
+temps. On d�cante l'huile qui s'est acidul�e, et qui rougit alors
+fortement le papier de tournesol. Elle s'est aussi un peu color�e, tout
+en restant tr�s-limpide.
+
+_Dissolution de chlorure d'or et de platine._--Pour ne pas multiplier
+les dissolutions, j'ai pris pour point de d�part le chlorure d'or
+ordinaire, qui sert � fixer les �preuves. On sait qu'il est compos� de
+_1 gramme de chlorure d'or et de 4 grammes d'hyposulfite de soude pour 1
+litre d'eau distill�e_.
+
+Quant au chlorure de platine, il faut en faire dissoudre 2-1/2
+d�cigrammes dans 3 litres d'eau distill�e; on m�le ensuite ces deux
+dissolutions en �gales quantit�s.
+
+
+MANI�RE D'OP�RER.
+
+_Premi�re pr�paration de la plaque._
+
+_Nota._--Pour �tre plus court dans la description qui va suivre,
+j'indiquerai chaque substance en abr�g�. Ainsi je dirai, pour d�signer
+la _solution aqueuse de bichlorure de mercure_, sublim�; pour la
+_solution de cyanure de mercure_, cyanure; pour l'_huile de p�trole
+acidul�e_, huile; pour la _dissolution de chlorure d'or et de platine_,
+or et platine; et pour l'_oxyde de fer_, rouge seulement.
+
+On polit la plaque avec du sublim� et du tripoli d'abord, et ensuite
+avec du rouge[7], jusqu'� ce qu'on arrive � un beau noir. Puis, on pose
+la plaque sur le plan horizontal et on y verse la solution de cyanure
+que l'on chauffe avec la lampe, absolument comme si l'on fixait une
+�preuve au chlorure d'or. Le mercure se d�pose et forme une couche
+blanch�tre. On laisse un peu refroidir la plaque, et apr�s avoir
+renvers� le liquide, on la s�che en la frottant avec du coton et en la
+saupoudrant de rouge.
+
+Il s'agit maintenant de polir la couche blanch�tre d�pos�e par le
+mercure. Avec un tampon de coton imbib� d'huile et de rouge, on frotte
+cette couche juste assez pour qu'elle devienne d'un beau noir. Ou
+pourra, en dernier lieu, frotter assez fortement, mais avec du coton
+seul, pour amincir le plus possible la couche acidul�e.
+
+Ensuite on place la plaque sur le plan horizontal et on y verse la
+dissolution d'or et de platine. On chauffe comme � l'ordinaire; on
+laisse refroidir et puis on renverse le liquide que l'on s�che, en
+frottant l�g�rement avec du coton et du rouge.
+
+Il faut faire cette op�ration avec soin, surtout lorsqu'on ne doit pas
+continuer imm�diatement l'�preuve; car autrement, on laisserait sur la
+plaque des lignes de liquide, qu'il est toujours difficile de faire
+dispara�tre. Par ce dernier frottage la plaque ne doit �tre que s�ch�e
+et non pas polie.
+
+Ici se borne la premi�re pr�paration de la plaque, celle qui peut �tre
+faite longtemps � l'avance.
+
+
+_Seconde pr�paration._
+
+_Nota._ Je ne crois pas convenable de mettre entre cette op�ration et
+l'iodage de la plaque un intervalle de plus de douze heures.
+
+Nous avons laiss� la plaque avec un d�p�t d'or et de platine. Pour polir
+cette couche m�tallique, il faut prendre avec un tampon de coton de
+l'huile et du rouge, et frotter jusqu'� ce que la plaque redevienne
+noire; et puis avec de l'alcool et du coton seulement, on enl�ve le plus
+possible cette couche d'huile et de rouge.
+
+Alors on frotte assez fortement, et en repassant plusieurs fois aux
+m�mes endroits, la plaque avec du coton impr�gn� de cyanure. Comme cette
+couche s�che tr�s-promptement, elle pourrait laisser sur la plaque des
+traces d'in�galit�; pour �viter cela, il faut repasser le cyanure, et
+pendant que la plaque est encore humide, avec un tampon imbib� d'un peu
+d'huile on s'empresse de frotter sur toute la surface de la plaque, et
+de m�ler ainsi ces deux substances; puis, avec un tampon de coton sec,
+on frotte pour unir et en m�me temps pour dess�cher la plaque, en ayant
+soin d'enlever du tampon de coton les parties qui s'humectent de cyanure
+et d'huile. Enfin, comme le coton laisse encore des traces, on saupoudre
+�galement la plaque d'un peu de rouge que l'on fait tomber en frottant
+l�g�rement et en rond.
+
+Ensuite, avec un tampon impr�gn� d'huile seulement, on frotte la plaque
+�galement, et de mani�re � faire revenir le bruni du m�tal; et puis on
+saupoudre avec du rouge, et l'on frotte tr�s-l�g�rement en rond, de
+mani�re � faire tomber tout le rouge qui entra�ne avec lui la
+surabondance de la couche acidul�e[8].
+
+Enfin, avec un tampon de coton un peu ferme, on frotte fortement pour
+donner le dernier poli[9].
+
+Il n'est pas n�cessaire de renouveler souvent les tampons imbib�s
+d'huile et de rouge; il faut seulement les garantir de la poussi�re.
+
+J'ai dit plus haut que la premi�re pr�paration de la plaque peut servir
+ind�finiment; mais on comprend que la seconde doit �tre modifi�e selon
+qu'on op�re sur une plaque qui a re�u une �preuve fix�e ou une non
+fix�e.
+
+
+_Sur l'�preuve fix�e._
+
+Il faut enlever les taches laiss�es par l'eau du lavage, avec l'oxyde
+rouge et de l'eau faiblement acidul�e d'acide nitrique (� 2 degr�s dans
+cette saison, et moins dans l'�t�).
+
+Ensuite, il faut polir la plaque avec de l'huile et du rouge pour
+enlever toutes les traces de l'image qu'on efface.
+
+On continue alors l'op�ration comme je viens de le dire plus haut pour
+la seconde pr�paration de la plaque neuve et � partir de l'emploi de
+l'alcool.
+
+
+_Sur l'�preuve non fix�e (mais dont la couche sensible a �t� enlev�e
+comme � l'ordinaire, dans l'hyposulfite de soude)._
+
+D'abord, il faut frotter la plaque avec de l'alcool et du rouge pour
+enlever les traces de l'huile qui a servi � faire l'�preuve pr�c�dente.
+
+On continue ensuite comme il est indiqu� plus haut pour la plaque
+neuve, et � partir de l'emploi de l'alcool.
+
+
+TABLEAU R�SUM� DES OP�RATIONS.
+
+_Premi�re pr�paration._
+
+1�. _Sublim� corrosif_ avec _tripoli_ d'abord, et _rouge_ ensuite, pour
+polir la plaque;
+
+2�. _Cyanure de mercure chauff�_ et _s�ch�_ avec du _coton_ et du
+_rouge_;
+
+3�. _Huile acidul�e_ avec _rouge_ pour polir la couche de mercure;
+
+4�. _Or et platine chauff�_ et _s�ch�_ avec du _coton_ et du _rouge_.
+
+
+_Seconde pr�paration._
+
+5�. _Huile acidul�e_ avec _rouge_ pour polir la couche d'or et de
+platine;
+
+6�. _Alcool absolu_ pour enlever le plus possible l'huile et le rouge;
+
+7�. _Cyanure de mercure employ� � froid_ et _frott� seulement_ avec du
+_coton_;
+
+8�. _Huile frott�e assez fortement_ et _�galis�e_ en dernier lieu avec
+du _rouge saupoudr�_.
+
+
+_Sur l'�preuve fix�e._
+
+1�. _Acide nitrique_ � 2 degr�s avec _rouge_ pour enlever les taches;
+
+2�. _Huile_ avec _rouge_ pour enlever les traces d'image et pour polir.
+
+Continuer ensuite comme plus haut, � partir du n�6, alcool, etc.
+
+
+_Sur l'�preuve non fix�e (dont la couche sensible a �t� enlev�e avec
+l'hyposulfite de soude)._
+
+_Alcool_ avec _rouge_ pour enlever les traces d'huile, et continuer
+comme plus haut, � partir du n�6, alcool, etc.
+
+
+OBSERVATIONS.
+
+_De l'iodage._
+
+La couleur de l'�preuve d�pend de la teinte que l'on donne � l'iodure
+m�tallique. On peut donc la varier � volont�; cependant la couleur _rose
+viol�tre_ m'a paru la plus convenable.
+
+Pour transmettre l'iode � la plaque, on peut remplacer la feuille de
+carton par un plateau de fa�ence dont on aura us� l'�mail. L'iode
+transmis par ce moyen n'est pas d�compos�.
+
+Il est inutile, je dirai m�me nuisible, de chauffer la plaque avant de
+l'exposer � la vapeur de l'iode.
+
+
+_Du lavage � l'hyposulfite de soude._
+
+Pour enlever la couche sensible, il ne faut pas que la dissolution
+d'hyposulfite de soude soit trop forte, parce qu'alors elle voile les
+vigueurs. 60 grammes d'hyposulfite suffisent pour 1 litre d'eau
+distill�e.
+
+
+NOTES:
+
+[1] Sur la plaque d�cap�e au moyen de la couche d'eau, comme je l'ai
+indiqu�, on obtient tr�s-rapidement des �preuves d'une grande finesse,
+mais qui manquent aussi de model�, � cause du peu d'�paisseur de la
+couche sensible.
+
+[2] Tout le monde sait que la vapeur s�che du brome est plus favorable
+que celle qu'on obtient au moyen de l'eau brom�e, car cette derni�re a
+l'inconv�nient d'entra�ner avec elle de l'humidit� qui se condense � la
+surface de la plaque. L'emploi de l'huile que j'indique plus loin
+neutralise cet effet et donne � la vapeur du brome �tendu d'eau la m�me
+propri�t� qu'� celle du brome sec.
+
+[3] Cela est tellement vrai que, si l'on fait une �preuve sur une plaque
+qui a �t� fix�e plusieurs fois, on peut la laisser � l'exposition de la
+vapeur du brome autant de fois en plus du temps n�cessaire qu'elle a
+re�u de diff�rentes couches d'or.
+
+[4] Je veux dire seulement que l'emploi de tous les m�taux que j'indique
+plus loin est indispensable; mais la mani�re de les appliquer peut
+varier.
+
+[5] Car, en multipliant ces �l�ments comme dans une pile, on augmente
+cette puissance, et l'on parvient ainsi � faire agir dans le m�me temps
+les radiations les plus paresseuses, telles que celles du rouge et du
+vert.
+
+[6] L'huile de p�trole la plus convenable est d'un ton jaune-verd�tre,
+et prend, sous diff�rents angles, des reflets azur�s.
+
+J'ai donn� la pr�f�rence � cette huile sur les huiles fixes, parce
+qu'elle reste toujours limpide, quoique fortement acidul�e. Le but que
+je me propose en employant une huile acidul�e est de r�duire les m�taux
+en poussi�re et de retenir cette poussi�re � la surface de la plaque, en
+m�me temps de donner plus d'�paisseur � la couche par ses propri�t�s
+onctueuses; car le naphte qui r�sulte de la distillation de cette huile
+ne produit pas le m�me effet, parce qu'�tant trop fluide, il entra�ne la
+poussi�re des m�taux. C'est par cette m�me raison que j'ai conseill�
+derni�rement l'emploi de l'_essence de lavande_, plut�t que celui de
+l'essence de t�r�benthine.
+
+[7] Si je pr�f�re, pour polir, le rouge aux autres substances, ce n'est
+pas que je lui reconnaisse une propri�t� photog�nique, mais bien parce
+qu'il brunit mieux et qu'il aide � fixer la couche d'or qui n'est plus
+si susceptible de s'enlever par �cailles lorsqu'on la chauffe trop.
+
+Les plaques galvaniques, lorsqu'elles n'ont ni marbrures ni taches
+noires (ce qui arrivait quelquefois dans l'origine), re�oivent mieux que
+les autres l'application des m�taux, et par cons�quent le chlorure d'or
+y adh�rant plus fortement ne s'enl�ve pas par �cailles.
+
+[8] Il faut avoir soin d'appuyer le moins possible, car autrement le
+rouge adh�rerait � la plaque et formerait un voile g�n�ral.
+
+[9] Lorsque l'on op�rera sur une plaque qui aura re�u longtemps �
+l'avance la premi�re pr�paration, il faudra, avant d'employer l'huile
+acidul�e et l'oxyde rouge, op�rer comme je l'indique plus loin pour la
+plaque qui a re�u une �preuve fix�e. Cette pr�caution est n�cessaire
+pour d�truire les taches que le temps pourrait avoir d�velopp�es.
+
+
+
+
+IMPRIMERIE DE BACHELIER,
+
+RUE DU JARDINET, N� 12.
+
+
+
+
+
