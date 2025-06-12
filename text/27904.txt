@@ -1,6 +1,6 @@
 Distributed Proofreaders Europe at http://dp.rastko.net.
 This file was produced from images generously made available
-by the Bibliothï¿½que nationale de France (BnF/Gallica)
+by the Bibliothèque nationale de France (BnF/Gallica)
 
 
 
@@ -8,7 +8,7 @@ by the Bibliothï¿½que nationale de France (BnF/Gallica)
 
 
 
-UNE JOURNï¿½E A PISE
+UNE JOURNÉE A PISE
 
 GUIDE
 HISTORIQUE. ARTISTIQUE ET COMMERCIAL
@@ -23,32 +23,32 @@ EN VENTE
 CHEZ TOUS LES LIBRAIRES ET CHEZ L'AUTEUR
 _Sotto Borgo, 6, PISE_
 
-Tous droits de traduction et de reproduction rï¿½servï¿½s
+Tous droits de traduction et de reproduction réservés
 
 
 
 
-PRï¿½FACE
+PRÉFACE
 
 
-_Afin de satisfaire ï¿½ la demande de plusieurs ï¿½trangers, j'ai entrepris
-d'ï¿½crire en italien et en franï¿½ais un petit guide de Pise, dont le
-contenu est fort abrï¿½gï¿½. Je me rï¿½serve de publier, au besoin, une
-seconde ï¿½dition plus ï¿½tendue.
+_Afin de satisfaire à la demande de plusieurs étrangers, j'ai entrepris
+d'écrire en italien et en français un petit guide de Pise, dont le
+contenu est fort abrégé. Je me réserve de publier, au besoin, une
+seconde édition plus étendue.
 
-J'espï¿½re que ce modeste ouvrage sera bien accueilli des touristes et des
+J'espère que ce modeste ouvrage sera bien accueilli des touristes et des
 Pisans.
 
-Mon but a ï¿½tï¿½ d'attirer toujours plus les ï¿½trangers dans cette ville
-dont le sï¿½jour est trï¿½s agrï¿½able et qui est non moins illustre par son
+Mon but a été d'attirer toujours plus les étrangers dans cette ville
+dont le séjour est très agréable et qui est non moins illustre par son
 histoire que par ses monuments.
 
-Il faut espï¿½rer que cette ancienne et jolie citï¿½ conservera son prestige
-bien mï¿½ritï¿½. On vient de l'embellir de belles et spacieuses rues,
-d'ï¿½lï¿½gantes et commodes habitations, ce qui nous fait supposer qu'elle
-aura, plus encore que par le passï¿½, le bonheur de recevoir un grand
-nombre de bienveillants ï¿½trangers, attirï¿½s par la douceur de son climat,
-par la beautï¿½ et la commoditï¿½ de sa position, et par l'affabilitï¿½ et la
+Il faut espérer que cette ancienne et jolie cité conservera son prestige
+bien mérité. On vient de l'embellir de belles et spacieuses rues,
+d'élégantes et commodes habitations, ce qui nous fait supposer qu'elle
+aura, plus encore que par le passé, le bonheur de recevoir un grand
+nombre de bienveillants étrangers, attirés par la douceur de son climat,
+par la beauté et la commodité de sa position, et par l'affabilité et la
 politesse de ses habitants.
 
 EVE DESTANTINS ANTHONY_.
@@ -59,20 +59,20 @@ EVE DESTANTINS ANTHONY_.
 HISTOIRE
 
 
-D'aprï¿½s une respectable opinion (opinion trï¿½s accrï¿½ditï¿½e), Pise tire son
-origine d'une colonie grecque, qui y serait venue du Pï¿½loponï¿½se bien
-avant l'ï¿½re vulgaire.
+D'après une respectable opinion (opinion très accréditée), Pise tire son
+origine d'une colonie grecque, qui y serait venue du Péloponèse bien
+avant l'ère vulgaire.
 
-Pï¿½lops, fils de Tantale, roi de Phrygie, fut, dit-on, celui qui, arrivï¿½
-en Italie sur le rivage de la Mï¿½diterranï¿½e, ï¿½ l'embouchure de l'Arno,
-ayant trouvï¿½ dans le voisinage de la mer une plaine dï¿½licieuse arrosï¿½e
-par deux fleuves, l'Arno et le Serchio, y bï¿½tit cette ville, qu'en
-mï¿½moire de son ancienne patrie d'Elide, il appela _Pise_.
+Pélops, fils de Tantale, roi de Phrygie, fut, dit-on, celui qui, arrivé
+en Italie sur le rivage de la Méditerranée, à l'embouchure de l'Arno,
+ayant trouvé dans le voisinage de la mer une plaine délicieuse arrosée
+par deux fleuves, l'Arno et le Serchio, y bâtit cette ville, qu'en
+mémoire de son ancienne patrie d'Elide, il appela _Pise_.
 
-Virgile, le grand poï¿½te latin, nous apprend dans son _Enï¿½ide_, au liv.
-Xe, qu'un valeureux capitaine nommï¿½ Asila, vint au secours d'Enï¿½e ï¿½ la
-tï¿½te de mille guerriers pisans; d'oï¿½ il rï¿½sulte que dï¿½jï¿½ dans ces temps
-reculï¿½s notre Pise ï¿½tait puissante.
+Virgile, le grand poète latin, nous apprend dans son _Enéide_, au liv.
+Xe, qu'un valeureux capitaine nommé Asila, vint au secours d'Enée à la
+tête de mille guerriers pisans; d'où il résulte que déjà dans ces temps
+reculés notre Pise était puissante.
 
 Pour attester l'origine de Pise, je citerai ces vers de Virgile traduits
 en italien par Beverini:
@@ -81,176 +81,176 @@ en italien par Beverini:
    Asila.................................
    Mille lance da Pisa egli traeva
    In sembianze a vedersi orride e belle;
-   Cittï¿½, se fama il ver giï¿½ non offusca,
+   Città, se fama il ver già non offusca,
    D'origin Greca e di tirreno Etrusca.
 
-Elle dut par la suite devenir une ville ï¿½trusque, et, sous les Romains,
-elle fit partie de la _Tribu Galï¿½ria_. Sa fidï¿½litï¿½ aux aigles romaines
-lui valut le nom de _Colonie Julie obsï¿½quieuse_. Elle fut alors ornï¿½e de
-temples magnifiques, de superbes thermes, de cirques et de thï¿½ï¿½tres.
+Elle dut par la suite devenir une ville étrusque, et, sous les Romains,
+elle fit partie de la _Tribu Galéria_. Sa fidélité aux aigles romaines
+lui valut le nom de _Colonie Julie obséquieuse_. Elle fut alors ornée de
+temples magnifiques, de superbes thermes, de cirques et de théâtres.
 
 A la chute de l'empire Romain, elle devint, comme les autres villes
 d'Italie, la proie des barbares et fut assujettie aux Longobards.
 
-Cette citï¿½ est cï¿½lï¿½bre pour son port muni de trois tours qui reï¿½ut le
-nom de _Triturrita_. Il y avait encore jadis une grande quantitï¿½ de
+Cette cité est célèbre pour son port muni de trois tours qui reçut le
+nom de _Triturrita_. Il y avait encore jadis une grande quantité de
 tours dans la ville et dans ses environs, qui ont presque toutes
 disparu.
 
-La puissance de Pise et son commerce furent trï¿½s considï¿½rables au
-Moyen-Age; les exploits militaires de ses habitants la rendirent cï¿½lï¿½bre
-et lui procurï¿½rent des privilï¿½ges et de grands honneurs.
+La puissance de Pise et son commerce furent très considérables au
+Moyen-Age; les exploits militaires de ses habitants la rendirent célèbre
+et lui procurèrent des privilèges et de grands honneurs.
 
-Les Pisans dï¿½firent les Sarrasins prï¿½s de Rome, en 1003; ï¿½ Reggio de
-Calabre, en 1006, ï¿½ Carthage, en 1030, ï¿½ Palerme, en 1063, et plusieurs
-fois en Sardaigne. Ils prirent part ï¿½ la premiï¿½re croisade en 1099; et
-l'un d'eux, _Cucco de Ricucchi_, fut le premier ï¿½ monter sur les
-remparts de Jï¿½rusalem vaincue, dont l'archevï¿½que Daï¿½bert, pisan, devint
-patriarche. Tandis que Cucco de Ricucchi, portant l'ï¿½tendard surmontï¿½
-d'une croix en mï¿½tal avec le Christ, ï¿½tait attentif ï¿½ la bataille, la
+Les Pisans défirent les Sarrasins près de Rome, en 1003; à Reggio de
+Calabre, en 1006, à Carthage, en 1030, à Palerme, en 1063, et plusieurs
+fois en Sardaigne. Ils prirent part à la première croisade en 1099; et
+l'un d'eux, _Cucco de Ricucchi_, fut le premier à monter sur les
+remparts de Jérusalem vaincue, dont l'archevêque Daïbert, pisan, devint
+patriarche. Tandis que Cucco de Ricucchi, portant l'étendard surmonté
+d'une croix en métal avec le Christ, était attentif à la bataille, la
 hampe tourna dans sa main, et le Christ se trouva la face vers lui.
-Alors il s'ï¿½cria: _Continuez, Chrï¿½tiens, la victoire est ï¿½ nous!_ ce qui
-advint. De lï¿½ l'usage des Pisans de porter le crucifix la face tournï¿½e
+Alors il s'écria: _Continuez, Chrétiens, la victoire est à nous!_ ce qui
+advint. De là l'usage des Pisans de porter le crucifix la face tournée
 vers le porteur.
 
-Il est de tradition qu'en mï¿½moire de ce miracle, le pontife Pascal II
-adopta depuis le mï¿½me usage ainsi que les patriarches, les primats, les
-archevï¿½ques, les ï¿½vï¿½ques et les prï¿½lats, qui ont pour privilï¿½ge l'usage
+Il est de tradition qu'en mémoire de ce miracle, le pontife Pascal II
+adopta depuis le même usage ainsi que les patriarches, les primats, les
+archevêques, les évêques et les prélats, qui ont pour privilège l'usage
 de la croix.
 
 Les Pisans construisirent sur le mont Sion une forteresse qui porte
 encore le nom de _Tour des Pisans_.
 
-En 1117, aprï¿½s une guerre longue et acharnï¿½e, les Pisans s'emparï¿½rent
-des ï¿½les Balï¿½ares et firent prisonniers la femme et le fils du roi
-Nazarï¿½odole.
+En 1117, après une guerre longue et acharnée, les Pisans s'emparèrent
+des îles Baléares et firent prisonniers la femme et le fils du roi
+Nazaréodole.
 
-La reine veuve de Nazarï¿½odole et son fils Lambert se firent chrï¿½tiens.
-Une inscription, sur la faï¿½ade du _Duomo_, indique qu'elle fut ensevelie
+La reine veuve de Nazaréodole et son fils Lambert se firent chrétiens.
+Une inscription, sur la façade du _Duomo_, indique qu'elle fut ensevelie
 dans cette ville.
 
-Ces exploits et d'autres entreprises de la Rï¿½publique de Pise, contre
-les barbares, accrurent sa puissance, sa richesse et sa renommï¿½e; mais
-les guerres frï¿½quentes et surtout les luttes qu'elle eut ï¿½ soutenir
-contre les Florentins, les Lucquois, les Gï¿½nois et d'autres peuples
-voisins, troublï¿½rent trop souvent sa tranquillitï¿½ et sa prospï¿½ritï¿½.
+Ces exploits et d'autres entreprises de la République de Pise, contre
+les barbares, accrurent sa puissance, sa richesse et sa renommée; mais
+les guerres fréquentes et surtout les luttes qu'elle eut à soutenir
+contre les Florentins, les Lucquois, les Génois et d'autres peuples
+voisins, troublèrent trop souvent sa tranquillité et sa prospérité.
 
 En 1134, les Pisans combattirent contre le roi Roger de Naples. Deux ans
-aprï¿½s ils surprirent Amalfi, la pillï¿½rent et emportï¿½rent le cï¿½lï¿½bre Code
-Justinien, c'est-ï¿½-dire les Pandectes.
+après ils surprirent Amalfi, la pillèrent et emportèrent le célèbre Code
+Justinien, c'est-à-dire les Pandectes.
 
-Partisans de l'empereur Frï¿½dï¿½ric, ils s'attirï¿½rent la haine d'une grande
-partie de l'Italie; plus tard ayant embrassï¿½ le parti des Gibelins, ils
+Partisans de l'empereur Frédéric, ils s'attirèrent la haine d'une grande
+partie de l'Italie; plus tard ayant embrassé le parti des Gibelins, ils
 reconnurent son successeur et d'autres empereurs allemands.
 
-L'inimitiï¿½ entre Pise, Gï¿½nes et Florence fut continuelle. La paix de
-temps ï¿½ autre conclue entre les trois rivales fut toujours de courte
-durï¿½e.
+L'inimitié entre Pise, Gênes et Florence fut continuelle. La paix de
+temps à autre conclue entre les trois rivales fut toujours de courte
+durée.
 
-La catastrophe de la _Mï¿½loria_, en 1284, abattit irrï¿½parablement la
-puissance de Pise. Un grand nombre de ses enfants tombï¿½rent en
-combattant auprï¿½s de ce fatal ï¿½cueil, et empourprï¿½rent de leur sang les
-eaux de la mer; un grand nombre d'autres allï¿½rent remplir les prisons de
-Gï¿½nes. Alors le soupï¿½on de la trahison suffit pour soulever les Pisans
+La catastrophe de la _Méloria_, en 1284, abattit irréparablement la
+puissance de Pise. Un grand nombre de ses enfants tombèrent en
+combattant auprès de ce fatal écueil, et empourprèrent de leur sang les
+eaux de la mer; un grand nombre d'autres allèrent remplir les prisons de
+Gênes. Alors le soupçon de la trahison suffit pour soulever les Pisans
 contre le Comte Ugolin de la Gherardesca. Celui-ci expia ses complots
-dans la _Tour_,--ï¿½ jamais mï¿½morable,--_de la Faim_.
+dans la _Tour_,--à jamais mémorable,--_de la Faim_.
 
-Gouvernï¿½e alternativement par les Gherardesca, par Dell'Agnello et par
+Gouvernée alternativement par les Gherardesca, par Dell'Agnello et par
 les Gambacorti, Pise subit bien des vicissitudes. Le 14 octobre 1406,
 cette illustre ville, affaiblie par ses discordes intestines et
-lï¿½chement trahie par ses chefs, tomba au pouvoir des Florentins conduits
+lâchement trahie par ses chefs, tomba au pouvoir des Florentins conduits
 par le fameux _Gino Capponi_.
 
-Quatre-vingt-huit ans aprï¿½s, les Pisans, fatiguï¿½s d'un lourd esclavage,
-se soulevï¿½rent pour secouer le joug de leurs voisins, et les femmes
-autant que les hommes firent des prodiges de valeur pour reconquï¿½rir
-l'indï¿½pendance de la patrie; mais ce fut en vain, car, abandonnï¿½s par le
-roi de France et ï¿½ bout de ressources, ils durent se plier aux
+Quatre-vingt-huit ans après, les Pisans, fatigués d'un lourd esclavage,
+se soulevèrent pour secouer le joug de leurs voisins, et les femmes
+autant que les hommes firent des prodiges de valeur pour reconquérir
+l'indépendance de la patrie; mais ce fut en vain, car, abandonnés par le
+roi de France et à bout de ressources, ils durent se plier aux
 conditions des Florentins et subir de nouveau leur domination, au mois
-de juin de l'annï¿½e 1509.
+de juin de l'année 1509.
 
-Sous les grands-ducs de Mï¿½dicis, Pise se releva de son abaissement. Sa
-cï¿½lï¿½bre Universitï¿½ brilla d'une nouvelle splendeur en 1543, et, en 1561,
-l'Ordre des Chevaliers de Saint-Etienne y ï¿½tablit son siï¿½ge principal.
-En 1571, elle eut encore la gloire d'avoir ses galï¿½res ï¿½ la fameuse
-bataille de Lï¿½pante, oï¿½ les susdits Chevaliers de l'Ordre de
-Saint-Etienne remportï¿½rent une ï¿½clatante victoire sur Sï¿½lim II, prï¿½s des
-ï¿½les Curzolari. Ferdinand Ier l'enrichit, l'embellit d'importants
-ï¿½difices, et lui procura le bienfait d'eaux salubres amenï¿½es par de
-longs aqueducs qui d'Asciano viennent jusqu'ï¿½ Pise. Cette ville a reï¿½u
+Sous les grands-ducs de Médicis, Pise se releva de son abaissement. Sa
+célèbre Université brilla d'une nouvelle splendeur en 1543, et, en 1561,
+l'Ordre des Chevaliers de Saint-Etienne y établit son siège principal.
+En 1571, elle eut encore la gloire d'avoir ses galères à la fameuse
+bataille de Lépante, où les susdits Chevaliers de l'Ordre de
+Saint-Etienne remportèrent une éclatante victoire sur Sélim II, près des
+îles Curzolari. Ferdinand Ier l'enrichit, l'embellit d'importants
+édifices, et lui procura le bienfait d'eaux salubres amenées par de
+longs aqueducs qui d'Asciano viennent jusqu'à Pise. Cette ville a reçu
 un grand nombre de bienfaits de la dynastie de Lorraine, et sous le
-gouvernement actuel elle n'a pas ï¿½tï¿½ moins favorisï¿½e parmi les villes du
-royaume, ce qui lui a permis de rï¿½aliser de grands progrï¿½s. Elle se
+gouvernement actuel elle n'a pas été moins favorisée parmi les villes du
+royaume, ce qui lui a permis de réaliser de grands progrès. Elle se
 promet, avec raison, d'obtenir de nouveaux et importants avantages,
-grï¿½ce ï¿½ la vigilance de son syndic, M. le Com. Thomas Simonelli, et au
-zï¿½le de son Dï¿½putï¿½, M. le Prof. Ulisse Dini, lequel est toujours guidï¿½
-par l'amour de sa patrie. Son prï¿½fet actuel, M. le baron Franï¿½ois
-Brescia-Morra, bien que n'ï¿½tant pas de la rï¿½gion, ne montre pas moins
-d'empressement ï¿½ faire rï¿½gner l'ordre et ï¿½ donner une bonne direction ï¿½
-toutes choses. En 1859, son Universitï¿½ a recouvrï¿½ la Facultï¿½ de
-Jurisprudence qui avait ï¿½tï¿½ transfï¿½rï¿½e ï¿½ Sienne. Elle a ï¿½tï¿½ embellie de
-nouveaux quartiers, de nouveaux ï¿½difices et de nouveaux Instituts pour
+grâce à la vigilance de son syndic, M. le Com. Thomas Simonelli, et au
+zèle de son Député, M. le Prof. Ulisse Dini, lequel est toujours guidé
+par l'amour de sa patrie. Son préfet actuel, M. le baron François
+Brescia-Morra, bien que n'étant pas de la région, ne montre pas moins
+d'empressement à faire régner l'ordre et à donner une bonne direction à
+toutes choses. En 1859, son Université a recouvré la Faculté de
+Jurisprudence qui avait été transférée à Sienne. Elle a été embellie de
+nouveaux quartiers, de nouveaux édifices et de nouveaux Instituts pour
 la jeunesse.
 
-De plus, elle a eu l'avantage d'avoir ï¿½tï¿½ choisie pour point central du
-rï¿½seau de la voie ferrï¿½e, ce qui contribue beaucoup ï¿½ l'affluence des
-ï¿½trangers.
+De plus, elle a eu l'avantage d'avoir été choisie pour point central du
+réseau de la voie ferrée, ce qui contribue beaucoup à l'affluence des
+étrangers.
 
 
 
 
-UNE JOURNï¿½E A PISE
+UNE JOURNÉE A PISE
 
 I
 
 
 Pise, chef-lieu de province qui comprend l'arrondissement de Volterra,
-est une ville trï¿½s ancienne. Son histoire, comme nous l'avons dï¿½jï¿½ dit,
-se perd dans les tï¿½nï¿½bres d'une ï¿½poque fort reculï¿½e. Elle est situï¿½e
-dans une plaine trï¿½s fertile, ï¿½ environ 10 kil. de la mer, et s'ï¿½tend
+est une ville très ancienne. Son histoire, comme nous l'avons déjà dit,
+se perd dans les ténèbres d'une époque fort reculée. Elle est située
+dans une plaine très fertile, à environ 10 kil. de la mer, et s'étend
 aux pieds des monts Pisans.
 
-Son climat, doux et tempï¿½rï¿½, attire chaque annï¿½e une grande quantitï¿½
-d'ï¿½trangers qui, atteints principalement de maladies de poitrine, y
-trouvent un prompt soulagement. Pise mï¿½rite d'ï¿½tre visitï¿½e pour ses
+Son climat, doux et tempéré, attire chaque année une grande quantité
+d'étrangers qui, atteints principalement de maladies de poitrine, y
+trouvent un prompt soulagement. Pise mérite d'être visitée pour ses
 monuments qui, bien que peu nombreux, sont cependant dignes d'admiration
-par leur beautï¿½ et leur antiquitï¿½.--Sa population est de 26,514
-habitants en ville, dans ses dï¿½pendances, elle en a 27,040, en tout
-53,554, comme il rï¿½sulte du dernier recensement qui a eu lieu le Ier
+par leur beauté et leur antiquité.--Sa population est de 26,514
+habitants en ville, dans ses dépendances, elle en a 27,040, en tout
+53,554, comme il résulte du dernier recensement qui a eu lieu le Ier
 janvier 1882.
 
-L'eau, qui vient des monts d'Asciano, et qui est amenï¿½e en ville par le
-moyen d'un aqueduc de la longueur de 7 kil., est trï¿½s lï¿½gï¿½re.
+L'eau, qui vient des monts d'Asciano, et qui est amenée en ville par le
+moyen d'un aqueduc de la longueur de 7 kil., est très légère.
 
-La ville est entourï¿½e de murailles en forme de quadrilatï¿½re. Six portes
-y donnent accï¿½s: celle de la _Barriï¿½re Victor-Emmanuel_, la plus
-rapprochï¿½e de la gare; celle de _Saint-Marc, ou Porte Florentine_,
-conduisant ï¿½ Florence, en traversant la plaine Pisane; celle de _Porta a
-Mare_, ancien chemin conduisant ï¿½ Livourne, passant par Saint-Pierre ï¿½
-Grado; la _Porta Nuova_ conduisant ï¿½ Viareggio, Spezia, Gï¿½nes, etc.; la
-_Porte de Lucques_ qui conduit ï¿½ la ville de ce nom; et la _Porte aux
-Plages_, sur les bords de l'Arno. De ce cï¿½tï¿½ on va ï¿½ _Calci_, oï¿½ est
-situï¿½e la Chartreuse dont nous parlerons plus tard. La mï¿½me voie conduit
-aussi aux dï¿½licieux villages de Buti, Vico Pisano, Lugnano, S. Giovanni
-alla Vena, Cucigliano, Uliveto, lieux renommï¿½s pour leurs huiles
-exquises. Hors de ces portes se trouvent d'agrï¿½ables promenades dont les
+La ville est entourée de murailles en forme de quadrilatère. Six portes
+y donnent accès: celle de la _Barrière Victor-Emmanuel_, la plus
+rapprochée de la gare; celle de _Saint-Marc, ou Porte Florentine_,
+conduisant à Florence, en traversant la plaine Pisane; celle de _Porta a
+Mare_, ancien chemin conduisant à Livourne, passant par Saint-Pierre à
+Grado; la _Porta Nuova_ conduisant à Viareggio, Spezia, Gênes, etc.; la
+_Porte de Lucques_ qui conduit à la ville de ce nom; et la _Porte aux
+Plages_, sur les bords de l'Arno. De ce côté on va à _Calci_, où est
+située la Chartreuse dont nous parlerons plus tard. La même voie conduit
+aussi aux délicieux villages de Buti, Vico Pisano, Lugnano, S. Giovanni
+alla Vena, Cucigliano, Uliveto, lieux renommés pour leurs huiles
+exquises. Hors de ces portes se trouvent d'agréables promenades dont les
 principales sont: celle de la _Porte aux Plages_, sur les bords de
-l'Arno, ombragï¿½e d'arbres et ornï¿½e de gracieux bosquets; celle de la
-_Porta ï¿½ Lucca_, bordï¿½e de platanes jusqu'aux Bains de Saint-Julien,
-lieu agrï¿½able dont nous parlerons ï¿½galement; et celle de la _Porte
-Neuve_, par laquelle on va aux _Cascine S. Rossore_, ancienne mï¿½tairie
-ducale, aujourd'hui chï¿½teau de chasse du roi, et de lï¿½ ï¿½ la mer.
+l'Arno, ombragée d'arbres et ornée de gracieux bosquets; celle de la
+_Porta à Lucca_, bordée de platanes jusqu'aux Bains de Saint-Julien,
+lieu agréable dont nous parlerons également; et celle de la _Porte
+Neuve_, par laquelle on va aux _Cascine S. Rossore_, ancienne métairie
+ducale, aujourd'hui château de chasse du roi, et de là à la mer.
 
-Pise est divisï¿½e par le fleuve Arno en deux parties qui communiquent par
+Pise est divisée par le fleuve Arno en deux parties qui communiquent par
 le moyen de trois ponts: le _Ponte di Mezzo_, le _Pont aux Plages_, ou
-_alla Fortezza_, et le _Pont Solferino_, appelï¿½ aussi _Pont Neuf_. Il y
+_alla Fortezza_, et le _Pont Solferino_, appelé aussi _Pont Neuf_. Il y
 a encore, hors de la _Porta a Mare_, deux autres ponts: le pont de
 circonvallation, utile au commerce pour transporter les marchandises
 sans rentrer en ville; et le pont de fer sur lequel passent les trains
 du chemin de fer. Les quais de l'Arno forment la promenade la plus belle
-et la plus animï¿½e de la ville et offrent un coup d'oeil enchanteur. Ils
+et la plus animée de la ville et offrent un coup d'oeil enchanteur. Ils
 portent les noms de _Lungarno Galileo_, _Gambacorti_, _Regio_ et
-_Mediceo_. On compte ï¿½ Pise quatre thï¿½ï¿½tres: deux diurnes placï¿½s hors
+_Mediceo_. On compte à Pise quatre théâtres: deux diurnes placés hors
 des portes et deux nocturnes en ville, savoir: Teatro Nuovo, rue
 Palestro (pl. 52, C. 1); R. Teatro E. Rossi, place S. Niccola (pl. 53,
 C. 4); Politeama, hors de Porta a Piagge (pl. 54, D 23); Arena Federighi
@@ -261,54 +261,54 @@ ou Garibaldi, hors la Porta a Lucca (pl. 55, A 6).
 II
 
 
-La premiï¿½re pensï¿½e du touriste qui visite Pise est de voir ses monuments
-et tout d'abord ceux qui sont rï¿½unis sur la place de la Cathï¿½drale. Pour
-y aller, le voyageur, aprï¿½s avoir passï¿½ la _Barriï¿½re Victor-Emmanuel_,
-pourra prendre ï¿½ son grï¿½ la rue _Fibonacci_, chemin plus court, ou la
+La première pensée du touriste qui visite Pise est de voir ses monuments
+et tout d'abord ceux qui sont réunis sur la place de la Cathédrale. Pour
+y aller, le voyageur, après avoir passé la _Barrière Victor-Emmanuel_,
+pourra prendre à son gré la rue _Fibonacci_, chemin plus court, ou la
 rue _Victor-Emmanuel_ qui, traversant le centre de la ville, est plus
-agrï¿½able. Par cette derniï¿½re, ayant passï¿½ devant la petite ï¿½glise de _S.
-Domenico_ (pl. 44, D 7), il pourra s'arrï¿½ter afin de visiter l'ï¿½glise du
-Carmine (Carme) (pl. 9, D 6), ï¿½ cï¿½tï¿½ de laquelle se trouve l'_Hospice de
-Mendicitï¿½_; puis, en continuant son chemin, ayant passï¿½ les _Logge de
+agréable. Par cette dernière, ayant passé devant la petite église de _S.
+Domenico_ (pl. 44, D 7), il pourra s'arrêter afin de visiter l'église du
+Carmine (Carme) (pl. 9, D 6), à côté de laquelle se trouve l'_Hospice de
+Mendicité_; puis, en continuant son chemin, ayant passé les _Logge de
 Banchi_, construites en 1605, par Buontalenti, pour Ferdinand Ier,
-transformï¿½es aujourd'hui en halle au blï¿½, il arrivera au _Ponte di
-Mezzo_ (Pont du Milieu), ayant ï¿½ droite le palais de la Prï¿½fecture et ï¿½
+transformées aujourd'hui en halle au blé, il arrivera au _Ponte di
+Mezzo_ (Pont du Milieu), ayant à droite le palais de la Préfecture et à
 gauche l'ancien palais Gambacorti, actuellement la Commune.
 
-Arrivï¿½ au milieu du pont, l'ï¿½tranger sera ï¿½merveillï¿½ du magnifique
-aspect que prï¿½sentent les deux quais de l'Arno.
+Arrivé au milieu du pont, l'étranger sera émerveillé du magnifique
+aspect que présentent les deux quais de l'Arno.
 
-Ce pont est mï¿½morable ï¿½ cause du combat simulï¿½ dit le _Jeu du Pont_,
+Ce pont est mémorable à cause du combat simulé dit le _Jeu du Pont_,
 dans lequel deux factions de citoyens se disputaient le prix.
 
-Une autre curiositï¿½ de Pise revient ï¿½ notre esprit en ce lieu: c'est la
+Une autre curiosité de Pise revient à notre esprit en ce lieu: c'est la
 fameuse _Luminara_ (illumination) qu'on avait l'habitude de faire tous
-les trois ans pour la fï¿½te de S. Ranieri (Regnier), patron de la ville.
-De lï¿½, mieux qu'en tout autre endroit, l'on jouissait dans toute sa
-splendeur du spectacle fï¿½erique des _lungarni_ illuminï¿½s par des dessins
-reprï¿½sentant d'anciens ï¿½difices qui apparaissaient tracï¿½s en bandes de
+les trois ans pour la fête de S. Ranieri (Regnier), patron de la ville.
+De là, mieux qu'en tout autre endroit, l'on jouissait dans toute sa
+splendeur du spectacle féerique des _lungarni_ illuminés par des dessins
+représentant d'anciens édifices qui apparaissaient tracés en bandes de
 feu sur le sombre champ de la nuit.
 
-Il est ï¿½ regretter que, depuis quelques annï¿½es, cette fï¿½te qui appelait
-tant d'ï¿½trangers de toutes les parties du monde semble tombï¿½e dans
+Il est à regretter que, depuis quelques années, cette fête qui appelait
+tant d'étrangers de toutes les parties du monde semble tombée dans
 l'oubli.
 
-Au delï¿½ du pont, on rencontre la _Place du Pont_ oï¿½ stationnent les
+Au delà du pont, on rencontre la _Place du Pont_ où stationnent les
 voitures publiques, puis on rentre dans le _Sotto Borgo_ ou _via del
-Borgo_, rue bordï¿½e de portiques. Presque au commencement on voit une
-ï¿½glise dont la sombre faï¿½ade prï¿½sente le caractï¿½re d'une grande
-antiquitï¿½; c'est l'ï¿½glise de _Saint-Michel_, (pl. 29, E 4) ï¿½ laquelle
-ï¿½tait annexï¿½e une illustre _Abbaye des Camaldules_. Cette ï¿½glise a une
-crypte apprï¿½ciï¿½e par les archï¿½ologues qui y voient un hypogï¿½e romain. Un
-peu plus loin vis-ï¿½-vis est le marchï¿½ aux herbes.
+Borgo_, rue bordée de portiques. Presque au commencement on voit une
+église dont la sombre façade présente le caractère d'une grande
+antiquité; c'est l'église de _Saint-Michel_, (pl. 29, E 4) à laquelle
+était annexée une illustre _Abbaye des Camaldules_. Cette église a une
+crypte appréciée par les archéologues qui y voient un hypogée romain. Un
+peu plus loin vis-à-vis est le marché aux herbes.
 
-A l'extrï¿½mitï¿½ des portiques, prenant ï¿½ gauche, vous trouverez la rue du
-_Mont de Piï¿½tï¿½_, et vous observerez dans un point, toujours ï¿½ gauche, de
-chaque cï¿½tï¿½ du magasin de l'orfï¿½vre Bargellini, deux ï¿½lï¿½gants chapiteaux
-surmontant des colonnes presque ensevelies qui appartenaient ï¿½
-l'ancienne ï¿½glise de Saint-Fï¿½lix.
+A l'extrémité des portiques, prenant à gauche, vous trouverez la rue du
+_Mont de Piété_, et vous observerez dans un point, toujours à gauche, de
+chaque côté du magasin de l'orfèvre Bargellini, deux élégants chapiteaux
+surmontant des colonnes presque ensevelies qui appartenaient à
+l'ancienne église de Saint-Félix.
 
-Par cette rue on va ï¿½ la place des Chevaliers.
+Par cette rue on va à la place des Chevaliers.
 
 
 
@@ -317,116 +317,116 @@ III
 PIAZZA DEI CAVALIERI
 
 
-Cette place tire son nom du palais et de l'ï¿½glise des Chevaliers de
-l'Ordre militaire de Saint-Etienne, ï¿½ prï¿½sent supprimï¿½, et qui avait son
-siï¿½ge principal ï¿½ Pise. Autrefois c'ï¿½tait la place des Anciens,
-c'est-ï¿½-dire des Anciens de la Rï¿½publique, qui y avaient leur palais
+Cette place tire son nom du palais et de l'église des Chevaliers de
+l'Ordre militaire de Saint-Etienne, à présent supprimé, et qui avait son
+siège principal à Pise. Autrefois c'était la place des Anciens,
+c'est-à-dire des Anciens de la République, qui y avaient leur palais
 devenu par la suite l'Ecole militaire des Chevaliers ou la _Carovana_,
-aujourd'hui _Ecole Normale Supï¿½rieure_. Au-dessus de la faï¿½ade de ce
-palais se trouvent les bustes de six grands maï¿½tres. La statue qui est
-devant reprï¿½sente Cosme Ier, fondateur de l'Ordre de Saint-Etienne. La
-statue, ainsi que la fontaine qui est ï¿½ sa base, sont l'oeuvre de
+aujourd'hui _Ecole Normale Supérieure_. Au-dessus de la façade de ce
+palais se trouvent les bustes de six grands maîtres. La statue qui est
+devant représente Cosme Ier, fondateur de l'Ordre de Saint-Etienne. La
+statue, ainsi que la fontaine qui est à sa base, sont l'oeuvre de
 _Francavilla_.
 
-L'ï¿½glise de Saint-Etienne, dite des _Cavalieri_ (Chevaliers) (pl. 18, D
-3), s'ï¿½lï¿½ve avec sa belle faï¿½ade de marbre sur une spacieuse place. On
+L'église de Saint-Etienne, dite des _Cavalieri_ (Chevaliers) (pl. 18, D
+3), s'élève avec sa belle façade de marbre sur une spacieuse place. On
 voit sur l'architrave de la porte une croix en agate qui porte cette
 inscription: _In hoc signo vinces_ (avec ce signe tu vaincras).
 
 Elle n'a qu'une nef et un seul autel en porphyre.
 
 Sur cet autel est la statue du saint titulaire, sous laquelle se trouve
-un riche siï¿½ge en bronze renfermant une partie d'un autre siï¿½ge qui a
+un riche siége en bronze renfermant une partie d'un autre siége qui a
 appartenu au saint et plus bas, dans un reliquaire, se trouvent ses os.
-Les trophï¿½es suspendus aux parois, enlevï¿½s aux Turcs, rappellent les
-exploits des Chevaliers de l'ordre. Le riche plafond de l'ï¿½glise des
-Cavalieri mï¿½rite d'ï¿½tre observï¿½. On y admire les prï¿½cieuses peintures
-qui reprï¿½sentent la prise d'habit de Cosme Ier, par _Ludovic Cardi_, dit
-le Cigoli; le retour de la bataille de Lï¿½pante, de _Jacopo Ligozzi_;
-l'embarquement ï¿½ Livourne de Marie de Mï¿½dicis, par _Christophe Allori_;
-la conquï¿½te de 4 navires turcs, de _Jacopo d'Empoli_; la prise de la
+Les trophées suspendus aux parois, enlevés aux Turcs, rappellent les
+exploits des Chevaliers de l'ordre. Le riche plafond de l'église des
+Cavalieri mérite d'être observé. On y admire les précieuses peintures
+qui représentent la prise d'habit de Cosme Ier, par _Ludovic Cardi_, dit
+le Cigoli; le retour de la bataille de Lépante, de _Jacopo Ligozzi_;
+l'embarquement à Livourne de Marie de Médicis, par _Christophe Allori_;
+la conquête de 4 navires turcs, de _Jacopo d'Empoli_; la prise de la
 Prevesa, ou bataille de Nicopolis, de _Ligozzi_; et enfin la prise de
-Bone, du mï¿½me _Jacopo d'Empoli_. Dans les chapelles latï¿½rales on voit la
+Bone, du même _Jacopo d'Empoli_. Dans les chapelles latérales on voit la
 lapidation de saint Etienne, du _Vasari_; la multiplication des pains,
-par _Ludovic de Buti_; la Nativitï¿½ de J.-C., par Alexandre Allori, dit
+par _Ludovic de Buti_; la Nativité de J.-C., par Alexandre Allori, dit
 le _Bronzino_.
 
-Cette ï¿½glise possï¿½de deux orgues, dont l'un ï¿½ gauche est excellent. Il
-faut l'entendre pour Noï¿½l, ï¿½ la messe de minuit, quand il est touchï¿½ par
+Cette église possède deux orgues, dont l'un à gauche est excellent. Il
+faut l'entendre pour Noël, à la messe de minuit, quand il est touché par
 l'habile organiste Henri Barsanti.
 
-La place des Cavalieri est renommï¿½e ï¿½ cause de la fameuse _Tour de la
+La place des Cavalieri est renommée à cause de la fameuse _Tour de la
 Muda_, dite aussi de la _Faim_, dans laquelle on fit mourir de faim le
 malheureux comte Ugolin de la Gherardesca avec ses enfants et ses
-neveux, comme le dï¿½crit le Dante dans le 33e chant de son Enfer. Elle
-ï¿½tait situï¿½e sur l'aile droite du palais appelï¿½ aujourd'hui
-Finocchietti, lequel prï¿½sente dans sa faï¿½ade seulement quelques restes
+neveux, comme le décrit le Dante dans le 33e chant de son Enfer. Elle
+était située sur l'aile droite du palais appelé aujourd'hui
+Finocchietti, lequel présente dans sa façade seulement quelques restes
 des belles fresques du _Paladini_ et du _Maruscelli_.
 
-A cï¿½tï¿½ du petit oratoire de Saint-Roch, est le _Collï¿½ge Puteano_, fondï¿½
-par l'archevï¿½que C. Ant. del Pozzo, pour 8 jeunes Piï¿½montais qui y sont
-entretenus pendant leurs ï¿½tudes universitaires. A l'angle, est situï¿½ le
-_palais du Conseil Provincial_. Entre l'ancien palais, qui ï¿½tait jadis
-le siï¿½ge du _Conseil des Chevaliers_, et la _Maison Canoniale_, s'ouvre
-la rue _S. Frediano_, par laquelle on va ï¿½ l'_Acadï¿½mie des Beaux-Arts_,
-(no. 972), (pl. I, D 3) fondï¿½e en 1812 par Napolï¿½on Ier, oï¿½ se trouvent
-une galerie de tableaux antiques et des livres ecclï¿½siastiques d'un
-grand prix en parchemin enluminï¿½. En continuant de suivre ce chemin, on
-passe devant l'ancienne ï¿½glise de S. Frediano (pl. 23, D 3), et l'on
-arrive, non loin du Lungarno, ï¿½ la R. Universitï¿½, (pl. 50, CD 4), qui
-est une des plus anciennes d'Italie et qui contient la Bibliothï¿½que
-publique. Cette Universitï¿½, fondï¿½e par _Bonifacio della Gherardesca_ en
-1340, et en 1542 rï¿½organisï¿½e par Cosme Ier, se compose de 4 facultï¿½s
-avec plus de 70 chaires. Facultï¿½ de Jurisprudence, Facultï¿½ de
-Philosophie et Lettres, Facultï¿½ de Mï¿½decine et Chirurgie, Facultï¿½ de
-Sciences physiques, Mathï¿½matiques et Sciences naturelles. Elle est et a
-ï¿½tï¿½ illustrï¿½e par les savants les plus ï¿½clairï¿½s, qui, en diverses
-ï¿½poques, y instruisirent la jeunesse; l'un des plus renommï¿½s est
-Galilï¿½e, dont la statue, placï¿½e d'abord dans la cour, en 1839, ï¿½
-l'occasion de la premiï¿½re assemblï¿½e des _Savants Italiens_, a ï¿½tï¿½
-ensuite transportï¿½e dans l'Aula Magna (grande salle). La Bibliothï¿½que
-(pl. 58, CD 4), qui fut ouverte au public en 1742, possï¿½de plus de cent
-mille volumes. Elle s'est formï¿½e en grande partie par la gï¿½nï¿½rositï¿½ des
-citoyens qui l'ont peu ï¿½ peu augmentï¿½e. Je citerai parmi les dons les
-plus rï¿½cents In partie nommï¿½e la Bibliothï¿½que Carrara composï¿½e de 4.000
-volumes de Jurisprudence sur le Droit civil et criminel, donnï¿½s en 1880
-par M. Carrara, professeur de Droit criminel et l'une des cï¿½lï¿½britï¿½s de
-notre ï¿½poque.
+A côté du petit oratoire de Saint-Roch, est le _Collège Puteano_, fondé
+par l'archevêque C. Ant. del Pozzo, pour 8 jeunes Piémontais qui y sont
+entretenus pendant leurs études universitaires. A l'angle, est situé le
+_palais du Conseil Provincial_. Entre l'ancien palais, qui était jadis
+le siège du _Conseil des Chevaliers_, et la _Maison Canoniale_, s'ouvre
+la rue _S. Frediano_, par laquelle on va à l'_Académie des Beaux-Arts_,
+(no. 972), (pl. I, D 3) fondée en 1812 par Napoléon Ier, où se trouvent
+une galerie de tableaux antiques et des livres ecclésiastiques d'un
+grand prix en parchemin enluminé. En continuant de suivre ce chemin, on
+passe devant l'ancienne église de S. Frediano (pl. 23, D 3), et l'on
+arrive, non loin du Lungarno, à la R. Université, (pl. 50, CD 4), qui
+est une des plus anciennes d'Italie et qui contient la Bibliothèque
+publique. Cette Université, fondée par _Bonifacio della Gherardesca_ en
+1340, et en 1542 réorganisée par Cosme Ier, se compose de 4 facultés
+avec plus de 70 chaires. Faculté de Jurisprudence, Faculté de
+Philosophie et Lettres, Faculté de Médecine et Chirurgie, Faculté de
+Sciences physiques, Mathématiques et Sciences naturelles. Elle est et a
+été illustrée par les savants les plus éclairés, qui, en diverses
+époques, y instruisirent la jeunesse; l'un des plus renommés est
+Galilée, dont la statue, placée d'abord dans la cour, en 1839, à
+l'occasion de la première assemblée des _Savants Italiens_, a été
+ensuite transportée dans l'Aula Magna (grande salle). La Bibliothèque
+(pl. 58, CD 4), qui fut ouverte au public en 1742, possède plus de cent
+mille volumes. Elle s'est formée en grande partie par la générosité des
+citoyens qui l'ont peu à peu augmentée. Je citerai parmi les dons les
+plus récents In partie nommée la Bibliothèque Carrara composée de 4.000
+volumes de Jurisprudence sur le Droit civil et criminel, donnés en 1880
+par M. Carrara, professeur de Droit criminel et l'une des célébrités de
+notre époque.
 
-La famille du professeur Ferrucci, notre regrettï¿½ Bibliothï¿½caire que
-nous venons de perdre, a fait cadeau rï¿½cemment d'environ 6.000 volumes
-sur l'Histoire, l'Archï¿½ologie et la Littï¿½rature.
+La famille du professeur Ferrucci, notre regretté Bibliothécaire que
+nous venons de perdre, a fait cadeau récemment d'environ 6.000 volumes
+sur l'Histoire, l'Archéologie et la Littérature.
 
-La bibliothï¿½que Carrara est ouverte au public le lundi, le mercredi et
+La bibliothèque Carrara est ouverte au public le lundi, le mercredi et
 le vendredi.
 
-A cï¿½tï¿½ de l'ï¿½glise de Saint-Frediano, se trouve la rï¿½sidence de
-l'Archiconfraternitï¿½ de la Misï¿½ricorde, institution dont le but est de
-porter des secours en cas d'accidents, de transporter les malades ï¿½
-l'hï¿½pital, et souvent d'accompagner les morts au cimetiï¿½re.
+A côté de l'église de Saint-Frediano, se trouve la résidence de
+l'Archiconfraternité de la Miséricorde, institution dont le but est de
+porter des secours en cas d'accidents, de transporter les malades à
+l'hôpital, et souvent d'accompagner les morts au cimetière.
 
-Revenant ï¿½ la place des Cavalieri, on s'achemine vers le Duomo (la
-cathï¿½drale), en passant ï¿½ cï¿½tï¿½ de Saint-Sixte (pl. 36, C 3), ï¿½glise
-ï¿½levï¿½e par les Pisans en mï¿½moire de plusieurs victoires remportï¿½es sur
-leurs ennemis le jour de la fï¿½te du dit saint (6 aoï¿½t).
+Revenant à la place des Cavalieri, on s'achemine vers le Duomo (la
+cathédrale), en passant à côté de Saint-Sixte (pl. 36, C 3), église
+élevée par les Pisans en mémoire de plusieurs victoires remportées sur
+leurs ennemis le jour de la fête du dit saint (6 août).
 
-Le presbytï¿½re de Saint-Sixte renferme le tombeau d'un Bonaparte, qui
-ï¿½tait professeur de mï¿½decine ï¿½ Pise en 1744.
+Le presbytère de Saint-Sixte renferme le tombeau d'un Bonaparte, qui
+était professeur de médecine à Pise en 1744.
 
 Puis, par Sainte-Euphrasie, on arrive sur la place du _Stellino_, et
-l'on peut, en prenant ï¿½ droite, aller directement ï¿½ la cathï¿½drale, ou,
-si l'on prï¿½fï¿½re, par le cï¿½tï¿½ opposï¿½, au _Musï¿½e d'Histoire naturelle_ et
-au _Jardin Botanique_ (pl. 37, C 3), situï¿½s dans la belle rue
+l'on peut, en prenant à droite, aller directement à la cathédrale, ou,
+si l'on préfère, par le côté opposé, au _Musée d'Histoire naturelle_ et
+au _Jardin Botanique_ (pl. 37, C 3), situés dans la belle rue
 Sainte-Marie.
 
-Ce musï¿½e, un des plus anciens d'Italie, fut fondï¿½ en 1544; en 1563 il
-fut rï¿½organisï¿½ par Incï¿½lebre Cesalpino. Le jardin a ï¿½tï¿½ crï¿½ï¿½, en 1595,
+Ce musée, un des plus anciens d'Italie, fut fondé en 1544; en 1563 il
+fut réorganisé par Incèlebre Cesalpino. Le jardin a été créé, en 1595,
 par Joseph Benincasa.
 
-En allant par la rue Sainte-Marie, vers le N., on trouve ï¿½ droite
-l'ancien collï¿½ge Ferdinand, fondï¿½ par Ferdinand I'er, l'an 1595, en
-faveur de quelques jeunes gens. Prï¿½s de lï¿½ est l'_Hospice des Enfants
-trouvï¿½s_ (pl. 56, C 2).
+En allant par la rue Sainte-Marie, vers le N., on trouve à droite
+l'ancien collège Ferdinand, fondé par Ferdinand I'er, l'an 1595, en
+faveur de quelques jeunes gens. Près de là est l'_Hospice des Enfants
+trouvés_ (pl. 56, C 2).
 
 
 
@@ -435,224 +435,224 @@ IV
 IL DUOMO
 
 
-Nous voici sur la place de la Cathï¿½drale, oï¿½ se prï¿½sentent ï¿½ nos yeux
-les ravissants et gigantesques monuments de la _Cathï¿½drale_, de la _Tour
-penchï¿½e_ et du _Baptistï¿½re_.
+Nous voici sur la place de la Cathédrale, où se présentent à nos yeux
+les ravissants et gigantesques monuments de la _Cathédrale_, de la _Tour
+penchée_ et du _Baptistère_.
 
-La cathï¿½drale (pl. 22, B 1), construite en marbre, commenï¿½a ï¿½ ï¿½tre
-ï¿½difiï¿½e en 1063 sur l'emplacement de l'ancienne ï¿½glise de
-Sainte-Reparate. Une inscription fixï¿½e ï¿½ la faï¿½ade dit que les Pisans,
-avec les trï¿½sors enlevï¿½s aux barbares dans la conquï¿½te de Palerme,
+La cathédrale (pl. 22, B 1), construite en marbre, commença à être
+édifiée en 1063 sur l'emplacement de l'ancienne église de
+Sainte-Reparate. Une inscription fixée à la façade dit que les Pisans,
+avec les trésors enlevés aux barbares dans la conquête de Palerme,
 entreprirent ce superbe ouvrage sous la direction de l'architecte
-_Buschetto_. Son sï¿½pulcre est lï¿½, prï¿½s du tombeau de la reine des ï¿½les
-Balï¿½ares, ï¿½les dont, par une ï¿½clatante victoire, les Pisans se rendirent
-maï¿½tres en 1117.
+_Buschetto_. Son sépulcre est là, près du tombeau de la reine des îles
+Baléares, îles dont, par une éclatante victoire, les Pisans se rendirent
+maîtres en 1117.
 
-FAï¿½ADE DE LA CATHï¿½DRALE
+FAÇADE DE LA CATHÉDRALE
 
-Les trois merveilleuses portes en bronze (du cï¿½tï¿½ de la faï¿½ade), avec
+Les trois merveilleuses portes en bronze (du côté de la façade), avec
 des bas-reliefs exprimant les principaux faits de la Vie de
-Notre-Seigneur et de la Vierge, furent exï¿½cutï¿½es, en 1602, par le _P.
+Notre-Seigneur et de la Vierge, furent exécutées, en 1602, par le _P.
 Dow. Partigiani_, dominicain, et par _Ange Serrano_, sur les dessins de
 _Jean de Bologne_, du _Turini_, du _Mochi_, de _Jean dell'Opera_ et de
 _Gaspard Mora_.
 
-La faï¿½ade, tournï¿½e au couchant, est ornï¿½e de 58 colonnes et d'arcades,
-qui forment 4 galeries de colonnettes superposï¿½es diminuant
+La façade, tournée au couchant, est ornée de 58 colonnes et d'arcades,
+qui forment 4 galeries de colonnettes superposées diminuant
 graduellement.
 
-Au-dessus de ces galeries sont placï¿½es cinq statues, la plus ï¿½levï¿½e
-desquelles reprï¿½sente la Vierge. Elles sont du temps de _Niccola
+Au-dessus de ces galeries sont placées cinq statues, la plus élevée
+desquelles représente la Vierge. Elles sont du temps de _Niccola
 Pisano_.
 
-La basilique, de la longueur de prï¿½s de 100 mï¿½tres et de plus de 32 de
-largeur a la forme d'une croix latine; elle a cinq nefs et est ornï¿½e de
-belles galeries et d'un riche plafond ï¿½ caissons dorï¿½s. Un transept ï¿½ 3
+La basilique, de la longueur de près de 100 mètres et de plus de 32 de
+largeur a la forme d'une croix latine; elle a cinq nefs et est ornée de
+belles galeries et d'un riche plafond à caissons dorés. Un transept à 3
 nefs la traverse. Dans la nef du milieu, on admire l'abside avec une
-grande mosaï¿½que sur fond d'or reprï¿½sentant le Sauveur entre la Vierge et
-saint Jean-Baptiste, par _Cimabuï¿½_, et au-dessus s'ï¿½lï¿½ve la magnifique
-voï¿½te, dite du _Ghirlandajo_, parce qu'elle est dï¿½corï¿½e d'anges peints
+grande mosaïque sur fond d'or représentant le Sauveur entre la Vierge et
+saint Jean-Baptiste, par _Cimabuë_, et au-dessus s'élève la magnifique
+voûte, dite du _Ghirlandajo_, parce qu'elle est décorée d'anges peints
 par cet artiste.
 
-La coupole, de forme elliptique, fut peinte ï¿½ l'huile par _Horace
+La coupole, de forme elliptique, fut peinte à l'huile par _Horace
 Riminaldi de Pise_. A un des grands piliers qui la soutiennent, le
-dernier ï¿½ droite, est suspendu le prï¿½cieux tableau de sainte Agnï¿½s
-d'_Andrï¿½a del Sarto_, et, en face, une Madone de _Pierino del Vaga_. Au
-milieu de la voï¿½te est suspendu un lampadaire ancien, ornï¿½ de petits
+dernier à droite, est suspendu le précieux tableau de sainte Agnès
+d'_Andréa del Sarto_, et, en face, une Madone de _Pierino del Vaga_. Au
+milieu de la voûte est suspendu un lampadaire ancien, orné de petits
 enfants en bronze, de _Vincent Possenti_ (1583). La tradition veut qu'en
-observant ses oscillations, le grand Galilï¿½e Galilei dï¿½couvrit les lois
+observant ses oscillations, le grand Galilée Galilei découvrit les lois
 du pendule.
 
-Douze autels, ouvrage de _Stagio Stagi_, dont le dessin est attribuï¿½ ï¿½
-Michel-Ange, avec de belles peintures, se trouvent placï¿½s le long des
-parois latï¿½rales du bras principal de la croisï¿½e, et l'un d'eux, celui
-qui est derriï¿½re la chaire, a un beau tableau d'_Andrea del Sarto_. On
-voit aussi sur les murs plusieurs toiles reprï¿½sentant des Bienheureux
-Pisans, tels que, en rentrant par une des 3 grandes portes, ï¿½ gauche, le
+Douze autels, ouvrage de _Stagio Stagi_, dont le dessin est attribué à
+Michel-Ange, avec de belles peintures, se trouvent placés le long des
+parois latérales du bras principal de la croisée, et l'un d'eux, celui
+qui est derrière la chaire, a un beau tableau d'_Andrea del Sarto_. On
+voit aussi sur les murs plusieurs toiles représentant des Bienheureux
+Pisans, tels que, en rentrant par une des 3 grandes portes, à gauche, le
 martyre du bienheureux Signoretto Alliata, par _Benvenuti_; la fondation
-de l'Hospice des Enfants Trouvï¿½s par le Bienheureux pisan Dominique
-Vernagalli, du peintre _Gaetano Gandolfi_; l'arrivï¿½e du Bienheureux
-Baudouin, archevï¿½que pisan, en Sardaigne, au moment oï¿½ il repousse le
-fï¿½roce juge d'Arborï¿½e, du peintre _Joseph Collignon_, le baptï¿½me de
-Lambert, fils du roi des Balï¿½ares, par _Laurent Pï¿½cheux de Lyon_. A cï¿½tï¿½
-de ce tableau, se trouve l'autel dit des Anges, avec une trï¿½s jolie
-peinture de _Ventura Salimbeni_; et dans le tableau qui le suit, la tï¿½te
-de saint Torpï¿½ sauvï¿½e des flots, par _G. Bettino Ciguaroli_, puis le
-martyre du mï¿½me saint pisan, par _Placide Costanzi_. Revenant aux 3
-portes principales, on voit ï¿½ droite la prise d'habit de sainte Bona,
+de l'Hospice des Enfants Trouvés par le Bienheureux pisan Dominique
+Vernagalli, du peintre _Gaetano Gandolfi_; l'arrivée du Bienheureux
+Baudouin, archevêque pisan, en Sardaigne, au moment où il repousse le
+féroce juge d'Arborée, du peintre _Joseph Collignon_, le baptême de
+Lambert, fils du roi des Baléares, par _Laurent Pêcheux de Lyon_. A côté
+de ce tableau, se trouve l'autel dit des Anges, avec une très jolie
+peinture de _Ventura Salimbeni_; et dans le tableau qui le suit, la tête
+de saint Torpè sauvée des flots, par _G. Bettino Ciguaroli_, puis le
+martyre du même saint pisan, par _Placide Costanzi_. Revenant aux 3
+portes principales, on voit à droite la prise d'habit de sainte Bona,
 pisane, par _A. Cavallucci_; sainte Ubaldesca, pisane, qui soigne une
-infirme pendant la nuit, ï¿½clairï¿½e par un flambeau, sujet peint avec une
-rare habiletï¿½ par _Dominique Calvi de Viterbo_; le Serment de Richard
-Coeur de Lion, en faveur des Pisans, prï¿½s de Tolï¿½maï¿½de, par _Gius
-Bezzuoli_; Eugï¿½ne III cï¿½lï¿½brant la messe devant les ï¿½vï¿½ques orientaux,
+infirme pendant la nuit, éclairée par un flambeau, sujet peint avec une
+rare habileté par _Dominique Calvi de Viterbo_; le Serment de Richard
+Coeur de Lion, en faveur des Pisans, près de Tolémaïde, par _Gius
+Bezzuoli_; Eugène III célébrant la messe devant les évêques orientaux,
 par _Jean Tempesti_, pisan; le Bienheureux Pierre Gambacorti, pisan,
-devant le Pape Urbain IV, du peintre _Sï¿½bastien Conca_; et le mï¿½me
-Bienheureux qui fonde l'ordre des Ermites de Saint-Jï¿½rï¿½me, par _Franï¿½.
+devant le Pape Urbain IV, du peintre _Sébastien Conca_; et le même
+Bienheureux qui fonde l'ordre des Ermites de Saint-Jérôme, par _Franç.
 Mancini_. Dans l'autel contigu reposent les corps des saints martyrs
-Nicodï¿½me, disciple de J.-C., Gamaliele, maï¿½tre de l'apï¿½tre saint Paul,
-et Abibone, donnï¿½s aux Pisans par Godefroy de Bouillon, en 1100. Cet
-autel a ï¿½tï¿½ ï¿½difiï¿½ sur un dessin de Michel-Ange. En face est un autre
+Nicodème, disciple de J.-C., Gamaliele, maître de l'apôtre saint Paul,
+et Abibone, donnés aux Pisans par Godefroy de Bouillon, en 1100. Cet
+autel a été édifié sur un dessin de Michel-Ange. En face est un autre
 autel en marbre, travail de _Lino_.
 
-Dans le transept Nord, on voit la Nativitï¿½, la Circoncision, l'Adoration
-des Mages, l'Aveugle-nï¿½, par _Aurï¿½le Lomi_; la Dispute dans le Temple,
-par _Pierre Torri_, et une Vierge de _Dom. Cresti_. A l'extrï¿½mitï¿½ de ce
-transept, est l'autel du Trï¿½s-Saint Sacrement, qui a des gradins en
-argent, avec le prï¿½cieux tabernacle, aussi en argent, dessinï¿½ par _G.-B.
-Foggini_, et exï¿½cutï¿½ par _Sï¿½b. Tamburini de Pise_, en 1692.
+Dans le transept Nord, on voit la Nativité, la Circoncision, l'Adoration
+des Mages, l'Aveugle-né, par _Aurèle Lomi_; la Dispute dans le Temple,
+par _Pierre Torri_, et une Vierge de _Dom. Cresti_. A l'extrémité de ce
+transept, est l'autel du Très-Saint Sacrement, qui a des gradins en
+argent, avec le précieux tabernacle, aussi en argent, dessiné par _G.-B.
+Foggini_, et exécuté par _Séb. Tamburini de Pise_, en 1692.
 
-Derriï¿½re l'autel sont les statues de la Vierge, de l'Archange Gabriel,
-d'Adam et d'Eve, et plusieurs bas-reliefs de _Franï¿½. Mosca_, dit le
+Derrière l'autel sont les statues de la Vierge, de l'Archange Gabriel,
+d'Adam et d'Eve, et plusieurs bas-reliefs de _Franç. Mosca_, dit le
 _Moschino_.
 
 Les autres ouvrages en marbre sont du _Stagi_. Dans le haut, se trouvent
-la mosaï¿½que de l'Annonciation, oeuvre de _Gaddo Gaddi_, et la Foi et la
-Charitï¿½, d'_Antoine Marini_. En face des plus petites nefs, on voit deux
+la mosaïque de l'Annonciation, oeuvre de _Gaddo Gaddi_, et la Foi et la
+Charité, d'_Antoine Marini_. En face des plus petites nefs, on voit deux
 statues de _Fancelli_: sainte Marie-Madeleine et sainte Christine.
 
-De ce bras du transept, on vient, en tournant ï¿½ gauche, ï¿½ l'autel de la
-Madone de Sous-les-Orgues, pour laquelle on a une vï¿½nï¿½ration
-particuliï¿½re, et dont l'effigie, de style byzantin, ne se dï¿½couvre que
+De ce bras du transept, on vient, en tournant à gauche, à l'autel de la
+Madone de Sous-les-Orgues, pour laquelle on a une vénération
+particulière, et dont l'effigie, de style byzantin, ne se découvre que
 dans de graves circonstances.
 
-Sur le mur latï¿½ral est peinte la Nativitï¿½ de la Vierge Marie, par
+Sur le mur latéral est peinte la Nativité de la Vierge Marie, par
 _Giacinto Corrado_.
 
-Nous voici au choeur. Le maï¿½tre-autel, ï¿½rigï¿½ en 1774, est composï¿½ de
-marbres trï¿½s rares. Son grand Crucifix en bronze est de _Jean de
+Nous voici au choeur. Le maître-autel, érigé en 1774, est composé de
+marbres très rares. Son grand Crucifix en bronze est de _Jean de
 Bologne_.
 
-De chaque cï¿½tï¿½ des deux chaires ï¿½piscopales, on voit des tableaux
+De chaque côté des deux chaires épiscopales, on voit des tableaux
 d'_Andrea del Sarto_.
 
-Derriï¿½re l'autel, dans le pourtour de l'abside, sont disposï¿½es en
+Derrière l'autel, dans le pourtour de l'abside, sont disposées en
 plusieurs rangs des peintures d'excellents artistes tels que: le
 _Beccafumi_, _De Labrugia_, _Sogliani_, _Sodoma_, _Salimbeni_,
-_Bï¿½livert_, _Lomi_, _Guidotti_, _Rosselli_, _Manetti_, _Riminaldi_,
-_Gamberucci_, _Vannini_ et le _Cinganelli_. Ces tableaux reprï¿½sentent
-des sujets bibliques. Les peintures les plus ï¿½levï¿½es, des arcs au
-plafond, sont ï¿½ fresque et reprï¿½sentent des scï¿½nes de la vie de la
-Vierge Marie, par _Maruscelli_; mais les prophï¿½tes sont du _Poccetti_.
+_Bélivert_, _Lomi_, _Guidotti_, _Rosselli_, _Manetti_, _Riminaldi_,
+_Gamberucci_, _Vannini_ et le _Cinganelli_. Ces tableaux représentent
+des sujets bibliques. Les peintures les plus élevées, des arcs au
+plafond, sont à fresque et représentent des scènes de la vie de la
+Vierge Marie, par _Maruscelli_; mais les prophètes sont du _Poccetti_.
 
 Il faut aussi admirer les stalles du choeur, beau travail de marqueterie
 par _Julien de Majano_, par _Jules de S. Gallo_, par le _Serravallino_,
 par _Dom de Mariotto_ et par _Jean B. Cervelliera_. La balustrade qui
-entoure le choeur est dï¿½corï¿½e d'ornements et d'arabesques avec
-marqueteries, jaspes, lapis-lazulis et d'autres marbres prï¿½cieux. Les
+entoure le choeur est décorée d'ornements et d'arabesques avec
+marqueteries, jaspes, lapis-lazulis et d'autres marbres précieux. Les
 deux anges de bronze qui s'appuient sur cette balustrade sont de _Jean
 de Bologne_.
 
-Dans l'autre bras du transept S. ï¿½ gauche, se trouve le gracieux petit
-autel de S. Biagio, du _Stagi_. La porte trï¿½s ancienne et de style grec
-est en bronze, les toiles reprï¿½sentent des scï¿½nes de la vie de S.
-Ranieri, pisan, protecteur de Pise, dont le corps sacrï¿½ repose au fond
-de la chapelle, dans la prï¿½cieuse urne de marbre vert de polsevera,
-oeuvre de _Faggini_. Le grand-duc Cosme III la fit ï¿½difier; il fit aussi
-dï¿½corer de marbre toute cette chapelle. Les statues et les bas-reliefs
+Dans l'autre bras du transept S. à gauche, se trouve le gracieux petit
+autel de S. Biagio, du _Stagi_. La porte très ancienne et de style grec
+est en bronze, les toiles représentent des scènes de la vie de S.
+Ranieri, pisan, protecteur de Pise, dont le corps sacré repose au fond
+de la chapelle, dans la précieuse urne de marbre vert de polsevera,
+oeuvre de _Faggini_. Le grand-duc Cosme III la fit édifier; il fit aussi
+décorer de marbre toute cette chapelle. Les statues et les bas-reliefs
 de l'Assomption sont du _Mosca_.
 
-L'antique mosaï¿½que de la haute niche est du _Gaddi_, et les peintures du
-_Marini_. Les toiles oï¿½ sont peintes encore des scï¿½nes de la vie de S.
-Ranieri reprï¿½sentent sa prise d'habit, du peintre _Ben. Luti_; la
-dï¿½livrance de la Possï¿½dï¿½e, par _Dom. Muratori_; la mort du Saint, par
-_Gius. Melani de Pise_; et le miracle de l'enfant ressuscitï¿½, commencï¿½
-par le peintre _Torelli_ et achevï¿½ par _Lucie Casalina_.
+L'antique mosaïque de la haute niche est du _Gaddi_, et les peintures du
+_Marini_. Les toiles où sont peintes encore des scènes de la vie de S.
+Ranieri représentent sa prise d'habit, du peintre _Ben. Luti_; la
+délivrance de la Possédée, par _Dom. Muratori_; la mort du Saint, par
+_Gius. Melani de Pise_; et le miracle de l'enfant ressuscité, commencé
+par le peintre _Torelli_ et achevé par _Lucie Casalina_.
 
-Sur l'autel latï¿½ral qui fait face ï¿½ la porte, est une Madone entourï¿½e de
+Sur l'autel latéral qui fait face à la porte, est une Madone entourée de
 Saints, par _Pierino del Vaga_, lequel peignit aussi les deux petits
 enfants qui sont en haut sur la muraille.
 
-En rentrant par l'autel de saint Ranieri, le bï¿½nitier entre la porte et
-le choeur, sur lequel s'ï¿½lï¿½ve une Vierge avec l'Enfant Jï¿½sus, a ï¿½tï¿½ fait
-d'aprï¿½s un modï¿½le de Michel-Ange. Les deux autres, prï¿½s des trois
-portes, l'un surmontï¿½ du Rï¿½dempteur, l'autre de saint Jean Baptiste,
-sont en bronze, modelï¿½s par _Jean de Bologne_, fondus par _Fï¿½lix Palma
+En rentrant par l'autel de saint Ranieri, le bénitier entre la porte et
+le choeur, sur lequel s'élève une Vierge avec l'Enfant Jésus, a été fait
+d'après un modèle de Michel-Ange. Les deux autres, près des trois
+portes, l'un surmonté du Rédempteur, l'autre de saint Jean Baptiste,
+sont en bronze, modelés par _Jean de Bologne_, fondus par _Félix Palma
 de Masse_.
 
-Plus de cent fenï¿½tres, la plupart aux vitraux coloriï¿½s, donnent une
-douce et faible clartï¿½ trï¿½s convenable ï¿½ la majestï¿½ de ce lieu. L'ï¿½glise
-primatiale pisane fut endommagï¿½e par un dï¿½plorable incendie dans la nuit
-du 25 octobre 1595. Une grande quantitï¿½ des merveilles d'art qu'elle
-renfermait furent alors dï¿½truites. Sa restauration est due ï¿½ la
-munificence de Ferdinand Ier et ï¿½ la gï¿½nï¿½rositï¿½ des citoyens.
+Plus de cent fenêtres, la plupart aux vitraux coloriés, donnent une
+douce et faible clarté très convenable à la majesté de ce lieu. L'église
+primatiale pisane fut endommagée par un déplorable incendie dans la nuit
+du 25 octobre 1595. Une grande quantité des merveilles d'art qu'elle
+renfermait furent alors détruites. Sa restauration est due à la
+munificence de Ferdinand Ier et à la générosité des citoyens.
 
-Cette auguste basilique fut consacrï¿½e avec une grande solennitï¿½, par le
-pape Gï¿½lase II, le 26 septembre 1119. C'est lï¿½ que le pape Clï¿½ment fut
-ï¿½lu et couronnï¿½, on y tint aussi un grand Concile en 1409.
+Cette auguste basilique fut consacrée avec une grande solennité, par le
+pape Gélase II, le 26 septembre 1119. C'est là que le pape Clément fut
+élu et couronné, on y tint aussi un grand Concile en 1409.
 
 L'_Archivio del Duomo_ renferme des chartes fort anciennes.
 
-Quand Napolï¿½on Ier vint ï¿½ Pise, il s'empara d'un tableau du _Sodoma_
-reprï¿½sentant le Sacrifice d'Isaac, qui ï¿½tait dans la Cathï¿½drale, et le
-porta ï¿½ Paris; mais en 1815 on dut le restituer parce que la Toscane le
-demanda et obtint de le ravoir au moyen d'un traitï¿½. Une copie de ce
-tableau est ï¿½ Paris au Louvre; mais l'original est ici.
+Quand Napoléon Ier vint à Pise, il s'empara d'un tableau du _Sodoma_
+représentant le Sacrifice d'Isaac, qui était dans la Cathédrale, et le
+porta à Paris; mais en 1815 on dut le restituer parce que la Toscane le
+demanda et obtint de le ravoir au moyen d'un traité. Une copie de ce
+tableau est à Paris au Louvre; mais l'original est ici.
 
 
 
 
 V
 
-BAPTISTï¿½RE
+BAPTISTÈRE
 
 
-Devant la faï¿½ade de la Cathï¿½drale s'ï¿½lï¿½ve majestueusement le Baptistï¿½re
-(pl. 15 B 1), de forme ronde, dï¿½corï¿½ ï¿½ l'extï¿½rieur de deux rangs de
-colonnades: l'un, formï¿½ de vingt colonnes; l'autre, qui lui est
-superposï¿½, a une plus grande quantitï¿½ de colonnes sur lesquelles
-s'ï¿½lï¿½vent d'ï¿½lï¿½gants arcs surmontï¿½s d'aiguilles. D'autres aiguilles
-dominent de grandes croisï¿½es qui forment le dernier tour que surmonte
-enfin le dï¿½me, au sommet duquel est placï¿½e la statue de saint
-Jean-Baptiste. Quatre portes donnent accï¿½s au Baptistï¿½re, qui, dans
-l'intï¿½rieur, est partagï¿½ en deux ordres d'architecture: le premier a 12
-arcades ï¿½ plein cintre soutenues par 8 grandes colonnes et par 4
+Devant la façade de la Cathédrale s'élève majestueusement le Baptistère
+(pl. 15 B 1), de forme ronde, décoré à l'extérieur de deux rangs de
+colonnades: l'un, formé de vingt colonnes; l'autre, qui lui est
+superposé, a une plus grande quantité de colonnes sur lesquelles
+s'élèvent d'élégants arcs surmontés d'aiguilles. D'autres aiguilles
+dominent de grandes croisées qui forment le dernier tour que surmonte
+enfin le dôme, au sommet duquel est placée la statue de saint
+Jean-Baptiste. Quatre portes donnent accès au Baptistère, qui, dans
+l'intérieur, est partagé en deux ordres d'architecture: le premier a 12
+arcades à plein cintre soutenues par 8 grandes colonnes et par 4
 piliers.
 
-[Illustration: BAPTISTï¿½RE]
+[Illustration: BAPTISTÈRE]
 
-Dans l'ï¿½paisseur de la muraille sont construits deux escaliers par
-lesquels on peut commodï¿½ment monter aux galeries supï¿½rieures et aux
-secondes voï¿½tes.
+Dans l'épaisseur de la muraille sont construits deux escaliers par
+lesquels on peut commodément monter aux galeries supérieures et aux
+secondes voûtes.
 
-Au milieu, s'ï¿½lï¿½vent les Fonts Baptismaux de forme octogone, en marbre
-sculptï¿½.
+Au milieu, s'élèvent les Fonts Baptismaux de forme octogone, en marbre
+sculpté.
 
-La statue en bronze de saint Jean, qui ï¿½tait autrefois au milieu de
-l'ï¿½difice, est placï¿½e maintenant au-dessus de la porte au couchant.
+La statue en bronze de saint Jean, qui était autrefois au milieu de
+l'édifice, est placée maintenant au-dessus de la porte au couchant.
 
 L'oeuvre qui appelle davantage l'attention est la superbe chaire de
-_Nicolas de Pise_, qui est ï¿½ juste titre regardï¿½e comme une des plus
+_Nicolas de Pise_, qui est à juste titre regardée comme une des plus
 belles productions de l'art. Elle est de forme hexagonale, toute en fin
 marbre statuaire, soutenue par neuf colonnes, dont plusieurs sont
-appuyï¿½es sur le dos d'animaux fï¿½roces et sur des figures humaines
-groupï¿½s ensemble. Les chapiteaux et les arcs sont ï¿½lï¿½gamment travaillï¿½s.
-Sur le soubassement sont sculptï¿½es cinq histoires ï¿½vangï¿½liques. On lit
-sur une bande de marbre l'ï¿½loge du grand artiste. Une chose digne
-d'observation, c'est que le plus lï¿½ger bruit est renforcï¿½ par la
-rï¿½percussion que produisent les voï¿½tes elliptiques et forme un ï¿½cho
+appuyées sur le dos d'animaux féroces et sur des figures humaines
+groupés ensemble. Les chapiteaux et les arcs sont élégamment travaillés.
+Sur le soubassement sont sculptées cinq histoires évangéliques. On lit
+sur une bande de marbre l'éloge du grand artiste. Une chose digne
+d'observation, c'est que le plus léger bruit est renforcé par la
+répercussion que produisent les voûtes elliptiques et forme un écho
 admirable.
 
-Ce remarquable monument fut commencï¿½ en l'an 1152.
+Ce remarquable monument fut commencé en l'an 1152.
 
 
 
@@ -662,304 +662,304 @@ VI
 CAMPOSANTO
 
 
-Ce grandiose ï¿½difice (pl. 16, B 1), oeuvre de gï¿½nie du cï¿½lï¿½bre sculpteur
-et architecte _Jean de Pise_, fut ï¿½levï¿½ par les soins de la Rï¿½publique
-pisane en 1278, dans le lieu oï¿½ se trouvait, au temps du paganisme, le
+Ce grandiose édifice (pl. 16, B 1), oeuvre de génie du célèbre sculpteur
+et architecte _Jean de Pise_, fut élevé par les soins de la République
+pisane en 1278, dans le lieu où se trouvait, au temps du paganisme, le
 temple d'Adrien, comme on le voit sur un ancien plan de Pise, fait par
 l'_architecte Bonanno_, l'an 800.
 
-Le Camposanto (Cimetiï¿½re) est de forme rectangulaire et renferme au
-centre une pelouse destinï¿½e autrefois ï¿½ ensevelir les gens du peuple. Il
+Le Camposanto (Cimetière) est de forme rectangulaire et renferme au
+centre une pelouse destinée autrefois à ensevelir les gens du peuple. Il
 est ouvert tous les jours du matin au soir sans excepter les jours de
-fï¿½te. (Sonner ï¿½ la porte ï¿½ gauche. Donner un pourboire au gardien.) Il
-est long de 135 m., large de 43 m. et haut de 15. Il a, ï¿½ l'extï¿½rieur,
-43 arcades reposant sur 44 pilastres dont les chapiteaux sont dï¿½corï¿½s de
+fête. (Sonner à la porte à gauche. Donner un pourboire au gardien.) Il
+est long de 135 m., large de 43 m. et haut de 15. Il a, à l'extérieur,
+43 arcades reposant sur 44 pilastres dont les chapiteaux sont décorés de
 figures.
 
-Cet enclos contient 53 galï¿½res de terre sainte provenant du Mont
-Calvaire, transportï¿½e de Jï¿½rusalem ï¿½ Pise par les Pisans en 1192, comme
-raconte notre historien Tronci. Cette terre avait la propriï¿½tï¿½ (on ne
+Cet enclos contient 53 galères de terre sainte provenant du Mont
+Calvaire, transportée de Jérusalem à Pise par les Pisans en 1192, comme
+raconte notre historien Tronci. Cette terre avait la propriété (on ne
 sait si par nature ou par prodige) de consumer les cadavres dans
 l'espace de 24 heures, et l'on croit que les trois cadavres peints au
 fond du tableau de _l'Orgagna_, dit le _Triomphe de la Mort_,
-reprï¿½sentent les trois ï¿½tats successifs du changement de ces corps: leur
-putrï¿½faction, leur dissolution et leur rï¿½duction en poussiï¿½re dans ce
+représentent les trois états successifs du changement de ces corps: leur
+putréfaction, leur dissolution et leur réduction en poussière dans ce
 court espace de temps.
 
-Quatre galeries avec 62 fenï¿½tres en ogive et des colonnettes de style
-gothique entourent en long et en large ce champ sï¿½pulcral.
+Quatre galeries avec 62 fenêtres en ogive et des colonnettes de style
+gothique entourent en long et en large ce champ sépulcral.
 
-Dans les galeries se trouvent les tombeaux d'une grande quantitï¿½
-d'illustres citoyens dont les noms sont gravï¿½s sur chacun des monuments
-funï¿½raires. On voit ï¿½ droite et ï¿½ gauche, le long de la muraille, des
-sarcophages, des urnes cinï¿½raires, des statues mutilï¿½es et d'autres
-objets prï¿½cieux par leur antiquitï¿½, qui rendent ce cimetiï¿½re un _vrai et
-noble Musï¿½e_, comme il fut appelï¿½ par la reine Suï¿½doise
+Dans les galeries se trouvent les tombeaux d'une grande quantité
+d'illustres citoyens dont les noms sont gravés sur chacun des monuments
+funéraires. On voit à droite et à gauche, le long de la muraille, des
+sarcophages, des urnes cinéraires, des statues mutilées et d'autres
+objets précieux par leur antiquité, qui rendent ce cimetière un _vrai et
+noble Musée_, comme il fut appelé par la reine Suédoise
 _Christine-Alexandrine_.
 
-On y entre par deux portes ouvertes dans la faï¿½ade antï¿½rieure ornï¿½e de
-piliers et d'arcs, lesquelles portes sont placï¿½es dans la perspective de
-la Cathï¿½drale et du Baptistï¿½re. En entrant par la porte la plus
-rapprochï¿½e de ce dernier monument, on trouve ï¿½ gauche les fresques de
-_Giotto_, qui reprï¿½sentent la pitoyable histoire de Job. Les derniers
+On y entre par deux portes ouvertes dans la façade antérieure ornée de
+piliers et d'arcs, lesquelles portes sont placées dans la perspective de
+la Cathédrale et du Baptistère. En entrant par la porte la plus
+rapprochée de ce dernier monument, on trouve à gauche les fresques de
+_Giotto_, qui représentent la pitoyable histoire de Job. Les derniers
 tableaux de cette histoire sont, dit-on, de _Nello de Vanni_, non de
-_Franï¿½ois de Volterra_ comme d'autres le prï¿½tendent. A l'aile
+_François de Volterra_ comme d'autres le prétendent. A l'aile
 occidentale, on voit l'histoire d'Esther, peinte par _Augustin Ghirlanda
 de Carrare_, et celle de Judith, par _Paul Guidotti_, lucquois. Il faut
-remarquer, sous la premiï¿½re peinture, le monument des comtes Boniface de
-la Gherardesca, de _Donoratico_, ouvrage de l'ï¿½cole pisane du XIVe
-siï¿½cle; et celui de l'empereur Henri VII de Luxembourg, protecteur de
-Pise, appartenant au parti Gibelin, qui mourut ï¿½ Buonconvento le 24 aoï¿½t
-1313, et fut enseveli ï¿½ Pise. On voit au-dessus, de grosses chaï¿½nes
-suspendues ï¿½ la muraille, ce sont les chaï¿½nes du port Pisan enlevï¿½es en
-1362, par les Florentins et les Gï¿½nois, restituï¿½es ï¿½ Pise par la commune
-de Florence en 1848, et par celle de Gï¿½nes en 1860.
+remarquer, sous la première peinture, le monument des comtes Boniface de
+la Gherardesca, de _Donoratico_, ouvrage de l'école pisane du XIVe
+siècle; et celui de l'empereur Henri VII de Luxembourg, protecteur de
+Pise, appartenant au parti Gibelin, qui mourut à Buonconvento le 24 août
+1313, et fut enseveli à Pise. On voit au-dessus, de grosses chaînes
+suspendues à la muraille, ce sont les chaînes du port Pisan enlevées en
+1362, par les Florentins et les Génois, restituées à Pise par la commune
+de Florence en 1848, et par celle de Gênes en 1860.
 
-Nous voilï¿½ dans la longue galerie septentrionale. La premiï¿½re peinture
-nous prï¿½sente la _Mappemonde cï¿½leste_, c'est-ï¿½-dire une sï¿½rie de sphï¿½res
-l'une dans l'autre, la Terre dans le centre et le Crï¿½ateur qui les
-soutient. Cet ouvrage est ï¿½tabli selon le systï¿½me de Ptolï¿½mï¿½e. Au bas
+Nous voilà dans la longue galerie septentrionale. La première peinture
+nous présente la _Mappemonde céleste_, c'est-à-dire une série de sphères
+l'une dans l'autre, la Terre dans le centre et le Créateur qui les
+soutient. Cet ouvrage est établi selon le système de Ptolémée. Au bas
 sont les effigies de deux Docteurs: saint Augustin et saint Thomas.
-Cette peinture est de _Pietro di Puccio d'Orvieto_, elle a ï¿½tï¿½ attribuï¿½e
-ï¿½ _Buffalmacco_. Vient ensuite l'histoire de la Genï¿½se depuis Adam
-jusqu'ï¿½ Noï¿½, par _Pierre d'Orvieto_ et _Benozzo Gozzoli_; de ce dernier
-sont aussi les sujets de l'Ancien Testament jusqu'ï¿½ la prise de Jï¿½richo,
+Cette peinture est de _Pietro di Puccio d'Orvieto_, elle a été attribuée
+à _Buffalmacco_. Vient ensuite l'histoire de la Genèse depuis Adam
+jusqu'à Noé, par _Pierre d'Orvieto_ et _Benozzo Gozzoli_; de ce dernier
+sont aussi les sujets de l'Ancien Testament jusqu'à la prise de Jéricho,
 ainsi que les peintures de l'Annonciation et de l'Adoration des Mages de
-la premiï¿½re chapelle, dans laquelle est une fresque de l'ï¿½cole de
+la première chapelle, dans laquelle est une fresque de l'école de
 _Giotto_ et un buste de saint Pierre, par _Luca della Robbia_. Il y a
 aussi une Madone de Taddeo Gaddi. Cette chapelle renferme encore le
 monument du professeur Ammannati (1359), par _Giovanni Pisano_.
 
 A propos de la susdite peinture de l'adoration des Mages, il faut dire
-que, dans le jeune homme ï¿½ cheval qui a la tï¿½te couverte d'un capuchon,
-Benozzo a voulu, ï¿½ ce que l'on prï¿½tend, reproduire sa propre image.
+que, dans le jeune homme à cheval qui a la tête couverte d'un capuchon,
+Benozzo a voulu, à ce que l'on prétend, reproduire sa propre image.
 
-Sur le sarcophage marquï¿½ du nï¿½ XVIII est un bas-relief de _Nicolas de
-Pise_, reprï¿½sentant la naissance de J.-C. A cï¿½tï¿½, est un autre
-sarcophage contenant les cendres d'Aldobrando del Bondo, surmontï¿½ d'un
-buste reprï¿½sentant Isotta, cï¿½lï¿½bre peintre de Rimini, oeuvre de _Nino de
-Fiesole_. Le sarcophage nï¿½ XX renferme les cendres de Bï¿½atrix de
-Canossa, mï¿½re de la cï¿½lï¿½bre comtesse Mathilde, toutes deux bienfaitrices
-de notre basilique. Le mythe d'Hippolyte et de Phï¿½dre est sculptï¿½ sur ce
-superbe monument d'art grec, qui a servi d'ï¿½tude ï¿½ Nicola Pisano. On
-voit aussi, sculptï¿½e sur le sarcophage nï¿½ XXX, la chasse de Mï¿½lï¿½agre.
+Sur le sarcophage marqué du n° XVIII est un bas-relief de _Nicolas de
+Pise_, représentant la naissance de J.-C. A côté, est un autre
+sarcophage contenant les cendres d'Aldobrando del Bondo, surmonté d'un
+buste représentant Isotta, célèbre peintre de Rimini, oeuvre de _Nino de
+Fiesole_. Le sarcophage n° XX renferme les cendres de Béatrix de
+Canossa, mère de la célèbre comtesse Mathilde, toutes deux bienfaitrices
+de notre basilique. Le mythe d'Hippolyte et de Phèdre est sculpté sur ce
+superbe monument d'art grec, qui a servi d'étude à Nicola Pisano. On
+voit aussi, sculptée sur le sarcophage n° XXX, la chasse de Méléagre.
 
-Prï¿½s de la porte de la chapelle Aulla, se trouve le tombeau du peintre
+Près de la porte de la chapelle Aulla, se trouve le tombeau du peintre
 Benozzo, que les Pisans, pour l'honorer, firent placer sous le tableau
-qui reprï¿½sente l'histoire de Joseph.
+qui représente l'histoire de Joseph.
 
-A l'aile orientale, on voit l'hippogriffe en bronze, qui ï¿½tait autrefois
-ï¿½ l'Est du sommet de la cathï¿½drale; sur sa croupe sont gravï¿½s des
+A l'aile orientale, on voit l'hippogriffe en bronze, qui était autrefois
+à l'Est du sommet de la cathédrale; sur sa croupe sont gravés des
 animaux et des inscriptions cophtes exprimant des souhaits de bonheur
 aux possesseurs du griffon.
 
-A l'autre extrï¿½mitï¿½ orientale, nous avons devant nous les peintures qui
-reprï¿½sentent des scï¿½nes delï¿½ vie du roi Ozias et le fameux festin de
-Balthazar, exï¿½cutï¿½es en 1666, par _Zacharie Rondinosi_.
+A l'autre extrémité orientale, nous avons devant nous les peintures qui
+représentent des scènes delà vie du roi Ozias et le fameux festin de
+Balthazar, exécutées en 1666, par _Zacharie Rondinosi_.
 
-Sous cette peinture se trouve le monument de Philippe Decio, qui a ï¿½tï¿½
-professeur ï¿½ Pise, oeuvre de _Stagio Stagi de Pietrasanta_ (1500).
+Sous cette peinture se trouve le monument de Philippe Decio, qui a été
+professeur à Pise, oeuvre de _Stagio Stagi de Pietrasanta_ (1500).
 
-On croit que la statue assise sous l'histoire de Moï¿½se est le portrait
-de Henri VII ou de Frï¿½dï¿½ric Ier entourï¿½ de 4 conseillers.
+On croit que la statue assise sous l'histoire de Moïse est le portrait
+de Henri VII ou de Frédéric Ier entouré de 4 conseillers.
 
-La chapelle majeure surmontï¿½e d'une coupole fut ï¿½levï¿½e par l'archevï¿½que
-dal Pozzo (c'est pourquoi on la dit Puteana). Le tableau reprï¿½sentant le
-saint titulaire, saint Jï¿½rï¿½me, est d'_Aurï¿½le Lomi_.
+La chapelle majeure surmontée d'une coupole fut élevée par l'archevêque
+dal Pozzo (c'est pourquoi on la dit Puteana). Le tableau représentant le
+saint titulaire, saint Jérôme, est d'_Aurèle Lomi_.
 
 On voit, dans le pourtour de cette chapelle, un crucifiement sur
-panneau, de _Giunta Pisano_; un saint Jean du _Clementone_; la Nativitï¿½,
-par _Corrado_; le Nazarï¿½en avec Marthe et Madeleine, par _Rosselli_; un
-crucifiement sur parchemin, d'_Appolonius_, grec (XIIIe siï¿½cle); un
-autre crucifiement avec deux tï¿½tes, de _Giunta Pisano_; et quelques
+panneau, de _Giunta Pisano_; un saint Jean du _Clementone_; la Nativité,
+par _Corrado_; le Nazaréen avec Marthe et Madeleine, par _Rosselli_; un
+crucifiement sur parchemin, d'_Appolonius_, grec (XIIIe siècle); un
+autre crucifiement avec deux têtes, de _Giunta Pisano_; et quelques
 copies d'autres peintures, parmi lesquelles celle du Sacrifice
-d'Abraham, par _Razzi_, dont l'original est dans la cathï¿½drale, copie
-qui fut exï¿½cutï¿½e par _Guillemont_.
+d'Abraham, par _Razzi_, dont l'original est dans la cathédrale, copie
+qui fut exécutée par _Guillemont_.
 
-Au sortir de la chapelle, on remarque ï¿½ gauche l'Ascension, la
-Rï¿½surrection, attribuï¿½es ï¿½ _Antoine Vite de Pistoie_, et le Christ en
+Au sortir de la chapelle, on remarque à gauche l'Ascension, la
+Résurrection, attribuées à _Antoine Vite de Pistoie_, et le Christ en
 croix qui est de _Buffalmacco_.
 
-Prenant ensuite la grande galerie mï¿½ridionale, on voit ï¿½ droite: le
-_Triomphe de la Mort_, le _Jugement universel_, peints par _Andrï¿½
-Orgagna_, et l'Enfer, par son frï¿½re _Bernard_. Sous le mï¿½me tableau du
-Triomphe de la Mort, on voit encore les fameux cï¿½notaphes Pisans, avec
-l'inscription sur marbre de deux dï¿½crets concernant la Colonie Julia
-obsï¿½quieuse (nom que porta Pise sous les Romains). L'un annonce la mort
-de Lucius Cï¿½sar et l'autre celle de Caï¿½us Cï¿½sar, tous deux fils
-d'Auguste; ils ordonnent ï¿½ la ville de Pise un deuil profond. Ces
-cï¿½notaphes ont ï¿½tï¿½ dï¿½crits et apprï¿½ciï¿½s par de savants ï¿½crivains et
-derniï¿½rement par M. Clï¿½ment Lupi[1].
+Prenant ensuite la grande galerie méridionale, on voit à droite: le
+_Triomphe de la Mort_, le _Jugement universel_, peints par _André
+Orgagna_, et l'Enfer, par son frère _Bernard_. Sous le même tableau du
+Triomphe de la Mort, on voit encore les fameux cénotaphes Pisans, avec
+l'inscription sur marbre de deux décrets concernant la Colonie Julia
+obséquieuse (nom que porta Pise sous les Romains). L'un annonce la mort
+de Lucius César et l'autre celle de Caïus César, tous deux fils
+d'Auguste; ils ordonnent à la ville de Pise un deuil profond. Ces
+cénotaphes ont été décrits et appréciés par de savants écrivains et
+dernièrement par M. Clément Lupi[1].
 
-[Note 1: Voir son livre imprimï¿½ ï¿½ la typ. Mariotti, en 1879.]
+[Note 1: Voir son livre imprimé à la typ. Mariotti, en 1879.]
 
-Il faut observer, dans le tableau reprï¿½sentant le Jugement, le roi
-Salomon qui, sortant de son tombeau, paraï¿½t indï¿½cis et semble se
-demander de quel cï¿½tï¿½ il sera placï¿½, le peintre ayant ainsi voulu
-figurer l'opinion incertaine oï¿½ l'on est concernant le salut de ce roi.
+Il faut observer, dans le tableau représentant le Jugement, le roi
+Salomon qui, sortant de son tombeau, paraît indécis et semble se
+demander de quel côté il sera placé, le peintre ayant ainsi voulu
+figurer l'opinion incertaine où l'on est concernant le salut de ce roi.
 
-Viennent ensuite les _Anachorï¿½tes de la Thï¿½baï¿½de_, par _Pierre Laurati_,
-puis l'Assomption, par _Simon Memmi_, sur la porte d'entrï¿½e.
+Viennent ensuite les _Anachorètes de la Thébaïde_, par _Pierre Laurati_,
+puis l'Assomption, par _Simon Memmi_, sur la porte d'entrée.
 
 La vie et les miracles du patron de Pise, S. Ranteri, et les exploits du
-martyr de Sardaigne, saint Ephï¿½se, d'une admirable exï¿½cution, occupent
-le reste de la muraille jusqu'ï¿½ l'autre porte par laquelle on est entrï¿½
+martyr de Sardaigne, saint Ephèse, d'une admirable exécution, occupent
+le reste de la muraille jusqu'à l'autre porte par laquelle on est entré
 dans le Camposanto.
 
-Le mï¿½me _Simon Memmi_ et _Antoine Veneziano_, en 1386, peignirent
-supï¿½rieurement les tableaux qui se rapportent ï¿½ saint Ranieri, et
-_Spinello Aretino_, en 1390, ceux qui reprï¿½sentent des scï¿½nes de la vie
-de saint Potitus et les combats ainsi que le martyre de saint Ephï¿½se;
-mais ils sont pour la plupart endommagï¿½s.
+Le même _Simon Memmi_ et _Antoine Veneziano_, en 1386, peignirent
+supérieurement les tableaux qui se rapportent à saint Ranieri, et
+_Spinello Aretino_, en 1390, ceux qui représentent des scènes de la vie
+de saint Potitus et les combats ainsi que le martyre de saint Ephèse;
+mais ils sont pour la plupart endommagés.
 
-Le long de cette galerie mï¿½ridionale se trouvent encore de prï¿½cieux
-bas-reliefs, des urnes et des statues des ï¿½coles grecques, romaines et
+Le long de cette galerie méridionale se trouvent encore de précieux
+bas-reliefs, des urnes et des statues des écoles grecques, romaines et
 pisanes des temps antiques.
 
-Mais ï¿½ cause de la briï¿½vetï¿½ qui m'est imposï¿½e je ne puis les dï¿½crire
-minutieusement. Je ferai cependant connaï¿½tre les monuments modernes, et,
-commenï¿½ant ï¿½ gauche de la porte d'entrï¿½e, je les nommerai par ordre.
+Mais à cause de la brièveté qui m'est imposée je ne puis les décrire
+minutieusement. Je ferai cependant connaître les monuments modernes, et,
+commençant à gauche de la porte d'entrée, je les nommerai par ordre.
 
-Nï¿½ i.--Monument ï¿½rigï¿½ au cï¿½lï¿½bre oculiste Andrï¿½ Vacca Berlinghieri,
-professeur de chirurgie ï¿½ l'Universitï¿½ de Pise, mort en 1826, par
-_Albert Thorwaldsen_, danois, qui y a sculptï¿½ l'histoire de Tobie.
+N° i.--Monument érigé au célèbre oculiste André Vacca Berlinghieri,
+professeur de chirurgie à l'Université de Pise, mort en 1826, par
+_Albert Thorwaldsen_, danois, qui y a sculpté l'histoire de Tobie.
 
-Nï¿½ 2.--Monument consacrï¿½ ï¿½ Joseph Morosi de Ripafratta, cï¿½lï¿½bre
-mï¿½canicien, mort en 1840. La Renommï¿½e qui y est sculptï¿½e est l'ouvrage
+N° 2.--Monument consacré à Joseph Morosi de Ripafratta, célèbre
+mécanicien, mort en 1840. La Renommée qui y est sculptée est l'ouvrage
 de _Fraccaroli Veronese_.
 
-Nï¿½ 3.--Monument ï¿½rigï¿½ ï¿½ Vincent Marulli des ducs d'Ascoli, patricien
-napolitain, mort ï¿½ Pise en 1808, par Michel Van Lint. Un Gï¿½nie qui
-montre les oeuvres du dï¿½funt est sculptï¿½ sur ce monument.
+N° 3.--Monument érigé à Vincent Marulli des ducs d'Ascoli, patricien
+napolitain, mort à Pise en 1808, par Michel Van Lint. Un Génie qui
+montre les oeuvres du défunt est sculpté sur ce monument.
 
-Nï¿½ 4.--Inscription et effigie de l'avocat J.-B. Fanucci, pisan, auteur
-de l'histoire des trois cï¿½lï¿½bres peuples maritimes d'Italie, mort en
-1834 par _Franï¿½ois Storni_.
+N° 4.--Inscription et effigie de l'avocat J.-B. Fanucci, pisan, auteur
+de l'histoire des trois célèbres peuples maritimes d'Italie, mort en
+1834 par _François Storni_.
 
-Nï¿½ 5.--Un buste consacrï¿½ ï¿½ la mï¿½moire de F. A. Puccinelli, par _Paul
+N° 5.--Un buste consacré à la mémoire de F. A. Puccinelli, par _Paul
 Folini de Pietrasanta_.
 
-Nï¿½ 6.--Monument reprï¿½sentant Thï¿½rï¿½se des Comtes Wratislow de Prague,
+N° 6.--Monument représentant Thérèse des Comtes Wratislow de Prague,
 veuve Pozzo di Borgo (morte en 1830); son attitude indique qu'elle donne
-ses vï¿½tements aux pauvres qui l'entourent. Par _Henri Van Lint de Pise_.
+ses vêtements aux pauvres qui l'entourent. Par _Henri Van Lint de Pise_.
 
-Nï¿½ 7.--Monument reprï¿½sentant le Comte F. Del Testa del Tignoso, mort en
+N° 7.--Monument représentant le Comte F. Del Testa del Tignoso, mort en
 1824, par _Thomas Masi de Pise_.
 
-Nï¿½ 8.--Souvenir commï¿½moratif pour les Pisans morts ï¿½ Cortatone et ï¿½
+N° 8.--Souvenir commémoratif pour les Pisans morts à Cortatone et à
 Montanara en 1848, par _Bilancini de Florence_.
 
-Nï¿½ 9.--Monument oï¿½ est reprï¿½sentï¿½e l'Astronomie avec les signes du
-Zodiaque, par _Duprï¿½_, dï¿½diï¿½ ï¿½ Octave Fabrice Mossotti, professeur
-d'Astronomie ï¿½ l'Universitï¿½ de Pise, nï¿½ ï¿½ Novare, et mort ï¿½ Pise en
+N° 9.--Monument où est représentée l'Astronomie avec les signes du
+Zodiaque, par _Dupré_, dédié à Octave Fabrice Mossotti, professeur
+d'Astronomie à l'Université de Pise, né à Novare, et mort à Pise en
 1863.
 
-Nï¿½ 10.--Monument ï¿½rigï¿½ ï¿½ Marie Selvaggia Borghini, cï¿½lï¿½bre poï¿½te pisan,
+N° 10.--Monument érigé à Marie Selvaggia Borghini, célèbre poète pisan,
 morte en 1781, par _Henri Van Lint_.
 
-Nï¿½ 11.--Monument consacrï¿½ ï¿½ la mï¿½moire du gï¿½nï¿½ral de Villarej, mort ï¿½ la
+N° 11.--Monument consacré à la mémoire du général de Villarej, mort à la
 bataille de Custosa, en 1866.
 
-Nï¿½ 12.--La statue de Giovanni, fils de Niccola Pisano, architecte du
+N° 12.--La statue de Giovanni, fils de Niccola Pisano, architecte du
 Camposanto, par le professeur _Salvino Salvini_.
 
-Nï¿½ 13.--Le buste du Comte Cavour, par le professeur _Vela de Milan_.
+N° 13.--Le buste du Comte Cavour, par le professeur _Vela de Milan_.
 
-Nï¿½ 14.--Monument consacrï¿½ au professeur de physique Charles Matteucci
-(mort le 24 juin 1868), par _Duprï¿½_.
+N° 14.--Monument consacré au professeur de physique Charles Matteucci
+(mort le 24 juin 1868), par _Dupré_.
 
-Nï¿½15.--Sculpture reprï¿½sentant le professeur Georges Regnoli, par
+N°15.--Sculpture représentant le professeur Georges Regnoli, par
 _Bilancini_ (1860).
 
-Nï¿½16.--Tombeau de la Comtesse Anastasie Schouwaloff de
-Saint-Pï¿½tersbourg, reprï¿½sentï¿½e sous l'emblï¿½me de la Mansuï¿½tude invoquant
+N°16.--Tombeau de la Comtesse Anastasie Schouwaloff de
+Saint-Pétersbourg, représentée sous l'emblème de la Mansuétude invoquant
 le secours du ciel. Sur le devant trois petites statues: la Foi,
-l'Espï¿½rance et la Charitï¿½, par _Michel Van Lint_.
+l'Espérance et la Charité, par _Michel Van Lint_.
 
-Nï¿½17.--Monument consacrï¿½ au peintre J.-B. Tempesti, mort en 1804, avec
-une statue qui reprï¿½sente l'Amitiï¿½, par le professeur _Thomas Masi_.
+N°17.--Monument consacré au peintre J.-B. Tempesti, mort en 1804, avec
+une statue qui représente l'Amitié, par le professeur _Thomas Masi_.
 
-Nï¿½18.--Monument ï¿½rigï¿½ au Philosophe-Historien-Fabuliste, Laurent Pignoni
-d'Arezzo, mort en 1812. La statue qui est sur le monument reprï¿½sente un
-gï¿½nie tenant d'une main un flambeau renversï¿½, de l'autre, une couronne,
+N°18.--Monument érigé au Philosophe-Historien-Fabuliste, Laurent Pignoni
+d'Arezzo, mort en 1812. La statue qui est sur le monument représente un
+génie tenant d'une main un flambeau renversé, de l'autre, une couronne,
 par _Stefano Ricci_, florentin.
 
-Nï¿½19.--Monument consacrï¿½ ï¿½ Pierre Cuppari, professeur d'Agronomie, mort
-le 3 fï¿½vrier 1870, par le professeur _Pio Fedi de Florence_.
+N°19.--Monument consacré à Pierre Cuppari, professeur d'Agronomie, mort
+le 3 février 1870, par le professeur _Pio Fedi de Florence_.
 
-Nï¿½ 20.--Buste du chev. Bruno Antonio Scorzi, marguillier de la
-Primatiale de Pise, ï¿½ qui on doit les restaurations faites ï¿½ cette
-ï¿½glise en 1826 et en 1830, mort en 1838, par _Franï¿½ois Stornï¿½ de Pise_.
+N° 20.--Buste du chev. Bruno Antonio Scorzi, marguillier de la
+Primatiale de Pise, à qui on doit les restaurations faites à cette
+église en 1826 et en 1830, mort en 1838, par _François Stornì de Pise_.
 
-Nï¿½ 21.--Monument de Joseph Orosi, cï¿½lï¿½bre chimiste, mort le 14 dï¿½cembre
+N° 21.--Monument de Joseph Orosi, célèbre chimiste, mort le 14 décembre
 1873, par _Hugue Cambi de Florence_.
 
-Nï¿½ 22.--Monument consacrï¿½ au professeur Paul Mazzolo de Padoue, mort en
+N° 22.--Monument consacré au professeur Paul Mazzolo de Padoue, mort en
 1868, par _Natale Sanavio de Padoue_.
 
-Nï¿½ 23.--Monument d'Alexandre Doveri, nï¿½ ï¿½ Livourne, professeur ï¿½ Pise,
-oï¿½ il est mort en 1872, par _Ange Blondi_.
+N° 23.--Monument d'Alexandre Doveri, né à Livourne, professeur à Pise,
+où il est mort en 1872, par _Ange Blondi_.
 
-Nï¿½ 24.--Buste du Docteur J.D. Anguillesi, mort en 1833, par _Louis
+N° 24.--Buste du Docteur J.D. Anguillesi, mort en 1833, par _Louis
 Pampaloni de Florence_.
 
-Nï¿½ 25.--Monument du professeur Montanelli, mort ï¿½ Fucecchio en 1862. Un
-bas-relief reprï¿½sente la proclamation de la Constitution ï¿½ Livourne, en
+N° 25.--Monument du professeur Montanelli, mort à Fucecchio en 1862. Un
+bas-relief représente la proclamation de la Constitution à Livourne, en
 1848, par _P. Romanelli de Florence_.
 
-Nï¿½ 26.--Statue de Lï¿½onard Fibonacci qui apporta les chiffres arabes en
+N° 26.--Statue de Léonard Fibonacci qui apporta les chiffres arabes en
 Europe, par _G. Paganucci de Florence_ (1862).
 
-Nï¿½ 27.--Monument d'Alexandre Gherardesca, architecte pisan, par le prof.
+N° 27.--Monument d'Alexandre Gherardesca, architecte pisan, par le prof.
 _Santarelli de Florence_ (mort en 1852).
 
-Nï¿½ 28.--Le tombeau du Comte Mastiani Brunacci, mort en 1839, par le
+N° 28.--Le tombeau du Comte Mastiani Brunacci, mort en 1839, par le
 prof. _Bartolini de Florence_. Plus on regarde la statue qui est sur le
 tombeau (l'Inconsolable), plus on lui trouve une expression navrante.
 
-Nï¿½ 29. Monument oï¿½ est reprï¿½sentï¿½e la Loi, dï¿½diï¿½ ï¿½ Vincent Salvagnoli,
-nï¿½ ï¿½ Corniola d'Empoli, mort ï¿½ Pise en 1861, par le prof. _Fantacchiotti
+Nº 29. Monument où est représentée la Loi, dédié à Vincent Salvagnoli,
+né à Corniola d'Empoli, mort à Pise en 1861, par le prof. _Fantacchiotti
 de Florence_.
 
-Nï¿½ 30.--Monument d'Angï¿½lique Catalani, cï¿½lï¿½bre cantatrice, morte ï¿½ Paris
+N° 30.--Monument d'Angélique Catalani, célèbre cantatrice, morte à Paris
 en 1849, par le prof. _Costali de Florence_. Ce monument forme un groupe
-remarquable de 3 statues de grandeur naturelle. La plus ï¿½levï¿½e
-reprï¿½sente sainte Cï¿½cile patronne des musiciens. L'ange, assis dans une
+remarquable de 3 statues de grandeur naturelle. La plus élevée
+représente sainte Cécile patronne des musiciens. L'ange, assis dans une
 attitude pensive, a une sublime expression vitale.
 
-Nï¿½ 31.--Statue de Niccola Pisano, pï¿½re de l'architecte du Camposanto et
-sculpteur de la superbe chaire du Baptistï¿½re, par le prof. _Salvino
+N° 31.--Statue de Niccola Pisano, père de l'architecte du Camposanto et
+sculpteur de la superbe chaire du Baptistère, par le prof. _Salvino
 Salvini_.
 
-Nï¿½ 32.--Monument de Cï¿½sar Camille Borghi, noble pisan, mort en 1847, par
+Nº 32.--Monument de César Camille Borghi, noble pisan, mort en 1847, par
 le prof. _Tommaso Masi_.
 
-Nï¿½ 33.--Monument ï¿½levï¿½ ï¿½ la mï¿½moire d'Alexandre Morrona, auteur de ï¿½Pisa
-illustrata nell' arte del disegnoï¿½, mort en 1824.
+Nº 33.--Monument élevé à la mémoire d'Alexandre Morrona, auteur de «Pisa
+illustrata nell' arte del disegno», mort en 1824.
 
-Nï¿½ 34.--Monument consacrï¿½ ï¿½ la mï¿½moire de Antoine Franceschi
+N° 34.--Monument consacré à la mémoire de Antoine Franceschi
 Quarantotto, mort en 1793.
 
-Nï¿½ 35.--Effigie de l'Architecte--Ingï¿½nieur Rodolphe Castinelli, par
-_Rigï¿½naldo Bilancini_.
+Nº 35.--Effigie de l'Architecte--Ingénieur Rodolphe Castinelli, par
+_Rigìnaldo Bilancini_.
 
-Nï¿½ 36.--Monument ï¿½levï¿½ ï¿½ la mï¿½moire du poï¿½te Ranieri Tempesti, mort en
+N° 36.--Monument élevé à la mémoire du poète Ranieri Tempesti, mort en
 1819.
 
-Nï¿½ 37.--Buste du chevalier Gaï¿½tan Savi, professeur d'Histoire Naturelle,
-mort en 1844, par _Jï¿½rï¿½me Marconi de Pise_.
+Nº 37.--Buste du chevalier Gaétan Savi, professeur d'Histoire Naturelle,
+mort en 1844, par _Jérôme Marconi de Pise_.
 
-Nï¿½ 38.--Souvenir commï¿½moratif dï¿½diï¿½ ï¿½ Jacopo Barzelletti, professeur de
-mï¿½decine, mort en 1843, par _Benedetto Mori Aretino_.
+Nº 38.--Souvenir commémoratif dédié à Jacopo Barzelletti, professeur de
+médecine, mort en 1843, par _Benedetto Mori Aretino_.
 
-Le Camposanto est visible tous les jours du matin au soir, mï¿½me les
-jours de fï¿½te. On n'a qu'ï¿½ sonner ï¿½ la porte ï¿½ gauche (un pourboire au
-gardien). Une chose qui mï¿½rite d'ï¿½tre vue, c'est l'intï¿½rieur de cet
-ï¿½difice par un beau clair de lune. L'effet produit est ravissant. Si
-l'on veut assister ï¿½ ce spectacle nocturne, il sera bon d'avertir ï¿½
+Le Camposanto est visible tous les jours du matin au soir, même les
+jours de fête. On n'a qu'à sonner à la porte à gauche (un pourboire au
+gardien). Une chose qui mérite d'être vue, c'est l'intérieur de cet
+édifice par un beau clair de lune. L'effet produit est ravissant. Si
+l'on veut assister à ce spectacle nocturne, il sera bon d'avertir à
 l'avance le gardien auquel on donnera un pourboire. Et, sans en dire
-plus long, nous reviendrons sur la place du Dï¿½me, pour aller visiter la
-fameuse Tour penchï¿½e.
+plus long, nous reviendrons sur la place du Dôme, pour aller visiter la
+fameuse Tour penchée.
 
 
 
@@ -969,43 +969,43 @@ VII
 CAMPANILE
 
 
-Ce surprenant ï¿½difice (pi. 22. B. I), fut commencï¿½, en 1174, par
-l'architecte _Bonnanno de Pise_, et fut continuï¿½ par _Jean d'Inspruck_,
-par _Jean Ennipotentano_, allemands, et par _Thomas de Pise_, lequel, ï¿½
-la moitiï¿½ du XIVe siï¿½cle, ajouta la derniï¿½re spire oï¿½ sont les cloches.
+Ce surprenant édifice (pi. 22. B. I), fut commencé, en 1174, par
+l'architecte _Bonnanno de Pise_, et fut continué par _Jean d'Inspruck_,
+par _Jean Ennipotentano_, allemands, et par _Thomas de Pise_, lequel, à
+la moitié du XIVe siècle, ajouta la dernière spire où sont les cloches.
 
-On a beaucoup discutï¿½ sur l'inclinaison de cette tour. Les uns veulent
+On a beaucoup discuté sur l'inclinaison de cette tour. Les uns veulent
 que cette inclinaison soit l'effet du hasard (par exemple un abaissement
-du sol); les autres sont d'avis que c'est avec prï¿½mï¿½ditation qu'elle a
-ï¿½tï¿½ ainsi construite. Il ne manque pas de preuves pour appuyer la
-premiï¿½re opinion, telles que les ï¿½tages inclinï¿½s des galeries, et un
-aqueduc pour l'ï¿½coulement des eaux, ï¿½tabli en sens inverse de
+du sol); les autres sont d'avis que c'est avec préméditation qu'elle a
+été ainsi construite. Il ne manque pas de preuves pour appuyer la
+première opinion, telles que les étages inclinés des galeries, et un
+aqueduc pour l'écoulement des eaux, établi en sens inverse de
 l'inclinaison du clocher.
 
 CAMPANILE OU TOUR PENCHEE
 
-La hauteur de la tour est de 54 mï¿½tres 474, et sa circonfï¿½rence, ï¿½ la
-base, de 48 mï¿½tres 638. Elle est, au dehors, entourï¿½e de 8 rangs de
-colonnes superposï¿½s les uns aux autres. Ces colonnes sont en tout au
-nombre de 207. Sur la porte d'entrï¿½e, des sujets en ronde-bosse
-reprï¿½sentent la Vierge avec l'Enfant Jï¿½sus, saint Pierre et saint Jean,
-oeuvre de l'antique Ecole pisane. On voit ï¿½ l'entrï¿½e d'autres
-bas-reliefs et parmi eux une tour avec deux navires, reprï¿½sentant
-peut-ï¿½tre la fameuse tour de la _Meloria_, oeuvre de _Bonanno_, prï¿½s de
-laquelle tour, en 1284, les Gï¿½nois battirent complï¿½tement les Pisans.
+La hauteur de la tour est de 54 mètres 474, et sa circonférence, à la
+base, de 48 mètres 638. Elle est, au dehors, entourée de 8 rangs de
+colonnes superposés les uns aux autres. Ces colonnes sont en tout au
+nombre de 207. Sur la porte d'entrée, des sujets en ronde-bosse
+représentent la Vierge avec l'Enfant Jésus, saint Pierre et saint Jean,
+oeuvre de l'antique Ecole pisane. On voit à l'entrée d'autres
+bas-reliefs et parmi eux une tour avec deux navires, représentant
+peut-être la fameuse tour de la _Meloria_, oeuvre de _Bonanno_, près de
+laquelle tour, en 1284, les Génois battirent complètement les Pisans.
 
-Notre clocher est cï¿½lï¿½bre par l'expï¿½rience qu'y fit Galilï¿½e, ï¿½ l'ï¿½ge de
-23 ans, sur la chute des corps graves, expï¿½rience qui ï¿½tablit les
-fondements de la dynamique, comme le dit une inscription latine placï¿½e
+Notre clocher est célèbre par l'expérience qu'y fit Galilée, à l'âge de
+23 ans, sur la chute des corps graves, expérience qui établit les
+fondements de la dynamique, comme le dit une inscription latine placée
 au mur interne de la tour, dans lequel on, trouve encore un reste de
-l'inscription sï¿½pulcrale de l'architecte Bonanno.
+l'inscription sépulcrale de l'architecte Bonanno.
 
-Par un escalier de 293 marches, on monte au septiï¿½me ï¿½tage, et par un
-autre escalier en colimaï¿½on on arrive au sommet, d'oï¿½ l'on jouit d'un
+Par un escalier de 293 marches, on monte au septième étage, et par un
+autre escalier en colimaçon on arrive au sommet, d'où l'on jouit d'un
 panorama splendide. Ses 7 cloches ont un son harmonieux qui correspond
-aux 7 notes musicales. On ne peut monter au dernier ï¿½tage moins de 3
-personnes, afin qu'une surveillance puisse ï¿½tre exercï¿½e sur les
-personnes qui seraient tentï¿½es de se suicider.
+aux 7 notes musicales. On ne peut monter au dernier étage moins de 3
+personnes, afin qu'une surveillance puisse être exercée sur les
+personnes qui seraient tentées de se suicider.
 
 
 
@@ -1013,35 +1013,35 @@ personnes qui seraient tentï¿½es de se suicider.
 VIII
 
 
-Au sortir de la tour, l'ï¿½tranger qui prendra la nouvelle et large rue
-_Torelli_ trouvera ï¿½ gauche la petite ï¿½glise de _S. Ranieri_ ou _S.
-Ranierino_ (pl. 33, B C I), ï¿½glise succursale de la Primatiale,
-construite en 1864, aprï¿½s la dï¿½molition de l'ï¿½glise du mï¿½me nom qui se
-trouvait situï¿½e ï¿½ l'angle de la rue conduisant ï¿½ l'Archevï¿½chï¿½ et dont la
-porte, dit la tradition, avait ï¿½tï¿½ dessinï¿½e par Michel-Ange. Attenante ï¿½
-cette ï¿½glise est l'habitation Curiale qui dï¿½pend du _Dï¿½me_ ainsi que les
-Archives des registres Baptismaux. En face, une petite rue mï¿½ne ï¿½
-l'_Arcivescovado_ (pl. 3, C I), (palais Archiï¿½piscopal), ï¿½difice d'un
-aspect imposant construit en 1116 et rebï¿½ti vers la fin du XVIe siï¿½cle,
-agrandi par la suite et achevï¿½ en 1849.
+Au sortir de la tour, l'étranger qui prendra la nouvelle et large rue
+_Torelli_ trouvera à gauche la petite église de _S. Ranieri_ ou _S.
+Ranierino_ (pl. 33, B C I), église succursale de la Primatiale,
+construite en 1864, après la démolition de l'église du même nom qui se
+trouvait située à l'angle de la rue conduisant à l'Archevêché et dont la
+porte, dit la tradition, avait été dessinée par Michel-Ange. Attenante à
+cette église est l'habitation Curiale qui dépend du _Dôme_ ainsi que les
+Archives des registres Baptismaux. En face, une petite rue mène à
+l'_Arcivescovado_ (pl. 3, C I), (palais Archiépiscopal), édifice d'un
+aspect imposant construit en 1116 et rebâti vers la fin du XVIe siècle,
+agrandi par la suite et achevé en 1849.
 
-Ce palais a une ï¿½lï¿½gante cour, au centre de laquelle se trouve une
-statue de Moï¿½se, oeuvre de _Vaccï¿½ de Carrare_. La chapelle supï¿½rieure a
-ï¿½tï¿½ peinte par les frï¿½res _Melani_. Les archives archiï¿½piscopales
-renferment des manuscrits antiques trï¿½s prï¿½cieux.
+Ce palais a une élégante cour, au centre de laquelle se trouve une
+statue de Moïse, oeuvre de _Vaccà de Carrare_. La chapelle supérieure a
+été peinte par les frères _Melani_. Les archives archiépiscopales
+renferment des manuscrits antiques très précieux.
 
-En continuant de suivre cette rue, on arrive au cï¿½lï¿½bre _Bain de Nï¿½ron_
-(pl. 4, DI) prï¿½s de la Porta a Lucca. C'est un ancien _sudatorium_ des
+En continuant de suivre cette rue, on arrive au célèbre _Bain de Néron_
+(pl. 4, DI) près de la Porta a Lucca. C'est un ancien _sudatorium_ des
 temps romains, de forme octogone, avec quatre majestueuses niches et des
-arcs ï¿½ l'intï¿½rieur. Les savants ont beaucoup dissertï¿½ sur cet imposant
-monument oï¿½ donne accï¿½s une grille (cancello) ayant de chaque cï¿½tï¿½ une
+arcs à l'intérieur. Les savants ont beaucoup disserté sur cet imposant
+monument où donne accès une grille (cancello) ayant de chaque côté une
 inscription en marbre.
 
-Vient ensuite l'ï¿½glise du martyr pisan saint Torpï¿½ (pl. 12, DI),
-construite sur l'emplacement du palais de Nï¿½ron.
+Vient ensuite l'église du martyr pisan saint Torpè (pl. 12, DI),
+construite sur l'emplacement du palais de Néron.
 
-C'est prï¿½s de lï¿½, dit-on, que se trouvait l'ancienne habitation royale
-du monarque Pï¿½lops, fondateur de Pise.
+C'est près de là, dit-on, que se trouvait l'ancienne habitation royale
+du monarque Pélops, fondateur de Pise.
 
 
 
@@ -1051,53 +1051,53 @@ IX
 SAINTE-CATHERINE
 
 
-Aprï¿½s avoir suivi une partie de la rue Sainte-Anne, si l'on tourne ï¿½
-gauche par celle de Sainte-Catherine, on arrive ï¿½ l'ï¿½glise de ce nom
-(pl. 17, E 2), qui se prï¿½sente avec sa faï¿½ade de style gothique, ornï¿½e
-de plusieurs rangs de colonnes. A cï¿½tï¿½ est le sï¿½minaire et le collï¿½ge
-(pl. 7, E 1), jadis couvent des Dominicains, oï¿½ vï¿½curent des hommes
+Après avoir suivi une partie de la rue Sainte-Anne, si l'on tourne à
+gauche par celle de Sainte-Catherine, on arrive à l'église de ce nom
+(pl. 17, E 2), qui se présente avec sa façade de style gothique, ornée
+de plusieurs rangs de colonnes. A côté est le séminaire et le collège
+(pl. 7, E 1), jadis couvent des Dominicains, où vécurent des hommes
 illustres tels que: _B. Giordano de Rivalto_, _Dominique Cavalca_,
-_Barthï¿½lemy de S. Concordio_ et _Alexandre Spina_, inventeur des
+_Barthélemy de S. Concordio_ et _Alexandre Spina_, inventeur des
 lunettes.
 
-La bibliothï¿½que du Sï¿½minaire contient plus de 40,000 volumes et des
-manuscrits trï¿½s anciens. Parmi les personnes qui l'ont enrichie, il faut
-citer l'archevï¿½que Franceschi et le cardinal Corsi. Le dernier a lï¿½guï¿½ ï¿½
-ce pieux institut sa riche bibliothï¿½que dans la salle de laquelle on
+La bibliothèque du Séminaire contient plus de 40,000 volumes et des
+manuscrits très anciens. Parmi les personnes qui l'ont enrichie, il faut
+citer l'archevêque Franceschi et le cardinal Corsi. Le dernier a légué à
+ce pieux institut sa riche bibliothèque dans la salle de laquelle on
 admire, entre autres choses, des peintures sur panneau du _Traini_,
 ancien et illustre peintre pisan.
 
-A propos de ce cï¿½lï¿½bre couvent, il est intï¿½ressant de lire la
-_Chronique_ de Fr. Dominique de Peccioli. L'ï¿½glise construite en 1253,
-d'aprï¿½s le dessin de _Guillaume Agnelli_, possï¿½de ï¿½ l'intï¿½rieur deux
-beaux monuments funï¿½raires en marbre; l'un de ces monuments est le
-mausolï¿½e de l'archevï¿½que Saltarelli par _Nino Pisano_(1342). Les
-tableaux des autels reprï¿½sentent des saints de l'ordre des Dominicains.
+A propos de ce célèbre couvent, il est intéressant de lire la
+_Chronique_ de Fr. Dominique de Peccioli. L'église construite en 1253,
+d'après le dessin de _Guillaume Agnelli_, possède à l'intérieur deux
+beaux monuments funéraires en marbre; l'un de ces monuments est le
+mausolée de l'archevêque Saltarelli par _Nino Pisano_(1342). Les
+tableaux des autels représentent des saints de l'ordre des Dominicains.
 Celui de saint Thomas d'Aquin, par _Franc. Traini_, pisan (1340), est
-trï¿½s estimï¿½. Le saint y est reprï¿½sentï¿½ assis au moment oï¿½ lui viennent
+très estimé. Le saint y est représenté assis au moment où lui viennent
 d'en haut les rayons du savoir; plus bas que lui, se trouvent les
-nombreux disciples de sa doctrine. A cï¿½tï¿½ de l'autel est une chaire que
-la constante tradition dit ï¿½tre celle d'oï¿½ le savant Docteur, se
-trouvant ï¿½ Pise, dicta ses saintes leï¿½ons. Une inscription en caractï¿½res
-gothiques, placï¿½e sur cette chaire et recouverte d'une plaque en
+nombreux disciples de sa doctrine. A côté de l'autel est une chaire que
+la constante tradition dit être celle d'où le savant Docteur, se
+trouvant à Pise, dicta ses saintes leçons. Une inscription en caractères
+gothiques, placée sur cette chaire et recouverte d'une plaque en
 cristal, dit:
 
            HIC PISIS HAC IPSA HOSPES SUM SEDE LOQUTUS.
            PISAS ET SEDEM NUNC QUOQUE GRATUS AMO.
 
-Le tableau du pisan _Tempesti_, reprï¿½sentant la Vierge du Rosaire, est
+Le tableau du pisan _Tempesti_, représentant la Vierge du Rosaire, est
 d'une belle conception.
 
 La place de Sainte-Catherine est une des principales de Pise. Elle est
-de forme elliptique, ombragï¿½e ï¿½ l'entour de platanes touffus. Au milieu
-s'ï¿½lï¿½ve la statue de Lï¿½opold Ier, du _Pampaloni_, avec la simple, mais
-ï¿½loquente inscription: ï¿½_Au Grand-Duc Pierre-Lï¿½opold premier, quarante
-ans aprï¿½s sa mort._ï¿½
+de forme elliptique, ombragée à l'entour de platanes touffus. Au milieu
+s'élève la statue de Léopold Ier, du _Pampaloni_, avec la simple, mais
+éloquente inscription: «_Au Grand-Duc Pierre-Léopold premier, quarante
+ans après sa mort._»
 
-Allant ensuite vers l'Est, par la rue de Saint-Laurent, on trouvera ï¿½
+Allant ensuite vers l'Est, par la rue de Saint-Laurent, on trouvera à
 droite la _Banque Toscane_, et de suite en tournant, la rue
 Sainte-Elisabeth, par laquelle on va au remarquable temple de
-Saint-Franï¿½ois.
+Saint-François.
 
 
 
@@ -1107,56 +1107,56 @@ X
 S. FRANCESCO
 
 
-L'ï¿½glise de Saint-Franï¿½ois (pl. 10, E F 3), actuellement changï¿½e en
-dï¿½pï¿½t d'artillerie, a ï¿½tï¿½ fondï¿½e avec le couvent annexe en 1211. Selon
+L'église de Saint-François (pl. 10, E F 3), actuellement changée en
+dépôt d'artillerie, a été fondée avec le couvent annexe en 1211. Selon
 le Morrona, l'architecte _Nicolas de Pise_ en est l'auteur. Il n'y a
-qu'une seule et grande nef ayant ï¿½ son extrï¿½mitï¿½ un transept avec
-plusieurs chapelles. D'ï¿½lï¿½gants piliers octogones bordent le grand jubï¿½
-et les chapelles latï¿½rales et soutiennent de majestueuses arcades de
+qu'une seule et grande nef ayant à son extrémité un transept avec
+plusieurs chapelles. D'élégants piliers octogones bordent le grand jubé
+et les chapelles latérales et soutiennent de majestueuses arcades de
 forme ogivale.
 
 Les tableaux des autels sont l'oeuvre d'habiles artistes qui ont aussi
-dï¿½corï¿½ notre Cathï¿½drale. Les cï¿½rï¿½monies religieuses se font dans une
+décoré notre Cathédrale. Les cérémonies religieuses se font dans une
 chapelle du couvent.
 
-Le clocher est surprenant, car il pose par moitiï¿½ sur un angle de
-l'ï¿½glise, tandis que l'autre moitiï¿½ repose sur de forts appuis. On voit
-dans le cloï¿½tre une grosse pierre sï¿½pulcrale prï¿½s de la porte latï¿½rale
-de l'ï¿½glise, comme celle qui couvre la tombe du Ghï¿½rardesca et du fameux
-Comte Ugolin. L'inscription du sï¿½pulcre ï¿½tait ainsi conï¿½ue.
+Le clocher est surprenant, car il pose par moitié sur un angle de
+l'église, tandis que l'autre moitié repose sur de forts appuis. On voit
+dans le cloître une grosse pierre sépulcrale près de la porte latérale
+de l'église, comme celle qui couvre la tombe du Ghérardesca et du fameux
+Comte Ugolin. L'inscription du sépulcre était ainsi conçue.
 
    HIC REQ............
    MAGNIFICI ET POTENTES VIRI DOMINI UGOLINI
    COMITIS DE DONORATICO QUI OBIIT DIE VIII.
    JANUAR MCCC XXXXII.
 
-Les os des Ghï¿½rardesca furent enlevï¿½s de ce sï¿½pulcre par un gardien du
-couvent et transportï¿½s ï¿½ Florence, comme le raconte notre _Dal Borgo_.
+Les os des Ghérardesca furent enlevés de ce sépulcre par un gardien du
+couvent et transportés à Florence, comme le raconte notre _Dal Borgo_.
 
-Vient ensuite une chapelle dï¿½corï¿½e de belles peintures ï¿½ fresque
-exï¿½cutï¿½es, en 1391, par _Nicolas Petri_, disciple de Giotto.
+Vient ensuite une chapelle décorée de belles peintures à fresque
+exécutées, en 1391, par _Nicolas Petri_, disciple de Giotto.
 
-Saint Bonaventure ayant tenu un chapitre de Frï¿½res Mineurs dans cette
-chapelle, en 1255, elle fut appelï¿½e la _Chapelle du Chapitre de
+Saint Bonaventure ayant tenu un chapitre de Frères Mineurs dans cette
+chapelle, en 1255, elle fut appelée la _Chapelle du Chapitre de
 Saint-Bonaventure_. Une inscription latine dit que, dans ce Chapitre,
-fut ï¿½tabli pour la premiï¿½re fois l'usage de rï¿½citer la salutation
-Angï¿½lique, ou _Angelus Domini_, trois fois par jour, comme cela se
-pratique aujourd'hui dans tout le monde chrï¿½tien.
+fut établi pour la première fois l'usage de réciter la salutation
+Angélique, ou _Angelus Domini_, trois fois par jour, comme cela se
+pratique aujourd'hui dans tout le monde chrétien.
 
-D'antiques fresques se trouvent aussi ï¿½ la sacristie.
+D'antiques fresques se trouvent aussi à la sacristie.
 
-De Saint-Franï¿½ois, en allant vers le Sud, nous viendrons ï¿½ l'ï¿½glise de
-Saint-Andrï¿½, en traversant la rue du mï¿½me nom. On prï¿½tend que c'est dans
-cette ï¿½glise que fut enseveli le malheureux _Piero delle Vigne_,
-secrï¿½taire de l'Empereur Frï¿½dï¿½ric II.
+De Saint-François, en allant vers le Sud, nous viendrons à l'église de
+Saint-André, en traversant la rue du même nom. On prétend que c'est dans
+cette église que fut enseveli le malheureux _Piero delle Vigne_,
+secrétaire de l'Empereur Frédéric II.
 
-De lï¿½ on va ï¿½ la nouvelle rue _Palestro_, et l'on trouve la Synagogue
-des Israï¿½lites.
+De là on va à la nouvelle rue _Palestro_, et l'on trouve la Synagogue
+des Israélites.
 
-Tournant ï¿½ droite, on arrive, par une petite rue, ï¿½ la nouvelle _Cour
-d'Assises_, et revenant par le mï¿½me chemin (toujours ï¿½ droite), on voit
-le grandiose _Thï¿½ï¿½tre Neuf_, aprï¿½s lequel vient la _Caserne de la
-Gendarmerie_. Vis-ï¿½-vis, ï¿½ gauche, on rencontre l'ancienne ï¿½glise de S.
+Tournant à droite, on arrive, par une petite rue, à la nouvelle _Cour
+d'Assises_, et revenant par le même chemin (toujours à droite), on voit
+le grandiose _Théâtre Neuf_, après lequel vient la _Caserne de la
+Gendarmerie_. Vis-à-vis, à gauche, on rencontre l'ancienne église de S.
 Pierino.
 
 
@@ -1167,38 +1167,38 @@ XI
 S. PIERINO OU S. PIERRE IN VINCULIS
 
 
-Cette ï¿½glise (pl. 32, E 4), surnommï¿½e par le peuple S. Pierino, fut
-fondï¿½e en 1072.
+Cette église (pl. 32, E 4), surnommée par le peuple S. Pierino, fut
+fondée en 1072.
 
-Une porte latï¿½rale introduit dans la crypte partagï¿½e en trois rangs de
+Une porte latérale introduit dans la crypte partagée en trois rangs de
 piliers que surmontent des arcs en demi-cercle qui soutiennent les
-voussures formï¿½es de grosses briques, comme celles qui se trouvent dans
-les bï¿½tisses romaines.
+voussures formées de grosses briques, comme celles qui se trouvent dans
+les bâtisses romaines.
 
-On entre dans l'ï¿½glise supï¿½rieure du cï¿½tï¿½ de la _rue Cavour_ en montant
+On entre dans l'église supérieure du côté de la _rue Cavour_ en montant
 plusieurs marches. Au-dessus du portail est un bel architrave, reste
-d'un ancien ï¿½pistyle. L'objet qui dans cette ï¿½glise frappe l'attention
-est un Crucifiement sur panneau, de l'ancienne ï¿½cole pisane. Au sortir,
-en tournant ï¿½ gauche, on trouve la place de la _Berlina_, oï¿½ s'ï¿½lï¿½ve une
+d'un ancien épistyle. L'objet qui dans cette église frappe l'attention
+est un Crucifiement sur panneau, de l'ancienne école pisane. Au sortir,
+en tournant à gauche, on trouve la place de la _Berlina_, où s'élève une
 colonne avec la statue de l'Abondance, oeuvre de _Pierin da Vinci_,
-neveu de l'immortel Lï¿½onard, et l'on rentre ï¿½ Lungarno Mediceo.
+neveu de l'immortel Léonard, et l'on rentre à Lungarno Mediceo.
 
 Parmi les palais qu'on rencontre en descendant vers l'Est, nous
-citerons: celui du comte Agostini, qui a une belle faï¿½ade clair-obscur:
+citerons: celui du comte Agostini, qui a une belle façade clair-obscur:
 puis celui de Lanfranchi, maintenant Toscanelli, dont l'architecture est
-attribuï¿½e ï¿½ Michel-Ange. La faï¿½ade est tout en marbre. Il fut habitï¿½ par
-Lord Byron en 1822. A cï¿½tï¿½ est le palais de _Roncioni_, oï¿½ l'on conserve
-les plus riches archives privï¿½es de Pise, qui renferment des parchemins
-du VIIIe et du XVIIIe siï¿½cle, et plusieurs documents de l'histoire du
-pays. L'Archiprï¿½tre Raphaï¿½l, auteur des _Histoires Pisanes_, ï¿½tait de la
+attribuée à Michel-Ange. La façade est tout en marbre. Il fut habité par
+Lord Byron en 1822. A côté est le palais de _Roncioni_, où l'on conserve
+les plus riches archives privées de Pise, qui renferment des parchemins
+du VIIIe et du XVIIIe siècle, et plusieurs documents de l'histoire du
+pays. L'Archiprêtre Raphaël, auteur des _Histoires Pisanes_, était de la
 famille Roncioni. Il mourut en 1618.
 
-Nous voici, aprï¿½s avoir traversï¿½ la place de la Fontina, au cï¿½lï¿½bre
-_Palais Mediceo_, qui fut autrefois la premiï¿½re rï¿½sidence des
-grands-ducs Mï¿½dicis. Ce fut lï¿½ que Cosme Ier tua son fils D. Garzia,
+Nous voici, après avoir traversé la place de la Fontina, au célèbre
+_Palais Mediceo_, qui fut autrefois la première résidence des
+grands-ducs Médicis. Ce fut là que Cosme Ier tua son fils D. Garzia,
 pour venger la mort de son autre fils le Cardinal Jean, que D. Garzia
-avait par jalousie assassinï¿½ en 1562. Ce palais est devenu aujourd'hui
-la propriï¿½tï¿½ du marquis Spinola qui l'a fait reconstruire dans son
+avait par jalousie assassiné en 1562. Ce palais est devenu aujourd'hui
+la propriété du marquis Spinola qui l'a fait reconstruire dans son
 ancien style gothique.
 
 
@@ -1209,113 +1209,113 @@ XII
 S. MATTEO
 
 
-L'ï¿½glise de Saint-Mathieu (pl. 45, E 45), fondï¿½e en 1027, ainsi que le
-monastï¿½re annexï¿½, (aujourd'hui transformï¿½ en prison judiciaire), par
-Donna Teuta, femme d'Hildebert Albito, attire la curiositï¿½ du voyageur
-qui admire sa surprenante voï¿½te peinte par les _Frï¿½res Melani de Pise_.
+L'église de Saint-Mathieu (pl. 45, E 45), fondée en 1027, ainsi que le
+monastère annexé, (aujourd'hui transformé en prison judiciaire), par
+Donna Teuta, femme d'Hildebert Albito, attire la curiosité du voyageur
+qui admire sa surprenante voûte peinte par les _Frères Melani de Pise_.
 Pour mieux jouir de tous les sujets religieux et des ornements
-d'architecture qui la dï¿½corent, il est nï¿½cessaire de s'arrï¿½ter au milieu
-de l'ï¿½glise, sur une petite pierre bleuï¿½tre, octangulaire. De lï¿½, on
-aperï¿½oit l'admirable artifice de ce travail, et la voï¿½te se montre alors
-beaucoup plus ï¿½levï¿½e qu'elle ne l'est en rï¿½alitï¿½.
+d'architecture qui la décorent, il est nécessaire de s'arrêter au milieu
+de l'église, sur une petite pierre bleuâtre, octangulaire. De là, on
+aperçoit l'admirable artifice de ce travail, et la voûte se montre alors
+beaucoup plus élevée qu'elle ne l'est en réalité.
 
-Nous voici ï¿½ l'extrï¿½mitï¿½ du quai: vous avez ï¿½ gauche la rue
-Sainte-Marthe (pl. 27, F 4), oï¿½ est l'ï¿½glise de ce nom ï¿½difiï¿½e en 1342,
-dans laquelle on voit ï¿½ droite de l'autel une peinture qui reprï¿½sente la
-Nativitï¿½ de Jï¿½sus-Christ, par _L. Pï¿½cheux de Lyon_, et ï¿½ gauche sainte
-Marthe agenouillï¿½e devant le Seigneur, par _G.-B. Tempesti_. Il faut
-observer ï¿½ droite de la porte d'entrï¿½e un Crucifiement sur panneau de
-l'ancienne ï¿½cole pisane.
+Nous voici à l'extrémité du quai: vous avez à gauche la rue
+Sainte-Marthe (pl. 27, F 4), où est l'église de ce nom édifiée en 1342,
+dans laquelle on voit à droite de l'autel une peinture qui représente la
+Nativité de Jésus-Christ, par _L. Pêcheux de Lyon_, et à gauche sainte
+Marthe agenouillée devant le Seigneur, par _G.-B. Tempesti_. Il faut
+observer à droite de la porte d'entrée un Crucifiement sur panneau de
+l'ancienne école pisane.
 
-Revenant vers Lungarno, vous avez encore ï¿½ gauche la spacieuse place de
-Saint-Silvestre, (pl. 46, G 5). Dans l'ï¿½glise (maintenant fermï¿½e), est
-un remarquable bas-relief en terre cuite, ouvrage du cï¿½lï¿½bre _Della
+Revenant vers Lungarno, vous avez encore à gauche la spacieuse place de
+Saint-Silvestre, (pl. 46, G 5). Dans l'église (maintenant fermée), est
+un remarquable bas-relief en terre cuite, ouvrage du célèbre _Della
 Robbia_. Du couvent annexe, on a fait une maison de correction pour les
 enfants.
 
-Auprï¿½s du _pont de la Forteresse_ ou des _Piagge_, se trouvent la
-Barriï¿½re et l'agrï¿½able promenade qui portent ce nom. Du pont, on jouit,
-de chaque cï¿½tï¿½, d'un admirable coup d'oeil.
+Auprès du _pont de la Forteresse_ ou des _Piagge_, se trouvent la
+Barrière et l'agréable promenade qui portent ce nom. Du pont, on jouit,
+de chaque côté, d'un admirable coup d'oeil.
 
-Lorsque vous avez traversï¿½ le pont, prenez le chemin que vous voyez sous
-une sombre voï¿½te du palais Scotto-Corsini, vous entrerez dans l'enceinte
+Lorsque vous avez traversé le pont, prenez le chemin que vous voyez sous
+une sombre voûte du palais Scotto-Corsini, vous entrerez dans l'enceinte
 de l'_antica fortezza_ (pl. 2, F 7), construite en 1475, par les
-Florentins, quand ils se furent rendus maï¿½tres de Pise. La petite ï¿½glise
-qu'on rencontre ï¿½ gauche est celle de _S.-Andrea in Chinseca_, oï¿½ fut
-baptisï¿½ Galilï¿½e, et oï¿½ est ensevelie la mï¿½re de S. Ranieri.
+Florentins, quand ils se furent rendus maîtres de Pise. La petite église
+qu'on rencontre à gauche est celle de _S.-Andrea in Chinseca_, où fut
+baptisé Galilée, et où est ensevelie la mère de S. Ranieri.
 
-Toujours ï¿½ gauche, ï¿½ peu de pas de lï¿½, vient la maison oï¿½, le 18 fï¿½vrier
+Toujours à gauche, à peu de pas de là, vient la maison où, le 18 février
 de l'an 1564, naquit de Vincent Galilei, florentin, officier de cette
-forteresse, et de Julie Ammannati de Pescia, le cï¿½lï¿½bre Galilï¿½e, dont la
-statue, comme il est dï¿½jï¿½ dit, se trouve dans la grande salle des hommes
-illustres de l'Universitï¿½. A l'occasion du troisiï¿½me Centenaire de sa
-naissance (18 fï¿½vrier 1864), on a placï¿½ sur la porte de cette maison une
-pierre en marbre oï¿½ sont gravï¿½s ces mots: _Ici naquit Galileo Galilei,
-le 18 fï¿½vrier 1564_. On frappa aussi une mï¿½daille en commï¿½moration de
-cet ï¿½vï¿½nement.
+forteresse, et de Julie Ammannati de Pescia, le célèbre Galilée, dont la
+statue, comme il est déjà dit, se trouve dans la grande salle des hommes
+illustres de l'Université. A l'occasion du troisième Centenaire de sa
+naissance (18 février 1864), on a placé sur la porte de cette maison une
+pierre en marbre où sont gravés ces mots: _Ici naquit Galileo Galilei,
+le 18 février 1564_. On frappa aussi une médaille en commémoration de
+cet événement.
 
-Les murs et les remparts de l'ancienne forteresse rï¿½unis au susdit
-palais Scotto-Corsini, forment une ravissante promenade, oï¿½ l'on monte
+Les murs et les remparts de l'ancienne forteresse réunis au susdit
+palais Scotto-Corsini, forment une ravissante promenade, où l'on monte
 au moyen d'un escalier qui est dans la cour. Cette promenade se compose
 d'une longue galerie en arcades couverte d'un second passage en plein
-air, interrompu par des tourelles et des plates-formes plantï¿½es d'arbres
+air, interrompu par des tourelles et des plates-formes plantées d'arbres
 et renfermant un beau jardin avec un charmant bosquet.
 
-Dans ce vaste palais existe une suite de dï¿½licieuses salles, et l'on
-remarque particuliï¿½rement la plus grande, oï¿½ sont de belles fresques du
-peintre Ademollo, reprï¿½sentant du cï¿½tï¿½ droit: Enï¿½e quittant Didon, puis
-le serment des Troyens; sur le mur, entre les fenï¿½tres, le malheureux
-Priam demande ï¿½ Achille le corps de son fils; vient aprï¿½s le combat
-entre Pï¿½ris et Mï¿½nï¿½las, et, en dernier lieu, la vieille Hï¿½cube, mï¿½re de
+Dans ce vaste palais existe une suite de délicieuses salles, et l'on
+remarque particulièrement la plus grande, où sont de belles fresques du
+peintre Ademollo, représentant du côté droit: Enée quittant Didon, puis
+le serment des Troyens; sur le mur, entre les fenêtres, le malheureux
+Priam demande à Achille le corps de son fils; vient après le combat
+entre Pâris et Ménélas, et, en dernier lieu, la vieille Hécube, mère de
 Priam, qui va prier au Temple.
 
-A chaque extrï¿½mitï¿½ de cette salle se trouvent, dans deux grands meubles
-en acajou entourï¿½s de cristal, de la riche vaisselle, des porcelaines de
-Chine, une infinitï¿½ d'objets de dï¿½coration pour tables ï¿½ manger, en
-argent plaquï¿½ et en bronze dorï¿½. Au-dessus de ces meubles, il y a une
-collection de superbes vases en faï¿½ence et une infinitï¿½ d'autres objets
-prï¿½cieux.
+A chaque extrémité de cette salle se trouvent, dans deux grands meubles
+en acajou entourés de cristal, de la riche vaisselle, des porcelaines de
+Chine, une infinité d'objets de décoration pour tables à manger, en
+argent plaqué et en bronze doré. Au-dessus de ces meubles, il y a une
+collection de superbes vases en faïence et une infinité d'autres objets
+précieux.
 
-Deux salles plus loin, vous trouvez encore des fresques oï¿½ sont peints
-des traits d'histoire grecque, et prï¿½s de la porte d'entrï¿½e un grand
+Deux salles plus loin, vous trouvez encore des fresques où sont peints
+des traits d'histoire grecque, et près de la porte d'entrée un grand
 tableau offrant le portrait en grandeur naturelle de la noble dame
-Scotto, debout, habillï¿½e en velours noir, portant des bijoux de perles
-et d'ï¿½meraudes. Avec elle, est sa fille, la princesse Corsini. Cette
-derniï¿½re est reprï¿½sentï¿½e dans sa premiï¿½re jeunesse, vï¿½tue de blanc avec
+Scotto, debout, habillée en velours noir, portant des bijoux de perles
+et d'émeraudes. Avec elle, est sa fille, la princesse Corsini. Cette
+dernière est représentée dans sa première jeunesse, vêtue de blanc avec
 parure de turquoises et de diamants, assise devant un piano.
 
-Au rez-de-chaussï¿½e du palais est une petite chapelle dï¿½diï¿½e ï¿½ saint
-Andrï¿½ Corsini, oï¿½ l'on voit, en face la porte, un joli tableau qui
-reprï¿½sente le saint. Cette chapelle contient une quantitï¿½ d'objets
-intï¿½ressants, entre autres un tableau oï¿½ est peint un _Ecce Homo_
-attribuï¿½ ï¿½ l'ï¿½cole de _Leonardo da Vinci_, et deux grands cierges donnï¿½s
+Au rez-de-chaussée du palais est une petite chapelle dédiée à saint
+André Corsini, où l'on voit, en face la porte, un joli tableau qui
+représente le saint. Cette chapelle contient une quantité d'objets
+intéressants, entre autres un tableau où est peint un _Ecce Homo_
+attribué à l'école de _Leonardo da Vinci_, et deux grands cierges donnés
 par Pie IX. On peut y dire la messe et rien ne manque de ce qui est
-nï¿½cessaire pour les cï¿½rï¿½monies religieuses: chasubles, aubes ornï¿½es de
-riches dentelles, etc. Tout le pavï¿½ du palais est en marbre ï¿½ la
-vï¿½nitienne.
+nécessaire pour les cérémonies religieuses: chasubles, aubes ornées de
+riches dentelles, etc. Tout le pavé du palais est en marbre à la
+vénitienne.
 
-Du donjon regardant la porte Florentine, un escalier conduit ï¿½ un
+Du donjon regardant la porte Florentine, un escalier conduit à un
 souterrain qui, traversant sous l'Arno, va aboutir au fort de la
 Verruca.
 
-Lorsque vous avez franchi une arcade faisant face ï¿½ la maison oï¿½ naquit
-Galilï¿½e, et qui ï¿½tait l'entrï¿½e occidentale de la forteresse, laissant ï¿½
-gauche la porte Florentine, tournez ï¿½ droite dans la rue S. Martino et
-vous trouverez l'ï¿½glise de S. Martino (pl. 28, E 6.), construite par le
+Lorsque vous avez franchi une arcade faisant face à la maison où naquit
+Galilée, et qui était l'entrée occidentale de la forteresse, laissant à
+gauche la porte Florentine, tournez à droite dans la rue S. Martino et
+vous trouverez l'église de S. Martino (pl. 28, E 6.), construite par le
 comte Boniface de la Gherardesca. Elle a appartenu successivement aux
-Chanoines _Lateranensi_ et aux Clarisses. C'est lï¿½ que l'on conserve le
+Chanoines _Lateranensi_ et aux Clarisses. C'est là que l'on conserve le
 corps de sainte Bone, pisane.
 
-Aprï¿½s avoir parcouru une partie de la rue Saint-Martin, vous verrez ï¿½
-gauche, dans le mur d'une maison, une statuette qui, dit-on, reprï¿½sente
+Après avoir parcouru une partie de la rue Saint-Martin, vous verrez à
+gauche, dans le mur d'une maison, une statuette qui, dit-on, représente
 _Chinseca de'Sismondi_, laquelle, en 1006, par un acte de courage
-hï¿½roï¿½que, sauva sa patrie d'une invasion de Barbares conduits par le
-fï¿½roce Musetto, qui avaient tentï¿½ d'incendier la ville pendant la nuit.
+héroïque, sauva sa patrie d'une invasion de Barbares conduits par le
+féroce Musetto, qui avaient tenté d'incendier la ville pendant la nuit.
 
-A peu de pas, tournant ï¿½ gauche vous rentrez dans la rue S. Giovannino,
-oï¿½ est l'ï¿½glise S. Giovanni. En face est celle de Saint-Bernard avec le
-couvent annexï¿½ des _Cappuccine_ (pl. 42 E 6). Et revenant encore ï¿½ Saint
-Martin, vous trouverez bientï¿½t ï¿½ droite la place de Saint-Sï¿½pulcre.
+A peu de pas, tournant à gauche vous rentrez dans la rue S. Giovannino,
+où est l'église S. Giovanni. En face est celle de Saint-Bernard avec le
+couvent annexé des _Cappuccine_ (pl. 42 E 6). Et revenant encore à Saint
+Martin, vous trouverez bientôt à droite la place de Saint-Sépulcre.
 
 
 
@@ -1325,34 +1325,34 @@ XIII
 S. SEPOLCRO
 
 
-Saint-Sï¿½pulcre (pl. 35 E 5) est une ï¿½glise octogone, avec un dï¿½me en
-pyramide. C'est l'ancienne ï¿½glise des Chevaliers de Malte, vulgairement
-dite S. Sepolcro, restaurï¿½e et rendue ï¿½ sa forme primitive en 1860. On y
-entre en descendant quelques marches. A l'origine elle ï¿½tait au niveau
-de la place; celle-ci ayant ï¿½tï¿½ par la suite rehaussï¿½e, ce n'est que de
-nos jours que cette ï¿½glise a ï¿½tï¿½ dï¿½sensevelie. Dans l'intï¿½rieur, la
+Saint-Sépulcre (pl. 35 E 5) est une église octogone, avec un dôme en
+pyramide. C'est l'ancienne église des Chevaliers de Malte, vulgairement
+dite S. Sepolcro, restaurée et rendue à sa forme primitive en 1860. On y
+entre en descendant quelques marches. A l'origine elle était au niveau
+de la place; celle-ci ayant été par la suite rehaussée, ce n'est que de
+nos jours que cette église a été désensevelie. Dans l'intérieur, la
 coupole est soutenue par des arcs en ogive, et l'autel est au-dessous,
-isolï¿½. Le temple a ï¿½tï¿½ construit par l'architecte _Diotisalvi_, l'an
+isolé. Le temple a été construit par l'architecte _Diotisalvi_, l'an
 1153.
 
-En revenant dans la rue Saint-Martin, on trouve ï¿½ gauche la nouvelle
-ï¿½glise Evangï¿½lique. A peu de distance, passant par la rue Traversa, on
-se retrouve sur le Lungarno Galileo, au palais de la Prï¿½fecture auquel
-est annexï¿½ le Tribunal et le bureau du Tï¿½lï¿½graphe.
+En revenant dans la rue Saint-Martin, on trouve à gauche la nouvelle
+église Evangélique. A peu de distance, passant par la rue Traversa, on
+se retrouve sur le Lungarno Galileo, au palais de la Préfecture auquel
+est annexé le Tribunal et le bureau du Télégraphe.
 
-Ayant passï¿½ les _Logge de Banchi_, vous rencontrerez l'ancien palais
-Gambacorti, qui a des fenï¿½tres ï¿½ double arcade soutenues au milieu par
+Ayant passé les _Logge de Banchi_, vous rencontrerez l'ancien palais
+Gambacorti, qui a des fenêtres à double arcade soutenues au milieu par
 une colonnette, et vous arriverez au _Bureau de la Poste aux lettres_,
 (pl. 51, D 4. 5).
 
-Peu aprï¿½s, au carrefour de deux rues, se prï¿½sente la petite ï¿½glise de
-_Sainte-Christine_, (pl. 21, D 45) _cï¿½lï¿½bre parce que Sainte Catherine
-de Sienne_ y reï¿½ut les stigmates le 1er avril 1375.
+Peu après, au carrefour de deux rues, se présente la petite église de
+_Sainte-Christine_, (pl. 21, D 45) _célèbre parce que Sainte Catherine
+de Sienne_ y reçut les stigmates le 1er avril 1375.
 
-En commï¿½moration de ce fait, on y a ï¿½rigï¿½ un autel.
+En commémoration de ce fait, on y a érigé un autel.
 
-On voit enfin apparaï¿½tre ï¿½ droite sur les bords du fleuve ce charmant
-bijou d'art appelï¿½ _la Spina_.
+On voit enfin apparaître à droite sur les bords du fleuve ce charmant
+bijou d'art appelé _la Spina_.
 
 
 
@@ -1363,36 +1363,36 @@ SANTA MARIA DELLA SPINA
 
 
 Sainte-Marie de l'Epine (pl. 26, C 5), est un petit temple, heureusement
-restaurï¿½ de nos jours, qui, bien que de petite dimension, donne une idï¿½e
-du Saint-Ambroï¿½se de Milan. Tout y est mignon, mais d'un travail exquis.
-D'ï¿½lï¿½gantes aiguilles, des statuettes, de petits tabernacles, des
-rosaces, et d'autres ouvrages en marbre trï¿½s fins de sculpture
-embellissent l'ï¿½glise de trois cï¿½tï¿½s, mais surtout du cï¿½tï¿½ mï¿½ridional.
+restauré de nos jours, qui, bien que de petite dimension, donne une idée
+du Saint-Ambroìse de Milan. Tout y est mignon, mais d'un travail exquis.
+D'élégantes aiguilles, des statuettes, de petits tabernacles, des
+rosaces, et d'autres ouvrages en marbre très fins de sculpture
+embellissent l'église de trois côtés, mais surtout du côté méridional.
 
-Elle a ï¿½tï¿½ ï¿½difiï¿½e en 1323 par le Sï¿½nat et par les soins de la famille
-Gualandi. C'est lï¿½ que venaient prier les marins au moment de leur
-dï¿½part. Elle fut construite ï¿½ la place d'un oratoire dit de
-_Sainte-Marie du Pont Neuf_. Ce pont fut emportï¿½ dans un dï¿½bordement de
-l'Arno. Elle est appelï¿½e _Sainte-Marie de l'Epine_ parce que, en 1333,
-une insigne relique de la Couronne sacrï¿½e d'ï¿½pines de Notre-Seigneur y
-fut enfermï¿½e.
+Elle a été édifiée en 1323 par le Sénat et par les soins de la famille
+Gualandi. C'est là que venaient prier les marins au moment de leur
+départ. Elle fut construite à la place d'un oratoire dit de
+_Sainte-Marie du Pont Neuf_. Ce pont fut emporté dans un débordement de
+l'Arno. Elle est appelée _Sainte-Marie de l'Epine_ parce que, en 1333,
+une insigne relique de la Couronne sacrée d'épines de Notre-Seigneur y
+fut enfermée.
 
-Les statues qu'on remarque dans l'intï¿½rieur, sur l'autel, sont de _Ninus
-de Pise_, lequel, comme l'a observï¿½ le Vasari, exprima l'effigie de son
-propre pï¿½re dans une des statues reprï¿½sentant saint Pierre; mais les
-deux statues qui sont de chaque cï¿½tï¿½ de l'autel, sont attribuï¿½es au
+Les statues qu'on remarque dans l'intérieur, sur l'autel, sont de _Ninus
+de Pise_, lequel, comme l'a observé le Vasari, exprima l'effigie de son
+propre père dans une des statues représentant saint Pierre; mais les
+deux statues qui sont de chaque côté de l'autel, sont attribuées au
 _Moschino_. On voit encore une autre statue de _Ninus_ entre les deux
 portes.
 
-Cette ï¿½glise contient peu de tableaux et ceux-ci sont de _Jean-Antoine
-Razzi_. L'ornementation extï¿½rieure est en grande partie l'oeuvre de
-_Jean de Pise_ et de quelques-uns de ses ï¿½lï¿½ves. (Sonner vis-ï¿½-vis, au
-nï¿½ 22, pour le gardien auquel on donne un pourboire.) De lï¿½, on monte
-par une douce pente au nouveau et ï¿½lï¿½gant pont Solferino, commencï¿½ le 18
-aoï¿½t 1871 et achevï¿½ le 10 avril 1875, sous la direction de l'architecte
-_Micheli_. En suivant toujours Lungarno Gambacorti, aprï¿½s avoir passï¿½
-devant le monastï¿½re de _S. Benedetto_ (Benoï¿½t) (pl. 41, B6), qui a sa
-faï¿½ade ornï¿½e d'ouvrages en terre cuite exï¿½cutï¿½s de nos jours, on trouve
+Cette église contient peu de tableaux et ceux-ci sont de _Jean-Antoine
+Razzi_. L'ornementation extérieure est en grande partie l'oeuvre de
+_Jean de Pise_ et de quelques-uns de ses élèves. (Sonner vis-à-vis, au
+n° 22, pour le gardien auquel on donne un pourboire.) De là, on monte
+par une douce pente au nouveau et élégant pont Solferino, commencé le 18
+août 1871 et achevé le 10 avril 1875, sous la direction de l'architecte
+_Micheli_. En suivant toujours Lungarno Gambacorti, après avoir passé
+devant le monastère de _S. Benedetto_ (Benoît) (pl. 41, B6), qui a sa
+façade ornée d'ouvrages en terre cuite exécutés de nos jours, on trouve
 la place de Saint-Paul.
 
 
@@ -1403,40 +1403,40 @@ XV
 S. PAOLO
 
 
-Nous voici ï¿½ l'ancienne ï¿½glise _S. Paolo_ (Saint-Paul), _a Ripa d'Arno_
-(pl. 31, B 6), qui ï¿½tait, dit-on, l'ancienne cathï¿½drale de Pise. Fondï¿½e
-l'an 805, elle resta en possession des moines Vallombrosaniens jusqu'ï¿½
-l'an 1483. Il y a peu d'annï¿½es qu'elle a ï¿½tï¿½ restaurï¿½e et remise dans
-son ï¿½tat primitif. Elle a trois nefs et un transept. Sa faï¿½ade est ornï¿½e
+Nous voici à l'ancienne église _S. Paolo_ (Saint-Paul), _a Ripa d'Arno_
+(pl. 31, B 6), qui était, dit-on, l'ancienne cathédrale de Pise. Fondée
+l'an 805, elle resta en possession des moines Vallombrosaniens jusqu'à
+l'an 1483. Il y a peu d'années qu'elle a été restaurée et remise dans
+son état primitif. Elle a trois nefs et un transept. Sa façade est ornée
 de plusieurs ordres de colonnes et d'arcs avec des encadrements, des
-feuillages et des bas-reliefs bizarres. A l'intï¿½rieur, une inscription
-contient l'ï¿½loge du cï¿½lï¿½bre _Burgundio de Pise_, un des plus doctes
-hellï¿½nistes du XIIe siï¿½cle, interprï¿½te des Pandectes.
+feuillages et des bas-reliefs bizarres. A l'intérieur, une inscription
+contient l'éloge du célèbre _Burgundio de Pise_, un des plus doctes
+hellénistes du XIIe siècle, interprète des Pandectes.
 
-Anciennement les murs de ce temple ï¿½taient couverts des peintures de
-_Buffalmacco_, de _Cimabuï¿½_ et de _Simon Memmi_. Il ne reste maintenant
-que deux ou trois sujets ï¿½ fresque.
+Anciennement les murs de ce temple étaient couverts des peintures de
+_Buffalmacco_, de _Cimabuë_ et de _Simon Memmi_. Il ne reste maintenant
+que deux ou trois sujets à fresque.
 
-Sur un des autels est une Madone avec saint Ranieri et saint Torpï¿½,
+Sur un des autels est une Madone avec saint Ranieri et saint Torpè,
 pisans, peints par _Turino Vanni_.
 
-Dans un jardin contigu au presbytï¿½re, on voit une ancienne chapelle de
+Dans un jardin contigu au presbytère, on voit une ancienne chapelle de
 Sainte-Agathe, dont le sommet se termine en pyramide.
 
-C'est dans cette ï¿½glise que l'on conserve le corps de sainte Anastasie,
-vierge et martyre, et la tï¿½te de sainte Agathe de Catanie.
+C'est dans cette église que l'on conserve le corps de sainte Anastasie,
+vierge et martyre, et la tête de sainte Agathe de Catanie.
 
-Le maï¿½tre-autel fut consacrï¿½ par le bienheureux Eugï¿½ne III, pape pisan,
+Le maître-autel fut consacré par le bienheureux Eugène III, pape pisan,
 le 18 octobre 1149.
 
-Derriï¿½re Saint-Paul est l'hospice des Orphelins, surnommï¿½ la
+Derrière Saint-Paul est l'hospice des Orphelins, surnommé la
 _Qualconia_.
 
-Il ne faut pas oublier de signaler que la partie des murs qui s'ï¿½tend
-depuis Saint-Antoine jusqu'ï¿½ Saint-Paul et au fort _Stampace_, situï¿½ ï¿½
-l'angle occidental, est cï¿½lï¿½bre ï¿½ cause des combats mï¿½morables qui
+Il ne faut pas oublier de signaler que la partie des murs qui s'étend
+depuis Saint-Antoine jusqu'à Saint-Paul et au fort _Stampace_, situé à
+l'angle occidental, est célèbre à cause des combats mémorables qui
 eurent lieu en cet endroit entre les Pisans et les Florentins, au
-commencement du XVIe siï¿½cle. Ce fort, ï¿½ moitiï¿½ ruinï¿½ et impraticable, a
+commencement du XVIe siècle. Ce fort, à moitié ruiné et impraticable, a
 des souterrains et des bastions.
 
 
@@ -1445,118 +1445,118 @@ des souterrains et des bastions.
 XVI
 
 
-Vu la briï¿½vetï¿½ de cet ouvrage, j'ai nï¿½gligï¿½ de dï¿½crire bon nombre de
+Vu la brièveté de cet ouvrage, j'ai négligé de décrire bon nombre de
 rues peu importantes, cependant je parlerai encore de quelques-unes qui
 sont dans le centre de la ville, telles que: _Via del Borgo Largo_ qui
-continue _via del Borgo_ ou _Sotto Borgo_. De cette derniï¿½re voie,
-tournant ï¿½ droite, on entre dans la rue Saint-Franï¿½ois, le long de
-laquelle est situï¿½e ï¿½ gauche l'ï¿½glise de Sainte-Cï¿½cile (pl. 19, E 3),
-qui, dans la partie latï¿½rale, a deux anciens arcs de style moresque. La
-rue qui s'ouvre devant cette ï¿½glise en porte le nom. Un peu plus loin, ï¿½
-droite, on voit l'ï¿½glise de _S. Paolo all'Orto_ (pl. 30, E 3).
+continue _via del Borgo_ ou _Sotto Borgo_. De cette dernière voie,
+tournant à droite, on entre dans la rue Saint-François, le long de
+laquelle est située à gauche l'église de Sainte-Cécile (pl. 19, E 3),
+qui, dans la partie latérale, a deux anciens arcs de style moresque. La
+rue qui s'ouvre devant cette église en porte le nom. Un peu plus loin, à
+droite, on voit l'église de _S. Paolo all'Orto_ (pl. 30, E 3).
 
 A la fin de Borgo Largo, il y a deux rues, dont l'une conduit sur la
-place Sainte-Catherine, l'autre est la rue de Sainte-Anne, derriï¿½re
-laquelle se trouvent la rue et l'ï¿½glise S. Apollonia (pl. 14, D 2). Dans
+place Sainte-Catherine, l'autre est la rue de Sainte-Anne, derrière
+laquelle se trouvent la rue et l'église S. Apollonia (pl. 14, D 2). Dans
 la rue Sainte-Anne, est le Royal Conservatoire des Jeunes Demoiselles,
-rï¿½uni ï¿½ l'ï¿½glise aussi de Sainte-Anne.
+réuni à l'église aussi de Sainte-Anne.
 
 De retour au Lungarno Regio, nous remonterons la place Saint-Nicolas,
-qui est ornï¿½e, au milieu, par une belle statue du _Francavilla_,
-reprï¿½sentant le grand-duc Ferdinand 1er, dont l'attitude indique le
-dï¿½sir de soulager la ville de Pise, que symbolise une femme qui nourrit
+qui est ornée, au milieu, par une belle statue du _Francavilla_,
+représentant le grand-duc Ferdinand 1er, dont l'attitude indique le
+désir de soulager la ville de Pise, que symbolise une femme qui nourrit
 deux enfants.
 
-A quelques pas, sur la droite, le R. THï¿½ATRE ERNEST ROSSI, autrefois
-_dei Ravvivati_, qui a ï¿½tï¿½ construit en 1770, et qui depuis peu a ï¿½tï¿½
-restaurï¿½ avec goï¿½t et ï¿½lï¿½gance.
+A quelques pas, sur la droite, le R. THÉATRE ERNEST ROSSI, autrefois
+_dei Ravvivati_, qui a été construit en 1770, et qui depuis peu a été
+restauré avec goût et élégance.
 
-Au coin de la place, la faï¿½ade sur Lungarno, est le _Palais Royal_, (pl.
-49, C 4), ï¿½rigï¿½ en 1550, sous la direction de l'architecte _Bandinelli_.
+Au coin de la place, la façade sur Lungarno, est le _Palais Royal_, (pl.
+49, C 4), érigé en 1550, sous la direction de l'architecte _Bandinelli_.
 
-Contiguï¿½ au palais, la faï¿½ade donnant rue Sainte-Marie, est l'ï¿½glise de
-S. Niccola, (pl. 11, C 4), ï¿½ laquelle peut aller la famille Royale par
-des tribunes qui la rï¿½unissent au palais. Ce qui mï¿½rite le plus
-d'attention pour ce qui concerne cette ï¿½glise, c'est le cï¿½lï¿½bre clocher,
+Contiguë au palais, la façade donnant rue Sainte-Marie, est l'église de
+S. Niccola, (pl. 11, C 4), à laquelle peut aller la famille Royale par
+des tribunes qui la réunissent au palais. Ce qui mérite le plus
+d'attention pour ce qui concerne cette église, c'est le célèbre clocher,
 un des plus beaux ouvrages de _Nicolas de Pise_, de forme octogone,
-divisï¿½ ï¿½ l'extï¿½rieur en quatre ï¿½tages.
+divisé à l'extérieur en quatre étages.
 
-Digne d'observation est aussi, dans l'intï¿½rieur, l'escalier ï¿½tabli avec
-un art extrï¿½me; il est soutenu par vingt-quatre colonnes de granit et de
-marbre. Le Vasari assure que cet escalier servit de modï¿½le au Bramante,
-dans la construction de celui du belvï¿½dï¿½re ï¿½ Rome, pour le pontife Jules
+Digne d'observation est aussi, dans l'intérieur, l'escalier établi avec
+un art extrême; il est soutenu par vingt-quatre colonnes de granit et de
+marbre. Le Vasari assure que cet escalier servit de modèle au Bramante,
+dans la construction de celui du belvédère à Rome, pour le pontife Jules
 II.
 
-En sortant de l'ï¿½glise _S. Niccola_, on revient ï¿½ Lungarno Regio ï¿½
+En sortant de l'église _S. Niccola_, on revient à Lungarno Regio à
 l'Est; prenant au coin de la place S. Niccola, on trouve d'abord le
 palais Prini, puis, suivant toujours le quai, le palais Vitelli (pl. 50,
-C 4), rï¿½sidence des employï¿½s du roi, et, tout ï¿½ fait ï¿½ cï¿½tï¿½, le _Palais
+C 4), résidence des employés du roi, et, tout à fait à côté, le _Palais
 Uppezinghi_, anciennement Lanfreducci, dit aussi le _Palais de Marbre_,
-ou _Alla Giornata_ (ï¿½ la journï¿½e) (pl. 47, C D 4), ï¿½ cause de la devise
-gravï¿½e sur l'architrave de la porte qu'on n'a pas encore su clairement
+ou _Alla Giornata_ (à la journée) (pl. 47, C D 4), à cause de la devise
+gravée sur l'architrave de la porte qu'on n'a pas encore su clairement
 expliquer, pas plus que l'on n'a su trouver la signification d'un
-morceau de chaï¿½ne qu'on y voit suspendue. Dans la petite galerie, le
-palais possï¿½de entre autres peintures, un tableau de _Guido Reni_, qui
-reprï¿½sente l'Amour divin et l'Amour terrestre.
+morceau de chaîne qu'on y voit suspendue. Dans la petite galerie, le
+palais possède entre autres peintures, un tableau de _Guido Reni_, qui
+représente l'Amour divin et l'Amour terrestre.
 
-Vous voyez ï¿½ peu de distance une petite ï¿½glise nommï¿½e la _Madone des
-Galletti_, ï¿½difiï¿½e sur l'emplacement de l'ancienne _Porte Aurea_,
-mï¿½morable pour avoir servi d'arc de triomphe aux Pisans lorsqu'ils
+Vous voyez à peu de distance une petite église nommée la _Madone des
+Galletti_, édifiée sur l'emplacement de l'ancienne _Porte Aurea_,
+mémorable pour avoir servi d'arc de triomphe aux Pisans lorsqu'ils
 revenaient victorieux de leurs entreprises militaires.
 
-A peu de distance est un autre palais du comte Agostini, dont la faï¿½ade
-de style gothique du XVe siï¿½cle est un travail en terre cuite.
+A peu de distance est un autre palais du comte Agostini, dont la façade
+de style gothique du XVe siècle est un travail en terre cuite.
 
-Au rez-de-chaussï¿½e, est installï¿½ l'ancien et renommï¿½ cafï¿½ de l'Ussero.
+Au rez-de-chaussée, est installé l'ancien et renommé café de l'Ussero.
 
-De retour au Pont Solferino, on trouvera, aprï¿½s la descente ï¿½ droite,
-l'_Eglise Anglaise_, (pl. 24, B 5) avec l'entrï¿½e sur la petite place de
-Santa Lucia; et reprenant la rue Solferino qui conduit directement ï¿½ la
-cathï¿½drale, on passera devant les nouveaux ï¿½tablissements de l'ï¿½cole de
-Mï¿½DECINE ET DE CHIRURGIE, ï¿½difice vaste et imposant qui a ï¿½tï¿½ exï¿½cutï¿½
-sons la direction de _M. Corsani_, ingï¿½nieur communal. Cette ï¿½cole est
-trï¿½s frï¿½quentï¿½e par d'habiles professeurs et par un nombre considï¿½rable
-d'ï¿½tudiants en mï¿½decine.
+De retour au Pont Solferino, on trouvera, après la descente à droite,
+l'_Eglise Anglaise_, (pl. 24, B 5) avec l'entrée sur la petite place de
+Santa Lucia; et reprenant la rue Solferino qui conduit directement à la
+cathédrale, on passera devant les nouveaux établissements de l'école de
+MÉDECINE ET DE CHIRURGIE, édifice vaste et imposant qui a été exécuté
+sons la direction de _M. Corsani_, ingénieur communal. Cette école est
+très fréquentée par d'habiles professeurs et par un nombre considérable
+d'étudiants en médecine.
 
-Au coin de cette mï¿½me rue Solferino, et sur la place du _Duomo_, se
-trouvent les RR. Hï¿½PITAUX Rï¿½UNIS (pl. 5, B 2). Rue Solferino, annexï¿½e
-aux RR. hï¿½pitaux, est la petite ï¿½glise de santa Chiara (pl. 43, B 2).
+Au coin de cette même rue Solferino, et sur la place du _Duomo_, se
+trouvent les RR. HÔPITAUX RÉUNIS (pl. 5, B 2). Rue Solferino, annexée
+aux RR. hôpitaux, est la petite église de santa Chiara (pl. 43, B 2).
 
 Rebroussant chemin, toujours dans la rue Solferino, nous apercevons
-l'entrï¿½e du Jardin Botanique (pl. 37, C 3), ouvert au public depuis 9
-heures du matin jusqu'ï¿½ 4 heures du soir.
+l'entrée du Jardin Botanique (pl. 37, C 3), ouvert au public depuis 9
+heures du matin jusqu'à 4 heures du soir.
 
-Revenant une autre fois ï¿½ Lungarno Regio, nous trouvons, passï¿½ le Pont
-Solferino, les _Stallette_ qui servent d'ï¿½curies ï¿½ la garnison; et, ï¿½
-cï¿½tï¿½, la petite ï¿½glise de S. Vito, cï¿½lï¿½bre ï¿½ cause du monastï¿½re auquel
-elle ï¿½tait rï¿½unie et dans lequel mourut le protecteur de Pise, S.
-Ranieri. On voit ï¿½ quelques pas, l'antique ï¿½difice de la Tour et de la
-Citadelle, oï¿½ est aujourd'hui la caserne occupï¿½e par un corps
-d'artillerie, le 7me rï¿½giment.
+Revenant une autre fois à Lungarno Regio, nous trouvons, passé le Pont
+Solferino, les _Stallette_ qui servent d'écuries à la garnison; et, à
+côté, la petite église de S. Vito, célèbre à cause du monastère auquel
+elle était réunie et dans lequel mourut le protecteur de Pise, S.
+Ranieri. On voit à quelques pas, l'antique édifice de la Tour et de la
+Citadelle, où est aujourd'hui la caserne occupée par un corps
+d'artillerie, le 7me régiment.
 
-De lï¿½, on aperï¿½oit le nouveau pont de fer construit hors de la ville,
+De là, on aperçoit le nouveau pont de fer construit hors de la ville,
 sur lequel passent les trains du chemin de fer.
 
-Avant de quitter ce cï¿½tï¿½ de la ville, nous dirons qu'il y a lï¿½ un
-nouveau quartier oï¿½ l'on voit de magnifiques habitations entourï¿½es de
-gracieux jardins donnant tous les agrï¿½ments rï¿½unis de la ville et de la
+Avant de quitter ce côté de la ville, nous dirons qu'il y a là un
+nouveau quartier où l'on voit de magnifiques habitations entourées de
+gracieux jardins donnant tous les agréments réunis de la ville et de la
 campagne.
 
-De l'autre cï¿½tï¿½ de l'Arno, vous trouvez encore plusieurs rues, parmi
+De l'autre côté de l'Arno, vous trouvez encore plusieurs rues, parmi
 lesquelles une des plus importantes est la rue Saint Antoine, qui
-s'ï¿½tend depuis la Spina, en passant devant la petite ï¿½glise de S. Cosimo
-et Damiano (pl. 20, C 5), jusqu'ï¿½ l'ï¿½glise de Saint-Antoine. Cette
-derniï¿½re fut bï¿½tie, ainsi que le couvent annexe, en 1341, pour les
-moines Armï¿½niens de l'ordre de Saint-Basile, et appartint plus tard aux
+s'étend depuis la Spina, en passant devant la petite église de S. Cosimo
+et Damiano (pl. 20, C 5), jusqu'à l'église de Saint-Antoine. Cette
+dernière fut bâtie, ainsi que le couvent annexe, en 1341, pour les
+moines Arméniens de l'ordre de Saint-Basile, et appartint plus tard aux
 Serviteurs de Marie, qui y officient encore aujourd'hui.
 
-On rencontre ensuite l'ï¿½glise et la rue de la _Madeleine_ (pl. 25, D 5),
-maintenant rue Mazzini, ï¿½ l'extrï¿½mitï¿½ de laquelle est la maison oï¿½ est
+On rencontre ensuite l'église et la rue de la _Madeleine_ (pl. 25, D 5),
+maintenant rue Mazzini, à l'extrémité de laquelle est la maison où est
 mort Joseph Mazzini, le 10 mars 1872.
 
 Dans cet endroit de Pise se trouvent aussi plusieurs nouvelles et belles
-rues qui toutes aboutissent au _Parterre de la Barriï¿½re Victor-Emanuel_,
-par lequel on pourra revenir ï¿½ la gare du chemin de fer.
+rues qui toutes aboutissent au _Parterre de la Barrière Victor-Emanuel_,
+par lequel on pourra revenir à la gare du chemin de fer.
 
 
 
@@ -1571,58 +1571,58 @@ XVII
 S. PIERO A GRADO
 
 
-En venant de la gare centrale, l'ï¿½tranger peut, par un chemin situï¿½ ï¿½
+En venant de la gare centrale, l'étranger peut, par un chemin situé à
 gauche vers l'ouest, passant de la _Porta a Mare_ sur l'ancienne route
-de Livourne, aller visiter le plus ancien monument sacrï¿½ de Pise. C'est
-l'insigne ï¿½glise de _S. Pietro a Grado_, ainsi appelï¿½e parce que jadis
-la mer allait jusque lï¿½, et qu'il y avait des marches pour descendre
-dans les barques. Une tradition reportï¿½e aussi par le cardinal Baronie,
-dans ses _Annales ecclï¿½siastiques_, ï¿½ l'an 44 de J.-C. et par d'autres
-auteurs, dit que l'apï¿½tre saint Pierre, venant en Italie, aborda en ce
-lieu, poussï¿½ par la force des vents; que ce fut lï¿½ qu'il commenï¿½a ï¿½
-prï¿½cher l'Evangile aux Pisans; qu'il y ï¿½leva mï¿½me un autel sur lequel il
-cï¿½lï¿½bra les divins mystï¿½res, autel que plus tard il fit consacrer par
-son disciple saint Clï¿½ment. Lorsque celui-ci consacra l'ï¿½glise, tandis
+de Livourne, aller visiter le plus ancien monument sacré de Pise. C'est
+l'insigne église de _S. Pietro a Grado_, ainsi appelée parce que jadis
+la mer allait jusque là, et qu'il y avait des marches pour descendre
+dans les barques. Une tradition reportée aussi par le cardinal Baronie,
+dans ses _Annales ecclésiastiques_, à l'an 44 de J.-C. et par d'autres
+auteurs, dit que l'apôtre saint Pierre, venant en Italie, aborda en ce
+lieu, poussé par la force des vents; que ce fut là qu'il commença à
+prêcher l'Evangile aux Pisans; qu'il y éleva même un autel sur lequel il
+célébra les divins mystères, autel que plus tard il fit consacrer par
+son disciple saint Clément. Lorsque celui-ci consacra l'église, tandis
 qu'il disait la messe, il saigna du nez et le sang coula sur la pierre
-de l'autel. Au Moyen-Age, pendant plusieurs annï¿½es cette pierre fut
-portï¿½e en procession de S. Piero au _Duomo_ et viceversa. Elle fut par
-la suite taillï¿½e en morceaux pour en faire des reliques. Il n'en reste
-aujourd'hui qu'un seul fragment que l'on conserve dans la cathï¿½drale, ï¿½
-droite de l'autel du Saint-Sacrement; ce fragment est protï¿½gï¿½ par un
-rï¿½seau en fer.
+de l'autel. Au Moyen-Age, pendant plusieurs années cette pierre fut
+portée en procession de S. Piero au _Duomo_ et viceversa. Elle fut par
+la suite taillée en morceaux pour en faire des reliques. Il n'en reste
+aujourd'hui qu'un seul fragment que l'on conserve dans la cathédrale, à
+droite de l'autel du Saint-Sacrement; ce fragment est protégé par un
+réseau en fer.
 
-L'ancien temple construit sur le mï¿½me emplacement vers le XIe siï¿½cle, et
-qui possï¿½dait des peintures concernant la vie de saint Pierre et sa
+L'ancien temple construit sur le même emplacement vers le XIe siècle, et
+qui possédait des peintures concernant la vie de saint Pierre et sa
 venue dans ce lieu, confirment cette tradition; on en a un autre
-tï¿½moignage dans les frï¿½quents pï¿½lerinages que des rï¿½gions les plus
-ï¿½loignï¿½es on faisait encore ï¿½ ce pays au Moyen-Age, et dans le soin
+témoignage dans les fréquents pèlerinages que des régions les plus
+éloignées on faisait encore à ce pays au Moyen-Age, et dans le soin
 qu'eurent les anciens Pisans de conserver le temple et de l'embellir. Il
-ne prï¿½sente plus maintenant que quelques restes de ses anciennes
-peintures et les portraits des Papes, depuis saint Pierre jusqu'ï¿½ Jean
+ne présente plus maintenant que quelques restes de ses anciennes
+peintures et les portraits des Papes, depuis saint Pierre jusqu'à Jean
 XIV (an 969).
 
 Il renferme trois nefs avec des colonnes en granit oriental et en marbre
-grec; il a deux absides qui, ï¿½ chaque extrï¿½mitï¿½, forment ï¿½ peu prï¿½s la
-proue et la poupe d'un navire, ce qui montre qu'on a voulu reprï¿½senter
+grec; il a deux absides qui, à chaque extrémité, forment à peu près la
+proue et la poupe d'un navire, ce qui montre qu'on a voulu représenter
 dans ce temple le mystique Navire de saint Pierre, comme on a fait en ce
-qui concerne l'ï¿½glise du mï¿½me saint ï¿½ Tibï¿½riade de Palestine.
+qui concerne l'église du même saint à Tibériade de Palestine.
 
-En 1630 et en 1791, on fit des restaurations qui changï¿½rent assez
-l'extï¿½rieur de cet ï¿½difice. On y entre par une porte latï¿½rale; son
-clocher est une antique tour qui s'aperï¿½oit de loin, mï¿½me par les
-personnes qui voyagent en chemin de fer, ï¿½ mi-chemin entre Pise et
+En 1630 et en 1791, on fit des restaurations qui changèrent assez
+l'extérieur de cet édifice. On y entre par une porte latérale; son
+clocher est une antique tour qui s'aperçoit de loin, même par les
+personnes qui voyagent en chemin de fer, à mi-chemin entre Pise et
 Livourne.
 
-Dans l'intï¿½rieur de l'ï¿½glise, on voit au centre de la grande nef, une
-petite ouverture fermï¿½e par une grille: on dit que c'est l'endroit oï¿½
-s'arrï¿½ta la barque dans laquelle ï¿½tait saint Pierre.
+Dans l'intérieur de l'église, on voit au centre de la grande nef, une
+petite ouverture fermée par une grille: on dit que c'est l'endroit où
+s'arrêta la barque dans laquelle était saint Pierre.
 
-Plus loin, dans le lieu oï¿½, dit-on, le Saint cï¿½lï¿½brait la messe, s'ï¿½lï¿½ve
+Plus loin, dans le lieu où, dit-on, le Saint célébrait la messe, s'élève
 un gracieux petit temple avec des colonnes, un autel et des statues de
 marbre.
 
-La distance de Saint-Pierre a Grado ï¿½ Pise est de 4 milles; et, en
-continuant toujours ce mï¿½me chemin, on va au nouvel _Etablissement des
+La distance de Saint-Pierre a Grado à Pise est de 4 milles; et, en
+continuant toujours ce même chemin, on va au nouvel _Etablissement des
 bains de la Gorgona a Marina_.
 
 
@@ -1633,34 +1633,34 @@ XVIII
 LA CHARTREUSE
 
 
-Ce superbe ï¿½difice, qui semble un chï¿½teau royal, s'ï¿½lï¿½ve ï¿½ six milles de
+Ce superbe édifice, qui semble un château royal, s'élève à six milles de
 Pise, vers l'est, sur un des plus beaux points des monts Pisans, dans la
-_Vallï¿½e Gracieuse_, prï¿½s du pays de Calci, renommï¿½ pour son excellente
-huile d'olive connue et recherchï¿½e dans le commerce.
+_Vallée Gracieuse_, près du pays de Calci, renommé pour son excellente
+huile d'olive connue et recherchée dans le commerce.
 
-L'origine de la Chartreuse remonte ï¿½ 1366; on la construisit avec les
-fonds qu'un Armï¿½nien avait laissï¿½s ï¿½ cette intention.
+L'origine de la Chartreuse remonte à 1366; on la construisit avec les
+fonds qu'un Arménien avait laissés à cette intention.
 
-Martin V, en 1426, rï¿½unit ï¿½ cette Chartreuse les chartreux de l'ï¿½le de
+Martin V, en 1426, réunit à cette Chartreuse les chartreux de l'île de
 la Gorgone, et Paul III, en 1538, confirma une telle union et la
-possession des biens ecclï¿½siastiques.
+possession des biens ecclésiastiques.
 
-Aprï¿½s la premiï¿½re moitiï¿½ du XVIIIe siï¿½cle, elle fut trï¿½s bien restaurï¿½e.
-Un ample cloï¿½tre avec des colonnes de marbre et de superbes fontaines;
-une splendide faï¿½ade ayant un perron en marbre pour monter ï¿½ l'ï¿½glise;
-un beau groupe aussi en marbre reprï¿½sentant l'Assomption de la Vierge
-placï¿½ au sommet de l'ï¿½difice; un beau rï¿½fectoire dï¿½corï¿½ de peintures
-avec de longs corridors et d'ï¿½lï¿½gants escaliers; une magnifique ï¿½glise
+Après la première moitié du XVIIIe siècle, elle fut très bien restaurée.
+Un ample cloître avec des colonnes de marbre et de superbes fontaines;
+une splendide façade ayant un perron en marbre pour monter à l'église;
+un beau groupe aussi en marbre représentant l'Assomption de la Vierge
+placé au sommet de l'édifice; un beau réfectoire décoré de peintures
+avec de longs corridors et d'élégants escaliers; une magnifique église
 avec des peintures du _Rolli_, du _Graziani_, du _Vanni_, du
 _Franceschini_ et du _Chartreux Etienne Cassiani_; de gracieuses
-chapelles avec des pavï¿½s oï¿½ sont reprï¿½sentï¿½s toutes sortes de dessins:
-voilï¿½, en peu de mots (pour nous taire sur bien d'autres choses) ce qui
-vï¿½ritablement mï¿½rite d'attirer l'attention des visiteurs. Cette
-Chartreuse ï¿½tait une des plus riches avant sa suppression au temps de la
-domination franï¿½aise; elle avait la possession de l'ï¿½le de la Gorgone
-dans la Mï¿½diterranï¿½e.
+chapelles avec des pavés où sont représentés toutes sortes de dessins:
+voilà, en peu de mots (pour nous taire sur bien d'autres choses) ce qui
+véritablement mérite d'attirer l'attention des visiteurs. Cette
+Chartreuse était une des plus riches avant sa suppression au temps de la
+domination française; elle avait la possession de l'île de la Gorgone
+dans la Méditerranée.
 
-Sur le sommet du mont, ï¿½ gauche de la Chartreuse, se trouve l'ancien
+Sur le sommet du mont, à gauche de la Chartreuse, se trouve l'ancien
 manoir de la Verruca.
 
 
@@ -1671,16 +1671,16 @@ XIX
 LA VERRUCA
 
 
-Ce robuste ï¿½difice fut construit en vedette par les Pisans, au XIe
-siï¿½cle, pour ï¿½pier les mouvements de l'ennemi et leur rï¿½sister comme un
-rempart inaccessible; il fut placï¿½ sur des roches escarpï¿½es. La porte
-est ingï¿½nieusement cachï¿½e parmi les rochers.
+Ce robuste édifice fut construit en vedette par les Pisans, au XIe
+siècle, pour épier les mouvements de l'ennemi et leur résister comme un
+rempart inaccessible; il fut placé sur des roches escarpées. La porte
+est ingénieusement cachée parmi les rochers.
 
-Dans l'enceinte d'une ï¿½paisse muraille, on voit une place vide oï¿½ se
+Dans l'enceinte d'une épaisse muraille, on voit une place vide où se
 trouvent, au-dessous, plusieurs citernes et des magasins. On croit qu'il
 y avait jadis aussi de profonds souterrains. La vue dont on jouit de
 cette hauteur est splendide. En 1496, le pays et l'abbaye de
-Saint-Michel, qui ï¿½taient prï¿½s de la Verruca, furent pris et dï¿½truits
+Saint-Michel, qui étaient près de la Verruca, furent pris et détruits
 par les Florentins. Il n'en reste plus maintenant que quelques ruines.
 
 
@@ -1692,15 +1692,15 @@ ULIVETO ET Vico PISANO
 
 
 Sous le mont de la Verruca, et le long de l'Arno, on trouve le village
-d'_Uliveto_ avec son nouvel ï¿½tablissement d'eaux thermales et ses
-carriï¿½res de pierres. Il y a ï¿½galement une pittoresque grotte dite la
+d'_Uliveto_ avec son nouvel établissement d'eaux thermales et ses
+carrières de pierres. Il y a également une pittoresque grotte dite la
 _Grotta del Pippi_.
 
-Aprï¿½s avoir passï¿½ plusieurs jolis villages sur le rivage du fleuve, on
-arrive ï¿½ _Vico Pisano_, oï¿½ est la forteresse construite par _Philippe
-Brunelleschi_. Pour satisfaire les amateurs d'antiquitï¿½s, nous leur
-indiquerons en outre les ï¿½glises de _S. Cassï¿½ano_ et de _Cascina_, de
-l'autre cï¿½tï¿½ de l'Arno.
+Après avoir passé plusieurs jolis villages sur le rivage du fleuve, on
+arrive à _Vico Pisano_, où est la forteresse construite par _Philippe
+Brunelleschi_. Pour satisfaire les amateurs d'antiquités, nous leur
+indiquerons en outre les églises de _S. Cassìano_ et de _Cascina_, de
+l'autre côté de l'Arno.
 
 
 
@@ -1710,21 +1710,21 @@ XXI
 BAINS DE SAINT-JULIEN
 
 
-Au N.-E. de Pise, ï¿½ la distance d'environ 4 milles, existe le village de
-Saint-Julien avec ses cï¿½lï¿½bres Thermes restï¿½s chers aux Pisans depuis
-les plus anciens temps, et restaurï¿½s au XIVe siï¿½cle. Ils furent beaucoup
-amï¿½liorï¿½s sous les grands-ducs Ferdinand 1er, en 1597, et Franï¿½ois Ier,
-en 1742. Deux ï¿½tablissements de bains restent isolï¿½s sur la place, en
-face desquels s'ï¿½lï¿½ve un beau palais avec plusieurs vastes appartements,
+Au N.-E. de Pise, à la distance d'environ 4 milles, existe le village de
+Saint-Julien avec ses célèbres Thermes restés chers aux Pisans depuis
+les plus anciens temps, et restaurés au XIVe siècle. Ils furent beaucoup
+améliorés sous les grands-ducs Ferdinand 1er, en 1597, et François Ier,
+en 1742. Deux établissements de bains restent isolés sur la place, en
+face desquels s'élève un beau palais avec plusieurs vastes appartements,
 une salle de bal, des salons de jeu, etc.
 
-Cet ï¿½difice ï¿½tant adossï¿½ ï¿½ la montagne, on peut, par derriï¿½re, monter en
-voiture jusqu'ï¿½ l'ï¿½tage du milieu.
+Cet édifice étant adossé à la montagne, on peut, par derrière, monter en
+voiture jusqu'à l'étage du milieu.
 
-Lï¿½, se trouvent des portiques et commencent d'agrï¿½ables mais ï¿½troits
+Là, se trouvent des portiques et commencent d'agréables mais étroits
 chemins qui conduisent sur la montagne, parmi des plantes ombrageuses.
 
-Ces bains sont fort frï¿½quentï¿½s pendant l'ï¿½tï¿½ ï¿½ cause de l'efficacitï¿½ de
+Ces bains sont fort fréquentés pendant l'été à cause de l'efficacité de
 leurs eaux. On peut y aller par le chemin de fer.
 
 
@@ -1735,24 +1735,24 @@ XXII
 LES RR. CASCINE DI S. ROSSORE
 
 
-En sortant par la Porte-Neuve, qui est vis-ï¿½-vis la Cathï¿½drale, on
-trouve bientï¿½t ï¿½ gauche une longue et large route bordï¿½e d'arbres,
-laquelle va aux Cascine, mï¿½tairies royales avec un chï¿½teau de chasse du
-roi, situï¿½es au commencement des ï¿½paisses forï¿½ts qui s'ï¿½tendent jusqu'ï¿½
-la mer. Deux statues en marbre se trouvent ï¿½ l'arrivï¿½e. On rencontre ï¿½
-droite et ï¿½ gauche de vastes prairies avant la grande place oï¿½ sont les
-_Cascine_ et d'autres ï¿½difices. Parmi les nombreux animaux qu'on
-entretient dans ce lieu, se trouve une grande quantitï¿½ de chameaux, le
+En sortant par la Porte-Neuve, qui est vis-à-vis la Cathédrale, on
+trouve bientôt à gauche une longue et large route bordée d'arbres,
+laquelle va aux Cascine, métairies royales avec un château de chasse du
+roi, situées au commencement des épaisses forêts qui s'étendent jusqu'à
+la mer. Deux statues en marbre se trouvent à l'arrivée. On rencontre à
+droite et à gauche de vastes prairies avant la grande place où sont les
+_Cascine_ et d'autres édifices. Parmi les nombreux animaux qu'on
+entretient dans ce lieu, se trouve une grande quantité de chameaux, le
 seul troupeau qui existe en Europe.
 
-Des allï¿½es en tous sens conduisent de la place dans plusieurs lieux
-agrï¿½ables, tels que, ï¿½ gauche, les _Cascine Nuove_, vers l'Arno. Une
-autre route va au Gombo, oï¿½ existait autrefois un petit ï¿½tablissement de
-bains de mer qui a ï¿½tï¿½ reportï¿½ ï¿½ Marina, ou Bocca d'Arno.
+Des allées en tous sens conduisent de la place dans plusieurs lieux
+agréables, tels que, à gauche, les _Cascine Nuove_, vers l'Arno. Une
+autre route va au Gombo, où existait autrefois un petit établissement de
+bains de mer qui a été reporté à Marina, ou Bocca d'Arno.
 
-C'est aux bains du Gombo que mourut le poï¿½te Shelley, le 7 juillet 1822.
-Son ami lord Byron fit brï¿½ler le cadavre, et plus tard on enterra les
-cendres prï¿½s de la pyramide de Sextius ï¿½ Rome.
+C'est aux bains du Gombo que mourut le poète Shelley, le 7 juillet 1822.
+Son ami lord Byron fit brûler le cadavre, et plus tard on enterra les
+cendres près de la pyramide de Sextius à Rome.
 
 
 
@@ -1762,36 +1762,36 @@ XXIII
 CAMPOSANTO SUBURBANO
 
 
-Hors de cette mï¿½me _Porte Neuve_, en s'acheminant vers le Nord, on
-arrive au grand et nouveau cimetiï¿½re, fermï¿½ par une sï¿½rie de galeries
-qui environnent le vaste champ oï¿½ l'on ensevelit journellement.
+Hors de cette même _Porte Neuve_, en s'acheminant vers le Nord, on
+arrive au grand et nouveau cimetière, fermé par une série de galeries
+qui environnent le vaste champ où l'on ensevelit journellement.
 
 De nouvelles galeries sont en construction, et les secondes, comme les
-premiï¿½res, sont dï¿½jï¿½ remplies de sï¿½pultures, d'inscriptions funï¿½bres et
-de monuments en grande partie ï¿½lï¿½gants, et dont quelques-uns mï¿½me
-mï¿½ritent d'ï¿½tre remarquï¿½s comme travail artistique.
+premières, sont déjà remplies de sépultures, d'inscriptions funèbres et
+de monuments en grande partie élégants, et dont quelques-uns même
+méritent d'être remarqués comme travail artistique.
 
-Ce cimetiï¿½re public fut commencï¿½ vers la fin du dernier siï¿½cle, quand
-Lï¿½opold Ier dï¿½fendit que les morts fussent ensevelis en ville.
+Ce cimetière public fut commencé vers la fin du dernier siècle, quand
+Léopold Ier défendit que les morts fussent ensevelis en ville.
 
 FIN.
 
 
-_Offices, Bureaux et Etablissements publics et privï¿½s de la ville de
+_Offices, Bureaux et Etablissements publics et privés de la ville de
 Pise._
 
-Archives d'Etat: rue Banchi avec l'entrï¿½e par le palais municipal.
+Archives d'Etat: rue Banchi avec l'entrée par le palais municipal.
 
-Archives des notaires: rue S. Martino, nï¿½ 9.
+Archives des notaires: rue S. Martino, n° 9.
 
-Acadï¿½mie des Beaux-Arts: rue S. Frediano, nï¿½ 9.
+Académie des Beaux-Arts: rue S. Frediano, n° 9.
 
-Archevï¿½chï¿½ et Offices Ecclï¿½siastiques de l'Archevï¿½chï¿½: place
+Archevêché et Offices Ecclésiastiques de l'Archevêché: place
 dell'Arcivescovato.
 
 Administration de la Liste Civile: palais Vitelli. Lungarno-Regio.
 
-Archiconfrï¿½rie de la Misï¿½ricorde: pl. S. Frediano.
+Archiconfrérie de la Miséricorde: pl. S. Frediano.
 
 Banque nationale du royaume d'Italie: rue S. Martino, 5.
 
@@ -1801,15 +1801,15 @@ Banque Simonelli et Cie: place de Ricci, 6.
 
 Banque nationale Toscane: rue S. Lorenzo, 28.
 
-Bibliothï¿½que circulaire: Sotto Borgo, 6.
+Bibliothèque circulaire: Sotto Borgo, 6.
 
 Chambre de Commerce et Arts: rue degli Uffizi, 1.
 
-Caisse d'ï¿½pargne: place Donati, 2.
+Caisse d'épargne: place Donati, 2.
 
-Cour d'Assises, rue Carmignani, derriï¿½re le thï¿½ï¿½tre Nuovo.
+Cour d'Assises, rue Carmignani, derrière le théâtre Nuovo.
 
-Commandement du 7e rï¿½giment d'artillerie: Cittadella, au bout de
+Commandement du 7e régiment d'artillerie: Cittadella, au bout de
 Lungarno Regio.
 
 Commandement militaire de la place: rue Santa Maria.
@@ -1820,7 +1820,7 @@ Cabinet de chimie et de physique technologique: rue Santa Maria.
 
 Cabinet de physique: place S. Simone.
 
-Direction des Impï¿½ts de Consommation: rue dell'Olmo.
+Direction des Impôts de Consommation: rue dell'Olmo.
 
 Direction des Offices de Vigilance de la Commune: rue des Uffizi.
 
@@ -1831,81 +1831,81 @@ Ecoles techniques: rue S. Frediano, 9.
 
 Ecoles communales de S. Michel: Sotto Borgo.
 
-Etablissement Zooiatrique: rue Savi, prï¿½s de la rue Solferino.
+Etablissement Zooiatrique: rue Savi, près de la rue Solferino.
 
 Gardes pompiers municipaux: rue del Moro.
 
-Hospice des Enfants-Trouvï¿½s: rue Santa Maria, prï¿½s du collï¿½ge Ferdinand.
+Hospice des Enfants-Trouvés: rue Santa Maria, près du collège Ferdinand.
 
-Hospice de Mendicitï¿½: rue Vittorio Emanuele.
+Hospice de Mendicité: rue Vittorio Emanuele.
 
 Intendance de Finances, place S. Niccola.
 
-Inspection et Gardes de publique sï¿½retï¿½: rue S. Martino, 3.
+Inspection et Gardes de publique sûreté: rue S. Martino, 3.
 
 Institut Agraire: Sul Borghetto, hors de la porta a Piagge.
 
-Lycï¿½e et Gymnase: rue Cavour, 2.
+Lycée et Gymnase: rue Cavour, 2.
 
 Juge-Conciliateur: Lungarno Gambacorti, 2.
 
-Musï¿½e d'Histoire Naturelle: rue Santa Maria.
+Musée d'Histoire Naturelle: rue Santa Maria.
 
 Jardin Botanique: rue Solferino.
 
 Magasin de Sels et Tabacs: Lungarno Galileo, 8.
 
-Mont-de-Piï¿½tï¿½: rue del Monte et place S. Felice.
+Mont-de-Piété: rue del Monte et place S. Felice.
 
-Nouveaux ï¿½tablissements Anatomiques: rue Solferino.
+Nouveaux établissements Anatomiques: rue Solferino.
 
 Office communal: rue dell'Olmo, 1.
 
 Office ou Bureau Postal: Lungarno Gambacorti, 3.
 
-Office des Hypothï¿½ques: pl. S. Niccola.
+Office des Hypothèques: pl. S. Niccola.
 
-Office de l'Inspection des Tï¿½lï¿½graphes: rue Mazzini.
+Office de l'Inspection des Télégraphes: rue Mazzini.
 
-Office du Gï¿½nie Civil: place dei Cavalieri.
+Office du Génie Civil: place dei Cavalieri.
 
-Office des Fleuves et Fossï¿½s: rue S. Sponlero.
+Office des Fleuves et Fossés: rue S. Sponlero.
 
 Orfanotrofio Maschile (hospice des Orphelins): rue S. Paolo a Ripa
 d'Arno.
 
-Office ou Bureaux Tï¿½lï¿½graphiques: Lungarno Galileo, sous le palais de la
-prï¿½fecture.
+Office ou Bureaux Télégraphiques: Lungarno Galileo, sous le palais de la
+préfecture.
 
-Office ou Bureaux de la Prï¿½fecture: rue S. Martino, 1.
+Office ou Bureaux de la Préfecture: rue S. Martino, 1.
 
-Pieuse maison de la Misï¿½ricorde: pl. S. Felice, 3.
+Pieuse maison de la Miséricorde: pl. S. Felice, 3.
 
 Oeuvre de la Primatiale: place del Duomo.
 
 Office Provincial: place dei Cavalieri.
 
-Pieuse maison de Charitï¿½ pour les filles: rue della Caritï¿½.
+Pieuse maison de Charité pour les filles: rue della Carità.
 
 Philarmonique Chorale et Orchestrale Vincent Galilei: rue S. Giovannino,
 15.
 
 Prisons de S. Mathieu: Lungarno Mediceo.
 
-Prï¿½ture du 1er et 2e Mandement: rue dell'Olmo, 11.
+Préture du 1er et 2e Mandement: rue dell'Olmo, 11.
 
-R. Universitï¿½ et Bibliothï¿½que publique: rue S. Frediano.
+R. Université et Bibliothèque publique: rue S. Frediano.
 
 R. Gendarmerie: rue Palestro.
 
-RR. Hï¿½pitaux: rue Solferino.
+RR. Hôpitaux: rue Solferino.
 
-Sï¿½minaire et Collï¿½ge Archiï¿½piscopal: place Santa Caterina.
+Séminaire et Collège Archiépiscopal: place Santa Caterina.
 
-Stanzine (salles de lecture et de rï¿½crï¿½ation): sur le cafï¿½ de l'Arno,
+Stanzine (salles de lecture et de récréation): sur le café de l'Arno,
 Lungarno Regio.
 
-Trï¿½sorerie Provinciale: place S. Niccola.
+Trésorerie Provinciale: place S. Niccola.
 
 Tribunal Civil et Correctionnel: Lungarno Galileo.
 
@@ -1913,69 +1913,69 @@ Vice-Consulat de l'Empire Germanique: rue della Faggiola.
 
 Institut musical des Concordi: rue S. Frediano, 22.
 
-_Hï¿½tels_
+_Hôtels_
 
-Grand Hï¿½tel: Lungarno Regio. Hï¿½tel de premier ordre.
+Grand Hôtel: Lungarno Regio. Hôtel de premier ordre.
 
-Hï¿½tel Royal Victoria: Lungarno Regio. Hï¿½tel de premier ordre. Banque
+Hôtel Royal Victoria: Lungarno Regio. Hôtel de premier ordre. Banque
 succursale de MM. Maquay, Hooker et Cie, de Livourne.
 
-Hï¿½tel Grande Bretagne: Lungarno Regio, au Pont Solferino. Hï¿½tel de
+Hôtel Grande Bretagne: Lungarno Regio, au Pont Solferino. Hôtel de
 premier ordre.
 
-Hï¿½tel Nettuno (Hï¿½tel et restaurant): Lungarno Regio. Hï¿½tel de premier
+Hôtel Nettuno (Hôtel et restaurant): Lungarno Regio. Hôtel de premier
 ordre.
 
-Hï¿½tel de Londres, prï¿½s de la gare: rue Fibonacci, propriï¿½taire A.
-Serandrei. Hï¿½tel de premier ordre.
+Hôtel de Londres, près de la gare: rue Fibonacci, propriétaire A.
+Serandrei. Hôtel de premier ordre.
 
-Grand Hï¿½tel la Minerve et de la Ville. Restaurant Franï¿½ais et pension
-Anglo-Amï¿½ricaine: prï¿½s de la Gare. Franï¿½ois Guidotti propriï¿½taire.
-Etablissement de premier ordre, qui offre ï¿½ MM. les voyageurs tout le
-confort et l'avantage d'une trï¿½s belle position exposï¿½e au midi. Salons
-de lecture et de rï¿½ception avec piano, fumoir et jardin. Journaux
-ï¿½trangers. On parle les principales langues. Omnibus ï¿½ la gare. _Prix
-modï¿½rï¿½s_.
+Grand Hôtel la Minerve et de la Ville. Restaurant Français et pension
+Anglo-Américaine: près de la Gare. François Guidotti propriétaire.
+Etablissement de premier ordre, qui offre à MM. les voyageurs tout le
+confort et l'avantage d'une très belle position exposée au midi. Salons
+de lecture et de réception avec piano, fumoir et jardin. Journaux
+étrangers. On parle les principales langues. Omnibus â la gare. _Prix
+modérés_.
 
-Hï¿½tel d'Europe et de Rome: Lungarno Mediceo. Hï¿½tel de premier ordre.
+Hôtel d'Europe et de Rome: Lungarno Mediceo. Hôtel de premier ordre.
 
-Hï¿½tel National, tenu par Victor Ascani. Chambres ï¿½ 1 fr. 50, 2 fr., 3
-fr. et plus. Dï¿½ners ï¿½ 2 fr., 2 fr. 50, 3fr. et plus. Grande salle de
-restaurant et table d'hï¿½te. Cet Hï¿½tel, situï¿½ prï¿½s de la gare, 2e maison
-ï¿½ droite, offre ï¿½ MM. les voyageurs tous les avantages, tant pour la
-modicitï¿½ des prix que pour la ponctualitï¿½ du service.
+Hôtel National, tenu par Victor Ascani. Chambres à 1 fr. 50, 2 fr., 3
+fr. et plus. Dîners à 2 fr., 2 fr. 50, 3fr. et plus. Grande salle de
+restaurant et table d'hôte. Cet Hôtel, situé près de la gare, 2e maison
+à droite, offre à MM. les voyageurs tous les avantages, tant pour la
+modicité des prix que pour la ponctualité du service.
 
-Hï¿½tel Washington: Tout prï¿½s de la gare, avec jardin Prix modï¿½rï¿½s. On
-parle les principales langues. Nouveau propriï¿½taire. C. Parea.
+Hôtel Washington: Tout près de la gare, avec jardin Prix modérés. On
+parle les principales langues. Nouveau propriétaire. C. Parea.
 
-Hï¿½tel du Commerce et Ville de Milan. Tenu par Thomas Balestri. Prix
-modï¿½rï¿½s. Le seul ï¿½ gauche prï¿½s de la gare.
+Hôtel du Commerce et Ville de Milan. Tenu par Thomas Balestri. Prix
+modérés. Le seul à gauche près de la gare.
 
-Auberge et restaurant de l'Unione. Dirigï¿½ par Judith Della Nave, piace
-Vittorio Emanuele, nï¿½2, avec jardin, situï¿½ ï¿½ la distance d'environ 60
-mï¿½tres de la gare. Prix trï¿½s modï¿½rï¿½s. Bon service.
+Auberge et restaurant de l'Unione. Dirigé par Judith Della Nave, piace
+Vittorio Emanuele, n°2, avec jardin, situé à la distance d'environ 60
+mètres de la gare. Prix très modérés. Bon service.
 
-Hï¿½tel la Cervia, avec jardin: rue Tavoleria.
+Hôtel la Cervia, avec jardin: rue Tavoleria.
 
 Auberge et Restaurant I Tre Re, tenu par Nicolas Banti: rue S. Martino,
 6.
 
 Pension Suisse: Lungarno Mediceo, 5.
 
-Hï¿½tel du Mont-Blanc. Pension ï¿½ _St-Gervais-les-Bains_, chef-lieu de
-canton de la Haute-Savoie, sur la route de Chamounix, ï¿½ 6 heures de
-Genï¿½ve et ï¿½ 8 heures d'Annecy par les diligences ou voitures
-particuliï¿½res. Station d'ï¿½tï¿½ recommandï¿½e par tous les mï¿½decins. Maison
-admirablement situï¿½e. Position et vue exceptionnelles. Prix modï¿½rï¿½s. _A.
-Chambel_, propriï¿½taire, ancien secrï¿½taire du Grand Hï¿½tel de l'Europe ï¿½
+Hôtel du Mont-Blanc. Pension à _St-Gervais-les-Bains_, chef-lieu de
+canton de la Haute-Savoie, sur la route de Chamounix, à 6 heures de
+Genève et à 8 heures d'Annecy par les diligences ou voitures
+particulières. Station d'été recommandée par tous les médecins. Maison
+admirablement située. Position et vue exceptionnelles. Prix modérés. _A.
+Chambel_, propriétaire, ancien secrétaire du Grand Hôtel de l'Europe à
 Aix-les-Bains. _Family Home, English Church service. Several languages
 spoken_.
 
-Villa Fraser: rue S. Michele degli Scalzi nï¿½ 23, hors de la porte a
-Piagge. On loue des appartements meublï¿½s. Excellent service. Vue
+Villa Fraser: rue S. Michele degli Scalzi n° 23, hors de la porte a
+Piagge. On loue des appartements meublés. Excellent service. Vue
 magnifique sur la campagne.
 
-Buffet de la gare: Excellent. Propriï¿½taire Joseph Pellegrini.
+Buffet de la gare: Excellent. Propriétaire Joseph Pellegrini.
 
 _Changeur_
 
@@ -1983,20 +1983,20 @@ Cesare Cioni. Change de monnaies: Place du Pont.
 
 _Voitures_
 
-Voitures publiques et privï¿½es, de luxe, pour ville et la campagne, ï¿½ 1
-et 2 chevaux, de Rinaldo Campera: rue Vittorio Emanuele, 5, vis-ï¿½-vis le
+Voitures publiques et privées, de luxe, pour ville et la campagne, à 1
+et 2 chevaux, de Rinaldo Campera: rue Vittorio Emanuele, 5, vis-à-vis le
 magasin Matteucci.
 
-Giovanni et frï¿½res Bracci. Voitures, 219, etc.: rue Sta-Maria, 43.
+Giovanni et frères Bracci. Voitures, 219, etc.: rue Sta-Maria, 43.
 
-Marchetti Sabatino: rue Franceschi. Voitures publiques et privï¿½es, de
+Marchetti Sabatino: rue Franceschi. Voitures publiques et privées, de
 luxe, etc. G. Andreani: rue dell'Olmo.
 
-On trouve ï¿½ la gare du Chemin de fer, prï¿½s des hï¿½tels et des principaux
+On trouve à la gare du Chemin de fer, près des hôtels et des principaux
 monuments des _Ciceroni_. Leurs prix varient suivant les services qu'ils
 rendent.
 
-_Mï¿½decins_
+_Médecins_
 
 Professeur Com. Fedele Fedeli: rue Torelli, 3.
 
@@ -2008,29 +2008,29 @@ Dr Chev. Antoine Feroci: rue della Faggiola, 2.
 
 Professeur Rutilio Shragia: rue Sta-Luccia.
 
-Dr Frï¿½dï¿½ric Lombard, mï¿½decin-chirurgien de la Maison royale. Spï¿½cialiste
-pour les maladies secrï¿½tes et des femmes: rue Vittorio Emanuele 50, 2e
-ï¿½tage. Reï¿½oit pour les consultations tous les jours, depuis 4 jusqu'ï¿½ 5
-h. Cabinet mï¿½dical, chirurgical Antonini, dirigï¿½ par MM. les docteurs
+Dr Frédéric Lombard, médecin-chirurgien de la Maison royale. Spécialiste
+pour les maladies secrètes et des femmes: rue Vittorio Emanuele 50, 2e
+étage. Reçoit pour les consultations tous les jours, depuis 4 jusqu'à 5
+h. Cabinet médical, chirurgical Antonini, dirigé par MM. les docteurs
 Lombard et Antonini. Ouvert tous les jours pour les consultations
-gratuites, depuis 10, jusqu'ï¿½ 11 h. De 11 heures jusqu'ï¿½ midi,
-consultations particuliï¿½res. _Electrotï¿½rapie Pneumothï¿½rapie. Cure des
+gratuites, depuis 10, jusqu'à 11 h. De 11 heures jusqu'à midi,
+consultations particulières. _Electrotérapie Pneumothérapie. Cure des
 maladies des femmes._ Cures chirurgicales de tous genres: rue Solferino,
-17, rez-de-chaussï¿½e.
+17, rez-de-chaussée.
 
-Dr Oreste Gambini, mï¿½decin-chirurgien: place S. Francesco, 9.
+Dr Oreste Gambini, médecin-chirurgien: place S. Francesco, 9.
 
 Dr Samuel Galigo: rue Sta-Elisabetta.
 
-Dr Cï¿½sar Salama: rue S. Andrï¿½a.
+Dr César Salama: rue S. Andréa.
 
-Dr Ludovico del Chiappa, mï¿½decin-accoucheur: Borgo Largo.
+Dr Ludovico del Chiappa, médecin-accoucheur: Borgo Largo.
 
 _Chirurgie_
 
 Professeur Com. Pascal Landi: rue du Risorgimento, 5.
 
-Dr Iginio Pardocchi: rue Bonaini, Barriï¿½re Victor Emanuel.
+Dr Iginio Pardocchi: rue Bonaini, Barrière Victor Emanuel.
 
 Doct. Charles Pardocchi: rue Fibonacci.
 
@@ -2038,19 +2038,19 @@ Doct. Charles Layfield: rue Sta Cecilia, 13.
 
 Doct. Dominique Barduzzi: rue Sta Maria, 95.
 
-Doct. Chev. Lï¿½opold Peverada: rue Franceschi, 3.
+Doct. Chev. Léopold Peverada: rue Franceschi, 3.
 
-Doct. Joseph-Martin Wedard, Mï¿½decin-Chirurgien: place S. Martin, 33.
+Doct. Joseph-Martin Wedard, Médecin-Chirurgien: place S. Martin, 33.
 
 _Pour les accouchements et maladies des femmes_.
 
 Professeur Com. Charles Minati: rue Sta Maria, 23.
 
-Doct. Auguste Garzella: Hï¿½pital.
+Doct. Auguste Garzella: Hôpital.
 
-Doct. Lï¿½opold Peverada: rue Franceschi.
+Doct. Léopold Peverada: rue Franceschi.
 
-Doct. Frï¿½dï¿½ric Lombard: rue Vittorio Emanuele, 50.
+Doct. Frédéric Lombard: rue Vittorio Emanuele, 50.
 
 _Maladies Nerveuses et mentales_.
 
@@ -2060,178 +2060,178 @@ _Maladies des yeux_
 
 (_Oculiste_)
 
-Doct. Frï¿½dï¿½ric Lampredi: rue du Risorgimento.
+Doct. Frédéric Lampredi: rue du Risorgimento.
 
-_Maladies secrï¿½tes et de la peau_.
+_Maladies secrètes et de la peau_.
 
 Doct. Dominique Barduzzi: rue Sta Maria, 95.
 
-Docteur Frï¿½dï¿½ric Lombard: rue Vittorio Emanuele, 50.
+Docteur Frédéric Lombard: rue Vittorio Emanuele, 50.
 
 _Accoucheuses_
 
-Thï¿½rï¿½se Franchini. Maï¿½tresse sage-femme ï¿½ la Maternitï¿½ de Pise.
+Thérèse Franchini. Maîtresse sage-femme à la Maternité de Pise.
 
-Ernestine Dainelli, sage-femme: rue Sta Maria, 57, 3e ï¿½tage.
+Ernestine Dainelli, sage-femme: rue Sta Maria, 57, 3e étage.
 
 _Chirurgiens-Dentistes_
 
 Doct. Paul Carreras: rue Sta Cecilia, 13.
 
-Doct. dentiste. Serafino Pucci: prï¿½s l'ï¿½glise des Capucins S. Guisto,
-barriï¿½re Vittorio Emanuele.
+Doct. dentiste. Serafino Pucci: près l'église des Capucins S. Guisto,
+barrière Vittorio Emanuele.
 
 _Pharmacies_
 
 Pharmacie Giovanni Canopa: rue Vittorio Emanuele. Fabrique d'eaux
-gazeuse, et d'eaux minï¿½rales: rue Palestre, 7.
+gazeuse, et d'eaux minérales: rue Palestre, 7.
 
 Pharmacie Petri: rue S. Martino, au coin de la rue Vittorio Emanuele.
 
 Pharmacie Anglaise, ci-devant Carrai. Tenue par le Chimiste-pharmacien
-Franï¿½ois Devoto: Lungarno Regio.
+François Devoto: Lungarno Regio.
 
-Pharmacie et Droguerie Camille Paladini. Dï¿½pï¿½t de toutes les spï¿½cialitï¿½s
-mï¿½dicinales nationales et ï¿½trangï¿½res. Les prescriptions sont exï¿½cutï¿½es
+Pharmacie et Droguerie Camille Paladini. Dépôt de toutes les spécialités
+médicinales nationales et étrangères. Les prescriptions sont exécutées
 avec soin. On se sert des plus parfaits produits
-chimiques-pharmaceutiques prï¿½parï¿½s dans les principaux
-laboratoires.--Grand assortiment de vins ï¿½trangers et nationaux. Cognac
-surfin, etc. Eaux minï¿½rales de Vichy et d'autres sources ï¿½trangï¿½res et
-du pays: Lungarno Regio, prï¿½s du Pont Solferino.
+chimiques-pharmaceutiques préparés dans les principaux
+laboratoires.--Grand assortiment de vins étrangers et nationaux. Cognac
+surfin, etc. Eaux minérales de Vichy et d'autres sources étrangères et
+du pays: Lungarno Regio, près du Pont Solferino.
 
-Pharmacie Royale et Laboratoire Chimique d'Etienne Rossini, prï¿½s de la
-rue Universitï¿½: rue S. Frediane. Dï¿½pï¿½t de toutes les spï¿½cialitï¿½s
-d'Europe et d'Amï¿½rique. Liqueurs et vins ï¿½trangers et italiens,
-etc.--Grand assortiment d'articles en gomme ï¿½lastique et d'appareils
-chirurgicaux, etc. Eaux minï¿½rales.
+Pharmacie Royale et Laboratoire Chimique d'Etienne Rossini, près de la
+rue Université: rue S. Frediane. Dépôt de toutes les spécialités
+d'Europe et d'Amérique. Liqueurs et vins étrangers et italiens,
+etc.--Grand assortiment d'articles en gomme élastique et d'appareils
+chirurgicaux, etc. Eaux minérales.
 
 Pharmacie Bottari: Sotto Borgo.
 
 Pharmacie Bartalini: Sotto Borgo.
 
-Pharmacie Bartolacci, dirigï¿½e par Ferdinando Capecchi: rue Torelli, 1.
+Pharmacie Bartolacci, dirigée par Ferdinando Capecchi: rue Torelli, 1.
 
-_Cafï¿½s_
+_Cafés_
 
-Grand cafï¿½ dell'Arno: Lungarno Regio.
+Grand café dell'Arno: Lungarno Regio.
 
-Serafino Burchi, fournisseur de la Maison Royale. Propriï¿½taire du cafï¿½
-et des billards dell'Ussero: Lungarno Regio. Propriï¿½taire de la
-droguerie, pï¿½tisserie et confiserie de Sotto Borgo. Spï¿½cialitï¿½ de
-liqueurs et d'ouvrages en sucre pour dï¿½coration. Brevetï¿½ aux expositions
+Serafino Burchi, fournisseur de la Maison Royale. Propriétaire du café
+et des billards dell'Ussero: Lungarno Regio. Propriétaire de la
+droguerie, pâtisserie et confiserie de Sotto Borgo. Spécialité de
+liqueurs et d'ouvrages en sucre pour décoration. Breveté aux expositions
 de Pise, de Livourne, de Milan, de Londres, de Vienne et de
 Philadelphie.
 
-Cafï¿½ et pï¿½tisserie Ciardelli: Lungarno Regio.
+Café et pâtisserie Ciardelli: Lungarno Regio.
 
-Cafï¿½ l'Italia. Pï¿½tisserie et droguerie Bagnani: Sotto Borgo.
+Café l'Italia. Pâtisserie et droguerie Bagnani: Sotto Borgo.
 
-Cafï¿½ del Popolo. Ranieri Franceschi propriï¿½taire: Sotto Borgo.
+Café del Popolo. Ranieri Franceschi propriétaire: Sotto Borgo.
 
-Cafï¿½ Roma: Lungarno Mediceo.
+Café Roma: Lungarno Mediceo.
 
-_Pï¿½tisseries et Drogueries_
+_Pâtisseries et Drogueries_
 
-Droguerie Bazzelli Smith et Cie. Fabrique de liqueurs et de pï¿½tisserie.
-Un magasin prï¿½s de la gare, l'autre Lungarno Regio.
+Droguerie Bazzelli Smith et Cie. Fabrique de liqueurs et de pâtisserie.
+Un magasin près de la gare, l'autre Lungarno Regio.
 
-Phillippe Chiappa. Magasin de liqueurs et de vins ï¿½trangers: Lungarno
+Phillippe Chiappa. Magasin de liqueurs et de vins étrangers: Lungarno
 Regio.
 
-Pï¿½tisserie et droguerie Misoch: Sotto Borgo.
+Pâtisserie et droguerie Misoch: Sotto Borgo.
 
-Produits mï¿½dicinaux, ferrements, plaques, couleurs, vernis, savons et
-autres articles. Frï¿½res Martin Wedard. Un magasin Sotto Borgo, un autre,
+Produits médicinaux, ferrements, plaques, couleurs, vernis, savons et
+autres articles. Frères Martin Wedard. Un magasin Sotto Borgo, un autre,
 rue S. Martino, 33.
 
-Droguerie et dï¿½pï¿½t de vins des meilleures collines Toscanes: rue S.
+Droguerie et dépôt de vins des meilleures collines Toscanes: rue S.
 Fradiano. Magasin de provisions, huile d'olive, savons, chandelles
-stï¿½ariques, etc: rue Santa Maria. Propriï¿½taire Ranieri Carli.
+stéariques, etc: rue Santa Maria. Propriétaire Ranieri Carli.
 
-Francesco Stefano Bini, nï¿½gociant en huiles: ï¿½ S. Giovanni alla Vena,
+Francesco Stefano Bini, négociant en huiles: à S. Giovanni alla Vena,
 province de Pise.
 
-Dï¿½bit normal de sels et tabacs d'Angelo Salvadori: Lungarno Regio, 1.
+Débit normal de sels et tabacs d'Angelo Salvadori: Lungarno Regio, 1.
 
-Dï¿½pï¿½t et vente de pï¿½tes de la fabrique mï¿½daillï¿½e de Joseph Paoletti de
-Pontedera. Dï¿½pï¿½t de biscuits du Guelfi: Sotto Borgo.
+Dépôt et vente de pâtes de la fabrique médaillée de Joseph Paoletti de
+Pontedera. Dépôt de biscuits du Guelfi: Sotto Borgo.
 
-Dï¿½bit de sel et tabac, nï¿½ 5. Vente de vins choisis, etc.: Lungarno
-Mediceo, prï¿½s du pont des Piagge.
+Débit de sel et tabac, n° 5. Vente de vins choisis, etc.: Lungarno
+Mediceo, près du pont des Piagge.
 
 Ancien magasin de Gustave Baroni. Successeur Giosaffate Baroni.
-Boulangerie et fabrique de pï¿½tes. Vente d'huile, chandelles stï¿½ariques,
-etc. Rue Rigattieri, prï¿½s la place de la Berlina.
+Boulangerie et fabrique de pâtes. Vente d'huile, chandelles stéariques,
+etc. Rue Rigattieri, près la place de la Berlina.
 
 _Circolo ou Club des chasseurs Pisans_
 
-Lungarno Mediceo, nï¿½ 2, 1er ï¿½tage. Cabinet de lecture de livres et de
-journaux regardant la chasse. Le but de ce club est d'ï¿½tudier tout ce
-qui a rapport ï¿½ la chasse, de promouvoir l'amï¿½lioration des races
-canines. Les salles du club sont ouvertes tous les jours de 10 heures ï¿½
-midi.--Les associï¿½s ont droit de prï¿½senter au club un chasseur amateur,
+Lungarno Mediceo, n° 2, 1er étage. Cabinet de lecture de livres et de
+journaux regardant la chasse. Le but de ce club est d'étudier tout ce
+qui a rapport à la chasse, de promouvoir l'amélioration des races
+canines. Les salles du club sont ouvertes tous les jours de 10 heures à
+midi.--Les associés ont droit de présenter au club un chasseur amateur,
 pourvu qu'il n'habite pas dans la commune de Pise.
 
 _Sculpteurs_
 
-Galerie de sculpture en marbre et autres pierres, mï¿½daille aux
+Galerie de sculpture en marbre et autres pierres, médaille aux
 expositions de 1858, 1868, 1873, 1878, de Joseph Andreoni: rue Santa
-Maria, 95, prï¿½s de la cathï¿½drale, 97. Agents. MM. Maquay Hooker et Cie,
-banquiers ï¿½ Livourne, Correspondants: Baldwin Bross et Cie ï¿½ New-York,
-A.G. _Mercer_ ï¿½ _Boston_, Davies Turner et Cie D.R. Mc Craken, London,
-Staveley et Cie, Liverpool. Reï¿½oit des commissions pour les monuments de
-cimetiï¿½res. On exï¿½cute des portraits en marbre au naturel. La
+Maria, 95, près de la cathédrale, 97. Agents. MM. Maquay Hooker et Cie,
+banquiers à Livourne, Correspondants: Baldwin Bross et Cie à New-York,
+A.G. _Mercer_ à _Boston_, Davies Turner et Cie D.R. Mc Craken, London,
+Staveley et Cie, Liverpool. Reçoit des commissions pour les monuments de
+cimetières. On exécute des portraits en marbre au naturel. La
 ressemblance garantie.
 
-Frï¿½res Mazzoni sculpteurs: rue Santa Maria, 87.
+Frères Mazzoni sculpteurs: rue Santa Maria, 87.
 
 Huguet et Van Lini. Sculptures en marbre et en autres pierres. Grande
-collection de photographies d'E. Van Lint. Mï¿½daillï¿½ ï¿½ Londres, ï¿½ Paris,
-ï¿½ Florence et ï¿½ Pise: Place dei Cavalieri, prï¿½s de la Tour du comte
+collection de photographies d'E. Van Lint. Médaillé à Londres, à Paris,
+à Florence et à Pise: Place dei Cavalieri, près de la Tour du comte
 Ugolin.
 
-Jean Barsanti sculpteur. Galeries de sculptures en marbre et en albï¿½tre:
-Lung'Arno Regio, 2, ï¿½ cï¿½tï¿½ de l'hï¿½tel Victoria et place du Dï¿½me, 1, en
-face la Tour penchï¿½e.--Grand dï¿½pï¿½t de photographies.--Correspondants en
-Angleterre et en Amï¿½rique.
+Jean Barsanti sculpteur. Galeries de sculptures en marbre et en albâtre:
+Lung'Arno Regio, 2, à côté de l'hôtel Victoria et place du Dôme, 1, en
+face la Tour penchée.--Grand dépôt de photographies.--Correspondants en
+Angleterre et en Amérique.
 
-Charles Leonori, sculpteur. Objets d'art en albï¿½tre: rue Santa Maria,
+Charles Leonori, sculpteur. Objets d'art en albâtre: rue Santa Maria,
 68.
 
-Antoine Leonori, fabricant d'objets d'art en marbre et albï¿½tre. Fait
-remise sur les ventes de 10 pour cent. On reï¿½oit les commissions et l'on
-expï¿½die partout les objets acquis: rue Santa Maria prï¿½s de la place
-dello Stellino, 35. Le transport de la marchandise est assurï¿½ jusqu'ï¿½
-destination; on pourra payer la moitiï¿½ au moment de l'achat, l'autre
-moitiï¿½ ï¿½ la rï¿½ception. On garantit une prompte expï¿½dition par chemins de
-fer ou bateaux. Expï¿½ditionnaire: Cï¿½sar Tremura ï¿½ Livourne.
+Antoine Leonori, fabricant d'objets d'art en marbre et albâtre. Fait
+remise sur les ventes de 10 pour cent. On reçoit les commissions et l'on
+expédie partout les objets acquis: rue Santa Maria près de la place
+dello Stellino, 35. Le transport de la marchandise est assuré jusqu'à
+destination; on pourra payer la moitié au moment de l'achat, l'autre
+moitié à la réception. On garantit une prompte expédition par chemins de
+fer ou bateaux. Expéditionnaire: César Tremura à Livourne.
 
 Emilio Giannasi, sculpteur. Objets d'art en marbre et autres pierres:
-rue Vittorio Emanuele. On reï¿½oit les commissions.
+rue Vittorio Emanuele. On reçoit les commissions.
 
 Giuseppe Di Giolo, sculpteur: Lungarno Gambacorti, 24, en face
 Santa-Maria della Spina.--Collection de photographies.--_Carrara Marble
-Works, Volterra Alabaster Works_.--On reï¿½oit les commissions.
+Works, Volterra Alabaster Works_.--On reçoit les commissions.
 
 _Photographies_
 
 Photographie artistique: rue S. Francesco, 3.
 
-Photographie instantanï¿½e de Mme Marie Choquet: Sotto Borgo,8.
+Photographie instantanée de Mme Marie Choquet: Sotto Borgo,8.
 
 Etablissement photographique de portraits de Huguet et van Lint:
-Lungarno Regio, prï¿½s du Grand-Hï¿½tel.
+Lungarno Regio, près du Grand-Hôtel.
 
 _Librairies_
 
-Uebelhart, libraire-ï¿½diteur: Lungarno Regio, 6.
+Uebelhart, libraire-éditeur: Lungarno Regio, 6.
 
-Ulrico Hoepli, libraire: Lungarno, Regio, 9. Littï¿½rature ï¿½trangï¿½re,
-ouvrages scientifiques. Maison principale ï¿½ Milan.
+Ulrico Hoepli, libraire: Lungarno, Regio, 9. Littérature étrangère,
+ouvrages scientifiques. Maison principale à Milan.
 
-Librairie Galilï¿½e.--Ancienne maison Nistri frï¿½res: Sotto
+Librairie Galilée.--Ancienne maison Nistri frères: Sotto
 Borgo.--Assortiment de livres anciens et modernes en tous
-genres.--Collection Tauchnitz, Lï¿½vy, Roret, etc.--Guides, Marrays,
+genres.--Collection Tauchnitz, Lévy, Roret, etc.--Guides, Marrays,
 Baedeker, Joanne, du Pays, maison de Commission pour l'Europe, etc.
 
 Librairie Luigi Giannelli: Sotto Borgo.
@@ -2246,9 +2246,9 @@ Typographie Vannucchi: rue del Monte, 12.
 
 Lithographie Gozani: place Castelletto, 5, et rue S. Frediano, 14.
 
-Typographie, lithographie et papeterie. Mï¿½daillï¿½ ï¿½ l'Exposition
-nationale de 1881 ï¿½ Milan, de Giuseppe Meucci: rue Vittorio Emmanuele,
-65, ï¿½ Livourne, rue S. Frediano, ï¿½ Pise.
+Typographie, lithographie et papeterie. Médaillé à l'Exposition
+nationale de 1881 à Milan, de Giuseppe Meucci: rue Vittorio Emmanuele,
+65, à Livourne, rue S. Frediano, à Pise.
 
 Papeterie d'Antonio Lombardi: Sotto Borgo, 5, rue Vittorio Emanuele, 3,
 et kiosque sur la place du pont.
@@ -2265,8 +2265,8 @@ Imprimerie Orsolini, Prosperi: rue Borgo Largo, 12.
 Typographie de la Maison Royale d'Ungher: rue S. Giuseppe.
 
 Etablissement musical de R. Zanetti et Lami: rue della Faggiola,
-15.--Succursales: Borgo Largo, 9, et ï¿½ Viareggio.--Pianos, harmoniums,
-instruments ï¿½ vent, etc.
+15.--Succursales: Borgo Largo, 9, et à Viareggio.--Pianos, harmoniums,
+instruments à vent, etc.
 
 _Instituts et Professeurs_.
 
@@ -2277,55 +2277,55 @@ Institut Baroni Piccioli: rue S. Francesco, 23.
 Institut pour les jeunes filles.--Martini: rue S. Francesco, 2.
 
 Institut-Pensionnat pour les jeunes filles.--Directrice, Mlle Amalia
-Abati. Les demoiselles reï¿½oivent dans cette institution, une ï¿½ducation
-complï¿½te: rue Cacciarella, 13.
+Abati. Les demoiselles reçoivent dans cette institution, une éducation
+complète: rue Cacciarella, 13.
 
 Institut-Pensionnat pour les jeunes tilles. Institution de
-perfectionnement, dirigï¿½e par Mlle Emï¿½lie Capitoni.--Autorisï¿½e par le
-gouvernement: rue della Tazza, 14, 2e ï¿½tage, ï¿½ Livourne.
+perfectionnement, dirigée par Mlle Emélie Capitoni.--Autorisée par le
+gouvernement: rue della Tazza, 14, 2e étage, à Livourne.
 
 Vittorio Castrucci, directeur de la chapelle de musique de la Primatiale
-pisane: rue S. Frediano, 14. Donne des leï¿½ons de piano, chant,
+pisane: rue S. Frediano, 14. Donne des leçons de piano, chant,
 contrepoint, etc.
 
-Institut privï¿½ ï¿½lï¿½mentaire, technique, gymnasial Vittorino da Feltre,
-dirigï¿½ par le prof. A. Della Pura, Sotto Borgo, 10.
+Institut privé élémentaire, technique, gymnasial Vittorino da Feltre,
+dirigé par le prof. A. Della Pura, Sotto Borgo, 10.
 
 Francesco et Vittoria Torri, dessinateurs, ont un magasin de dessin rue
-Santa Maria, 51, et donnent aussi des leï¿½ons de dessin et de peinture en
+Santa Maria, 51, et donnent aussi des leçons de dessin et de peinture en
 tous genres.
 
-Tito Gordini, prof. de dessin ï¿½ l'Ecole R. Normale: rue Santa
+Tito Gordini, prof. de dessin à l'Ecole R. Normale: rue Santa
 Appollonia, 5.
 
 Colombo Colombi, professeur de piano et de chant: Lungarno Mediceo, 8.
 
-Lï¿½opolda Padreddii, maï¿½tresse de piano: rue del Giglio, 4.
+Léopolda Padreddii, maîtresse de piano: rue del Giglio, 4.
 
-Ida Stiatti, pianiste, donne des leï¿½ons de musique: rue Mazzini, 26.
+Ida Stiatti, pianiste, donne des leçons de musique: rue Mazzini, 26.
 
 Henri Barsanti, prof, de piano: rue S. Giuseppe.
 
-B. W. Menocci et fille, maï¿½tresses de langues: rue Niccola Pisano, 10.
+B. W. Menocci et fille, maîtresses de langues: rue Niccola Pisano, 10.
 
-Mlle Vittoria Biondi, maï¿½tresse-normale-supï¿½rieure: rue du Campano.
+Mlle Vittoria Biondi, maîtresse-normale-supérieure: rue du Campano.
 
-Amï¿½rigo Venzy (piano): rue Magenta, 5.
+Amérigo Venzy (piano): rue Magenta, 5.
 
 Antoine Dell'Omo (trompette): rue S. Francesco, 3.
 
 Giuseppe Menichetti (chant et piano): rue Santa-Lucia.
 
-Mme Clary d'Aste. Leï¿½ons de piano: rue S. Paolo a Ripa d'Arno, 9.
+Mme Clary d'Aste. Leçons de piano: rue S. Paolo a Ripa d'Arno, 9.
 
-Eve Destantins Anthony, maï¿½tresse de langues. Sotto Borgo, 6, 2e ï¿½tage.
+Eve Destantins Anthony, maîtresse de langues. Sotto Borgo, 6, 2e étage.
 
 _Chapeliers_
 
-Frï¿½res Saviozzi. Fournisseurs de la Maison Royale. Nï¿½gociants
-chapeliers, chapeaux des fabriques. Mï¿½dailles nationales. Assortiment de
-fantaisie pour enfants, etc. On reï¿½oit des commissions pour chapeaux,
-bonnets, etc. ï¿½ prix modï¿½rï¿½s. Sotto Borgo.
+Frères Saviozzi. Fournisseurs de la Maison Royale. Négociants
+chapeliers, chapeaux des fabriques. Médailles nationales. Assortiment de
+fantaisie pour enfants, etc. On reçoit des commissions pour chapeaux,
+bonnets, etc. à prix modérés. Sotto Borgo.
 
 Thomas Michi. Magasins d'optique et de chapeaux: Lungarno Regio.
 
@@ -2337,36 +2337,36 @@ Horlogerie Gucci: Borgo Largo.
 
 Cesare Fillippi, horlogerie: Borgo Largo.
 
-Francesco Gatti, orfï¿½vre et argentier. Ancien magasin. Beaux
+Francesco Gatti, orfèvre et argentier. Ancien magasin. Beaux
 assortiments: rue du Monte, 90.
 
-Ancien magasin Bourgard, dirigï¿½ par Giuseppe Bellani, horloger de la
-Maison Royale: Lungarno Regio, nï¿½ 1.
+Ancien magasin Bourgard, dirigé par Giuseppe Bellani, horloger de la
+Maison Royale: Lungarno Regio, n° 1.
 
 _Parfumerie_
 
 Giuseppe Buoncristiani: Lungarno Regio, 4. Salon de coiffure, cravates,
 gants et autres objets de Paris.
 
-Giacomo Suggi. Salon de coiffure, Parfumerie: Lungarno Mediceo, prï¿½s du
-cafï¿½ Pietromani.
+Giacomo Suggi. Salon de coiffure, Parfumerie: Lungarno Mediceo, près du
+café Pietromani.
 
 _Mercerie Quincaillerie, etc_.
 
 De Cesari, magasin de quincailleries de luxe, merceries, gants, et
-autres spï¿½cialitï¿½s. Broderies, laines, soies en tous genres pour
-exï¿½cuter des ouvrages, etc.: Sotto Borgo, 10.
+autres spécialités. Broderies, laines, soies en tous genres pour
+exécuter des ouvrages, etc.: Sotto Borgo, 10.
 
 Cesare del Guerra. Magasin de merceries, rue dei Rigattieri, 8.
 
 Angioli di G. Straffa: Sotto Borgo, au coin de la rue S. Francesco.
-Magasin de nouveautï¿½s. Assortiment d'ï¿½toffes. Soie, laine, cotonnades
-nationales et ï¿½trangï¿½res.
+Magasin de nouveautés. Assortiment d'étoffes. Soie, laine, cotonnades
+nationales et étrangères.
 
-Venturi Ranieri. Porcelaines et poteries: Lungarno Mediceo, prï¿½s du Pont
+Venturi Ranieri. Porcelaines et poteries: Lungarno Mediceo, près du Pont
 des Piagge.
 
-Piï¿½tro Marconi. Fabrique de cristaux: rue du Piaggione.
+Piétro Marconi. Fabrique de cristaux: rue du Piaggione.
 
 Magasin de meubles et faiseuse de franges. Angiolina Papi: Borgo Largo,
 17.
@@ -2401,24 +2401,24 @@ Riccardo Travaglini, marchand de fleurs: Lungarno Mediceo, 2.
 
 
 
-Fonderie mï¿½tallurgique. Bani et Calvelli, rue S. Nicolajo, 18. On
-exï¿½cute toutes sortes d'ouvrages en fer fondu; on se charge de
-l'exï¿½cution et mise en oeuvre de grilles, toitures, etc. Prix modï¿½rï¿½s ï¿½
-ne pas craindre de concurrence. Cette maison s'est chargï¿½e d'importantes
+Fonderie métallurgique. Bani et Calvelli, rue S. Nicolajo, 18. On
+exécute toutes sortes d'ouvrages en fer fondu; on se charge de
+l'exécution et mise en oeuvre de grilles, toitures, etc. Prix modérés à
+ne pas craindre de concurrence. Cette maison s'est chargée d'importantes
 fournitures pour la Poissonnerie de Pise, etc.
 
-A. Bederlunger et Cie.--Fonderie et usine mï¿½canique: rue Vittorio
+A. Bederlunger et Cie.--Fonderie et usine mécanique: rue Vittorio
 Emanuele, 50.
 
 
 
-Clemente Rosi, ï¿½bï¿½niste. Le seul qui rï¿½pare les meubles antiques. Reï¿½oit
+Clemente Rosi, ébéniste. Le seul qui répare les meubles antiques. Reçoit
 des commissions pour tous pays. Lungarno Mediceo, 4.
 
 
 
 Etablissement de Bains d'eau de mer et d'eau douce. A. Ceccherini et
-frï¿½res: Lungarno Regio, prï¿½s l'Arsenal Mediceo et les Stallette.
+frères: Lungarno Regio, près l'Arsenal Mediceo et les Stallette.
 
 Assurances de Venise: rue S. Martino, 1.
 
@@ -2426,11 +2426,11 @@ Assurances de Venise: rue S. Martino, 1.
 
 _Tarif pour les voiture publiques._
 
-_Dans l'intï¿½rieur de la Ville_
-_Voitures ï¿½ un cheval._
+_Dans l'intérieur de la Ville_
+_Voitures à un cheval._
 
 Une course.........L 0.80
-Premiï¿½re demi-heure. 1.00
+Première demi-heure. 1.00
 Chaque demi heure en
   plus.............. 0.70
 
@@ -2442,47 +2442,47 @@ Course de la station
   les faubourgs, et
   viceversa......... 1.00
 
-Course de la ville ï¿½
-  l'extrï¿½me limite
+Course de la ville à
+  l'extrême limite
   des faubourgs, et
   viceversa......... 1.00
 
 _Dans le rayon de
-3 kilomï¿½tres._
+3 kilomètres._
 
 Une course.......... 1.60
-Premiï¿½re demi-heure. 1.40
+Première demi-heure. 1.40
 Chaque demi-heure en
 plus................ 0.80
 
-Pour les voitures ï¿½ deux
+Pour les voitures à deux
   chevaux on paie un tiers
   en plus.
 
-Pour la nuit, dï¿½s qu'on aura allumï¿½ les lanternes, les prix fixï¿½s par le
-tarif sont augmentï¿½s de vingt centimes par course, ou par demi-heure.
+Pour la nuit, dès qu'on aura allumé les lanternes, les prix fixés par le
+tarif sont augmentés de vingt centimes par course, ou par demi-heure.
 
-Les bagages qui ne peuvent ï¿½tre placï¿½s dans les voitures paient de dix ï¿½
+Les bagages qui ne peuvent être placés dans les voitures paient de dix à
 trente centimes suivant leur volume.
 
-Les demandes empressï¿½es qui ont ï¿½tï¿½ faites du prï¿½sent _Guide de Pise_ en
-ont hï¿½tï¿½ l'exï¿½cution, ce qui n'a pas permis de publier toutes les
-annonces commerciales des personnes qui auraient dï¿½sirï¿½ ï¿½tre citï¿½es.
-Pour supplï¿½er ï¿½ cela, il sera prochainement publiï¿½ une 2e ï¿½dition. Les
-propriï¿½taires d'hï¿½tels, de magasins, d'usines, ainsi que les
-professeurs, etc., soit du pays soit ï¿½trangers, qui voudront ï¿½tre
-indiquï¿½s, pourront s'adresser ï¿½ l'auteur _Eve Destantins Anthony_,
-maï¿½tresse de langues. Sotto Borgo, 6, ï¿½ Pise, Italie.
+Les demandes empressées qui ont été faites du présent _Guide de Pise_ en
+ont hâté l'exécution, ce qui n'a pas permis de publier toutes les
+annonces commerciales des personnes qui auraient désiré être citées.
+Pour suppléer à cela, il sera prochainement publié une 2e édition. Les
+propriétaires d'hôtels, de magasins, d'usines, ainsi que les
+professeurs, etc., soit du pays soit étrangers, qui voudront être
+indiqués, pourront s'adresser à l'auteur _Eve Destantins Anthony_,
+maîtresse de langues. Sotto Borgo, 6, à Pise, Italie.
 
 
 TABLE DES MATIERES
 
-PRï¿½FACE.
+PRÉFACE.
 HISTOIRE.
-Une journï¿½e ï¿½ Pise.
+Une journée à Pise.
 Piazza dei Cavalieri.
 Il Duomo.
-Baptistï¿½re.
+Baptistère.
 Camposanto.
 Campanile.
 Sainte Catherine.
@@ -2499,7 +2499,7 @@ Uliveto et Vico Pisano.
 Bains de Saint-Julien.
 Les RR. Cascine di S. Rossore.
 Camposanto suburbano.
-Offices, Bureaux et Etablissements publics et privï¿½s de la ville de
+Offices, Bureaux et Etablissements publics et privés de la ville de
 Pise.
 Tarif des voitures.
 

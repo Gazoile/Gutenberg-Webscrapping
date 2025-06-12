@@ -1,4 +1,4 @@
-generously made available by the Bibliothï¿½que nationale
+generously made available by the Bibliothèque nationale
 de France (BnF/Gallica) at http://gallica.bnf.fr)
 
 
@@ -7,8 +7,8 @@ de France (BnF/Gallica) at http://gallica.bnf.fr)
 
 
 
-                                Mï¿½MOIRE
-                   SUR LA Rï¿½UNION DES TROIS SERVICES,
+                                MÉMOIRE
+                   SUR LA RÉUNION DES TROIS SERVICES,
                         DES POSTES AUX CHEVAUX,
                         DE LA POSTE AUX LETTRES,
                          _ET DES MESSAGERIES,_
@@ -16,15 +16,15 @@ de France (BnF/Gallica) at http://gallica.bnf.fr)
 
                         Par M. DE SAINT-VICTOUR,
 
-      _Ancien Administrateur de la Rï¿½gie des Messageries, ï¿½tablie
+      _Ancien Administrateur de la Régie des Messageries, établie
                         par M. Turgot en 1775._
 
 
 
-                                ï¿½ PARIS,
+                                À PARIS,
 
-                 DE L'IMPRIMERIE DU PATRIOTE FRANï¿½OIS,
-                       Place du Thï¿½ï¿½tre Italien.
+                 DE L'IMPRIMERIE DU PATRIOTE FRANÇOIS,
+                       Place du Théâtre Italien.
 
                              13 JUIN 1790.
 
@@ -34,896 +34,896 @@ de France (BnF/Gallica) at http://gallica.bnf.fr)
                              AVERTISSEMENT.
 
 
-_Ce mï¿½moire a ï¿½tï¿½ remis, manuscrit, avec deux tableaux faisant piï¿½ces
-justificatives, au comitï¿½ des finances de l'assemblï¿½e nationale, qui a
-nommï¿½ M. le duc de Biron rapporteur, et MM. le comte de la Blache et de
+_Ce mémoire a été remis, manuscrit, avec deux tableaux faisant pièces
+justificatives, au comité des finances de l'assemblée nationale, qui a
+nommé M. le duc de Biron rapporteur, et MM. le comte de la Blache et de
 Volsus, commissaires._
 
-_Ce mï¿½moire ayant ï¿½tï¿½ communiquï¿½, les anciens fermiers des messageries
-ont fait imprimer plusieurs mï¿½moires dirigï¿½s contre le fermier actuel,
-et dans lesquels ils ont attaquï¿½ le plan._
+_Ce mémoire ayant été communiqué, les anciens fermiers des messageries
+ont fait imprimer plusieurs mémoires dirigés contre le fermier actuel,
+et dans lesquels ils ont attaqué le plan._
 
-_Dï¿½s-lors je n'ai plus balancï¿½ ï¿½ sacrifier mon amour-propre ï¿½ la
-nï¿½cessitï¿½ d'opposer ï¿½ la publicitï¿½ de ces mï¿½moires celle du plan, et la
-rï¿½futation des assertions contenues dans les mï¿½moires de MM. les anciens
+_Dès-lors je n'ai plus balancé à sacrifier mon amour-propre à la
+nécessité d'opposer à la publicité de ces mémoires celle du plan, et la
+réfutation des assertions contenues dans les mémoires de MM. les anciens
 fermiers; il m'a paru utile d'y joindre quelques observations sur les
-objections qui m'avoient ï¿½tï¿½ faites par M. le duc de Biron; enfin,
-d'autres observations sur quelques articles du rapport imprimï¿½ du comitï¿½
+objections qui m'avoient été faites par M. le duc de Biron; enfin,
+d'autres observations sur quelques articles du rapport imprimé du comité
 des finances._
 
-_Il se trouve nï¿½cessairement, dans ces piï¿½ces composï¿½es ï¿½ la hï¿½te, ï¿½
-diffï¿½rentes ï¿½poques, et cependant, sur le mï¿½me objet, beaucoup de
-rï¿½pï¿½titions._
+_Il se trouve nécessairement, dans ces pièces composées à la hâte, à
+différentes époques, et cependant, sur le même objet, beaucoup de
+répétitions._
 
 
 
 
-                                Mï¿½MOIRE
-                   SUR LA Rï¿½UNION DES TROIS SERVICES,
+                                MÉMOIRE
+                   SUR LA RÉUNION DES TROIS SERVICES,
                         DES POSTES AUX CHEVAUX,
                         DE LA POSTE AUX LETTRES,
                          _ET DES MESSAGERIES,_
                      SOUS UNE SEULE ADMINISTRATION.
 
 
-Le projet, aussi simple qu'utile, du ministre qui ï¿½tablit en 1775 la
-rï¿½gie des messageries sur un plan qui prï¿½paroit sa rï¿½union ï¿½
-l'administration des postes, prï¿½sentoit tant d'avantages, qu'on ne peut
-attribuer qu'ï¿½ des causes ï¿½trangï¿½res, ou ï¿½ des circonstances du moment,
-les obstacles qui s'opposï¿½rent ï¿½ son exï¿½cution.
+Le projet, aussi simple qu'utile, du ministre qui établit en 1775 la
+régie des messageries sur un plan qui préparoit sa réunion à
+l'administration des postes, présentoit tant d'avantages, qu'on ne peut
+attribuer qu'à des causes étrangères, ou à des circonstances du moment,
+les obstacles qui s'opposèrent à son exécution.
 
-Les circonstances qui se prï¿½parent, mettent, non-seulement ï¿½ l'ï¿½cart ces
+Les circonstances qui se préparent, mettent, non-seulement à l'écart ces
 obstacles, mais peuvent beaucoup ajouter aux avantages que ce projet
-avoit dï¿½jï¿½ prï¿½sentï¿½s dans d'autres temps, et dont on va parcourir, le
-plus sommairement possible, tous les dï¿½tails, en les soumettant avec
-confiance aux principes patriotiques de l'auguste assemblï¿½e des
-reprï¿½sentans de la nation.
+avoit déjà présentés dans d'autres temps, et dont on va parcourir, le
+plus sommairement possible, tous les détails, en les soumettant avec
+confiance aux principes patriotiques de l'auguste assemblée des
+représentans de la nation.
 
     [En marge: Les messageries faisoient, en 1775, et font
     encore majeure partie du service de la poste aux
     lettres.]
 
-Ce projet ï¿½toit simple, en ce que les messageries faisoient, ï¿½
+Ce projet étoit simple, en ce que les messageries faisoient, à
 l'exception des quatre grands couriers de Lyon, Bordeaux, Toulouse et
 Strasbourg, tout le service des malles ou des couriers pour le transport
-des lettres, moyennant la somme de 186,797 liv. 14 s., qui ï¿½toit
-dï¿½duite, par l'administration des postes, sur les 302,020 liv. qui
+des lettres, moyennant la somme de 186,797 liv. 14 s., qui étoit
+déduite, par l'administration des postes, sur les 302,020 liv. qui
 formoient le prix du bail que les messageries tenoient de cette
-administration. La rï¿½gie se chargea du mï¿½me service, qui ï¿½toit une
-condition grï¿½vante du bail des messageries, et l'administration de la
-poste aux lettres lui paya, pendant sa durï¿½e, cette premiï¿½re somme.
+administration. La régie se chargea du même service, qui étoit une
+condition grévante du bail des messageries, et l'administration de la
+poste aux lettres lui paya, pendant sa durée, cette première somme.
 
     [En marge: Les voitures de messageries, conduites par
-    les chevaux de poste, peuvent faire la presque totalitï¿½
+    les chevaux de poste, peuvent faire la presque totalité
     du service des lettres dans le royaume, avec avantage
     pour le public, pour les postes aux chevaux, et pour les
-    revenus de l'ï¿½tat.]
+    revenus de l'état.]
 
-La rï¿½gie ayant ï¿½tï¿½ chargï¿½e d'ï¿½tablir le service des messageries par les
+La régie ayant été chargée d'établir le service des messageries par les
 chevaux de poste sur toutes les routes qui en seroient susceptibles, on
-vit bientï¿½t, par la cï¿½lï¿½ritï¿½ de la marche de ces voitures, que celles ï¿½
-huit et ï¿½ quatre places pouvoient faire le service des lettres sur les
-grandes routes, et que les communications intï¿½rieures de ville ï¿½ ville
-pouvoient, pour la plupart, ï¿½tre aussi utilement servies par des
-cabriolets ï¿½ deux places, sur les routes qui n'auroient pu fournir assez
+vit bientôt, par la célérité de la marche de ces voitures, que celles à
+huit et à quatre places pouvoient faire le service des lettres sur les
+grandes routes, et que les communications intérieures de ville à ville
+pouvoient, pour la plupart, être aussi utilement servies par des
+cabriolets à deux places, sur les routes qui n'auroient pu fournir assez
 de voyageurs ou assez de transports pour les berlines.
 
-    [En marge: Les mï¿½mes employï¿½s pour les deux parties,
-    premiï¿½re ï¿½conomie.]
+    [En marge: Les mêmes employés pour les deux parties,
+    première économie.]
 
-Il ï¿½toit aisï¿½ de voir dï¿½s-lors que les mï¿½mes employï¿½s pouvoient faire le
-service de deux parties, pour le rï¿½gime et pour l'ordre, soit dans les
-provinces, soit ï¿½ Paris, d'oï¿½ auroit rï¿½sultï¿½ l'ï¿½conomie la plus
-ï¿½vidente; car, pourquoi une double ferme ou une double rï¿½gie et de
-doubles employï¿½s pour deux entreprises dont l'une, celle des
+Il étoit aisé de voir dès-lors que les mêmes employés pouvoient faire le
+service de deux parties, pour le régime et pour l'ordre, soit dans les
+provinces, soit à Paris, d'où auroit résulté l'économie la plus
+évidente; car, pourquoi une double ferme ou une double régie et de
+doubles employés pour deux entreprises dont l'une, celle des
 messageries, est l'instrument du service de l'autre?
 
-    [En marge: Par cette rï¿½union, la fraude respective
-    prï¿½venue.]
+    [En marge: Par cette réunion, la fraude respective
+    prévenue.]
 
-ï¿½ quoi il faut ajouter que, dans l'ï¿½tat actuel des choses, il est aussi
+À quoi il faut ajouter que, dans l'état actuel des choses, il est aussi
 facile aux directeurs des messageries de frauder la poste aux lettres
-par la voie des commis conducteurs, qu'il est notoire et mï¿½me ï¿½ peu prï¿½s
-nï¿½cessitï¿½ par la modicitï¿½ de leurs gages, que les grands couriers
+par la voie des commis conducteurs, qu'il est notoire et même à peu près
+nécessité par la modicité de leurs gages, que les grands couriers
 fraudent les messageries, par le transport sur leurs carioles des
-marchandises prï¿½cieuses, de l'argent et des comestibles.
+marchandises précieuses, de l'argent et des comestibles.
 
-    [En marge: Postes aux chevaux mal constituï¿½es, et
-    cependant dispendieuses, pourroient ï¿½tre mieux
-    constituï¿½es, et cesser de coï¿½ter.]
+    [En marge: Postes aux chevaux mal constituées, et
+    cependant dispendieuses, pourroient être mieux
+    constituées, et cesser de coûter.]
 
-    [En marge: Suppression des privilï¿½ges des maï¿½tres de
-    poste, estimï¿½e plus de 800,000 livres, et de leurs gages
-    ou indemnitï¿½s, portï¿½e ï¿½ environ 600,000 liv. y compris
-    les frais de l'intendance des postes: seconde ï¿½conomie.]
+    [En marge: Suppression des priviléges des maîtres de
+    poste, estimée plus de 800,000 livres, et de leurs gages
+    ou indemnités, portée à environ 600,000 liv. y compris
+    les frais de l'intendance des postes: seconde économie.]
 
-Les postes aux chevaux sont mal constituï¿½es, et cependant coï¿½tent ï¿½
-l'ï¿½tat, par les gages et les gratifications que l'ï¿½tat des choses oblige
-de donner aux maï¿½tres de postes. M. Necker, vol. 2, paragraphe 37 de son
-ouvrage, porte cette dï¿½pense, y compris les indemnitï¿½s aux maï¿½tres de
-postes, pour tournï¿½es extraordinaires, les traitemens de l'intendant des
-postes, des inspecteurs, contrï¿½leurs, visiteurs, etc., ï¿½ environ 600,000
-liv. Elles coï¿½tent encore, par les privilï¿½ges dont jouissent les maï¿½tres
-de postes: ils ï¿½toient estimï¿½s, en 1775, ï¿½ 7 ou 800,000 liv. Il faudroit
-aujourd'hui les indemniser au moins de cette somme. En amï¿½liorant le
-sort des maï¿½tres de postes, ces deux objets pourroient rentrer au profit
-du trï¿½sor public ou au soulagement du peuple.
+Les postes aux chevaux sont mal constituées, et cependant coûtent à
+l'état, par les gages et les gratifications que l'état des choses oblige
+de donner aux maîtres de postes. M. Necker, vol. 2, paragraphe 37 de son
+ouvrage, porte cette dépense, y compris les indemnités aux maîtres de
+postes, pour tournées extraordinaires, les traitemens de l'intendant des
+postes, des inspecteurs, contrôleurs, visiteurs, etc., à environ 600,000
+liv. Elles coûtent encore, par les priviléges dont jouissent les maîtres
+de postes: ils étoient estimés, en 1775, à 7 ou 800,000 liv. Il faudroit
+aujourd'hui les indemniser au moins de cette somme. En améliorant le
+sort des maîtres de postes, ces deux objets pourroient rentrer au profit
+du trésor public ou au soulagement du peuple.
 
-    [En marge: Causes de la souffrance des maï¿½tres de
+    [En marge: Causes de la souffrance des maîtres de
     postes.]
 
-Il y a des causes ï¿½videntes de l'ï¿½tat de souffrance des maï¿½tres de
-postes: le service gratuit, ï¿½ peu prï¿½s, des grands couriers, service
-d'autant plus grï¿½vant, que les couriers chargent, sans aucun mï¿½nagement,
-leurs carioles pour leur compte; les dï¿½placemens occasionnï¿½s par les
+Il y a des causes évidentes de l'état de souffrance des maîtres de
+postes: le service gratuit, à peu près, des grands couriers, service
+d'autant plus grévant, que les couriers chargent, sans aucun ménagement,
+leurs carioles pour leur compte; les déplacemens occasionnés par les
 voyages de la cour ou par les voyages extraordinaires des princes, et
-enfin l'assujettissement rï¿½sultant de la dï¿½sunion d'intï¿½rï¿½ts entre les
-maï¿½tres des postes, de ramener les chevaux ï¿½ vuide ou en laisse.
+enfin l'assujettissement résultant de la désunion d'intérêts entre les
+maîtres des postes, de ramener les chevaux à vuide ou en laisse.
 
-Par la rï¿½union, sous une mï¿½me administration, des postes aux chevaux, de
-la poste aux lettres et des messageries, on remï¿½dieroit ï¿½ ces
-inconvï¿½niens.
+Par la réunion, sous une même administration, des postes aux chevaux, de
+la poste aux lettres et des messageries, on remédieroit à ces
+inconvéniens.
 
-    [En marge: Soulager les maï¿½tres de postes du service
+    [En marge: Soulager les maîtres de postes du service
     gratuit des grands couriers.]
 
     [En marge: Leur donner la conduite des fourgons de
     messageries.]
 
-    [En marge: Assujettir les maï¿½tres de postes ï¿½ avoir six
+    [En marge: Assujettir les maîtres de postes à avoir six
     ou huit jumens pour la conduite des fourgons de
-    messageries, au pas, dans les pays propres ï¿½ l'ï¿½ducation
+    messageries, au pas, dans les pays propres à l'éducation
     des poulains.]
 
 Le service des couriers se faisant par les voitures des messageries,
-deviendroit utile aux maï¿½tres de postes, au lieu de leur ï¿½tre ï¿½ charge;
+deviendroit utile aux maîtres de postes, au lieu de leur être à charge;
 et on croit qu'il ne seroit pas impossible de combiner la marche des
-voitures des messageries, de maniï¿½re ï¿½ ce que les chevaux qui auroient
+voitures des messageries, de manière à ce que les chevaux qui auroient
 conduit une voiture, en ramenassent au moins souvent une autre. En
-suivant ce plan, et mï¿½me pour le faciliter, les maï¿½tres de postes
-seroient chargï¿½s de la conduite des fourgons des messageries, qu'ils
-mï¿½neroient au pas, mais sans interruption, et allant jour et nuit, ce
-qui porteroit autant d'ï¿½conomie que de cï¿½lï¿½ritï¿½ dans les transports, et
-obligeroit les maï¿½tres de postes ï¿½ avoir des chevaux forts et de
-rï¿½sistance, ou, ce qui seroit encore mieux, en ce qu'il en rï¿½sulteroit
-un moyen de reproduction sans dï¿½pense, qui remplaceroit des
-ï¿½tablissemens dispendieux, sans remplir cependant le mï¿½me objet, d'avoir
-six ou huit jumens par chaque poste sur les grandes routes frï¿½quentï¿½es
-par les fourgons, et qui mï¿½neroient ces fourgons au pas, sans aucun
-risque, ï¿½tant mï¿½me pleines, puisque les fermiers les emploient aux
-labours dans cet ï¿½tat. Les maï¿½tres de postes s'en serviroient aussi pour
+suivant ce plan, et même pour le faciliter, les maîtres de postes
+seroient chargés de la conduite des fourgons des messageries, qu'ils
+mèneroient au pas, mais sans interruption, et allant jour et nuit, ce
+qui porteroit autant d'économie que de célérité dans les transports, et
+obligeroit les maîtres de postes à avoir des chevaux forts et de
+résistance, ou, ce qui seroit encore mieux, en ce qu'il en résulteroit
+un moyen de reproduction sans dépense, qui remplaceroit des
+établissemens dispendieux, sans remplir cependant le même objet, d'avoir
+six ou huit jumens par chaque poste sur les grandes routes fréquentées
+par les fourgons, et qui mèneroient ces fourgons au pas, sans aucun
+risque, étant même pleines, puisque les fermiers les emploient aux
+labours dans cet état. Les maîtres de postes s'en serviroient aussi pour
 ce dernier usage, comme de leurs chevaux; ils seroient donc bien
-dï¿½dommagï¿½s de la dï¿½pense qu'on seroit dans le cas d'exiger d'eux pour la
-meilleure constitution de leurs ï¿½tablissemens, par un exercice habituel
-et rï¿½glï¿½ qu'ils n'ont pas aujourd'hui, ï¿½tant accablï¿½s trois mois de
-l'annï¿½e par le service des semestres et des campagnes, et les voyageurs
-ne les dï¿½dommageant pas le reste de l'annï¿½e de ce que leur coï¿½tent la
+dédommagés de la dépense qu'on seroit dans le cas d'exiger d'eux pour la
+meilleure constitution de leurs établissemens, par un exercice habituel
+et réglé qu'ils n'ont pas aujourd'hui, étant accablés trois mois de
+l'année par le service des semestres et des campagnes, et les voyageurs
+ne les dédommageant pas le reste de l'année de ce que leur coûtent la
 nourriture et l'entretien de leurs chevaux.
 
-    [En marge: Placer les postes ï¿½ 4 lieues de distance.]
+    [En marge: Placer les postes à 4 lieues de distance.]
 
-Pour amï¿½liorer encore la constitution des postes aux chevaux et le sort
-des maï¿½tres de postes, il faudroit les placer, autant qu'il seroit
-possible, ï¿½ quatre lieues ou ï¿½ huit milles de distance; les chevaux des
-postes supprimï¿½es fortifieroient, dï¿½s ï¿½ prï¿½sent, celles qui seroient
-conservï¿½es; la consommation des chevaux seroit moindre ï¿½ l'avenir; un
+Pour améliorer encore la constitution des postes aux chevaux et le sort
+des maîtres de postes, il faudroit les placer, autant qu'il seroit
+possible, à quatre lieues ou à huit milles de distance; les chevaux des
+postes supprimées fortifieroient, dès à présent, celles qui seroient
+conservées; la consommation des chevaux seroit moindre à l'avenir; un
 cheval bien nourri peut faire huit lieues par jour, et durer autant que
 celui qui n'en fait que quatre, dont deux entre les mains d'un postillon
-qui le ramï¿½ne en laisse, et sans ï¿½gard, ni au temps, ni ï¿½ l'ï¿½tat du
-cheval, ou le presse, ou le laisse se morfondre ï¿½ la porte d'un cabaret.
+qui le ramène en laisse, et sans égard, ni au temps, ni à l'état du
+cheval, ou le presse, ou le laisse se morfondre à la porte d'un cabaret.
 
-Les maï¿½tres de postes ainsi constituï¿½s auroient un ï¿½tat sï¿½r et utile
-pour eux; dï¿½s-lors, non-seulement toutes les dï¿½penses que le
+Les maîtres de postes ainsi constitués auroient un état sûr et utile
+pour eux; dès-lors, non-seulement toutes les dépenses que le
 gouvernement fait pour les maintenir, pourroient cesser, mais ils
-deviendroient utiles ï¿½ plusieurs objets intï¿½ressans.
+deviendroient utiles à plusieurs objets intéressans.
 
-    [En marge: Entretien des chemins confiï¿½s aux maï¿½tres de
-    postes, avec avantage pour eux et ï¿½conomie pour cette
-    partie de dï¿½pense.]
+    [En marge: Entretien des chemins confiés aux maîtres de
+    postes, avec avantage pour eux et économie pour cette
+    partie de dépense.]
 
 M. Turgot comptoit leur confier l'entretien des chemins, tel qu'il se
-fait en Limosin, et d'une poste ï¿½ l'autre, distance ï¿½gale ï¿½ celle qui
-est confiï¿½e aux cantonniers. Les maï¿½tres de postes ont plus d'intï¿½rï¿½t
-que nul autre au bon ï¿½tat des chemins que parcourent leurs chevaux, plus
-de facilitï¿½s de surveillance, et plus de moyens d'ï¿½conomie, en se
-servant ï¿½ propos de leurs chevaux et de leurs postillons, pour faire
-voiturer sur place les matï¿½riaux nï¿½cessaires.
+fait en Limosin, et d'une poste à l'autre, distance égale à celle qui
+est confiée aux cantonniers. Les maîtres de postes ont plus d'intérêt
+que nul autre au bon état des chemins que parcourent leurs chevaux, plus
+de facilités de surveillance, et plus de moyens d'économie, en se
+servant à propos de leurs chevaux et de leurs postillons, pour faire
+voiturer sur place les matériaux nécessaires.
 
-    [En marge: Faire faire aux maï¿½tres de postes les
+    [En marge: Faire faire aux maîtres de postes les
     transports militaires, et soulager les provinces de
-    cette corvï¿½e.]
+    cette corvée.]
 
 Il projetoit aussi de traiter avec eux pour les transports militaires,
-qui pï¿½sent sur la partie indigente des propriï¿½taires ou des fermiers, et
-sur-tout dans les provinces de petite culture, oï¿½ l'on ne laboure
-qu'avec des boeufs ou des vaches, trï¿½s-peu propres ï¿½ ces transports.
+qui pèsent sur la partie indigente des propriétaires ou des fermiers, et
+sur-tout dans les provinces de petite culture, où l'on ne laboure
+qu'avec des boeufs ou des vaches, très-peu propres à ces transports.
 
-    [En marge: Transports d'argent faits avec cï¿½lï¿½ritï¿½ et
+    [En marge: Transports d'argent faits avec célérité et
     sans frais, par les voitures de messageries.]
 
-Enfin, M. Turgot, qui faisoit entrer dans ces plans d'amï¿½liorations la
-suppression de tous les trï¿½soriers et receveurs gï¿½nï¿½raux des finances,
-voyoit, dans les voitures de messageries menï¿½es par les chevaux de
-postes, l'avantage de porter sans frais, et avec rapiditï¿½, les fonds en
-sï¿½retï¿½, ou des recettes particuliï¿½res au chef-lieu ou du chef-lieu ï¿½
-Paris, ou d'une province dans l'autre, ou, dans des cas extrï¿½mes, de
-Paris mï¿½me dans les provinces.
+Enfin, M. Turgot, qui faisoit entrer dans ces plans d'améliorations la
+suppression de tous les trésoriers et receveurs généraux des finances,
+voyoit, dans les voitures de messageries menées par les chevaux de
+postes, l'avantage de porter sans frais, et avec rapidité, les fonds en
+sûreté, ou des recettes particulières au chef-lieu ou du chef-lieu à
+Paris, ou d'une province dans l'autre, ou, dans des cas extrêmes, de
+Paris même dans les provinces.
 
-Ce plan utile au public et au commerce, sur lesquels pesoit le privilï¿½ge
-des messageries, au trï¿½sor public, qui, par des gages, des
-gratifications, des privilï¿½ges ou des indemnitï¿½s, soutenoit l'ï¿½tat
-prï¿½caire des maï¿½tres de postes, en ne retirant aucune utilitï¿½ des
-messageries, promettoit encore une augmentation considï¿½rable de produit:
-la rï¿½gie, chargï¿½e d'exï¿½cuter ce plan, n'a durï¿½ qu'un an; les plus forts
-dï¿½partemens ne lui ont ï¿½tï¿½ remis qu'ï¿½ des ï¿½poques postï¿½rieures ï¿½ sa
-crï¿½ation, et rapportï¿½es au tableau nï¿½. 1[1]. Le service des messageries
-par les chevaux de postes sur les routes qui ont pu ï¿½tre montï¿½es, a durï¿½
-ï¿½ peine six mois, et a ï¿½tï¿½ incomplet. Un tiers ï¿½ peu prï¿½s du royaume n'a
-pu ï¿½tre montï¿½ en poste; et cependant on prouve, par un tableau extrait
-avec exactitude des comptes de la rï¿½gie, que ce produit a ï¿½tï¿½ de la
+Ce plan utile au public et au commerce, sur lesquels pesoit le privilége
+des messageries, au trésor public, qui, par des gages, des
+gratifications, des priviléges ou des indemnités, soutenoit l'état
+précaire des maîtres de postes, en ne retirant aucune utilité des
+messageries, promettoit encore une augmentation considérable de produit:
+la régie, chargée d'exécuter ce plan, n'a duré qu'un an; les plus forts
+départemens ne lui ont été remis qu'à des époques postérieures à sa
+création, et rapportées au tableau nº. 1[1]. Le service des messageries
+par les chevaux de postes sur les routes qui ont pu être montées, a duré
+à peine six mois, et a été incomplet. Un tiers à peu près du royaume n'a
+pu être monté en poste; et cependant on prouve, par un tableau extrait
+avec exactitude des comptes de la régie, que ce produit a été de la
 somme de 1,263,808 liv. 3 s. 8 den.; qu'en prolongeant le produit des
-deux services, ancien et nouveau, jusques ï¿½ la fin de l'annï¿½e, ce
-produit prï¿½sentoit une somme de 1,896,087 liv. 14 s., quoique, comme on
-l'a dï¿½jï¿½ observï¿½, un tiers ï¿½ peu prï¿½s des routes du royaume n'ait pu
-ï¿½tre montï¿½ au service des chevaux de poste; et d'oï¿½ il rï¿½sulte que,
-comme l'a observï¿½ l'auteur des mï¿½moires de la vie de M. Turgot, imprimï¿½s
-en 1782, le produit des messageries isolï¿½es pouvoit ï¿½tre portï¿½ ï¿½
-4,000,000 par an, si on avoit laissï¿½ ï¿½ la rï¿½gie le temps d'achever le
+deux services, ancien et nouveau, jusques à la fin de l'année, ce
+produit présentoit une somme de 1,896,087 liv. 14 s., quoique, comme on
+l'a déjà observé, un tiers à peu près des routes du royaume n'ait pu
+être monté au service des chevaux de poste; et d'où il résulte que,
+comme l'a observé l'auteur des mémoires de la vie de M. Turgot, imprimés
+en 1782, le produit des messageries isolées pouvoit être porté à
+4,000,000 par an, si on avoit laissé à la régie le temps d'achever le
 plan du ministre.
 
     [En marge: Les messageries royales, servies par les
-    chevaux de postes, prï¿½sentent, pendant un an qu'a durï¿½
-    cette rï¿½gie, un produit d'environ 2,000,000.]
+    chevaux de postes, présentent, pendant un an qu'a duré
+    cette régie, un produit d'environ 2,000,000.]
 
-    [En marge: ï¿½conomie et facilitï¿½s pour diffï¿½rentes
-    branches d'administration ï¿½ ajouter ï¿½ ce produit.]
+    [En marge: Économie et facilités pour différentes
+    branches d'administration à ajouter à ce produit.]
 
-En ajoutant ï¿½ ce produit les ï¿½conomies qui rï¿½sulteroient de la cessation
-des privilï¿½ges des maï¿½tres des postes aux chevaux, des gages, indemnitï¿½s
-ou gratifications qu'on est obligï¿½ d'y ajouter; celles des bï¿½nï¿½fices des
+En ajoutant à ce produit les économies qui résulteroient de la cessation
+des priviléges des maîtres des postes aux chevaux, des gages, indemnités
+ou gratifications qu'on est obligé d'y ajouter; celles des bénéfices des
 fermiers des messageries ou des salaires de leurs directeurs, commis ou
-autres employï¿½s qui peuvent ï¿½tre supplï¿½ï¿½s dans la rï¿½union des trois
-services, par les administrateurs, directeurs, ou autres employï¿½s de la
-poste aux lettres; en y ajoutant encore les avantages ou les facilitï¿½s
+autres employés qui peuvent être suppléés dans la réunion des trois
+services, par les administrateurs, directeurs, ou autres employés de la
+poste aux lettres; en y ajoutant encore les avantages ou les facilités
 que le gouvernement se procureroit par la meilleure constitution des
 postes aux chevaux, pour l'entretien des chemins le mieux et le plus
-ï¿½conomiquement fait, pour le transport de l'argent, pour les transports
+économiquement fait, pour le transport de l'argent, pour les transports
 militaires, et pour faciliter dans le royaume, sans frais, une
-production abondante de chevaux. Enfin, l'activitï¿½ que cette opï¿½ration
+production abondante de chevaux. Enfin, l'activité que cette opération
 donneroit au commerce, en accordant le transit aux messageries, et
-combinant la marche des fourgons, allant jour et nuit, comme il a ï¿½tï¿½
-proposï¿½, avec celle des coches d'eau; cet objet rï¿½uniroit aux plus
+combinant la marche des fourgons, allant jour et nuit, comme il a été
+proposé, avec celle des coches d'eau; cet objet réuniroit aux plus
 grands avantages pour le commerce et pour le public, un produit
-considï¿½rable pour le trï¿½sor, et a paru consï¿½quemment digne d'ï¿½tre
-prï¿½sentï¿½ ï¿½ l'assemblï¿½e nationale, comme ï¿½tant d'une importance majeure
-et en finance et ï¿½ l'administration.
+considérable pour le trésor, et a paru conséquemment digne d'être
+présenté à l'assemblée nationale, comme étant d'une importance majeure
+et en finance et à l'administration.
 
-    [En marge: Nï¿½cessitï¿½ de donner une nouvelle et meilleure
+    [En marge: Nécessité de donner une nouvelle et meilleure
     constitution aux postes aux chevaux, et de changer le
-    rï¿½gime de leur discipline.]
+    régime de leur discipline.]
 
-Mais on ne sauroit trop le dire, son succï¿½s tient essentiellement ï¿½ une
-bonne constitution, ou ï¿½ la rï¿½gï¿½nï¿½ration des postes aux chevaux, qui
-doit prï¿½cï¿½der toute autre mesure; et l'on ne peut se flatter d'y
-parvenir, qu'en mettant ï¿½ l'ï¿½cart, sans retour, l'exercice et
+Mais on ne sauroit trop le dire, son succès tient essentiellement à une
+bonne constitution, ou à la régénération des postes aux chevaux, qui
+doit précéder toute autre mesure; et l'on ne peut se flatter d'y
+parvenir, qu'en mettant à l'écart, sans retour, l'exercice et
 l'influence de l'intendant des postes aux chevaux, et de ses
-inspecteurs, contrï¿½leurs et visiteurs. M. Turgot, en se faisant nommer
-surintendant des postes, ne put soustraire les opï¿½rations de sa rï¿½gie ï¿½
-tous les obstacles possibles (mais suscitï¿½s) de la part des maï¿½tres de
-postes: il se prï¿½senta des compagnies pour diffï¿½rentes routes du
-royaume, qui offroient de faire ï¿½ 17 sols par cheval, le service des
-messageries, qui alors ï¿½toit payï¿½ 20 sols aux maï¿½tres de postes; elles
-renonï¿½oient ï¿½ leurs privilï¿½ges, et la compagnie qui demandoit les postes
+inspecteurs, contrôleurs et visiteurs. M. Turgot, en se faisant nommer
+surintendant des postes, ne put soustraire les opérations de sa régie à
+tous les obstacles possibles (mais suscités) de la part des maîtres de
+postes: il se présenta des compagnies pour différentes routes du
+royaume, qui offroient de faire à 17 sols par cheval, le service des
+messageries, qui alors étoit payé 20 sols aux maîtres de postes; elles
+renonçoient à leurs priviléges, et la compagnie qui demandoit les postes
 dans un arrondissement de trente lieues autour de Paris, s'obligeoit aux
-conditions les plus avantageuses, comparï¿½es avec la dï¿½pense que coï¿½toit
-le mï¿½me objet ï¿½ fournir tous les chevaux nï¿½cessaires aux voyages de la
-cour: ces soumissions pouvoient au moins contenir et ramener les maï¿½tres
+conditions les plus avantageuses, comparées avec la dépense que coûtoit
+le même objet à fournir tous les chevaux nécessaires aux voyages de la
+cour: ces soumissions pouvoient au moins contenir et ramener les maîtres
 de postes: il fut impossible d'en faire usage.
 
-On a observï¿½, au commencement de ce mï¿½moire, que les circonstances
-actuelles pouvoient faciliter l'exï¿½cution de ce plan, en ajoutant mï¿½me ï¿½
+On a observé, au commencement de ce mémoire, que les circonstances
+actuelles pouvoient faciliter l'exécution de ce plan, en ajoutant même à
 ses avantages.
 
-    [En marge: Inconvï¿½nient du rï¿½gime actuel.]
+    [En marge: Inconvénient du régime actuel.]
 
 Avant de proposer les moyens qu'offrent ces circonstances, il n'est pas
-superflu de s'arrï¿½ter un moment ï¿½ l'organisation actuelle de
-l'intendance des postes aux chevaux; elle est confiï¿½e ï¿½ un homme
-rï¿½sident ï¿½ Paris, qui a sous ses ordres immï¿½diats un certain nombre
-d'inspecteurs, rï¿½sidens aussi ï¿½ Paris, et qui se bornent ï¿½ faire une ou
-deux tournï¿½es chaque annï¿½e dans leurs dï¿½partemens respectifs. Les
-maï¿½tres des postes, avertis de l'ï¿½poque de ces tournï¿½es, peuvent
-completter leurs ï¿½tablissemens par des chevaux qu'ils empruntent. Si les
-inspecteurs en rï¿½forment, il suffit aux maï¿½tres de postes de les
-soustraire ï¿½ la premiï¿½re tournï¿½e, et personne ne les empï¿½che de
-continuer ï¿½ s'en servir. On ne peut se refuser ï¿½ l'idï¿½e de
-l'imperfection de cette prï¿½tendue surveillance, qui cependant coï¿½te par
+superflu de s'arrêter un moment à l'organisation actuelle de
+l'intendance des postes aux chevaux; elle est confiée à un homme
+résident à Paris, qui a sous ses ordres immédiats un certain nombre
+d'inspecteurs, résidens aussi à Paris, et qui se bornent à faire une ou
+deux tournées chaque année dans leurs départemens respectifs. Les
+maîtres des postes, avertis de l'époque de ces tournées, peuvent
+completter leurs établissemens par des chevaux qu'ils empruntent. Si les
+inspecteurs en réforment, il suffit aux maîtres de postes de les
+soustraire à la première tournée, et personne ne les empêche de
+continuer à s'en servir. On ne peut se refuser à l'idée de
+l'imperfection de cette prétendue surveillance, qui cependant coûte par
 les appointemens de l'intendant des postes, par ceux des inspecteurs et
-contrï¿½leurs, et par les frais de tournï¿½es. Il existoit encore de bien
-plus grands abus dans les dï¿½placemens des chevaux de postes: lors des
+contrôleurs, et par les frais de tournées. Il existoit encore de bien
+plus grands abus dans les déplacemens des chevaux de postes: lors des
 voyages de la cour ou de ceux des princes, on a vu des chevaux parcourir
 une espace de quatre-vingt lieues pour venir faire une ou deux courses.
 
-    [En marge: Confier aux dï¿½partemens la restauration et la
+    [En marge: Confier aux départemens la restauration et la
     surveillance des postes aux chevaux: moyen d'aussi
-    grande utilitï¿½ que d'ï¿½conomie.]
+    grande utilité que d'économie.]
 
-Les dï¿½partemens pourroient ï¿½tre chargï¿½s d'abord de la restauration des
+Les départemens pourroient être chargés d'abord de la restauration des
 postes aux chevaux dans leur arrondissement, et successivement de leur
 surveillance et de leur discipline, le tout sans aucuns frais: ils
 employeroient utilement les connoissances locales que n'ont ni les
-inspecteurs et contrï¿½leurs, ni l'intendant auquel ils rendent compte, et
-l'intï¿½rï¿½t qu'ils doivent prendre plus que les uns et les autres ï¿½ tout
-ce qui peut contribuer ï¿½ leur plus grand avantage, pour bien constituer
-ces ï¿½tablissemens d'utilitï¿½ publique, et pour les maintenir dans le
-meilleur ï¿½tat. Ils indiqueroient, en connoissance de cause, le parti le
-plus utile ï¿½ tirer pour le commerce et pour le public, des
-communications de ville ï¿½ ville, et de celles-ci ï¿½ la capitale ou aux
-principales villes de commerce, en ï¿½tablissemens de messageries, et pour
+inspecteurs et contrôleurs, ni l'intendant auquel ils rendent compte, et
+l'intérêt qu'ils doivent prendre plus que les uns et les autres à tout
+ce qui peut contribuer à leur plus grand avantage, pour bien constituer
+ces établissemens d'utilité publique, et pour les maintenir dans le
+meilleur état. Ils indiqueroient, en connoissance de cause, le parti le
+plus utile à tirer pour le commerce et pour le public, des
+communications de ville à ville, et de celles-ci à la capitale ou aux
+principales villes de commerce, en établissemens de messageries, et pour
 le transport le plus direct des lettres.
 
-Il paroï¿½t ï¿½vident autant que simple, que ce moyen rï¿½unit ï¿½ de l'ï¿½conomie
-un ordre plus naturel et plus utile, puisque ce seroit confier ï¿½ ceux
-qui y sont vraiment intï¿½ressï¿½s, le maintien d'ï¿½tablissemens que l'on
-peut dire d'utilitï¿½ publique, et qui se lient par leur exercice aux
-chemins dï¿½ja confiï¿½s ï¿½ l'administration des dï¿½partemens; ce seroit
-mettre aussi l'administration plus ï¿½ portï¿½e d'ï¿½tre ï¿½clairï¿½e sur le
-meilleur usage ï¿½ faire de ces ï¿½tablissemens.
+Il paroît évident autant que simple, que ce moyen réunit à de l'économie
+un ordre plus naturel et plus utile, puisque ce seroit confier à ceux
+qui y sont vraiment intéressés, le maintien d'établissemens que l'on
+peut dire d'utilité publique, et qui se lient par leur exercice aux
+chemins déja confiés à l'administration des départemens; ce seroit
+mettre aussi l'administration plus à portée d'être éclairée sur le
+meilleur usage à faire de ces établissemens.
 
     [En marge: Construction de nouvelles voitures.]
 
-Il reste un objet ï¿½ prï¿½senter, le seul qui nï¿½cessite une dï¿½pense, ce
+Il reste un objet à présenter, le seul qui nécessite une dépense, ce
 seroit la construction de nouvelles voitures de messageries pour les
 voyageurs en poste: celles des fermiers actuels sont trop pesantes;
-celles qui ont ï¿½tï¿½ construites pendant la rï¿½gie ï¿½tablie par M. Turgot,
-l'ï¿½toient dï¿½ja trop. On croit que le service des messageries en poste,
-se feroit plus avantageusement par des berlines angloises ï¿½ deux fonds,
-donnant six places, avec un siï¿½ge couvert sur le devant de la voiture,
+celles qui ont été construites pendant la régie établie par M. Turgot,
+l'étoient déja trop. On croit que le service des messageries en poste,
+se feroit plus avantageusement par des berlines angloises à deux fonds,
+donnant six places, avec un siège couvert sur le devant de la voiture,
 pour le commis conducteur, et pour un ou deux voyageurs. Ces voitures ne
-porteroient, avec les voyageurs, que les petits paquets prï¿½cieux et les
-lettres, et pouroient ï¿½tre traï¿½nï¿½es par quatre chevaux. Les fourgons
+porteroient, avec les voyageurs, que les petits paquets précieux et les
+lettres, et pouroient être traînées par quatre chevaux. Les fourgons
 allant, comme on l'a dit, jour et nuit au pas, conduits par des chevaux
-de poste, seroient chargï¿½s de toutes les malles et caisses lourdes, et
-on y mï¿½nageroit des places pour les voyageurs les moins aisï¿½s.
+de poste, seroient chargés de toutes les malles et caisses lourdes, et
+on y ménageroit des places pour les voyageurs les moins aisés.
 
-On croit qu'il seroit avantageux que les premiï¿½res berlines fussent
+On croit qu'il seroit avantageux que les premières berlines fussent
 construites en Angleterre, sous les yeux de quelqu'un d'intelligent dans
-cette partie, ensuite continuï¿½es sur ces modï¿½les, ï¿½ Bruxelles,
-Valenciennes, Lille et Strasbourg, oï¿½ la qualitï¿½ du bois et les formes
-lï¿½gï¿½res qu'elle facilite, sans nuire ï¿½ la soliditï¿½, donneroient beaucoup
-d'avantages, indï¿½pendamment de l'ï¿½conomie dans la construction.
+cette partie, ensuite continuées sur ces modèles, à Bruxelles,
+Valenciennes, Lille et Strasbourg, où la qualité du bois et les formes
+légères qu'elle facilite, sans nuire à la solidité, donneroient beaucoup
+d'avantages, indépendamment de l'économie dans la construction.
 
-Il suffiroit, pour monter ce service, de 250 ï¿½ 300 voitures, qui, en les
-supposant ï¿½ 3000 livres chaque, feroient une somme de 750 ï¿½ 900 mille
+Il suffiroit, pour monter ce service, de 250 à 300 voitures, qui, en les
+supposant à 3000 livres chaque, feroient une somme de 750 à 900 mille
 livres.
 
-Pendant leur construction, ï¿½ laquelle moins d'un an doit suffire, on
-pourroit prï¿½parer, par une correspondance avec les dï¿½partemens, les
-ï¿½tablissemens convenables ï¿½ chacun d'eux, qui, pendant le mï¿½me
+Pendant leur construction, à laquelle moins d'un an doit suffire, on
+pourroit préparer, par une correspondance avec les départemens, les
+établissemens convenables à chacun d'eux, qui, pendant le même
 intervale, constitueroit ses postes aux chevaux en nombre et en force
-relative ï¿½ leur exercice.
+relative à leur exercice.
 
-L'exï¿½cution de ce plan, confiï¿½e ï¿½ Paris, ï¿½ une administration zï¿½lï¿½e, qui
-dï¿½pendroit immï¿½diatement du ministre des finances, qui se concerteroit
-avec les dï¿½partemens pour toutes ses opï¿½rations, et qui consï¿½quemment
-les dirigeroit sans obstacles vers le bien gï¿½nï¿½ral, prï¿½sente encore des
-moyens d'amï¿½lioration, entr'autres celui d'unir d'intï¿½rï¿½t, dans chaque
-dï¿½partement, les maï¿½tres de postes de la mï¿½me route, pour leur faciliter
-le retour de leurs chevaux respectivement ï¿½ charge, d'oï¿½ rï¿½sulteroit une
-ï¿½conomie dans le prix des courses: spï¿½culation qu'avoient faites les
-compagnies qui s'ï¿½toient offertes, et dont il a ï¿½tï¿½ parlï¿½.
+L'exécution de ce plan, confiée à Paris, à une administration zélée, qui
+dépendroit immédiatement du ministre des finances, qui se concerteroit
+avec les départemens pour toutes ses opérations, et qui conséquemment
+les dirigeroit sans obstacles vers le bien général, présente encore des
+moyens d'amélioration, entr'autres celui d'unir d'intérêt, dans chaque
+département, les maîtres de postes de la même route, pour leur faciliter
+le retour de leurs chevaux respectivement à charge, d'où résulteroit une
+économie dans le prix des courses: spéculation qu'avoient faites les
+compagnies qui s'étoient offertes, et dont il a été parlé.
 
 De trouver, dans les cas de voyages extraordinaires des princes, ou dans
-ceux de la cour, des chevaux dans le dï¿½partement et au plus prï¿½s, pour
-renforcer les postes, sans dï¿½placer ï¿½ grands frais, et cependant au
-dommage des maï¿½tres de postes, les chevaux ï¿½ trente, quarante, et mï¿½me
+ceux de la cour, des chevaux dans le département et au plus près, pour
+renforcer les postes, sans déplacer à grands frais, et cependant au
+dommage des maîtres de postes, les chevaux à trente, quarante, et même
 quatre-vingt lieues de distance.
 
-De multiplier les moyens de transporter les lettres, et de prï¿½venir les
-circuits qu'on leur fait faire aujourd'hui, avec le double inconvï¿½nient
+De multiplier les moyens de transporter les lettres, et de prévenir les
+circuits qu'on leur fait faire aujourd'hui, avec le double inconvénient
 de la perte du temps et d'autoriser des sur-taxes.
 
-Enfin, dans l'ï¿½tat actuel des choses, la poste aux lettres et les
-messageries, en se nuisant respectivement, pï¿½sent sur les postes aux
-chevaux, les trois parties sur le public ou sur le trï¿½sor. On croit
-pouvoir assurer que les messageries seules ont coï¿½tï¿½ au roi, depuis
-1776, de six ï¿½ sept millions, soit par les sacrifices qui ont ï¿½tï¿½ faits
-dans cette annï¿½e, pour jetter de la dï¿½faveur sur le plan de M.
-Turgot[2], soit par les indemnitï¿½s accordï¿½es aux diffï¿½rens fermiers qui
-se sont succï¿½dï¿½s depuis. Par la rï¿½union de ces trois services, et en se
+Enfin, dans l'état actuel des choses, la poste aux lettres et les
+messageries, en se nuisant respectivement, pèsent sur les postes aux
+chevaux, les trois parties sur le public ou sur le trésor. On croit
+pouvoir assurer que les messageries seules ont coûté au roi, depuis
+1776, de six à sept millions, soit par les sacrifices qui ont été faits
+dans cette année, pour jetter de la défaveur sur le plan de M.
+Turgot[2], soit par les indemnités accordées aux différens fermiers qui
+se sont succédés depuis. Par la réunion de ces trois services, et en se
 servant de l'esprit public et des connoissances locales que l'on peut
-attendre des dï¿½partemens pour en diriger la meilleure organisation, ils
-s'aideroient respectivement, et procureroient au trï¿½sor de l'ï¿½tat, ï¿½
+attendre des départemens pour en diriger la meilleure organisation, ils
+s'aideroient respectivement, et procureroient au trésor de l'état, à
 l'administration, au commerce et au public, les plus grands avantages;
 ce que l'on ne peut raisonnablement pas attendre de deux compagnies
-sï¿½parï¿½es, armï¿½es de privilï¿½ges, et n'ayant ï¿½ s'occuper d'en diriger
+séparées, armées de priviléges, et n'ayant à s'occuper d'en diriger
 l'exercice que vers leurs plus grands profits.
 
 
 
-_Apperï¿½u des ï¿½conomies ou des augmentations du produit que prï¿½sente le
-projet de la rï¿½union des trois services des postes aux chevaux, de la
+_Apperçu des économies ou des augmentations du produit que présente le
+projet de la réunion des trois services des postes aux chevaux, de la
 poste aux lettres, et des messageries._
 
 
-  _Premiï¿½re ï¿½conomie._ L'intendance de la poste aux chevaux
-  supprimï¿½e, et son exercice remis aux dï¿½partemens. . . . . . 600,000 l.
+  _Première économie._ L'intendance de la poste aux chevaux
+  supprimée, et son exercice remis aux départemens. . . . . . 600,000 l.
 
     [En marge: Voir cet article dans l'ouvrage de M. Necker
-    sur l'administration des finances, vol. II, ï¿½ 37.]
+    sur l'administration des finances, vol. II, § 37.]
 
-  _Seconde ï¿½conomie._ Suppression du secret . . . . . . . . . 450,000 l.
+  _Seconde économie._ Suppression du secret . . . . . . . . . 450,000 l.
 
-    [En marge: Voir _idem_, le ï¿½ 36.]
+    [En marge: Voir _idem_, le § 36.]
 
-  _Troisiï¿½me ï¿½conomie._ Suppression des privilï¿½ges des
-  maï¿½tres de postes, au moins . . . . . . . . . . . . . . . . 800,000 l.
+  _Troisième économie._ Suppression des priviléges des
+  maîtres de postes, au moins . . . . . . . . . . . . . . . . 800,000 l.
 
-  _Quatriï¿½me ï¿½conomie._ Dix-huit fermiers de la poste aux
-  lettres ou des messageries, qui peuvent ï¿½tre supplï¿½ï¿½s
-  par dix rï¿½gisseurs au plus; les employï¿½s des deux parties,
-  soit ï¿½ Paris, soit dans les provinces, qui peuvent ï¿½tre
-  dï¿½doublï¿½s; on ne croit pas exagï¿½rer en portant les
-  bï¿½nï¿½fices des uns et les appointemens des autres ï¿½ . . . . 1200,000 l.
+  _Quatrième économie._ Dix-huit fermiers de la poste aux
+  lettres ou des messageries, qui peuvent être suppléés
+  par dix régisseurs au plus; les employés des deux parties,
+  soit à Paris, soit dans les provinces, qui peuvent être
+  dédoublés; on ne croit pas exagérer en portant les
+  bénéfices des uns et les appointemens des autres à . . . . 1200,000 l.
 
   Augmentation du produit des messageries servies par les
   chevaux de postes et de la poste aux lettres, en
   multipliant, par les voitures de messageries, les moyens
-  de transport, et en prï¿½venant tous ceux de frauder, que
-  facilite le rï¿½gime actuel. . . . . . . . . . . . . . . . . 3000,000 l.
+  de transport, et en prévenant tous ceux de frauder, que
+  facilite le régime actuel. . . . . . . . . . . . . . . . . 3000,000 l.
                                                           --------------
                                                           6,050,000 liv.
 
-Plus de six millions en diminution de dï¿½penses ou en augmentation de
+Plus de six millions en diminution de dépenses ou en augmentation de
 produits par des moyens qui, loin de peser sur le public, lui seront
-utiles, et offriront encore ï¿½ l'administration les plus grandes
-facilitï¿½s ï¿½ de nouvelles ï¿½conomies pour l'entretien des grandes routes,
+utiles, et offriront encore à l'administration les plus grandes
+facilités à de nouvelles économies pour l'entretien des grandes routes,
 pour le transport le plus rapide de l'argent, pour les transports
 militaires, et pour faciliter dans le royaume, sans frais, une
-production abondante de chevaux, prï¿½sentent, indï¿½pendamment des abus que
-l'on supprimeroit, une opï¿½ration importante dans les circonstances
+production abondante de chevaux, présentent, indépendamment des abus que
+l'on supprimeroit, une opération importante dans les circonstances
 actuelles.
 
-Il est ï¿½ observer que le premier moyen de l'exï¿½cution de ce projet, s'il
-est agrï¿½ï¿½, tient ï¿½ remettre aux dï¿½partemens la restauration, et
-successivement le rï¿½gime des postes aux chevaux; premier motif
-d'examiner ce projet avant la constitution, dont l'ï¿½tablissement des
-dï¿½partemens, ainsi que leurs diffï¿½rentes fonctions, doivent faire
+Il est à observer que le premier moyen de l'exécution de ce projet, s'il
+est agréé, tient à remettre aux départemens la restauration, et
+successivement le régime des postes aux chevaux; premier motif
+d'examiner ce projet avant la constitution, dont l'établissement des
+départemens, ainsi que leurs différentes fonctions, doivent faire
 partie.
 
-Dix rï¿½gisseurs ï¿½tablis, le plutï¿½t possible, ï¿½ la place des dix-huit
+Dix régisseurs établis, le plutôt possible, à la place des dix-huit
 fermiers de la poste aux lettres et des messageries, en soutenant les
-deux services tels qu'ils se font, pour ne laisser pï¿½ricliter ni le
-public, ni les revenus du trï¿½sor de la nation, correspondroient avec les
-dï¿½partemens dï¿½s le commencement de leur exercice, pour concerter les
-ï¿½tablissemens les plus utiles ï¿½ faire, et feroient faire, en
-consï¿½quence, les voitures nï¿½cessaires, pendant que les postes
-s'organiseroient; et comme il faut nï¿½cessairement un tems pour ces deux
-opï¿½rations, ce sera avancer la jouissance qu'offre au public et au
-trï¿½sor, le dï¿½veloppement de ce projet, d'en hï¿½ter les moyens. Second
+deux services tels qu'ils se font, pour ne laisser péricliter ni le
+public, ni les revenus du trésor de la nation, correspondroient avec les
+départemens dès le commencement de leur exercice, pour concerter les
+établissemens les plus utiles à faire, et feroient faire, en
+conséquence, les voitures nécessaires, pendant que les postes
+s'organiseroient; et comme il faut nécessairement un tems pour ces deux
+opérations, ce sera avancer la jouissance qu'offre au public et au
+trésor, le développement de ce projet, d'en hâter les moyens. Second
 motif.
 
-Enfin, il en est un troisiï¿½me: les rï¿½siliations de baux faites par les
-ministres, produisent les rï¿½clamations les plus exagï¿½rï¿½es: une opï¿½ration
-sanctionnï¿½e par l'assemblï¿½e nationale ï¿½toufferoit toutes les prï¿½tentions
-arbitraires, et rï¿½duiroit aux mesures de la justice les indemnitï¿½s dues
+Enfin, il en est un troisième: les résiliations de baux faites par les
+ministres, produisent les réclamations les plus exagérées: une opération
+sanctionnée par l'assemblée nationale étoufferoit toutes les prétentions
+arbitraires, et réduiroit aux mesures de la justice les indemnités dues
 aux fermiers.
 
 
 
-_Observations sur les objections faites par M. le duc de Biron ï¿½ M. de
+_Observations sur les objections faites par M. le duc de Biron à M. de
 Saint-Victour, sur quelques parties de son projet._
 
 
-M. le duc de Biron paroï¿½t craindre que le rï¿½gime proposï¿½ ne suffise pas
-au sort des maï¿½tres de postes aux chevaux, et qu'il ne faille y ajouter
-une somme quelconque en indemnitï¿½ pour leur tenir lieu des privilï¿½ges.
+M. le duc de Biron paroît craindre que le régime proposé ne suffise pas
+au sort des maîtres de postes aux chevaux, et qu'il ne faille y ajouter
+une somme quelconque en indemnité pour leur tenir lieu des priviléges.
 
-On observe, 1ï¿½. que quand mï¿½me cela seroit, il faudroit en rï¿½fï¿½rer aux
-dï¿½partemens, pour fixer la quotitï¿½ de ces indemnitï¿½s, que les privilï¿½ges
-mï¿½me rï¿½partissoient trï¿½s-inï¿½galement, puisqu'un maï¿½tre de poste, placï¿½
-sur une route trï¿½s-frï¿½quentï¿½e et entourï¿½e de terreins productifs, auroit
-pu se passer de privilï¿½ges, et que ces privilï¿½ges ne suffisoient pas au
-maï¿½tre de poste placï¿½ sur une route peu frï¿½quentï¿½e et entourï¿½e de
-terreins peu fertiles, sur-tout dans les pays de petite culture, oï¿½ les
-chevaux ne sont pas employï¿½s au labour.
+On observe, 1º. que quand même cela seroit, il faudroit en référer aux
+départemens, pour fixer la quotité de ces indemnités, que les priviléges
+même répartissoient très-inégalement, puisqu'un maître de poste, placé
+sur une route très-fréquentée et entourée de terreins productifs, auroit
+pu se passer de priviléges, et que ces priviléges ne suffisoient pas au
+maître de poste placé sur une route peu fréquentée et entourée de
+terreins peu fertiles, sur-tout dans les pays de petite culture, où les
+chevaux ne sont pas employés au labour.
 
-2ï¿½. Qu'on peut croire qu'en doublant le produit des postes, au moins
-pour la plupart, en leur donnant quatre lieues ï¿½ parcourir, en
-fournissant aux maï¿½tres de postes un exercice rï¿½glï¿½ par les voitures
+2º. Qu'on peut croire qu'en doublant le produit des postes, au moins
+pour la plupart, en leur donnant quatre lieues à parcourir, en
+fournissant aux maîtres de postes un exercice réglé par les voitures
 publiques, en y ajoutant le service des fourgons, qu'ils n'avoient pas,
-en leur donnant l'entretien des routes aux prix ï¿½tablis, en leur donnant
-les transports militaires, enfin, en les exemptant du service ï¿½-peu-prï¿½s
+en leur donnant l'entretien des routes aux prix établis, en leur donnant
+les transports militaires, enfin, en les exemptant du service à-peu-près
 gratuit des grands courriers, et sur-tout de celui des chevaux de
-tournï¿½e pour les voyages de la cour ou pour ceux des princes; leur ï¿½tat
-change, et de mauvais qu'il ï¿½toit, devient bon, au point d'ï¿½tre
-recherchï¿½ par les propriï¿½taires les plus aisï¿½s, ï¿½ quelques exceptions de
-localitï¿½s prï¿½s, sur lesquelles il faut laisser aux dï¿½partemens ï¿½
-apprï¿½cier les secours qu'exigera le maintien de ces ï¿½tablissemens, au
+tournée pour les voyages de la cour ou pour ceux des princes; leur état
+change, et de mauvais qu'il étoit, devient bon, au point d'être
+recherché par les propriétaires les plus aisés, à quelques exceptions de
+localités près, sur lesquelles il faut laisser aux départemens à
+apprécier les secours qu'exigera le maintien de ces établissemens, au
 moins pour un tems.
 
-M. le duc de Biron voudroit que les maï¿½tres de postes fussent assujettis
-ï¿½ avoir un excï¿½dent de chevaux qui leur facilitï¿½t de servir au besoin
-les transports militaires, sans que le service public en fï¿½t interrompu.
+M. le duc de Biron voudroit que les maîtres de postes fussent assujettis
+à avoir un excédent de chevaux qui leur facilitât de servir au besoin
+les transports militaires, sans que le service public en fût interrompu.
 
-On a l'honneur de lui observer que les maï¿½tres de postes ï¿½toient, ainsi
-que tous les privilï¿½giï¿½s, exempts de ce service sous l'ancien rï¿½gime;
-d'oï¿½ il rï¿½sultoit que les intendans intimoient leurs ordres, pour ce
-service, aux malheureux les moins en ï¿½tat de le faire; ce qui
+On a l'honneur de lui observer que les maîtres de postes étoient, ainsi
+que tous les privilégiés, exempts de ce service sous l'ancien régime;
+d'où il résultoit que les intendans intimoient leurs ordres, pour ce
+service, aux malheureux les moins en état de le faire; ce qui
 produisoit, avec une vexation horrible, sur-tout dans les provinces de
-petite culture, oï¿½ les propriï¿½taires cultivateurs n'ont que des boeufs
-et des vaches trï¿½s-peu propres aux transports militaires, une grande
+petite culture, où les propriétaires cultivateurs n'ont que des boeufs
+et des vaches très-peu propres aux transports militaires, une grande
 imperfection dans ce service; mais aujourd'hui le ministre de la guerre
-avertissant ï¿½ l'avance les dï¿½partemens du passage des troupes sur leurs
-territoires, ces dï¿½partemens chercheront les chevaux oï¿½ ils sont,
-d'autant qu'ils doivent ï¿½tre payï¿½s, et par prï¿½fï¿½rence chez les maï¿½tres
-de postes, qui, s'ils sont chargï¿½s de l'entreprise, s'approvisionneront,
+avertissant à l'avance les départemens du passage des troupes sur leurs
+territoires, ces départemens chercheront les chevaux où ils sont,
+d'autant qu'ils doivent être payés, et par préférence chez les maîtres
+de postes, qui, s'ils sont chargés de l'entreprise, s'approvisionneront,
 pour cette circonstance, des chevaux dont ils auront besoin; ce qui sera
-moins cher que de les assujettir ï¿½ en avoir toute l'annï¿½e un excï¿½dent,
-peut-ï¿½tre pour une seule occasion.
+moins cher que de les assujettir à en avoir toute l'année un excédent,
+peut-être pour une seule occasion.
 
-On ne sauroit dï¿½tailler tous les inconvï¿½niens qui rï¿½sultent du rï¿½gime
+On ne sauroit détailler tous les inconvéniens qui résultent du régime
 actuel, tant pour les postes aux chevaux que pour la poste aux lettres
-et pour les messageries: il faudroit ï¿½crire un volume; ces divers
-ï¿½tablissemens, faits par leur nature pour l'utilitï¿½ publique, ont ï¿½tï¿½
-dirigï¿½s par des vues de fiscalitï¿½s encore mal calculï¿½es.
+et pour les messageries: il faudroit écrire un volume; ces divers
+établissemens, faits par leur nature pour l'utilité publique, ont été
+dirigés par des vues de fiscalités encore mal calculées.
 
-Toutes les ordonnances pour rï¿½gler le nombre des chevaux sur les
-diffï¿½rentes espï¿½ces de voitures, sont ï¿½ refaire. N'est-il pas absurde
+Toutes les ordonnances pour régler le nombre des chevaux sur les
+différentes espèces de voitures, sont à refaire. N'est-il pas absurde
 qu'une personne qui, en-dedans d'une voiture, ne donne pas dix livres
 d'effort au tirage, fasse payer un cheval de plus, et que la voiture la
-plus lourdement construite, chargï¿½e de malles et de paniers, ne paie que
+plus lourdement construite, chargée de malles et de paniers, ne paie que
 six chevaux, pourvu qu'elle ne contienne que quatre personnes; tandis
-qu'une voiture lï¿½gï¿½re, sans malles ni paniers, si elle contient cinq
-personnes, paie sept chevaux? Le bon sens et la justice ï¿½tabliroient ce
+qu'une voiture légère, sans malles ni paniers, si elle contient cinq
+personnes, paie sept chevaux? Le bon sens et la justice établiroient ce
 que doit payer une voiture sur son poids au total.
 
-La marche des lettres n'est pas moins inconsï¿½quente dans les circuits
-qu'on leur fait faire: il en rï¿½sulte une lenteur qui est nuisible aux
+La marche des lettres n'est pas moins inconséquente dans les circuits
+qu'on leur fait faire: il en résulte une lenteur qui est nuisible aux
 affaires et au commerce, et leur sur-taxe, en raison de ces circuits,
-est une vexation qui, en rï¿½sultat, altï¿½re le produit de cette partie.
+est une vexation qui, en résultat, altère le produit de cette partie.
 
-C'est en tout de nouveaux erremens ï¿½ suivre; mais heureusement ce sont
-ceux qui pourront ï¿½tre avouï¿½s par la raison, et qui, dirigï¿½s vers
-l'utilitï¿½ publique, donneront une augmentation de produit dont personne
-n'aura ï¿½ se plaindre, puisque cette augmentation rï¿½sultera d'abus ï¿½
-rï¿½former et de facilitï¿½s ï¿½ leur substituer.
+C'est en tout de nouveaux erremens à suivre; mais heureusement ce sont
+ceux qui pourront être avoués par la raison, et qui, dirigés vers
+l'utilité publique, donneront une augmentation de produit dont personne
+n'aura à se plaindre, puisque cette augmentation résultera d'abus à
+réformer et de facilités à leur substituer.
 
-Enfin, et cette derniï¿½re considï¿½ration doit presser la rï¿½union de ces
-trois services dans les mains de rï¿½gisseurs qui se concertent avec les
-dï¿½partemens pour leur meilleure organisation: la formation des
-dï¿½partemens, des districts et des nouveaux tribunaux va changer le
-mouvement intï¿½rieur pour les voyageurs et pour les correspondances: il
-aboutira moins de l'un et de l'autre ï¿½ Paris; mais il faudra multiplier
-les facilitï¿½s dans l'intï¿½rieur, oï¿½ il en existe trï¿½s-peu. Deux
-compagnies sï¿½parï¿½es, qui ont des baux ï¿½ termes et des ï¿½tablissemens
-faits, ne les dï¿½rangeront point sans rï¿½clamer des diminutions sur les
-prix de leurs baux, des indemnitï¿½s, etc. Plusieurs annï¿½es peuvent
-s'ï¿½couler dans ces dï¿½bats, toujours importuns aux ministres,
-principalement occupï¿½s de maintenir les revenus; et cependant toutes les
+Enfin, et cette dernière considération doit presser la réunion de ces
+trois services dans les mains de régisseurs qui se concertent avec les
+départemens pour leur meilleure organisation: la formation des
+départemens, des districts et des nouveaux tribunaux va changer le
+mouvement intérieur pour les voyageurs et pour les correspondances: il
+aboutira moins de l'un et de l'autre à Paris; mais il faudra multiplier
+les facilités dans l'intérieur, où il en existe très-peu. Deux
+compagnies séparées, qui ont des baux à termes et des établissemens
+faits, ne les dérangeront point sans réclamer des diminutions sur les
+prix de leurs baux, des indemnités, etc. Plusieurs années peuvent
+s'écouler dans ces débats, toujours importuns aux ministres,
+principalement occupés de maintenir les revenus; et cependant toutes les
 parties de ce service public et bien important seront en souffrance et
-dï¿½pï¿½riront, au point d'exiger plus de dï¿½penses et plus d'obstacles que
-n'en prï¿½senteroit une opï¿½ration faite ï¿½ propos.
+dépériront, au point d'exiger plus de dépenses et plus d'obstacles que
+n'en présenteroit une opération faite à propos.
 
-Cette opï¿½ration est fort simple aujourd'hui, puisqu'il faut se servir
-des moyens qui existent, un tems, et jusqu'ï¿½ ce que les postes aux
-chevaux soient constituï¿½es et que les nouvelles voitures soient faites.
-Il seroit facile aux dix rï¿½gisseurs qui auroient ï¿½ conduire, pendant
+Cette opération est fort simple aujourd'hui, puisqu'il faut se servir
+des moyens qui existent, un tems, et jusqu'à ce que les postes aux
+chevaux soient constituées et que les nouvelles voitures soient faites.
+Il seroit facile aux dix régisseurs qui auroient à conduire, pendant
 quinze ou dix-huit mois, la poste aux lettres et les messageries
-ï¿½-peu-prï¿½s sur le pied actuel, de se concerter avec les dï¿½partemens
-chargï¿½s dï¿½s ï¿½ prï¿½sent de la restauration, et successivement du maintien
-et de la police des postes aux chevaux, sur les ï¿½tablissemens ï¿½ faire ou
-sur ceux ï¿½ perfectionner pour rendre le service de la poste aux lettres
-et celui des messageries aussi utiles qu'ils sont susceptibles de l'ï¿½tre
-au public, au commerce et au nouvel ordre des choses. Ces rï¿½gisseurs
-seroient d'autant plus ï¿½ portï¿½e d'apprï¿½cier, en connoissance de cause,
-les projets qui leur seroient donnï¿½s par les divers dï¿½partemens, tant
-relativement ï¿½ l'utilitï¿½ publique, que pour une augmentation de produit,
+à-peu-près sur le pied actuel, de se concerter avec les départemens
+chargés dès à présent de la restauration, et successivement du maintien
+et de la police des postes aux chevaux, sur les établissemens à faire ou
+sur ceux à perfectionner pour rendre le service de la poste aux lettres
+et celui des messageries aussi utiles qu'ils sont susceptibles de l'être
+au public, au commerce et au nouvel ordre des choses. Ces régisseurs
+seroient d'autant plus à portée d'apprécier, en connoissance de cause,
+les projets qui leur seroient donnés par les divers départemens, tant
+relativement à l'utilité publique, que pour une augmentation de produit,
 qu'ils auroient sous les yeux l'objet de comparaison dans les
-ï¿½tablissemens actuels; et ils n'auroient ï¿½ prï¿½senter ï¿½ la dï¿½cision du
-ministre que des rï¿½sultats bien constatï¿½s.
+établissemens actuels; et ils n'auroient à présenter à la décision du
+ministre que des résultats bien constatés.
 
-Enfin cette opï¿½ration majeure, en administration, offre encore une
-augmentation considï¿½rable dans les revenus, soit en ï¿½conomies, soit en
-produit; et sous ces deux points de vue, elle paroï¿½t ï¿½galement
-intï¿½ressante dans les circonstances prï¿½sentes.
-
-
-
-_Autres observations remises ï¿½ M. le duc de Biron, sur les rï¿½flexions
-des anciens fermiers des Messageries, relatives ï¿½ un projet de MM. Alary
-et de Saint-Victour, dans un mï¿½moire imprimï¿½ et remis au comitï¿½ des
-finances de l'assemblï¿½e nationale, par lesdits anciens fermiers._
+Enfin cette opération majeure, en administration, offre encore une
+augmentation considérable dans les revenus, soit en économies, soit en
+produit; et sous ces deux points de vue, elle paroît également
+intéressante dans les circonstances présentes.
 
 
-MM. les anciens fermiers des messageries ont dit, dans le prï¿½cis des
-observations imprimï¿½es et remises par eux au comitï¿½ des finances: _que
+
+_Autres observations remises à M. le duc de Biron, sur les réflexions
+des anciens fermiers des Messageries, relatives à un projet de MM. Alary
+et de Saint-Victour, dans un mémoire imprimé et remis au comité des
+finances de l'assemblée nationale, par lesdits anciens fermiers._
+
+
+MM. les anciens fermiers des messageries ont dit, dans le précis des
+observations imprimées et remises par eux au comité des finances: _que
 le plan du sieur de Saint-Victour avoit des bases communes avec celles
-du sieur Alary, et par consï¿½quent aussi mal fondï¿½es; qu'il tendoit
-ï¿½galement, quoique d'une maniï¿½re diffï¿½rente, ï¿½ compromettre le service
+du sieur Alary, et par conséquent aussi mal fondées; qu'il tendoit
+également, quoique d'une manière différente, à compromettre le service
 des postes et des messageries._
 
-Si le sieur de Saint-Victour a pu donner lieu ï¿½ cette erreur, par la
-maniï¿½re dont il a prï¿½sentï¿½ son plan sur la rï¿½union des trois services,
-il doit d'autant plus s'empresser de la rectifier, que ce sont les idï¿½es
-de feu M. Turgot qu'il a voulu dï¿½velopper dans ce plan, et que le sieur
-de Saint-Victour n'y a ajoutï¿½ que ce que l'ï¿½tat des choses, bien
-diffï¿½rent de ce qu'il ï¿½toit en 1775, lui a paru propre ï¿½ augmenter les
-avantages d'utilitï¿½ publique, qui avoient dï¿½s-lors dï¿½cidï¿½ l'opï¿½ration de
+Si le sieur de Saint-Victour a pu donner lieu à cette erreur, par la
+manière dont il a présenté son plan sur la réunion des trois services,
+il doit d'autant plus s'empresser de la rectifier, que ce sont les idées
+de feu M. Turgot qu'il a voulu développer dans ce plan, et que le sieur
+de Saint-Victour n'y a ajouté que ce que l'état des choses, bien
+différent de ce qu'il étoit en 1775, lui a paru propre à augmenter les
+avantages d'utilité publique, qui avoient dès-lors décidé l'opération de
 M. Turgot.
 
-_M. Alary demande un privilï¿½ge exclusif pendant trente ans, pour une
+_M. Alary demande un privilége exclusif pendant trente ans, pour une
 compagnie qui se chargera de l'entreprise de toutes les postes aux
-chevaux du royaume._ Voilï¿½ la base de son plan qui est imprimï¿½; il
+chevaux du royaume._ Voilà la base de son plan qui est imprimé; il
 n'appartient pas au sieur de Saint-Victour d'en analyser les
-consï¿½quences.
+conséquences.
 
 La base du plan remis par ce dernier est de rendre les postes aux
-chevaux, laissï¿½es aux maï¿½tres de ces postes, les agens du service des
+chevaux, laissées aux maîtres de ces postes, les agens du service des
 messageries et de la poste aux lettres; de payer ces deux services de
-maniï¿½re ï¿½ rendre le sort des maï¿½tres de postes meilleur, et de donner ï¿½
-ces deux services, trï¿½s-essentiels au public et au commerce, le plus
-d'activitï¿½ et de facilitï¿½s possible: voilï¿½ le prï¿½cis des vues que feu M.
-Turgot avoit confiï¿½ au sieur de Saint-Victour, en le plaï¿½ant, en 1775, ï¿½
-la tï¿½te de la rï¿½gie des messageries: en un mot, M. Turgot vouloit
-substituer ï¿½ deux privilï¿½ges, qui pesoient sur le public, sur le
-commerce et sur les maï¿½tres de postes, que le trï¿½sor public ï¿½toit obligï¿½
-de dï¿½dommager par d'autres privilï¿½ges, par des gages et par des
-gratifications, des moyens qui rendoient le privilï¿½ge des messageries
-inutile, parce qu'ils auroient rï¿½uni aux plus grandes facilitï¿½s pour le
+manière à rendre le sort des maîtres de postes meilleur, et de donner à
+ces deux services, très-essentiels au public et au commerce, le plus
+d'activité et de facilités possible: voilà le précis des vues que feu M.
+Turgot avoit confié au sieur de Saint-Victour, en le plaçant, en 1775, à
+la tête de la régie des messageries: en un mot, M. Turgot vouloit
+substituer à deux priviléges, qui pesoient sur le public, sur le
+commerce et sur les maîtres de postes, que le trésor public étoit obligé
+de dédommager par d'autres priviléges, par des gages et par des
+gratifications, des moyens qui rendoient le privilége des messageries
+inutile, parce qu'ils auroient réuni aux plus grandes facilités pour le
 public et pour le commerce, dans le service de la poste aux lettres et
 des messageries, beaucoup d'avantages pour plusieurs objets de
-l'administration, dï¿½taillï¿½s dans le plan remis par le sieur de
-Saint-Victour au comitï¿½ des finances; enfin un sort assurï¿½ et
-indï¿½pendant de tout secours onï¿½reux, soit au peuple, soit au trï¿½sor
-public, pour les maï¿½tres des postes, et il augmentoit le produit des
+l'administration, détaillés dans le plan remis par le sieur de
+Saint-Victour au comité des finances; enfin un sort assuré et
+indépendant de tout secours onéreux, soit au peuple, soit au trésor
+public, pour les maîtres des postes, et il augmentoit le produit des
 messageries et de la poste aux lettres.
 
-Jusques-lï¿½ on ne peut voir aucune base commune avec celle du plan de M.
+Jusques-là on ne peut voir aucune base commune avec celle du plan de M.
 Alary.
 
-Le sieur de Saint-Victour a ajoutï¿½ ï¿½ ces vues d'utilitï¿½ publique, une
-idï¿½e que M. Turgot ne pouvoit avoir en 1775, et qui agrandit autant
-qu'elle assure, tous les avantages qui avoient dï¿½terminï¿½ ce ministre.
-Cette idï¿½e est de confier aux dï¿½partemens, ï¿½ chacun dans son ï¿½tendue,
+Le sieur de Saint-Victour a ajouté à ces vues d'utilité publique, une
+idée que M. Turgot ne pouvoit avoir en 1775, et qui agrandit autant
+qu'elle assure, tous les avantages qui avoient déterminé ce ministre.
+Cette idée est de confier aux départemens, à chacun dans son étendue,
 d'abord la restauration des postes aux chevaux, et successivement leur
 surveillance et leur discipline.
 
-Cette derniï¿½re idï¿½e s'ï¿½loigne encore plus du plan de M. Alary.
+Cette dernière idée s'éloigne encore plus du plan de M. Alary.
 
-Quelles craintes fondï¿½es les anciens fermiers des messageries
-peuvent-ils dï¿½s-lors se flatter de rï¿½pandre sur la sï¿½retï¿½ des deux
+Quelles craintes fondées les anciens fermiers des messageries
+peuvent-ils dès-lors se flatter de répandre sur la sûreté des deux
 services de la poste aux lettres et des messageries? Si, comme on ne
-peut le contester, ces deux services doivent ï¿½tre dirigï¿½s vers la plus
-grande utilitï¿½ publique, qui peut plus que l'influence directe des
-dï¿½partemens ï¿½loigner ces craintes affectï¿½es, puisqu'en mï¿½me tems qu'ils
-indiqueront les ï¿½tablissemens les plus utiles ï¿½ faire, ils auront tous
-les moyens que n'avoit sï¿½rement pas l'intendant des postes aux chevaux,
+peut le contester, ces deux services doivent être dirigés vers la plus
+grande utilité publique, qui peut plus que l'influence directe des
+départemens éloigner ces craintes affectées, puisqu'en même tems qu'ils
+indiqueront les établissemens les plus utiles à faire, ils auront tous
+les moyens que n'avoit sûrement pas l'intendant des postes aux chevaux,
 de leur donner et de maintenir toute la force qu'exigeront ces
-ï¿½tablissemens: il ne seroit d'ailleurs rien innovï¿½ dans les deux
-services de la poste aux lettres et des messageries, jusqu'ï¿½ ce que les
-rï¿½gisseurs qui les rï¿½uniroient, fussent assurï¿½s, par les dï¿½partemens
-mï¿½me, de l'utilitï¿½ des nouveaux ï¿½tablissemens ï¿½ faire, et de la sï¿½retï¿½
+établissemens: il ne seroit d'ailleurs rien innové dans les deux
+services de la poste aux lettres et des messageries, jusqu'à ce que les
+régisseurs qui les réuniroient, fussent assurés, par les départemens
+même, de l'utilité des nouveaux établissemens à faire, et de la sûreté
 de leurs agens.
 
-Le sieur de saint-Victour ose donc croire qu'il a prï¿½sentï¿½ de vï¿½ritables
-vues de libertï¿½, qu'elles se concilient avec la prospï¿½ritï¿½ du commerce,
-avec l'intï¿½rï¿½t du public, avec les avantages que l'on doit, sans nuire ï¿½
-l'un et ï¿½ l'autre, chercher ï¿½ procurer au trï¿½sor de la nation, et enfin
-avec les principes de l'assemblï¿½e nationale.
+Le sieur de saint-Victour ose donc croire qu'il a présenté de véritables
+vues de liberté, qu'elles se concilient avec la prospérité du commerce,
+avec l'intérêt du public, avec les avantages que l'on doit, sans nuire à
+l'un et à l'autre, chercher à procurer au trésor de la nation, et enfin
+avec les principes de l'assemblée nationale.
 
 MM. les anciens fermiers des messageries conviennent, dans le cours de
 leurs observations, que les circonstances exigent des adoucissemens dans
-l'exercice du privilï¿½ge des messageries, et y souscrivent dans leur
-soumission; mais est-ce le moment de composer avec ce que les privilï¿½ges
-ont de nuisible ou d'odieux, lorsqu'il n'y a plus d'obstacles ï¿½ leur
+l'exercice du privilége des messageries, et y souscrivent dans leur
+soumission; mais est-ce le moment de composer avec ce que les priviléges
+ont de nuisible ou d'odieux, lorsqu'il n'y a plus d'obstacles à leur
 substituer des moyens utiles?
 
-Ils sentent aussi que tous les changemens faits et ï¿½ faire dans
-l'administration, vont dï¿½ranger l'ancien mouvement des messageries (ils
+Ils sentent aussi que tous les changemens faits et à faire dans
+l'administration, vont déranger l'ancien mouvement des messageries (ils
 auroient pu ajouter celui de la poste aux lettres), et faire perdre aux
-messageries des objets ci-devant considï¿½rables de produit.
+messageries des objets ci-devant considérables de produit.
 
-Mais trop attachï¿½s ï¿½ leur ancienne existence, ils ne voient pas, ou
+Mais trop attachés à leur ancienne existence, ils ne voient pas, ou
 feignent de ne pas voir, que les moyens les plus utiles de remplacement
-ne peuvent se trouver que dans la plus grande activitï¿½ que l'on pourra
-faciliter au commerce; et quelqu'intelligence qu'on puisse accorder ï¿½
-leur expï¿½rience, quelqu'ï¿½tendue qu'on donne ï¿½ leurs facultï¿½s, on ne
-pourra jamais leur accorder qu'ils aident ï¿½ l'activitï¿½ du commerce dans
+ne peuvent se trouver que dans la plus grande activité que l'on pourra
+faciliter au commerce; et quelqu'intelligence qu'on puisse accorder à
+leur expérience, quelqu'étendue qu'on donne à leurs facultés, on ne
+pourra jamais leur accorder qu'ils aident à l'activité du commerce dans
 le transport des marchandises, autant que peuvent le faire les postes
-aux chevaux bien constituï¿½es, et menant au pas, sans interruption, jour
+aux chevaux bien constituées, et menant au pas, sans interruption, jour
 et nuit, les fourgons qui, au lieu de huit lieues, en feront au moins
 vingt dans les vingt-quatre heures, et qui, par cet avantage
-inapprï¿½ciable pour le commerce, attireront successivement tout le
+inappréciable pour le commerce, attireront successivement tout le
 roulage.
 
-Le service de la poste aux lettres se fera aussi avec plus de cï¿½lï¿½ritï¿½
+Le service de la poste aux lettres se fera aussi avec plus de célérité
 et plus directement par les voitures, pour les voyageurs, conduites par
 les chevaux de postes, que par les moyens que la ferme des messageries,
-chargï¿½e de cette partie de service, peut employer.
+chargée de cette partie de service, peut employer.
 
-Enfin, si les anciens fermiers des messageries, d'aprï¿½s leur exposï¿½,
+Enfin, si les anciens fermiers des messageries, d'après leur exposé,
 peuvent, en se chargeant des convois et transports militaires, procurer
-une ï¿½conomie annuelle sur cette partie, de 350 mille livres; combien ï¿½
-plus forte raison le pourront, non pas les maï¿½tres de postes, mais les
-dï¿½partemens qui traiteront avec eux, puisque ces ï¿½tablissemens couvrent
-la surface du royaume, et que bien constituï¿½s, ils auront une quantitï¿½
-de chevaux bien supï¿½rieure ï¿½ celle que peuvent employer les fermiers des
-messageries, obligï¿½s cependant, comme les maï¿½tres de postes, ï¿½ remplir
-leurs engagemens vis-ï¿½-vis du service public.
+une économie annuelle sur cette partie, de 350 mille livres; combien à
+plus forte raison le pourront, non pas les maîtres de postes, mais les
+départemens qui traiteront avec eux, puisque ces établissemens couvrent
+la surface du royaume, et que bien constitués, ils auront une quantité
+de chevaux bien supérieure à celle que peuvent employer les fermiers des
+messageries, obligés cependant, comme les maîtres de postes, à remplir
+leurs engagemens vis-à-vis du service public.
 
-Il reste ï¿½ examiner quelles sont ces _dï¿½penses considï¿½rables, tant pour
+Il reste à examiner quelles sont ces _dépenses considérables, tant pour
 le remboursement des administrateurs des postes, fermiers et
-sous-fermiers des messageries, que par la mise de fonds de la rï¿½gie
-qu'entraï¿½neroit les _prï¿½tendues_ innovations proposï¿½es par le sieur de
+sous-fermiers des messageries, que par la mise de fonds de la régie
+qu'entraîneroit les _prétendues_ innovations proposées par le sieur de
 Saint-Victour_.
 
-Peut-on appeller une dï¿½pense le remboursement des fonds d'avance dus aux
-administrateurs des postes; et l'assemblï¿½e hï¿½sitera-t-elle ï¿½ supprimer
-la gabelle, les aides, les charges de receveurs gï¿½nï¿½raux, et tant
+Peut-on appeller une dépense le remboursement des fonds d'avance dus aux
+administrateurs des postes; et l'assemblée hésitera-t-elle à supprimer
+la gabelle, les aides, les charges de receveurs généraux, et tant
 d'autres, parce qu'il faudra rembourser les fonds d'avance des places,
 ou les finances des charges?
 
-Le fermier actuel des messageries ne sera pas cher ï¿½ rembourser ni ï¿½
-indemniser, d'aprï¿½s le dï¿½pouillement de sa situation vis-ï¿½-vis du
+Le fermier actuel des messageries ne sera pas cher à rembourser ni à
+indemniser, d'après le dépouillement de sa situation vis-à-vis du
 gouvernement, que donnent les anciens fermiers.
 
 Quant aux sous-fermiers, qui ne doivent pas participer aux griefs ou aux
-reprises que l'on a ï¿½ exercer sur le fermier, ils jouiront de leurs baux
-jusqu'ï¿½ ce que le nouveau service par les chevaux de postes puisse ï¿½tre
-montï¿½. Alors les dï¿½partemens auxquels ressortent ces sous-fermiers,
-faciliteront la vente de leurs chevaux, de leurs fourages, aux maï¿½tres
-de postes, ï¿½ un prix ï¿½quitable: s'ils ont des voitures qui puissent ï¿½tre
-utiles ï¿½ la rï¿½gie, elle les prendra aux mï¿½mes conditions. Il ne restera
-donc qu'ï¿½ les indemniser de la non-jouissance de leurs baux; il y a des
-rï¿½gles ï¿½tablies pour cet objet, et l'on peut croire que les dï¿½partemens,
+reprises que l'on a à exercer sur le fermier, ils jouiront de leurs baux
+jusqu'à ce que le nouveau service par les chevaux de postes puisse être
+monté. Alors les départemens auxquels ressortent ces sous-fermiers,
+faciliteront la vente de leurs chevaux, de leurs fourages, aux maîtres
+de postes, à un prix équitable: s'ils ont des voitures qui puissent être
+utiles à la régie, elle les prendra aux mêmes conditions. Il ne restera
+donc qu'à les indemniser de la non-jouissance de leurs baux; il y a des
+règles établies pour cet objet, et l'on peut croire que les départemens,
 qui verront substituer des agens d'un service actif et utile, sous leur
-surveillance, ï¿½ des fermiers et sous-fermiers d'un exercice privilï¿½giï¿½
-et consï¿½quemment aussi incomplet que gï¿½nant, se prï¿½teront ï¿½ soulager le
-trï¿½sor public de cette lï¿½gï¿½re dï¿½pense.
+surveillance, à des fermiers et sous-fermiers d'un exercice privilégié
+et conséquemment aussi incomplet que gênant, se prêteront à soulager le
+trésor public de cette légère dépense.
 
-La mise des fonds de la rï¿½gie, consiste dans les voitures ï¿½ faire faire
-pour le nouveau service. Cette dï¿½pense est portï¿½e dans le plan du sieur
-de Saint-Victour, de 750 ï¿½ 900 mille livres. On ne voit pas qu'il soit
+La mise des fonds de la régie, consiste dans les voitures à faire faire
+pour le nouveau service. Cette dépense est portée dans le plan du sieur
+de Saint-Victour, de 750 à 900 mille livres. On ne voit pas qu'il soit
 possible d'en supposer d'autres, et on pourroit, pour soulager encore le
-trï¿½sor de cette lï¿½gï¿½re dï¿½pense, en charger les dix rï¿½gisseurs, ï¿½ valoir
-sur les fonds d'avance qu'ils seront obligï¿½s de faire.
+trésor de cette légère dépense, en charger les dix régisseurs, à valoir
+sur les fonds d'avance qu'ils seront obligés de faire.
 
 Les anciens fermiers offrent 900,000 livres de prix de ferme pour les
-messageries isolï¿½es.
+messageries isolées.
 
-Le plan du sieur de Saint-Victour, pour la rï¿½union des trois services
+Le plan du sieur de Saint-Victour, pour la réunion des trois services
 des postes aux chevaux, de la poste aux lettres et des messageries,
-donne une ï¿½conomie sur les dï¿½penses actuelles, et annonce en
-augmentation de produit environ six millions par an, et il ne prï¿½sente
-cet avantage que comme accessoire comparï¿½ avec ceux qu'assure au public,
-au commerce et ï¿½ l'administration, le dï¿½veloppement de ce plan.
+donne une économie sur les dépenses actuelles, et annonce en
+augmentation de produit environ six millions par an, et il ne présente
+cet avantage que comme accessoire comparé avec ceux qu'assure au public,
+au commerce et à l'administration, le développement de ce plan.
 
 
 
-_Observations sur quelques articles du titre, _Vues gï¿½nï¿½rales sur la
-refonte des compagnies de finance_, dans l'extrait raisonnï¿½ des rapports
-du comitï¿½ des finances._
+_Observations sur quelques articles du titre, _Vues générales sur la
+refonte des compagnies de finance_, dans l'extrait raisonné des rapports
+du comité des finances._
 
 
-Si le plan de la rï¿½union des trois services des postes aux chevaux, de
-la poste aux lettres et des messageries, dirigï¿½ principalement vers des
-vues d'utilitï¿½ publique et de facilitï¿½s pour l'administration, porte sur
-des bases justes, et mï¿½rite d'ï¿½tre accueilli, on observe qu'il seroit
-contrariï¿½ dans son exï¿½cution, par le rapport imprimï¿½ du comitï¿½ des
-finances, qui propose _d'adjoindre ï¿½ la ferme ou rï¿½gie gï¿½nï¿½rale,
-composï¿½e de trente rï¿½gisseurs ou fermiers, six administrateurs des
+Si le plan de la réunion des trois services des postes aux chevaux, de
+la poste aux lettres et des messageries, dirigé principalement vers des
+vues d'utilité publique et de facilités pour l'administration, porte sur
+des bases justes, et mérite d'être accueilli, on observe qu'il seroit
+contrarié dans son exécution, par le rapport imprimé du comité des
+finances, qui propose _d'adjoindre à la ferme ou régie générale,
+composée de trente régisseurs ou fermiers, six administrateurs des
 postes, pour ne former qu'une seule compagnie; celle des domaines
-restant sï¿½parï¿½e, ï¿½ cause de la nature de ses perceptions, tout ï¿½ fait
+restant séparée, à cause de la nature de ses perceptions, tout à fait
 distinctes de celles des autres_.
 
-Le comitï¿½ motive la rï¿½union de l'administration des postes ï¿½ la ferme ou
-rï¿½gie gï¿½nï¿½rale, sur la contrebande qui se fait par la voie de la poste
-au dï¿½triment de la ferme gï¿½nï¿½rale, et qu'il estime ï¿½ environ trois
+Le comité motive la réunion de l'administration des postes à la ferme ou
+régie générale, sur la contrebande qui se fait par la voie de la poste
+au détriment de la ferme générale, et qu'il estime à environ trois
 millions par an.
 
 Qu'il me soit permis de faire quelques observations sommaires sur ces
-deux objets, auxquels j'ajouterai un troisiï¿½me, non moins important.
+deux objets, auxquels j'ajouterai un troisième, non moins important.
 
-Une compagnie chargï¿½e de perceptions fixes, et dont le maintien et
-l'accroissement constituent ses bï¿½nï¿½fices, est-elle la plus propre au
-travail et ï¿½ la suite qu'exige une organisation nouvelle, qui substitue
-ï¿½ l'exercice de deux privilï¿½ges et aux abus sans nombre qui en sont
-dï¿½rivï¿½s, des ï¿½tablissemens dirigï¿½s vers l'utilitï¿½ publique, de concert
-avec les dï¿½partemens, et d'aprï¿½s le nouvel ordre de choses, qui exigera
-des changemens multipliï¿½s dans les ï¿½tablissemens des postes aux chevaux
+Une compagnie chargée de perceptions fixes, et dont le maintien et
+l'accroissement constituent ses bénéfices, est-elle la plus propre au
+travail et à la suite qu'exige une organisation nouvelle, qui substitue
+à l'exercice de deux priviléges et aux abus sans nombre qui en sont
+dérivés, des établissemens dirigés vers l'utilité publique, de concert
+avec les départemens, et d'après le nouvel ordre de choses, qui exigera
+des changemens multipliés dans les établissemens des postes aux chevaux
 et dans les services de la poste aux lettres et des messageries; il doit
-rï¿½sulter, ï¿½ la vï¿½ritï¿½, de ces changemens, qui doivent ï¿½tre
-principalement dirigï¿½s vers l'utilitï¿½ publique et celle du commerce, une
-diminution assez considï¿½rable de dï¿½penses, et une augmentation de
-revenus pour le trï¿½sor public; mais il y a, pour arriver ï¿½ ce rï¿½sultat,
+résulter, à la vérité, de ces changemens, qui doivent être
+principalement dirigés vers l'utilité publique et celle du commerce, une
+diminution assez considérable de dépenses, et une augmentation de
+revenus pour le trésor public; mais il y a, pour arriver à ce résultat,
 dix-huit mois de travail et d'une correspondance soutenue avec les
-dï¿½partemens, sur des objets peu familiers ï¿½ une compagnie de finance.
-Cette compagnie, chargï¿½e de perceptions fixes, seroit donc dï¿½tournï¿½e de
+départemens, sur des objets peu familiers à une compagnie de finance.
+Cette compagnie, chargée de perceptions fixes, seroit donc détournée de
 son principal objet, ou, ce qui est plus vraisemblable, lui sacrifieroit
-un travail pour ainsi dire ï¿½tranger.
+un travail pour ainsi dire étranger.
 
-D'ailleurs, dans ce projet de rï¿½union, que deviendroient les
+D'ailleurs, dans ce projet de réunion, que deviendroient les
 messageries, dont on ne parle pas, qui sont cependant l'instrument
-principal du service de la poste aux lettres, qui doivent consï¿½quemment
-n'en pas ï¿½tre sï¿½parï¿½es, et qui ne s'ï¿½tant maintenues que par un
-privilï¿½ge auquel on a encore ajoutï¿½ depuis quinze ans de grands
-sacrifices, vont ï¿½tre dï¿½truites, au risque de compromettre le service de
-la poste aux lettres, si on ne les soutient par des moyens d'utilitï¿½
+principal du service de la poste aux lettres, qui doivent conséquemment
+n'en pas être séparées, et qui ne s'étant maintenues que par un
+privilége auquel on a encore ajouté depuis quinze ans de grands
+sacrifices, vont être détruites, au risque de compromettre le service de
+la poste aux lettres, si on ne les soutient par des moyens d'utilité
 publique.
 
-Quant ï¿½ la contrebande, on l'a dï¿½ja observï¿½ dans le mï¿½moire sur la
-rï¿½union des trois services des postes aux chevaux, de la poste aux
-lettres et des messageries sous une seule administration: cet abus ï¿½toit
-nï¿½cessitï¿½ par la modicitï¿½ des gages donnï¿½s aux grands courriers, et on
-peut ajouter qu'il ï¿½toit trï¿½s-protï¿½gï¿½ par l'autoritï¿½ trop absolue de
-l'intendant des postes, et par les facilitï¿½s qu'il lui donnoit, pour
-attacher ï¿½ cette autoritï¿½ beaucoup de personnes considï¿½rables. On peut
-croire que cette autoritï¿½ n'existant plus, un rï¿½gime public et national,
-puisqu'il sera sous la surveillance de tous les dï¿½partemens, suffira,
-avec des prï¿½cautions bien faciles ï¿½ prendre, pour dï¿½truire cet abus.
+Quant à la contrebande, on l'a déja observé dans le mémoire sur la
+réunion des trois services des postes aux chevaux, de la poste aux
+lettres et des messageries sous une seule administration: cet abus étoit
+nécessité par la modicité des gages donnés aux grands courriers, et on
+peut ajouter qu'il étoit très-protégé par l'autorité trop absolue de
+l'intendant des postes, et par les facilités qu'il lui donnoit, pour
+attacher à cette autorité beaucoup de personnes considérables. On peut
+croire que cette autorité n'existant plus, un régime public et national,
+puisqu'il sera sous la surveillance de tous les départemens, suffira,
+avec des précautions bien faciles à prendre, pour détruire cet abus.
 
-Il paroï¿½troit donc prï¿½fï¿½rable de rï¿½unir ï¿½ la ferme ou rï¿½gie gï¿½nï¿½rale
-l'administration des domaines, en prenant dans la derniï¿½re de ces
-compagnies, les travailleurs nï¿½cessaires et les plus instruits, et de
-faire une rï¿½gie sï¿½parï¿½e pour la rï¿½union des trois services des postes
+Il paroîtroit donc préférable de réunir à la ferme ou régie générale
+l'administration des domaines, en prenant dans la dernière de ces
+compagnies, les travailleurs nécessaires et les plus instruits, et de
+faire une régie séparée pour la réunion des trois services des postes
 aux chevaux, de la poste aux lettres et des messageries.
 
-Le projet du comitï¿½ des finances, mï¿½me titre, prï¿½sente un grand
-inconvï¿½nient sous plus d'un rapport, celui de porter les fonds d'avance
-de tous les rï¿½gisseurs ï¿½ un million 800 mille livres; c'est appeller,
-presque exclusivement, ï¿½ ces places les capitalistes, qui ne sont
-cependant pas toujours les meilleurs travailleurs; c'est prï¿½parer ï¿½ ces
-compagnies une influence dont l'expï¿½rience seule du passï¿½ dï¿½montre assez
-les consï¿½quences, aussi funestes aux moeurs que gï¿½nantes pour
-l'administration. On donne ï¿½ ces rï¿½gisseurs 25,000 liv. par an de
-traitement fixe, et 2400 ï¿½ chacun pour frais de bureau: moyennant ce
-traitement, ils rï¿½pondront d'une somme dï¿½terminï¿½e de produit, et
-n'auront de bï¿½nï¿½fices que sur un excï¿½dent qu'ils partageront avec la
-nation. Ce traitement doit suffire ï¿½ des citoyens travailleurs et
-modestes; mais ne seront-ils pas justement effrayï¿½s et mï¿½me repoussï¿½s
+Le projet du comité des finances, même titre, présente un grand
+inconvénient sous plus d'un rapport, celui de porter les fonds d'avance
+de tous les régisseurs à un million 800 mille livres; c'est appeller,
+presque exclusivement, à ces places les capitalistes, qui ne sont
+cependant pas toujours les meilleurs travailleurs; c'est préparer à ces
+compagnies une influence dont l'expérience seule du passé démontre assez
+les conséquences, aussi funestes aux moeurs que gênantes pour
+l'administration. On donne à ces régisseurs 25,000 liv. par an de
+traitement fixe, et 2400 à chacun pour frais de bureau: moyennant ce
+traitement, ils répondront d'une somme déterminée de produit, et
+n'auront de bénéfices que sur un excédent qu'ils partageront avec la
+nation. Ce traitement doit suffire à des citoyens travailleurs et
+modestes; mais ne seront-ils pas justement effrayés et même repoussés
 par les conditions d'une mise de fonds de 1,800,000 livres, qui
-prï¿½sente, pour ceux qui n'ont pas ces fonds, le risque ou de ne pas les
-trouver, ou d'ï¿½tre obligï¿½s de payer aux prï¿½teurs un excï¿½dent d'intï¿½rï¿½ts
-sur celui qui leur seroit allouï¿½; ce qui absorberoit le produit de leur
+présente, pour ceux qui n'ont pas ces fonds, le risque ou de ne pas les
+trouver, ou d'être obligés de payer aux prêteurs un excédent d'intérêts
+sur celui qui leur seroit alloué; ce qui absorberoit le produit de leur
 travail, et les moyens de subsister?
 
-Cette mise excessive de fonds d'avance est motivï¿½e dans le rapport du
-comitï¿½ sur les facilitï¿½s qu'elle donneroit pour le remboursement des
-fonds d'avance des places supprimï¿½es; mais indï¿½pendamment des
-inconvï¿½niens qui viennent d'ï¿½tre prï¿½sentï¿½s, et que l'on croit majeurs,
-ce seroit faire dï¿½penser inutilement au trï¿½sor deux pour cent d'intï¿½rï¿½t
-sur la totalitï¿½ des remboursemens, puisque les fonds avancï¿½s par les
-nouveaux rï¿½gisseurs coï¿½teroient au moins cinq pour cent, en grï¿½vant
-encore beaucoup, comme il a ï¿½tï¿½ observï¿½, ceux qui auroient ï¿½ les
-emprunter, et que les assignats que l'on crï¿½eroit pour rembourser les
-financiers supprimï¿½s, et avec lesquels ils pourroient rembourser leurs
-prï¿½teurs, ne coï¿½tent que trois pour cent; ce seroit de plus ouvrir une
-grande facilitï¿½ ï¿½ la vente des domaines nationaux.
+Cette mise excessive de fonds d'avance est motivée dans le rapport du
+comité sur les facilités qu'elle donneroit pour le remboursement des
+fonds d'avance des places supprimées; mais indépendamment des
+inconvéniens qui viennent d'être présentés, et que l'on croit majeurs,
+ce seroit faire dépenser inutilement au trésor deux pour cent d'intérêt
+sur la totalité des remboursemens, puisque les fonds avancés par les
+nouveaux régisseurs coûteroient au moins cinq pour cent, en grévant
+encore beaucoup, comme il a été observé, ceux qui auroient à les
+emprunter, et que les assignats que l'on créeroit pour rembourser les
+financiers supprimés, et avec lesquels ils pourroient rembourser leurs
+prêteurs, ne coûtent que trois pour cent; ce seroit de plus ouvrir une
+grande facilité à la vente des domaines nationaux.
 
-On croit donc que les fonds d'avance des rï¿½gisseurs, et notamment de
-ceux qui seroient choisis pour l'exï¿½cution et la suite de la rï¿½union des
+On croit donc que les fonds d'avance des régisseurs, et notamment de
+ceux qui seroient choisis pour l'exécution et la suite de la réunion des
 trois services des postes aux chevaux, de la poste aux lettres et des
-messageries, et qui, d'aprï¿½s la nature de ce travail, doivent ï¿½tre
+messageries, et qui, d'après la nature de ce travail, doivent être
 choisis au moins pour la plupart, dans une autre classe que celle des
-financiers et des capitalistes; que ces fonds doivent ï¿½tre bornï¿½s ï¿½ la
-somme qu'exige la sï¿½retï¿½ de leur administration.
+financiers et des capitalistes; que ces fonds doivent être bornés à la
+somme qu'exige la sûreté de leur administration.
 
 
 
 NOTES
 
-[1] Ce tableau a ï¿½tï¿½ remis au comitï¿½ des finances.
+[1] Ce tableau a été remis au comité des finances.
 
-[2] La diffï¿½rence du montant de l'acquisition faite par la rï¿½gie des
-chevaux, voiture et autres effets servant ï¿½ l'exploitation des
-fermiers, ï¿½ la rï¿½trocession de la rï¿½gie ï¿½ ces mï¿½mes fermiers, et qui
-fut ordonnï¿½e devoir ï¿½tre faite sur de simples ï¿½tats, portant
-description sans estimation; cette diffï¿½rence fut, dans le terme de
-moins d'un an, une perte pour la rï¿½gie, ou plutï¿½t pour le roi, de 2
-millions 300 et quelques mille livres, dont bï¿½nï¿½ficiï¿½rent les
-anciens fermiers. L'ï¿½tat comparatif en a ï¿½tï¿½ remis au comitï¿½ des
-finances, sous le nï¿½ 2.
+[2] La différence du montant de l'acquisition faite par la régie des
+chevaux, voiture et autres effets servant à l'exploitation des
+fermiers, à la rétrocession de la régie à ces mêmes fermiers, et qui
+fut ordonnée devoir être faite sur de simples états, portant
+description sans estimation; cette différence fut, dans le terme de
+moins d'un an, une perte pour la régie, ou plutôt pour le roi, de 2
+millions 300 et quelques mille livres, dont bénéficièrent les
+anciens fermiers. L'état comparatif en a été remis au comité des
+finances, sous le nº 2.
 
 
 

@@ -7,15 +7,15 @@
 
 
 
-[Notes sur cette version ï¿½lectronique:
+[Notes sur cette version électronique:
 
-Le texte a ï¿½tï¿½ ï¿½tabli sur la base des ï¿½preuves de l'imprimerie de Ch.
-Herissey ï¿½ ï¿½vreux, revues avec les corrections de la main de Paul
+Le texte a été établi sur la base des épreuves de l'imprimerie de Ch.
+Herissey à Évreux, revues avec les corrections de la main de Paul
 Verlaine en 1895. Certains passages illisibles ou d'une reconstitution
-hypothï¿½tique ont ï¿½tï¿½ signalï¿½s entre crochets.
+hypothétique ont été signalés entre crochets.
 
-On donne ici le texte aprï¿½s application des corrections; le texte
-original de la prï¿½face avec les corrections se trouve en annexe ï¿½ la fin
+On donne ici le texte après application des corrections; le texte
+original de la préface avec les corrections se trouve en annexe à la fin
 de la version HTML.]
 
 
@@ -25,246 +25,246 @@ de la version HTML.]
 ARTHUR RIMBAUD
 
 
-POï¿½SIES
+POÉSIES
 
-COMPLï¿½TES
+COMPLÈTES
 
-AVEC PRï¿½FACE DE PAUL VERLAINE
+AVEC PRÉFACE DE PAUL VERLAINE
 
-ET NOTES DE L'ï¿½DITEUR
+ET NOTES DE L'ÉDITEUR
 
-[Marque d'ï¿½diteur: L. V.]
+[Marque d'éditeur: L. V.]
 
 PARIS
 
-Lï¿½ON VANIER, LIBRAIRE-ï¿½DITEUR
+LÉON VANIER, LIBRAIRE-ÉDITEUR
 
 19, QUAI SAINT-MICHEL, 19
 
 1895
 
-Tous droits rï¿½servï¿½s
+Tous droits réservés
 
 
 
 
-DU Mï¿½ME AUTEUR
+DU MÊME AUTEUR
 
-Mï¿½ME ï¿½DITEUR
+MÊME ÉDITEUR
 
 
 Les Illuminations, Une Saison en Enfer. . . 3 50
 
 TIRAGE DE LUXE:
 
-25 exemplaires numï¿½rotï¿½s sur Hollande, 6 fr.
+25 exemplaires numérotés sur Hollande, 6 fr.
 
 
 
 
-PRï¿½FACE
+PRÉFACE
 
 ARTHUR RIMBAUD
 
-SES POï¿½SIES COMPLï¿½TES
+SES POÉSIES COMPLÈTES
 
 
-ï¿½ mon avis tout ï¿½ fait intime, j'eusse prï¿½fï¿½rï¿½, en dï¿½pit de tant
-d'intï¿½rï¿½t s'attachant intrinsï¿½quement presque aussi bien que
-chronologiquement ï¿½ beaucoup de piï¿½ces du prï¿½sent recueil, que celui-ci
-fï¿½t allï¿½gï¿½ pour, surtout, des causes littï¿½raires: trop de jeunesse
-dï¿½cidï¿½ment, d'inexpï¿½riences mal savoureuses, point d'assez heureuses
-naï¿½vetï¿½s. J'eusse, si le maï¿½tre, donnï¿½ juste un dessus de panier, quitte
-ï¿½ regretter que le reste dï¿½t disparaï¿½tre, ou, alors, ajoutï¿½ ce reste ï¿½
-la fin du livre, aprï¿½s la table des matiï¿½res et sans table des matiï¿½res
-quant ï¿½ ce qui l'eï¿½t concernï¿½, sous la rubrique ï¿½piï¿½ces attribuï¿½es ï¿½
-l'auteurï¿½, encore excluant de cette peut-ï¿½tre trop indulgente dï¿½jï¿½
-hospitalitï¿½ les tout ï¿½ fait apocryphes sonnets publiï¿½s, sous le nom
-glorieux et dï¿½sormais sacrï¿½, par de spirituels parodistes.
+À mon avis tout à fait intime, j'eusse préféré, en dépit de tant
+d'intérêt s'attachant intrinsèquement presque aussi bien que
+chronologiquement à beaucoup de pièces du présent recueil, que celui-ci
+fût allégé pour, surtout, des causes littéraires: trop de jeunesse
+décidément, d'inexpériences mal savoureuses, point d'assez heureuses
+naïvetés. J'eusse, si le maître, donné juste un dessus de panier, quitte
+à regretter que le reste dût disparaître, ou, alors, ajouté ce reste à
+la fin du livre, après la table des matières et sans table des matières
+quant à ce qui l'eût concerné, sous la rubrique «pièces attribuées à
+l'auteur», encore excluant de cette peut-être trop indulgente déjà
+hospitalité les tout à fait apocryphes sonnets publiés, sous le nom
+glorieux et désormais sacré, par de spirituels parodistes.
 
-Quoi qu'il en soit, voici, seulement expurgï¿½ des apocryphes en question
-et classï¿½ aussi soigneusement que possible par ordre de dates, mais,
-hï¿½las! privï¿½ de trop de choses qui furent, aux dï¿½plorables fins de
-puï¿½riles et criminelles rancunes, sans mï¿½me d'excuses suffisamment
-bï¿½tes, confisquï¿½es, confisquï¿½es? volï¿½es! pour tout et mieux dire, dans
-les tiroirs fermï¿½s d'un absent, voici _le livre des poï¿½sies complï¿½tes
-d'Arthur Rimbaud_, avec ses additions inutiles ï¿½ mon avis et ses
-dï¿½plorables mutilations irrï¿½parables ï¿½ jamais, il faut le craindre.
+Quoi qu'il en soit, voici, seulement expurgé des apocryphes en question
+et classé aussi soigneusement que possible par ordre de dates, mais,
+hélas! privé de trop de choses qui furent, aux déplorables fins de
+puériles et criminelles rancunes, sans même d'excuses suffisamment
+bêtes, confisquées, confisquées? volées! pour tout et mieux dire, dans
+les tiroirs fermés d'un absent, voici _le livre des poésies complètes
+d'Arthur Rimbaud_, avec ses additions inutiles à mon avis et ses
+déplorables mutilations irréparables à jamais, il faut le craindre.
 
-Justice est donc faite, et bonne et complï¿½te, car en outre du prï¿½sent
+Justice est donc faite, et bonne et complète, car en outre du présent
 fragment de l'[illisible], il y a eu des reproductions par la Presse et
-la Librairie des choses en prose si inapprï¿½ciables, peut-ï¿½tre mï¿½me si
-supï¿½rieures aux vers, dont quelques-uns pourtant incomparables, que je
+la Librairie des choses en prose si inappréciables, peut-être même si
+supérieures aux vers, dont quelques-uns pourtant incomparables, que je
 sache!
 
-Ici, avant de procï¿½der plus avant, dans ce trï¿½s sï¿½rieux et trï¿½s sincï¿½re
-et pï¿½nible et douloureux travail, il me sied et me plaï¿½t de remercier
-mes amis Dujardin et Kahn, Fï¿½nï¿½on, et ce trop mï¿½connu, trop modeste
-Anatole Baju, de leur intervention en un cas si beau, mais ï¿½ l'ï¿½poque
-pï¿½riculeux, je vous l'assure, car je ne le sais que trop.
+Ici, avant de procéder plus avant, dans ce très sérieux et très sincère
+et pénible et douloureux travail, il me sied et me plaît de remercier
+mes amis Dujardin et Kahn, Fénéon, et ce trop méconnu, trop modeste
+Anatole Baju, de leur intervention en un cas si beau, mais à l'époque
+périculeux, je vous l'assure, car je ne le sais que trop.
 
-Kahn et Dujardin disposaient nï¿½anmoins de revues jeunes et d'aspect
+Kahn et Dujardin disposaient néanmoins de revues jeunes et d'aspect
 presque imposant, un peu d'outre-Rhin et parfois, pour ainsi dire,
-pï¿½dantesques; depuis il y a eu encore du plomb dans l'aile de ces
-pï¿½riodiques changï¿½s de direction--et Baju, naï¿½f, eut aussi son
+pédantesques; depuis il y a eu encore du plomb dans l'aile de ces
+périodiques changés de direction--et Baju, naïf, eut aussi son
 influence, vraiment.
 
 Tous trois firent leur devoir en faveur de mes efforts pour Rimbaud,
-Baju avec le tort, peut-ï¿½tre inconscient, de publier, ï¿½ l'appui de la
-bonne thï¿½se, des gloses farceuses de gens de talent et surtout d'esprit
+Baju avec le tort, peut-être inconscient, de publier, à l'appui de la
+bonne thèse, des gloses farceuses de gens de talent et surtout d'esprit
 qui auraient mieux fait certainement de travailler pour leur compte, qui
-en valait, je le leur dis en toute sincï¿½ritï¿½,
+en valait, je le leur dis en toute sincérité,
 
-    La peine assurï¿½ment!
+    La peine assurément!
 
-Mais un devoir sacrï¿½ m'incombe, en dehors de toute diversion mï¿½me
-quasiment nï¿½cessaire, vite. C'est de rectifier des faits d'abord--et
-ensuite d'ï¿½lucider un peu la disposition, ï¿½ mon sens, mal littï¿½raire,
-mais conï¿½ue dans un but tellement respectable! du prï¿½sent volume des
-_Poï¿½sies complï¿½tes d'Arthur Rimbaud._
+Mais un devoir sacré m'incombe, en dehors de toute diversion même
+quasiment nécessaire, vite. C'est de rectifier des faits d'abord--et
+ensuite d'élucider un peu la disposition, à mon sens, mal littéraire,
+mais conçue dans un but tellement respectable! du présent volume des
+_Poésies complètes d'Arthur Rimbaud._
 
-On a tout dit, en une prï¿½face abominable que la Justice a chï¿½tiï¿½e,
-d'ailleurs par la saisie, sur la requï¿½te d'un galant homme de qui la
-signature avait ï¿½tï¿½ escroquï¿½e, M. Rodolphe Darzens, on a dit tout le
-mauvais sur Rimbaud, homme et poï¿½te.
+On a tout dit, en une préface abominable que la Justice a châtiée,
+d'ailleurs par la saisie, sur la requête d'un galant homme de qui la
+signature avait été escroquée, M. Rodolphe Darzens, on a dit tout le
+mauvais sur Rimbaud, homme et poète.
 
-Ce mauvais-lï¿½, il faut malheureusement, mais carrï¿½ment, l'amalgamer avec
-celui qu'a ï¿½crit, pensï¿½ sans nul doute, un homme de talent dans un
-journal d'irrï¿½prochable tenue. Je veux parler de M. Charles Maurras et
-en appeler de lui ï¿½ lui mieux informï¿½.
+Ce mauvais-là, il faut malheureusement, mais carrément, l'amalgamer avec
+celui qu'a écrit, pensé sans nul doute, un homme de talent dans un
+journal d'irréprochable tenue. Je veux parler de M. Charles Maurras et
+en appeler de lui à lui mieux informé.
 
 Je lis, par exemple, ceci de lui, M. Charles Maurras:
 
-ï¿½Au dï¿½ner du Bon Bockï¿½, or il n'y avait pas alors, de _dï¿½ner du Bon
-Bock_ oï¿½ nous allassions, Valade, Mï¿½rat, Silvestre, quelques autres
-Parnassiens [et] moi, ni par consï¿½quent Rimbaud avec nous, mais bien un
-dï¿½ner mensuel des _Vilains Bonshommes_ [note illisible], fondï¿½ avant la
-guerre et qu'avaient honorï¿½ quelquefois Thï¿½odore de Banville et, de la
-part de Sainte-Beuve, le secrï¿½taire de celui-ci, M. Jules Troubat. Au
-moment dont il est question, fin 1871, nos ï¿½assisesï¿½ se tenaient au
-premier ï¿½tage d'un marchand de vins ï¿½tabli au coin de la rue Bonaparte
-et de la place Saint-Sulpice, vis-ï¿½-vis d'un libraire d'occasion (rue
-Bonaparte) et (rue du Vieux-Colombier) d'un nï¿½gociant [en] objets
-religieux. ï¿½Au dï¿½ner du Bon Bock, dit donc M. Maurras, ses reparties (ï¿½
+«Au dîner du Bon Bock», or il n'y avait pas alors, de _dîner du Bon
+Bock_ où nous allassions, Valade, Mérat, Silvestre, quelques autres
+Parnassiens [et] moi, ni par conséquent Rimbaud avec nous, mais bien un
+dîner mensuel des _Vilains Bonshommes_ [note illisible], fondé avant la
+guerre et qu'avaient honoré quelquefois Théodore de Banville et, de la
+part de Sainte-Beuve, le secrétaire de celui-ci, M. Jules Troubat. Au
+moment dont il est question, fin 1871, nos «assises» se tenaient au
+premier étage d'un marchand de vins établi au coin de la rue Bonaparte
+et de la place Saint-Sulpice, vis-à-vis d'un libraire d'occasion (rue
+Bonaparte) et (rue du Vieux-Colombier) d'un négociant [en] objets
+religieux. «Au dîner du Bon Bock, dit donc M. Maurras, ses reparties (à
 Rimbaud) causaient de grands scandales. Ernest d'Hervilly le rappelait
-en vain ï¿½ la raison. CARJAT LE MIT ï¿½ LA PORTE. Rimbaud attendit
-_patiemment_ ï¿½ la porte et Carjat reï¿½ut ï¿½ la sortie un ï¿½bonï¿½ (je retiens
-ï¿½bonï¿½) coup de canne ï¿½ ï¿½pï¿½e DANS LE VENTRE.ï¿½
+en vain à la raison. CARJAT LE MIT À LA PORTE. Rimbaud attendit
+_patiemment_ à la porte et Carjat reçut à la sortie un «bon» (je retiens
+«bon») coup de canne à épée DANS LE VENTRE.»
 
-Je n'ai pas ï¿½ invoquer le tï¿½moignage de d'Hervilly qui est un cher poï¿½te
-et un cher ami, parce qu'il n'a jamais ï¿½tï¿½ plus l'auteur d'une
+Je n'ai pas à invoquer le témoignage de d'Hervilly qui est un cher poète
+et un cher ami, parce qu'il n'a jamais été plus l'auteur d'une
 intervention absurdement inutile que l'objet d'une insulte ignoble
-publiï¿½e sans la plus simple pudeur, non plus que sans la moindre
-conscience du faux ou du vrai dans la prï¿½face de l'ï¿½dition Genonceaux;
-ni celui de M. Carjat lui-mï¿½me, par trop juge et partie, ni celui des
-encore assez nombreux survivants d'une scï¿½ne assurï¿½ment peu glorieuse
-pour Rimbaud, mais dï¿½mesurï¿½ment grossie et dï¿½naturï¿½e jusqu'ï¿½ la plus
-complï¿½te calomnie.
+publiée sans la plus simple pudeur, non plus que sans la moindre
+conscience du faux ou du vrai dans la préface de l'édition Genonceaux;
+ni celui de M. Carjat lui-même, par trop juge et partie, ni celui des
+encore assez nombreux survivants d'une scène assurément peu glorieuse
+pour Rimbaud, mais démesurément grossie et dénaturée jusqu'à la plus
+complète calomnie.
 
-Voici donc un rï¿½cit succinct, mais vrai jusque dans le moindre dï¿½tail,
-du ï¿½drameï¿½ en question: ce soir-lï¿½, aux _Vilains Bonshommes_, on avait
-lu beaucoup de vers aprï¿½s le dessert et le cafï¿½. Beaucoup de vers, mï¿½me
-ï¿½ la fin d'un dï¿½ner (plutï¿½t modeste), ce n'est pas toujours des moins
-fatigants, particuliï¿½rement quand ils sont un peu bien dï¿½clamatoires
-comme ceux dont _vraiment_ il s'agissait (et non du bon poï¿½te Jean
-Aicard). Ces vers ï¿½taient d'un monsieur qui faisait beaucoup de sonnets
-ï¿½ l'ï¿½poque et de qui le nom m'ï¿½chappe.
+Voici donc un récit succinct, mais vrai jusque dans le moindre détail,
+du «drame» en question: ce soir-là, aux _Vilains Bonshommes_, on avait
+lu beaucoup de vers après le dessert et le café. Beaucoup de vers, même
+à la fin d'un dîner (plutôt modeste), ce n'est pas toujours des moins
+fatigants, particulièrement quand ils sont un peu bien déclamatoires
+comme ceux dont _vraiment_ il s'agissait (et non du bon poète Jean
+Aicard). Ces vers étaient d'un monsieur qui faisait beaucoup de sonnets
+à l'époque et de qui le nom m'échappe.
 
-Et, sur le dï¿½but suivant, aprï¿½s passablement d'autres choses d'autres
+Et, sur le début suivant, après passablement d'autres choses d'autres
 gens:
 
-    _On dirait des soldats d'Agrippa d'Aubignï¿½
-    Alignï¿½s au cordeau par Philibert Delorme..._
+    _On dirait des soldats d'Agrippa d'Aubigné
+    Alignés au cordeau par Philibert Delorme..._
 
 Rimbaud eut le tort incontestable de protester d'abord entre haut et bas
-contre la prolongation d'ï¿½ la fin abusives rï¿½citations. Sur quoi M.
-Etienne Carjat, le photographe poï¿½te de qui le rï¿½citateur ï¿½tait l'ami
-littï¿½raire et artistique, s'interposa trop vite et trop vivement ï¿½ mon
-grï¿½, traitant l'interrupteur de gamin. Rimbaud qui ne savait supporter
-la boisson, et que l'on avait contractï¿½ dans ces ï¿½agapesï¿½ pourtant
-modï¿½rï¿½es, la mauvaise habitude de gï¿½ter au point de vue du vin et des
+contre la prolongation d'à la fin abusives récitations. Sur quoi M.
+Etienne Carjat, le photographe poète de qui le récitateur était l'ami
+littéraire et artistique, s'interposa trop vite et trop vivement à mon
+gré, traitant l'interrupteur de gamin. Rimbaud qui ne savait supporter
+la boisson, et que l'on avait contracté dans ces «agapes» pourtant
+modérées, la mauvaise habitude de gâter au point de vue du vin et des
 liqueurs,--Rimbaud qui se trouvait gris, prit mal la chose, se saisit
-d'une canne ï¿½ ï¿½pï¿½e ï¿½ moi qui ï¿½tait derriï¿½re nous, voisins immï¿½diats et,
-par-dessus la table large de prï¿½s de deux mï¿½tres, dirigea vers M. Carjat
-qui se trouvait en face ou tout comme, la lame dï¿½gainï¿½e qui ne fit pas
-heureusement de trï¿½s grands ravages, puisque le sympathique ex-directeur
-du _Boulevard_ ne reï¿½ut, si j'en crois ma mï¿½moire qui est excellente
-dans ce cas, qu'une ï¿½raflure trï¿½s lï¿½gï¿½re ï¿½ une main.
+d'une canne à épée à moi qui était derrière nous, voisins immédiats et,
+par-dessus la table large de près de deux mètres, dirigea vers M. Carjat
+qui se trouvait en face ou tout comme, la lame dégainée qui ne fit pas
+heureusement de très grands ravages, puisque le sympathique ex-directeur
+du _Boulevard_ ne reçut, si j'en crois ma mémoire qui est excellente
+dans ce cas, qu'une éraflure très légère à une main.
 
-Nï¿½anmoins l'alarme fut grande et la tentative trï¿½s regrettable, vite et
-plus vite encore rï¿½primï¿½e. J'arrachai la lame au furieux, la brisai sur
-mon genou et confiai, devant rentrer de trï¿½s bonne heure chez moi, le
-[ï¿½gaminï¿½] ï¿½ moitiï¿½ dï¿½grisï¿½ maintenant, au peintre bien connu, Michel de
-l'Hay, alors dï¿½jï¿½ un solide gaillard en outre d'un tout jeune homme des
-plus remarquablement beaux qu'il soit donnï¿½ de voir, qui eut tï¿½t fait de
-reconduire ï¿½ son domicile de la rue Campagne-Premiï¿½re, en le chapitrant
-d'importance, notre jeune intoxiquï¿½ de qui l'accï¿½s de colï¿½re ne tarda
-pas ï¿½ se dissiper tout ï¿½ fait, avec les fumï¿½es du vin et de l'alcool,
-dans le sommeil rï¿½parateur de la seiziï¿½me annï¿½e.
+Néanmoins l'alarme fut grande et la tentative très regrettable, vite et
+plus vite encore réprimée. J'arrachai la lame au furieux, la brisai sur
+mon genou et confiai, devant rentrer de très bonne heure chez moi, le
+[«gamin»] à moitié dégrisé maintenant, au peintre bien connu, Michel de
+l'Hay, alors déjà un solide gaillard en outre d'un tout jeune homme des
+plus remarquablement beaux qu'il soit donné de voir, qui eut tôt fait de
+reconduire à son domicile de la rue Campagne-Première, en le chapitrant
+d'importance, notre jeune intoxiqué de qui l'accès de colère ne tarda
+pas à se dissiper tout à fait, avec les fumées du vin et de l'alcool,
+dans le sommeil réparateur de la seizième année.
 
-Avant de ï¿½lï¿½cherï¿½ tout ï¿½ fait M. Charles Maurras, je lui demanderai de
+Avant de «lâcher» tout à fait M. Charles Maurras, je lui demanderai de
 expliquer sur un malheureux membre de phrase de lui me concernant.
 
-ï¿½ propos de la question d'ailleurs subsidiaire de savoir si Rimbaud
-ï¿½tait beau ou laid, M. Maurras qui ne l'a jamais vu et qui le trouve
-laid, d'aprï¿½s des tï¿½moins ï¿½plus rassisï¿½ que votre serviteur, me
-blï¿½merait presque, ma parole d'honneur! d'avoir dit qu'il avait
+À propos de la question d'ailleurs subsidiaire de savoir si Rimbaud
+était beau ou laid, M. Maurras qui ne l'a jamais vu et qui le trouve
+laid, d'après des témoins «plus rassis» que votre serviteur, me
+blâmerait presque, ma parole d'honneur! d'avoir dit qu'il avait
 (Rimbaud) un visage parfaitement ovale d'ange en exil, une forte bouche
-rouge au pli amer et (_in cauda venenum!_) des ï¿½jambes sans rivalesï¿½.
+rouge au pli amer et (_in cauda venenum!_) des «jambes sans rivales».
 
-ï¿½a c'est, je veux bien le croire, idiot sans plus, autrement, quoi?
+Ça c'est, je veux bien le croire, idiot sans plus, autrement, quoi?
 Voici toujours _ma_ phrase sur les jambes en question, extraite des
 _Homme d'aujourd'hui_. Au surplus, lisez toute la petite biographie.
-Elle rï¿½pond ï¿½ tout d'_avance_, et coï¿½te deux sous.
+Elle répond à tout d'_avance_, et coûte deux sous.
 
-ï¿½... Des projets pour la Russie, une anicroche ï¿½ Vienne (Autriche),
-quelques mois en France, d'Arras et Douai ï¿½ Marseille, et le Sï¿½nï¿½gal
-vers lequel bercï¿½ par un naufrage[;] puis la Hollande, 1879-80; vu
-dï¿½charger des voitures de moisson dans une ferme ï¿½ sa mï¿½re, entre
-Attigny et Vouziers, et arpenter ces routes maigres de ses ï¿½JAMBES SANS
-RIVALESï¿½.
+«... Des projets pour la Russie, une anicroche à Vienne (Autriche),
+quelques mois en France, d'Arras et Douai à Marseille, et le Sénégal
+vers lequel bercé par un naufrage[;] puis la Hollande, 1879-80; vu
+décharger des voitures de moisson dans une ferme à sa mère, entre
+Attigny et Vouziers, et arpenter ces routes maigres de ses «JAMBES SANS
+RIVALES».
 
 Voyons, M. Maurras, est-ce bien de bonne foi votre confusion entre
-infatigabilitï¿½... et autre chose?
+infatigabilité... et autre chose?
 
 --Ouf! j'en ai fini avec les petites (et grosses) infamies qui, de
-rï¿½gions prï¿½tendues uniquement littï¿½raires, s'insinueraient dans la vie
-privï¿½e pour s'y installer, et veuillez, lecteur, me permettre de
-m'ï¿½tendre un peu, maintenant qu'on a brï¿½lï¿½ quelque sucre, sur le pur
-plaisir intellectuel de vous parler du prï¿½sent ouvrage qu'on peut ne pas
-aimer, ni mï¿½me admirer, mais qui a droit ï¿½ tout respect en tout
+régions prétendues uniquement littéraires, s'insinueraient dans la vie
+privée pour s'y installer, et veuillez, lecteur, me permettre de
+m'étendre un peu, maintenant qu'on a brûlé quelque sucre, sur le pur
+plaisir intellectuel de vous parler du présent ouvrage qu'on peut ne pas
+aimer, ni même admirer, mais qui a droit à tout respect en tout
 consciencieux examen?
 
-On a laissï¿½ les piï¿½ces objectionables au point de vue bourgeois, car le
-point de vue chrï¿½tien et surtout catholique dont je m'honore d'ï¿½tre un
-des plus indignes peut-ï¿½tre mais ï¿½ coup sï¿½r le plus sincï¿½re tenant, me
-semble supï¿½rieur et doit ï¿½tre ï¿½cartï¿½--j'entends, notamment les
-_Premiï¿½res Communions_, les _Pauvres ï¿½ l'ï¿½glise_ (pour mon compte,
-j'eusse nï¿½gligï¿½ cette piï¿½ce brutale ayant pourtant ceci:
+On a laissé les pièces objectionables au point de vue bourgeois, car le
+point de vue chrétien et surtout catholique dont je m'honore d'être un
+des plus indignes peut-être mais à coup sûr le plus sincère tenant, me
+semble supérieur et doit être écarté--j'entends, notamment les
+_Premières Communions_, les _Pauvres à l'église_ (pour mon compte,
+j'eusse négligé cette pièce brutale ayant pourtant ceci:
 
             _... Les malades du foie
-    Font baiser leurs longs doigts jaunes aux bï¿½nitiers._
+    Font baiser leurs longs doigts jaunes aux bénitiers._
 
 
-Quant aux _Premiï¿½res Communions_ dont j'ai sï¿½vï¿½rement parlï¿½ dans mes
-_Poï¿½tes maudits_ ï¿½ cause de certains vers affreusement blasphï¿½mateurs,
-c'est si beau!... n'est-ce pas? ï¿½ travers tant de coup[ables] choses...
+Quant aux _Premières Communions_ dont j'ai sévèrement parlé dans mes
+_Poètes maudits_ à cause de certains vers affreusement blasphémateurs,
+c'est si beau!... n'est-ce pas? à travers tant de coup[ables] choses...
 n'est ce pas?
 
 Pour le reste de ce que j'aime parfaitement, le _Bateau ivre_, les
-_Effarï¿½s_, les _Chercheuses de poux_ et, bien aprï¿½s, les _Assis_ aussi,
-parbleu! un peu fumiste, mais si beau de dï¿½tails; _Sonnet de Voyelles_
-qui a fait faire ï¿½ M. Rï¿½nï¿½ Ghill de ses mirobolantes thï¿½ories, et
-l'ardent _Faune_ [illisible] est parfait de fauves,--en libertï¿½! et
-encore une fois, je vous le prï¿½sente, ce ï¿½numï¿½roï¿½, comme autrefois dans
-ce petit journal de combat mort en pleine brï¿½che _Lutï¿½ce_, de tout mon
-coeur, de toute mon ï¿½me et de toutes mes forces.
+_Effarés_, les _Chercheuses de poux_ et, bien après, les _Assis_ aussi,
+parbleu! un peu fumiste, mais si beau de détails; _Sonnet de Voyelles_
+qui a fait faire à M. Réné Ghill de ses mirobolantes théories, et
+l'ardent _Faune_ [illisible] est parfait de fauves,--en liberté! et
+encore une fois, je vous le présente, ce «numéro», comme autrefois dans
+ce petit journal de combat mort en pleine brèche _Lutèce_, de tout mon
+coeur, de toute mon âme et de toutes mes forces.
 
-On a cru devoir, ï¿½videmment dans un but de rï¿½habilitation qui n'a rien ï¿½
-voir ni avec la vie honorable ni avec l'oeuvre trï¿½s intï¿½ressante,
-[illisible] ouvrir le volume par une piï¿½ce intitulï¿½e _ï¿½trennes des
-Orphelins_, laquelle assez longue piï¿½ce, dans le goï¿½t un peu Guiraud
-avec dï¿½jï¿½ des beautï¿½s tout autres. Ceci qui vaut du Desbordes-Valmore:
+On a cru devoir, évidemment dans un but de réhabilitation qui n'a rien à
+voir ni avec la vie honorable ni avec l'oeuvre très intéressante,
+[illisible] ouvrir le volume par une pièce intitulée _Étrennes des
+Orphelins_, laquelle assez longue pièce, dans le goût un peu Guiraud
+avec déjà des beautés tout autres. Ceci qui vaut du Desbordes-Valmore:
 
     _Les tout petits enfants ont le coeur si sensible!_
 
@@ -272,162 +272,162 @@ Cela:
 
     _La bise sous le seuil a fini par se taire..._
 
-qui est d'un net et d'un vrai, quant ï¿½ ce qui concerne un beau jour de
-premier janvier. Surtout une facture solide, mï¿½me un peu trop, qui dit
-l'extrï¿½me jeunesse de l'auteur quand il s'en servit d'aprï¿½s la formule
-parnassienne exagï¿½rï¿½e.
+qui est d'un net et d'un vrai, quant à ce qui concerne un beau jour de
+premier janvier. Surtout une facture solide, même un peu trop, qui dit
+l'extrême jeunesse de l'auteur quand il s'en servit d'après la formule
+parnassienne exagérée.
 
-On a cru aussi devoir intercaler de grï¿½ ou de force un trop long poï¿½me:
-_Le Forgeron_, datï¿½ des _Tuileries vers le 10 aoï¿½t 1792_, oï¿½ vraiment
-c'est trop dï¿½moc-soc [illisible], par trop dï¿½modï¿½, mï¿½me en 1870 oï¿½ ce
-fut ï¿½crit; mais l'auteur, direz-vous, ï¿½tait si, si jeune! Mais,
-rï¿½pondrais-je, ï¿½tait-ce une raison pour publier cette chose faite ï¿½
-coups de ï¿½mauvaises lecturesï¿½ dans des manuels surannï¿½s ou de trop
-moisis historiens? Je ne m'empresse pas moins d'ajouter qu'il y a lï¿½
-encore de trï¿½s beaux vers. Parbleu! avec cet ï¿½tre-lï¿½!
+On a cru aussi devoir intercaler de gré ou de force un trop long poème:
+_Le Forgeron_, daté des _Tuileries vers le 10 août 1792_, où vraiment
+c'est trop démoc-soc [illisible], par trop démodé, même en 1870 où ce
+fut écrit; mais l'auteur, direz-vous, était si, si jeune! Mais,
+répondrais-je, était-ce une raison pour publier cette chose faite à
+coups de «mauvaises lectures» dans des manuels surannés ou de trop
+moisis historiens? Je ne m'empresse pas moins d'ajouter qu'il y a là
+encore de très beaux vers. Parbleu! avec cet être-là!
 
 Cette caricature de Louis XVI, d'abord:
 
-    _Et prenant ce gros-lï¿½ dans son regard farouche._
+    _Et prenant ce gros-là dans son regard farouche._
 
 Cette autre encore;
 
-    _Or le bon roi, debout sur son ventre, ï¿½tait pï¿½le._
+    _Or le bon roi, debout sur son ventre, était pâle._
 
 Ce cri bien dans le ton juste, trop rare ici:
 
     _On ne veut pas de nous dans les boulangeries_
 
-Mais j'avoue prï¿½fï¿½rer telles piï¿½ces purement jolies, mais alors trï¿½s
-jolies, d'une joliesse sauvageonne ou sauvage tout ï¿½ fait alors presque
-aussi belles que les _Effarï¿½s_ ou que les Assis.
+Mais j'avoue préférer telles pièces purement jolies, mais alors très
+jolies, d'une joliesse sauvageonne ou sauvage tout à fait alors presque
+aussi belles que les _Effarés_ ou que les Assis.
 
 Il y a, dans ce ton, _Ce qui relient Nina_, vingt-neuf strophes, plus de
-cent vers, sur un [rh]ythme sautilleur avec des gentillesse ï¿½ tout bout
+cent vers, sur un [rh]ythme sautilleur avec des gentillesse à tout bout
 de champ:
 
     _Dix-sept ans! tu seras heureuse!
-                ï¿½ les grands prï¿½s,
+                Ô les grands prés,
     La grande campagne amoureuse!
-                --Dis, viens plus prï¿½s!...
+                --Dis, viens plus près!...
     . . . . . . . . . . . . . .
     Puis comme une petite morte
-                Le coeur pï¿½mï¿½
+                Le coeur pâmé
     Tu me dirais que je te porte
-                L'oeil mi-fermï¿½..._
+                L'oeil mi-fermé..._
 
-Et, aprï¿½s la promenade au bois... et la rï¿½surrection de la _petite
-morte_, l'entrï¿½e dans le village oï¿½ _ï¿½ï¿½ sentirait le laitage_, une
-ï¿½table pleine d'un rhythme lent d'haleine, et de grands dos, un
-intï¿½rieur ï¿½ la Tï¿½niers:
+Et, après la promenade au bois... et la résurrection de la _petite
+morte_, l'entrée dans le village où _çà sentirait le laitage_, une
+étable pleine d'un rhythme lent d'haleine, et de grands dos, un
+intérieur à la Téniers:
 
-    _Les lunettes de la grand-mï¿½re
+    _Les lunettes de la grand-mère
            Et son nez long
     Dans son missel..._
     . . . . . . . . . . . . . .
 
-Aussi la _Comï¿½die en trois baisers:_
+Aussi la _Comédie en trois baisers:_
 
     . . . . . . . . . . . . . .
-    _Elle ï¿½tait fort dï¿½shabillï¿½e
+    _Elle était fort déshabillée
     Et de grands arbres indiscrets.
-    Aux vitres penchaient leur feuillï¿½e
-    Malinement, tout prï¿½s, tout prï¿½s._
+    Aux vitres penchaient leur feuillée
+    Malinement, tout près, tout près._
 
-_Sensation_, oï¿½ le poï¿½te adolescent va loin, bien loin, ï¿½comme un
-bohï¿½mienï¿½
+_Sensation_, où le poète adolescent va loin, bien loin, «comme un
+bohémien»
 
     _Par la nature, heureux comme avec une femme..._
 
 Roman:
 
-    _On n'est pas sï¿½rieux quand on a dix-sept ans._
+    _On n'est pas sérieux quand on a dix-sept ans._
 
-Ce qu'il y a d'amusant, c'est que Rimbaud, quand il ï¿½crivait ce vers,
-n'avait pas encore seize ans. ï¿½videmment il se ï¿½vieillissaitï¿½ pour mieux
-plaire ï¿½ quelque belle... de, trï¿½s probablement, son imagination.
+Ce qu'il y a d'amusant, c'est que Rimbaud, quand il écrivait ce vers,
+n'avait pas encore seize ans. Évidemment il se «vieillissait» pour mieux
+plaire à quelque belle... de, très probablement, son imagination.
 
-_Ma Bohï¿½me_, la plus gentille sans doute de ces gentilles choses:
+_Ma Bohème_, la plus gentille sans doute de ces gentilles choses:
 
-    _Comme des lyres je tirai les ï¿½lastiques
-    De mes souliers blessï¿½s, un pied prï¿½s de mon coeur_...
+    _Comme des lyres je tirai les élastiques
+    De mes souliers blessés, un pied près de mon coeur_...
 
-Mes _Petites amoureuses_, les _Poï¿½tes de sept ans_, frï¿½res franchement
+Mes _Petites amoureuses_, les _Poètes de sept ans_, frères franchement
 douloureux des _Chercheuses de poux_:
 
-    _Et la mï¿½re fermant le livre du devoir
-    S'en allait satisfaite et trï¿½s fiï¿½re sans voir
-    Dans les yeux bleus et sous le front plein d'ï¿½minences
-    L'ï¿½me de son enfant livrï¿½e aux rï¿½pugnances._
+    _Et la mère fermant le livre du devoir
+    S'en allait satisfaite et très fière sans voir
+    Dans les yeux bleus et sous le front plein d'éminences
+    L'âme de son enfant livrée aux répugnances._
     . . . . . . . . . . . . . .
 
 Quant aux quelques morceaux en prose qui terminent le volume, je les
-eusse retenus pour les publier dans une nouvelle ï¿½dition des oeuvres en
-prose. Ils sont d'ailleurs merveilleux, mais tout ï¿½ fait dans la note
-des _Illuminations_ et de la _Saison en Enfer_. Je l'ai dit tout ï¿½
-l'heure et je sais que je ne suis pas le seul ï¿½ le penser: Rimbaud en
-prose est peut-ï¿½tre supï¿½rieur ï¿½ celui en vers...
+eusse retenus pour les publier dans une nouvelle édition des oeuvres en
+prose. Ils sont d'ailleurs merveilleux, mais tout à fait dans la note
+des _Illuminations_ et de la _Saison en Enfer_. Je l'ai dit tout à
+l'heure et je sais que je ne suis pas le seul à le penser: Rimbaud en
+prose est peut-être supérieur à celui en vers...
 
-J'ai terminï¿½, je crois avoir terminï¿½ ma tï¿½che de prï¿½facier. De la vie de
-l'homme j'ai parlï¿½ suffisamment. De son oeuvre je reparlerai peut-ï¿½tre
+J'ai terminé, je crois avoir terminé ma tâche de préfacier. De la vie de
+l'homme j'ai parlé suffisamment. De son oeuvre je reparlerai peut-être
 encore.
 
-Mon dernier mot ne peut-ï¿½tre ici que ceci: Rimbaud fut un poï¿½te mort
-jeune (ï¿½ dix-huit ans, puisque nï¿½ ï¿½ Charleville[--le 20] Octobre
-1854--nous n'avons pas de vers de lui [postï¿½rieur] ï¿½ 1872.) mais vierge
-de toute platitude ou dï¿½cadence--comme il fut un homme mort jeune aussi
-[(ï¿½ trente] sept ans [le] 10 Novembre 1891 ï¿½ l'hï¿½pital de la Conception
-de Marseille), mais dans son voeu bien formulï¿½ d'indï¿½pendance et de haut
-dï¿½dain de n'importe quelle adhï¿½sion ï¿½ ce qu'il ne lui plaisait pas de
-faire ni d'ï¿½tre.
+Mon dernier mot ne peut-être ici que ceci: Rimbaud fut un poète mort
+jeune (à dix-huit ans, puisque né à Charleville[--le 20] Octobre
+1854--nous n'avons pas de vers de lui [postérieur] à 1872.) mais vierge
+de toute platitude ou décadence--comme il fut un homme mort jeune aussi
+[(à trente] sept ans [le] 10 Novembre 1891 à l'hôpital de la Conception
+de Marseille), mais dans son voeu bien formulé d'indépendance et de haut
+dédain de n'importe quelle adhésion à ce qu'il ne lui plaisait pas de
+faire ni d'être.
 
   Paul VERLAINE.
 
 
 
 
-POESIES COMPLï¿½TES
+POESIES COMPLÈTES
 
 
 DE CE LIVRE
 
-IL A ï¿½Tï¿½ TIRï¿½
+IL A ÉTÉ TIRÉ
 
-_25 exemplaires numï¿½rotï¿½s sur hollande._
+_25 exemplaires numérotés sur hollande._
 
 
 
 
 ARTHUR RIMBAUD
 
-POï¿½SIES
+POÉSIES
 
-COMPLï¿½TES
+COMPLÈTES
 
 PARIS
 
-Lï¿½ON VANIER, LIBRAIRE-ï¿½DITEUR 19, QUAI SAINT-MICHEL, 19
+LÉON VANIER, LIBRAIRE-ÉDITEUR 19, QUAI SAINT-MICHEL, 19
 
 1895
 
-Tous droits rï¿½servï¿½s.
+Tous droits réservés.
 
 
 
 
-LES ï¿½TRENNES DES ORPHELlNS
+LES ÉTRENNES DES ORPHELlNS
 
 
 I
 
     La chambre est pleine d'ombre; on entend vaguement
     De deux enfants le triste et doux chuchotement.
-    Leur front se penche, encor, alourdi par le rï¿½ve,
-    Sous le long rideau blanc qui tremble et se soulï¿½ve...
+    Leur front se penche, encor, alourdi par le rêve,
+    Sous le long rideau blanc qui tremble et se soulève...
     --Au dehors les oiseaux se rapprochent frileux;
     Leur aile s'engourdit sous le ton gris des cieux;
-    Et la nouvelle annï¿½e, ï¿½ la suite brumeuse,
-    Laissant traï¿½ner les plis de sa robe neigeuse,
+    Et la nouvelle année, à la suite brumeuse,
+    Laissant traîner les plis de sa robe neigeuse,
     Sourit avec des pleurs, et chante en grelottant...
 
 
@@ -435,112 +435,112 @@ II
 
     Or les petits enfants, sous le rideau flottant,
     Parlent bas comme on fait dans une nuit obscure.
-    Ils ï¿½coutent, pensifs, comme un lointain murmure...
-    Ils tressaillent souvent ï¿½ la claire voix d'or
+    Ils écoutent, pensifs, comme un lointain murmure...
+    Ils tressaillent souvent à la claire voix d'or
     Du timbre matinal, qui frappe et frappe encor
-    Son refrain mï¿½tallique en son globe de verre...
-    --Puis, la chambre est glacï¿½e... on voit traï¿½ner ï¿½ terre,
-    ï¿½pars autour des lits, des vï¿½tements de deuil:
-    L'ï¿½pre bise d'hiver qui se lamente au seuil,
+    Son refrain métallique en son globe de verre...
+    --Puis, la chambre est glacée... on voit traîner à terre,
+    Épars autour des lits, des vêtements de deuil:
+    L'âpre bise d'hiver qui se lamente au seuil,
     Souffle dans le logis son haleine morose!
     On sent, dans tout cela, qu'il manque quelque chose...
-    --Il n'est donc point de mï¿½re ï¿½ ces petits enfants,
-    De mï¿½re au frais sourire, aux regards triomphants?
-    Elle a donc oubliï¿½, le soir, seule et penchï¿½e,
-    D'exciter une flamme ï¿½ la cendre arrachï¿½e,
-    D'amonceler sur eux la laine et l'ï¿½dredon
+    --Il n'est donc point de mère à ces petits enfants,
+    De mère au frais sourire, aux regards triomphants?
+    Elle a donc oublié, le soir, seule et penchée,
+    D'exciter une flamme à la cendre arrachée,
+    D'amonceler sur eux la laine et l'édredon
     Avant de les quitter en leur criant: pardon.
-    Elle n'a point prï¿½vu la froideur matinale,
-    Ni bien fermï¿½ le seuil ï¿½ la bise hivernale?...
-    --Le rï¿½ve maternel, c'est le tiï¿½de tapis,
-    C'est le nid cotonneux oï¿½ les enfants tapis,
+    Elle n'a point prévu la froideur matinale,
+    Ni bien fermé le seuil à la bise hivernale?...
+    --Le rêve maternel, c'est le tiède tapis,
+    C'est le nid cotonneux où les enfants tapis,
     Comme de beaux oiseaux que balancent les branches,
     Dorment leur doux sommeil plein de visions blanches.
-    --Et lï¿½,--c'est comme un nid sans plumes, sans chaleur
-    Oï¿½ les petits ont froid, ne dorment pas, ont peur;
-    Un nid que doit avoir glacï¿½ la bise amï¿½re...
+    --Et là,--c'est comme un nid sans plumes, sans chaleur
+    Où les petits ont froid, ne dorment pas, ont peur;
+    Un nid que doit avoir glacé la bise amère...
 
 
 III
 
-    Votre coeur l'a compris:--ces enfants sont sans mï¿½re,
-    Plus de mï¿½re au logis!--et le pï¿½re est bien loin!...
+    Votre coeur l'a compris:--ces enfants sont sans mère,
+    Plus de mère au logis!--et le père est bien loin!...
     --Une vieille servante, alors, en a pris soin:
-    Les petits sont tout seuls en la maison glacï¿½e;
-    Orphelins de quatre ans, voilï¿½ qu'en leur pensï¿½e
-    S'ï¿½veille, par degrï¿½s, un souvenir riant...
-    C'est comme un chapelet qu'on ï¿½grï¿½ne en priant:
-    --Ah! quel beau matin, que ce matin des ï¿½trennes!
-    Chacun, pendant la nuit, avait rï¿½vï¿½ des siennes
-    Dans quelque songe ï¿½trange oï¿½ l'on voyait joujoux,
-    Bonbons habillï¿½s d'or, ï¿½tincelants bijoux,
+    Les petits sont tout seuls en la maison glacée;
+    Orphelins de quatre ans, voilà qu'en leur pensée
+    S'éveille, par degrés, un souvenir riant...
+    C'est comme un chapelet qu'on égrène en priant:
+    --Ah! quel beau matin, que ce matin des étrennes!
+    Chacun, pendant la nuit, avait rêvé des siennes
+    Dans quelque songe étrange où l'on voyait joujoux,
+    Bonbons habillés d'or, étincelants bijoux,
     Tourbillonner, danser une danse sonore,
-    Puis fuir sous les rideaux, puis reparaï¿½tre encore!
-    On s'ï¿½veillait matin, on se levait joyeux,
-    La lï¿½vre affriandï¿½e, en se frottant les yeux...
-    On allait, les cheveux emmï¿½lï¿½s sur la tï¿½te,
-    Les yeux tout rayonnants, comme aux grands jours de fï¿½te
+    Puis fuir sous les rideaux, puis reparaître encore!
+    On s'éveillait matin, on se levait joyeux,
+    La lèvre affriandée, en se frottant les yeux...
+    On allait, les cheveux emmêlés sur la tête,
+    Les yeux tout rayonnants, comme aux grands jours de fête
     Et les petits pieds nus effleurant le plancher,
     Aux portes des parents tout doucement toucher...
     On entrait!... Puis alors les souhaits... en chemise,
-    Les baisers rï¿½pï¿½tï¿½s, et la gaï¿½tï¿½ permise?
+    Les baisers répétés, et la gaîté permise?
 
 
 IV
 
-    Ah! c'ï¿½tait si charmant, ces mots dits tant de fois!
-    --Mais comme il est changï¿½, le logis d'autrefois:
-    Un grand feu pï¿½tillait, clair, dans la cheminï¿½e,
-    Toute la vieille chambre ï¿½tait illuminï¿½e;
+    Ah! c'était si charmant, ces mots dits tant de fois!
+    --Mais comme il est changé, le logis d'autrefois:
+    Un grand feu pétillait, clair, dans la cheminée,
+    Toute la vieille chambre était illuminée;
     Et les reflets vermeils, sortis du grand foyer,
-    Sur les meubles vernis aimaient ï¿½ tournoyer...
-    --L'armoire ï¿½tait sans clefs!... sans clefs, la grande armoire
+    Sur les meubles vernis aimaient à tournoyer...
+    --L'armoire était sans clefs!... sans clefs, la grande armoire
     On regardait souvent sa porte brune et noire...
-    Sans clefs!... c'ï¿½tait ï¿½trange!... On rï¿½vait bien des fois
-    Aux mystï¿½res dormant entre ses flancs de bois,
-    Et l'on croyait ouï¿½r, au fond de la serrure
-    Bï¿½ante, un bruit lointain, vague et joyeux murmure
+    Sans clefs!... c'était étrange!... On rêvait bien des fois
+    Aux mystères dormant entre ses flancs de bois,
+    Et l'on croyait ouïr, au fond de la serrure
+    Béante, un bruit lointain, vague et joyeux murmure
     --La chambre des parents est bien vide, aujourd'hui
     Aucun reflet vermeil sous la porte n'a lui;
     Il n'est point de parents, de foyer, de clefs prises:
     Partant point de baisers, point de douces surprises!
     Oh! que le jour de l'an sera triste pour eux!
     --Et, tout pensifs, tandis que de leurs grands yeux bleus
-    Silencieusement tombe une larme amï¿½re,
-    ils murmurent: ï¿½Quand donc reviendra notre mï¿½re?ï¿½
+    Silencieusement tombe une larme amère,
+    ils murmurent: «Quand donc reviendra notre mère?»
     . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 
 V
 
     Maintenant, les petits sommeillent tristement:
-    Vous diriez, ï¿½ les voir, qu'ils pleurent en dormant,
-    Tant leurs yeux sont gonflï¿½s et leur souffle pï¿½nible!
+    Vous diriez, à les voir, qu'ils pleurent en dormant,
+    Tant leurs yeux sont gonflés et leur souffle pénible!
     Les tout petits enfants ont le coeur si sensible!
     --Mais l'ange des berceaux vient essuyer leurs yeux,
-    Et dans ce lourd sommeil mit un rï¿½ve joyeux,
-    Un rï¿½ve si joyeux, que leur lï¿½vre mi-close,
+    Et dans ce lourd sommeil mit un rêve joyeux,
+    Un rêve si joyeux, que leur lèvre mi-close,
     Souriante, semblait murmurer quelque chose...
-    Ils rï¿½vent que, penchï¿½s sur leur petit bras rond,
-    Doux geste du rï¿½veil, ils avancent le front,
+    Ils rêvent que, penchés sur leur petit bras rond,
+    Doux geste du réveil, ils avancent le front,
     Et leur vague regard tout autour d'eux repose...
     Ils se croient endormis dans un paradis rose...
-    Au foyer plein d'ï¿½clairs chante gaï¿½ment le feu...
-    Par la fenï¿½tre on voit lï¿½-bas un beau ciel bleu;
-    La nature s'ï¿½veille et de rayons s'enivre...
+    Au foyer plein d'éclairs chante gaîment le feu...
+    Par la fenêtre on voit là-bas un beau ciel bleu;
+    La nature s'éveille et de rayons s'enivre...
     La terre, demi-nue, heureuse de revivre,
     A des frissons de joie aux baisers du soleil...
-    Et dans le vieux logis tout est tiï¿½de et vermeil:
-    Des sombres vï¿½tements ne jonchent plus la terre,
+    Et dans le vieux logis tout est tiède et vermeil:
+    Des sombres vêtements ne jonchent plus la terre,
     La bise sous le seuil a fini par se taire.
-    On dirait qu'une fï¿½e a passï¿½ dans cela!...
-    --Les enfants, tout joyeux, ont jetï¿½ deux cris... Lï¿½,
-    Prï¿½s du lit maternel, sous un beau rayon rose,
-    Lï¿½, sur le grand tapis, resplendit quelque chose...
-    Ce sont des mï¿½daillons argentï¿½s, noirs et blancs,
+    On dirait qu'une fée a passé dans cela!...
+    --Les enfants, tout joyeux, ont jeté deux cris... Là,
+    Près du lit maternel, sous un beau rayon rose,
+    Là, sur le grand tapis, resplendit quelque chose...
+    Ce sont des médaillons argentés, noirs et blancs,
     De la nacre et du jais aux reflets scintillants:
     Des petits cadres noirs, des couronnes de verre,
-    Ayant trois mots gravï¿½s en or: ï¿½ï¿½ NOTRE Mï¿½RE!ï¿½
+    Ayant trois mots gravés en or: «À NOTRE MÈRE!»
     . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
   2 janvier 1870
@@ -553,21 +553,21 @@ VOYELLES
 
     A noir, E blanc, I rouge, U vert, O bleu, voyelles,
     Je dirai quelque jour vos naissances latentes,
-    A, noir corset velu des mouches ï¿½clatantes
+    A, noir corset velu des mouches éclatantes
     Qui bombillent autour des puanteurs cruelles,
 
     Golfe d'ombre: E, candeur des vapeurs et des tentes,
     Lance des glaciers fiers, rois blancs, frissons d'ombelles
-    I, pourpres, sang crachï¿½, rire des lï¿½vres belles
-    Dans la colï¿½re ou les ivresses pï¿½nitentes;
+    I, pourpres, sang craché, rire des lèvres belles
+    Dans la colère ou les ivresses pénitentes;
 
     U, cycles, vibrements divins des mers virides,
-    Paix des pï¿½tis semï¿½s d'animaux, paix des rides
+    Paix des pâtis semés d'animaux, paix des rides
     Que l'alchimie imprime aux grands fronts studieux;
 
-    O, suprï¿½me Clairon plein de strideurs ï¿½tranges,
-    Silences traversï¿½s des Mondes et des Anges:
-    --O l'Omï¿½ga, rayon violet de Ses Yeux!
+    O, suprême Clairon plein de strideurs étranges,
+    Silences traversés des Mondes et des Anges:
+    --O l'Oméga, rayon violet de Ses Yeux!
 
 
 
@@ -576,22 +576,22 @@ ORAISON DU SOIR
 
 
     Je vis assis tel qu'un ange aux mains d'un barbier,
-    Empoignant une chope ï¿½ fortes cannelures,
-    L'hypogastre et le col cambrï¿½s, une Gambier
-    Aux dents, sous l'air gonflï¿½ d'impalpables voilures.
+    Empoignant une chope à fortes cannelures,
+    L'hypogastre et le col cambrés, une Gambier
+    Aux dents, sous l'air gonflé d'impalpables voilures.
 
-    Tels que les excrï¿½ments chauds d'un vieux colombier
-    Mille rï¿½ves en moi font de douces brï¿½lures;
+    Tels que les excréments chauds d'un vieux colombier
+    Mille rêves en moi font de douces brûlures;
     Puis par instants mon coeur triste est comme un aubier
     Qu'ensanglante l'or jaune et sombre des coulures.
 
-    Puis quand j'ai ravalï¿½ mes rï¿½ves avec soin,
+    Puis quand j'ai ravalé mes rêves avec soin,
     Je me tourne, ayant bu trente ou quarante chopes,
-    Et me recueille pour lï¿½cher l'ï¿½cre besoin.
+    Et me recueille pour lâcher l'âcre besoin.
 
-    Doux comme le Seigneur du cï¿½dre et des hysopes,
-    Je pisse vers les cieux bruns trï¿½s haut et trï¿½s loin,
-    Avec l'assentiment des grands hï¿½liotropes.
+    Doux comme le Seigneur du cèdre et des hysopes,
+    Je pisse vers les cieux bruns très haut et très loin,
+    Avec l'assentiment des grands héliotropes.
 
 
 
@@ -599,37 +599,37 @@ ORAISON DU SOIR
 LES ASSIS
 
 
-    Noirs de loupes, grï¿½lï¿½s, les yeux cerclï¿½s de bagues
-    Vertes, leurs doigts boulus crispï¿½s ï¿½ leurs fï¿½murs,
-    Le sinciput plaquï¿½ de hargnositï¿½s vagues
-    Comme les floraisons lï¿½preuses des vieux murs,
+    Noirs de loupes, grêlés, les yeux cerclés de bagues
+    Vertes, leurs doigts boulus crispés à leurs fémurs,
+    Le sinciput plaqué de hargnosités vagues
+    Comme les floraisons lépreuses des vieux murs,
 
-    Ils ont greffï¿½ dans des amours ï¿½pileptiques
+    Ils ont greffé dans des amours épileptiques
     Leur fantasque ossature aux grands squelettes noirs
     De leurs chaises; leurs pieds aux barreaux rachitiques
     S'entrelacent pour les matins et pour les soirs.
 
-    Ces vieillards ont toujours fait tresse avec leurs siï¿½ges,
+    Ces vieillards ont toujours fait tresse avec leurs sièges,
     Sentant les soleils vifs percaliser leur peaux,
-    Ou les yeux ï¿½ la vitre oï¿½ se fanent les neiges,
+    Ou les yeux à la vitre où se fanent les neiges,
     Tremblant du tremblement douloureux des crapauds.
 
-    Et les Siï¿½ges leur ont des bontï¿½s; culottï¿½e
-    De brun, la paille cï¿½de aux angles de leurs reins.
-    L'ï¿½me des vieux soleils s'allume, emmaillotï¿½e
-    Dans ces tresses d'ï¿½pis oï¿½ fermentaient les grains.
+    Et les Sièges leur ont des bontés; culottée
+    De brun, la paille cède aux angles de leurs reins.
+    L'âme des vieux soleils s'allume, emmaillotée
+    Dans ces tresses d'épis où fermentaient les grains.
 
     Et les Assis, genoux aux dents, verts pianistes,
-    Les dix doigts sous leur siï¿½ge aux rumeurs de tambour
-    S'ï¿½coutent clapoter des barcarolles tristes
+    Les dix doigts sous leur siège aux rumeurs de tambour
+    S'écoutent clapoter des barcarolles tristes
     Et leurs caboches vont dans des roulis d'amour.
 
     Oh! ne les faites pas lever! C'est le naufrage.
-    Ils surgissent, grondant comme des chats gifflï¿½s,
-    Ouvrant lentement leurs omoplates, ï¿½ rage!
-    Tout leur pantalon bouffe ï¿½ leurs reins boursouflï¿½s.
+    Ils surgissent, grondant comme des chats gifflés,
+    Ouvrant lentement leurs omoplates, ô rage!
+    Tout leur pantalon bouffe à leurs reins boursouflés.
 
-    Et vous les ï¿½coutez cognant leurs tï¿½tes chauves
+    Et vous les écoutez cognant leurs têtes chauves
     Aux murs sombres, plaquant et plaquant leurs pieds tors
     Et leurs boutons d'habit sont des prunelles fauves
     Qui vous accrochent l'oeil du fond des corridors.
@@ -639,39 +639,39 @@ LES ASSIS
     Qui charge l'oeil souffrant de la chienne battue,
     Et vous suez, pris dans un atroce entonnoir.
 
-    Assis, les poings crispï¿½s dans des manchettes sales,
-    Ils songent ï¿½ ceux-lï¿½ qui les ont fait lever,
+    Assis, les poings crispés dans des manchettes sales,
+    Ils songent à ceux-là qui les ont fait lever,
     Et de l'aurore au soir des grappes d'amygdales
-    Sous leurs mentons chï¿½tifs s'agitent ï¿½ crever.
+    Sous leurs mentons chétifs s'agitent à crever.
 
-    Quand l'austï¿½re sommeil a baissï¿½ leurs visiï¿½res
-    Ils rï¿½vent sur leurs bras de siï¿½ges fï¿½condï¿½s,
-    De vrais petits amours de chaises en lisiï¿½res
-    Sur lesquelles de fiers bureaux seront bordï¿½s.
+    Quand l'austère sommeil a baissé leurs visières
+    Ils rêvent sur leurs bras de sièges fécondés,
+    De vrais petits amours de chaises en lisières
+    Sur lesquelles de fiers bureaux seront bordés.
 
     Les fleurs d'encre, crachant des pollens en virgules,
     Les bercent le long des calices accroupis,
-    Tels qu'au fil des glaï¿½euls le vol des libellules,
-    --Et leur membre s'agace ï¿½ des barbes d'ï¿½pis!
+    Tels qu'au fil des glaïeuls le vol des libellules,
+    --Et leur membre s'agace à des barbes d'épis!
 
 
 
 
-LES EFFARï¿½S
+LES EFFARÉS
 
     Noirs dans la neige et dans la brume,
     Au grand soupirail qui s'allume,
         Leurs culs en rond,
 
-    ï¿½ genoux, cinq petits,--misï¿½re!--
+    À genoux, cinq petits,--misère!--
     Regardent le boulanger faire
         Le lourd pain blond...
 
     Ils voient le fort bras blanc qui tourne
-    La pï¿½te grise, et qui l'enfourne
+    La pâte grise, et qui l'enfourne
         Dans un trou clair.
 
-    Ils ï¿½coutent le bon pain cuire
+    Ils écoutent le bon pain cuire
     Le boulanger au gras sourire
         Chante un vieil air.
 
@@ -680,30 +680,30 @@ LES EFFARï¿½S
         Chaud comme un sein.
 
     Et quand, pendant que minuit sonne,
-    Faï¿½onnï¿½, pï¿½tillant et jaune,
+    Façonné, pétillant et jaune,
         On sort le pain;
 
-    Quand, sous les poutres enfumï¿½es,
-    Chantent les croï¿½tes parfumï¿½es,
+    Quand, sous les poutres enfumées,
+    Chantent les croûtes parfumées,
         Et les grillons;
 
     Que ce trou chaud souffle la vie;
-    Ils ont leur ï¿½me si ravie
+    Ils ont leur âme si ravie
         Sous leurs haillons,
 
     Ils se ressentent si bien vivre,
     Les pauvres petits pleins de givre!
-        --Qu'ils sont lï¿½, tous,
+        --Qu'ils sont là, tous,
 
     Collant leurs petits museaux roses
     Au grillage, chantant des choses,
         Entre les trous,
 
-    Mais bien bas,--comme une priï¿½re...
-    Repliï¿½s vers cette lumiï¿½re
+    Mais bien bas,--comme une prière...
+    Repliés vers cette lumière
         Du ciel rouvert,
 
-    --Si fort, qu'ils crï¿½vent leur culotte,
+    --Si fort, qu'ils crèvent leur culotte,
     --Et que leur lange blanc tremblotte
         Au vent d'hiver...
 
@@ -716,29 +716,29 @@ LES CHERCHEUSES DE POUX
 
 
     Quand le front de l'enfant plein de rouges tourmentes,
-    Implore l'essaim blanc des rï¿½ves indistincts,
-    Il vient prï¿½s de son lit deux grandes soeurs charmantes
-    Avec de frï¿½les doigts aux ongles argentins.
+    Implore l'essaim blanc des rêves indistincts,
+    Il vient près de son lit deux grandes soeurs charmantes
+    Avec de frêles doigts aux ongles argentins.
 
-    Elles assoient l'enfant devant une croisï¿½e
-    Grande ouverte oï¿½ l'air bleu baigne un fouillis de fleurs,
-    Et dans ses lourds cheveux oï¿½ tombe la rosï¿½e
-    Promï¿½nent leurs doigts fins, terribles et charmeurs.
+    Elles assoient l'enfant devant une croisée
+    Grande ouverte où l'air bleu baigne un fouillis de fleurs,
+    Et dans ses lourds cheveux où tombe la rosée
+    Promènent leurs doigts fins, terribles et charmeurs.
 
-    Il ï¿½coute chanter leurs haleines craintives
-    Qui fleurent de longs miels vï¿½gï¿½taux et rosï¿½s
+    Il écoute chanter leurs haleines craintives
+    Qui fleurent de longs miels végétaux et rosés
     Et qu'interrompt parfois un sifflement, salives
-    Reprises sur la lï¿½vre ou dï¿½sirs de baisers.
+    Reprises sur la lèvre ou désirs de baisers.
 
     Il entend leurs cils noirs battant sous les silences
-    Parfumï¿½s; et leurs doigts ï¿½lectriques et doux
-    Font crï¿½piter parmi ses grises indolences
+    Parfumés; et leurs doigts électriques et doux
+    Font crépiter parmi ses grises indolences
     Sous leurs ongles royaux la mort des petits poux.
 
-    Voilï¿½ que monte en lui le vin de la Paresse,
-    Soupir d'harmonica qui pourrait dï¿½lirer;
+    Voilà que monte en lui le vin de la Paresse,
+    Soupir d'harmonica qui pourrait délirer;
     L'enfant se sent, selon la lenteur des caresses,
-    Sourdre et mourir sans cesse un dï¿½sir de pleurer.
+    Sourdre et mourir sans cesse un désir de pleurer.
 
 
 
@@ -747,126 +747,126 @@ BATEAU IVRE
 
 
     Comme je descendais des Fleuves impassibles
-    Je ne me sentis plus guidï¿½ par les haleurs;
+    Je ne me sentis plus guidé par les haleurs;
     Des Peaux-Rouges criards les avaient pris pour cibles,
-    Les ayant clouï¿½s nus aux poteaux de couleurs.
+    Les ayant cloués nus aux poteaux de couleurs.
 
-    J'ï¿½tais insoucieux de tous les ï¿½quipages,
-    Porteur de blï¿½s flamands ou de cotons anglais.
+    J'étais insoucieux de tous les équipages,
+    Porteur de blés flamands ou de cotons anglais.
     Quand avec mes haleurs ont fini ces tapages,
-    Les Fleuves m'ont laissï¿½ descendre oï¿½ je voulais.
+    Les Fleuves m'ont laissé descendre où je voulais.
 
-    Dans les clapotements furieux des marï¿½es,
+    Dans les clapotements furieux des marées,
     Moi, l'autre hiver, plus sourd que les cerveaux d'enfants,
-    Je courus! Et les Pï¿½ninsules dï¿½marrï¿½es,
+    Je courus! Et les Péninsules démarrées,
     N'ont pas subi tohu-bohus plus triomphants.
 
-    La tempï¿½te a bï¿½ni mes ï¿½veils maritimes.
-    Plus lï¿½ger qu'un bouchon j'ai dansï¿½ sur les flots
-    Qu'on appelle rouleurs ï¿½ternels de victimes,
+    La tempête a béni mes éveils maritimes.
+    Plus léger qu'un bouchon j'ai dansé sur les flots
+    Qu'on appelle rouleurs éternels de victimes,
     Dix nuits, sans regretter l'oeil niais des falots.
 
     Plus douce qu'aux enfants la chair des pommes sures
-    L'eau verte pï¿½nï¿½tra ma coque de sapin
+    L'eau verte pénétra ma coque de sapin
     Et des taches de vins bleus et des vomissures
     Me lava, dispersant gouvernail et grappin.
 
-    Et dï¿½s lors je me suis baignï¿½ dans le poï¿½me
-    De la mer, infusï¿½ d'astres et latescent,
-    Dï¿½vorant les azurs verts oï¿½, flottaison blï¿½me
-    Et ravie, un noyï¿½ pensif parfois descend,
+    Et dès lors je me suis baigné dans le poème
+    De la mer, infusé d'astres et latescent,
+    Dévorant les azurs verts où, flottaison blême
+    Et ravie, un noyé pensif parfois descend,
 
-    Oï¿½, teignant tout ï¿½ coup les bleuitï¿½s, dï¿½lires
+    Où, teignant tout à coup les bleuités, délires
     Et rythmes lents sous les rutilements du jour,
     Plus fortes que l'alcool, plus vastes que vos lyres,
-    Fermentent les rousseurs amï¿½res de l'amour.
+    Fermentent les rousseurs amères de l'amour.
 
-    Je sais les cieux crevant en ï¿½clairs, et les trombes,
+    Je sais les cieux crevant en éclairs, et les trombes,
     Et les ressacs, et les courants, je sais le soir,
-    L'aube exaltï¿½e ainsi qu'un peuple de colombes,
+    L'aube exaltée ainsi qu'un peuple de colombes,
     Et j'ai vu quelquefois ce que l'homme a cru voir.
 
-    J'ai vu le soleil bas tachï¿½ d'horreurs mystiques
+    J'ai vu le soleil bas taché d'horreurs mystiques
     Illuminant de longs figements violets,
-    Pareils ï¿½ des acteurs de drames trï¿½s antiques,
+    Pareils à des acteurs de drames très antiques,
     Les flots roulant au loin leurs frissons de volets;
 
-    J'ai rï¿½vï¿½ la nuit verte aux neiges ï¿½blouies,
+    J'ai rêvé la nuit verte aux neiges éblouies,
     Baisers montant aux yeux des mers avec lenteur,
-    La circulation des sï¿½ves inouï¿½es
-    Et l'ï¿½veil jaune et bleu des phosphores chanteurs.
+    La circulation des sèves inouïes
+    Et l'éveil jaune et bleu des phosphores chanteurs.
 
     J'ai suivi des mois pleins, pareille aux vacheries
-    Hystï¿½riques, la houle ï¿½ l'assaut des rï¿½cifs,
+    Hystériques, la houle à l'assaut des récifs,
     Sans songer que les pieds lumineux des Maries
-    Pussent forcer le muffle aux Ocï¿½ans poussifs;
+    Pussent forcer le muffle aux Océans poussifs;
 
-    J'ai heurtï¿½, savez-vous? d'incroyables Florides,
-    Mï¿½lant aux fleurs des yeux de panthï¿½res, aux peaux
+    J'ai heurté, savez-vous? d'incroyables Florides,
+    Mêlant aux fleurs des yeux de panthères, aux peaux
     D'hommes, des arcs-en-ciel tendus comme des brides,
-    Sous l'horizon des mers, ï¿½ de glauques troupeaux;
+    Sous l'horizon des mers, à de glauques troupeaux;
 
-    J'ai vu fermenter les marais ï¿½normes, nasses
-    Oï¿½ pourrit dans les joncs tout un Lï¿½viathan,
-    Des ï¿½croulements d'eaux au milieu des bonaces
+    J'ai vu fermenter les marais énormes, nasses
+    Où pourrit dans les joncs tout un Léviathan,
+    Des écroulements d'eaux au milieu des bonaces
     Et les lointains vers les gouffres cataractant!
 
     Glaciers, soleils d'argent, flots nacreux, cieux de braises!
-    ï¿½chouages hideux au fond des golfes bruns
-    Oï¿½ les serpents gï¿½ants dï¿½vorï¿½s des punaises
+    Échouages hideux au fond des golfes bruns
+    Où les serpents géants dévorés des punaises
     Choient des arbres tordus avec de noirs parfums!
 
     J'aurais voulu montrer aux enfants ces dorades
     Du flot bleu, ces poissons d'or, ces poissons chantants,
-    Des ï¿½cumes de fleurs ont bï¿½ni mes dï¿½rades
-    Et d'ineffables vents m'ont ailï¿½ par instants.
+    Des écumes de fleurs ont béni mes dérades
+    Et d'ineffables vents m'ont ailé par instants.
 
-    Parfois, martyr lassï¿½ des pï¿½les et des zones,
+    Parfois, martyr lassé des pôles et des zones,
     La mer dont le sanglot faisait mon roulis doux
     Montait vers moi ses fleurs d'ombre aux ventouses jaunes
-    Et je restais ainsi qu'une femme ï¿½ genoux,
+    Et je restais ainsi qu'une femme à genoux,
 
-    Presqu'ï¿½le ballottant sur mes bords les querelles
+    Presqu'île ballottant sur mes bords les querelles
     Et les fientes d'oiseaux clabaudeurs aux yeux blonds,
-    Et je voguais lorsqu'ï¿½ travers mes liens frï¿½les
-    Des noyï¿½s descendaient dormir ï¿½ reculons.
+    Et je voguais lorsqu'à travers mes liens frêles
+    Des noyés descendaient dormir à reculons.
 
     Or moi, bateau perdu sous les cheveux des anses,
-    Jetï¿½ par l'ouragan dans l'ï¿½ther sans oiseau,
+    Jeté par l'ouragan dans l'éther sans oiseau,
     Moi dont les Monitors et les voiliers des Hanses
-    N'auraient pas repï¿½chï¿½ la carcasse ivre d'eau,
+    N'auraient pas repêché la carcasse ivre d'eau,
 
-    Libre, fumant, montï¿½ de brumes violettes,
+    Libre, fumant, monté de brumes violettes,
     Moi qui trouais le ciel rougeoyant comme un mur
-    Qui porte, confiture exquise aux bons poï¿½tes,
+    Qui porte, confiture exquise aux bons poètes,
     Des lichens de soleil et des morves d'azur,
 
-    Qui courais tachï¿½ de lunules ï¿½lectriques,
-    Plante folle, escortï¿½ des hippocampes noirs,
-    Quand les Juillets faisaient croï¿½ler ï¿½ coups de triques
+    Qui courais taché de lunules électriques,
+    Plante folle, escorté des hippocampes noirs,
+    Quand les Juillets faisaient croûler à coups de triques
     Les cieux ultramarins aux ardents entonnoirs,
 
-    Moi qui tremblais, sentant geindre ï¿½ cinquante lieues
-    Le rut des Bï¿½hï¿½mots et des Maelstroms ï¿½pais,
-    Fileur ï¿½ternel des immobilitï¿½s bleues,
+    Moi qui tremblais, sentant geindre à cinquante lieues
+    Le rut des Béhémots et des Maelstroms épais,
+    Fileur éternel des immobilités bleues,
     Je regrette l'Europe aux anciens parapets.
 
-    J'ai vu des archipels sidï¿½raux! Et des ï¿½les
-    Dont les cieux dï¿½lirants sont ouverts au vogueur:
+    J'ai vu des archipels sidéraux! Et des îles
+    Dont les cieux délirants sont ouverts au vogueur:
     --Est-ce en ces nuits sans fond que tu dors et t'exiles,
-    Million d'oiseaux d'or, ï¿½ future Vigueur?
+    Million d'oiseaux d'or, ô future Vigueur?
 
-    Mais, vrai, j'ai trop pleurï¿½! Les aubes sont navrantes,
+    Mais, vrai, j'ai trop pleuré! Les aubes sont navrantes,
     Toute lune est atroce et tout soleil amer.
-    L'ï¿½cre amour m'a gonflï¿½ de torpeurs enivrantes.
-    Oh! que ma quille ï¿½clate! Oh! que j'aille ï¿½ la mer!
+    L'âcre amour m'a gonflé de torpeurs enivrantes.
+    Oh! que ma quille éclate! Oh! que j'aille à la mer!
 
-    Si je dï¿½sire une eau d'Europe, c'est la flache
-    Noire et froide oï¿½, vers le crï¿½puscule embaumï¿½,
-    Un enfant accroupi, plein de tristesse, lï¿½che
-    Un bateau frï¿½le comme un papillon de mai.
+    Si je désire une eau d'Europe, c'est la flache
+    Noire et froide où, vers le crépuscule embaumé,
+    Un enfant accroupi, plein de tristesse, lâche
+    Un bateau frêle comme un papillon de mai.
 
-    Je ne puis plus, baignï¿½ de vos langueurs, ï¿½ lames,
+    Je ne puis plus, baigné de vos langueurs, ô lames,
     Enlever leur sillage aux porteurs de cotons,
     Ni traverser l'orgueil des drapeaux et des flammes,
     Ni nager sous les yeux horribles des pontons!
@@ -874,134 +874,134 @@ BATEAU IVRE
 
 
 
-LES PREMIï¿½RES COMMUNIONS
+LES PREMIÈRES COMMUNIONS
 
 
 I
 
-    Vraiment, c'est bï¿½te, ces ï¿½glises de villages
-    Oï¿½ quinze laids marmots, encrassant les piliers,
-    ï¿½coutent, grasseyant les divins babillages,
+    Vraiment, c'est bête, ces églises de villages
+    Où quinze laids marmots, encrassant les piliers,
+    Écoutent, grasseyant les divins babillages,
     Un noir grotesque dont fermentent les souliers.
-    Mais le soleil ï¿½veille, ï¿½ travers les feuillages,
-    Les vieilles couleurs des vitraux ensoleillï¿½s,
+    Mais le soleil éveille, à travers les feuillages,
+    Les vieilles couleurs des vitraux ensoleillés,
 
     La pierre sent toujours la terre maternelle,
     Vous verrez des monceaux de ces cailloux terreux
-    Dans la campagne en rut qui frï¿½mit, solennelle,
-    Portant, prï¿½s des blï¿½s lourds, dans les sentiers sï¿½reux,
-    Ces arbrisseaux brï¿½lï¿½s oï¿½ bleuit la prunelle,
-    Des noeuds de mï¿½riers noirs ou de rosiers furieux.
+    Dans la campagne en rut qui frémit, solennelle,
+    Portant, près des blés lourds, dans les sentiers séreux,
+    Ces arbrisseaux brûlés où bleuit la prunelle,
+    Des noeuds de mûriers noirs ou de rosiers furieux.
 
     Tous les cent ans, on rend ces granges respectables
-    Par un badigeon d'eau bleue et de lait caillï¿½.
-    Si des mysticitï¿½s grotesques sont notables
-    Prï¿½s de la Notre-Dame ou du saint empaillï¿½,
-    Des mouches sentant bon l'auberge et les ï¿½tables
-    Se gorgent de cire au plancher ensoleillï¿½.
+    Par un badigeon d'eau bleue et de lait caillé.
+    Si des mysticités grotesques sont notables
+    Près de la Notre-Dame ou du saint empaillé,
+    Des mouches sentant bon l'auberge et les étables
+    Se gorgent de cire au plancher ensoleillé.
 
-    L'enfant se doit surtout ï¿½ la maison, famille
-    Des soins naï¿½fs, des bons travaux abrutissants,
+    L'enfant se doit surtout à la maison, famille
+    Des soins naïfs, des bons travaux abrutissants,
     Ils sortent, oubliant que la peau leur fourmille
-    Oï¿½ le Prï¿½tre du Christ a mis ses doigts puissants.
-    On paie au Prï¿½tre un toit ombrï¿½ d'une charmille
+    Où le Prêtre du Christ a mis ses doigts puissants.
+    On paie au Prêtre un toit ombré d'une charmille
     Pour qu'il laisse au soleil tous ces fronts bruissants.
 
     Le premier habit noir, le plus beau jour de tartes
-    Sous le Napolï¿½on ou le Petit Tambour,
-    Quelque enluminure oï¿½ les Josephs et les Marthes
+    Sous le Napoléon ou le Petit Tambour,
+    Quelque enluminure où les Josephs et les Marthes
     Tirent la langue avec un excessif amour
     Et qui joindront aux jours de science deux cartes,
     Ces deux seuls souvenirs lui restent du grand jour.
 
-    Les filles vont toujours ï¿½ l'ï¿½glise, contentes
-    De s'entendre appeler garces par les garï¿½ons
-    Qui font du genre, aprï¿½s messe et vï¿½pres chantantes,
-    Eux, qui sont destinï¿½s au chic des garnisons,
-    Ils narguent au cafï¿½ les maisons importantes,
-    Blousï¿½s neuf et gueulant d'effroyables chansons.
+    Les filles vont toujours à l'église, contentes
+    De s'entendre appeler garces par les garçons
+    Qui font du genre, après messe et vêpres chantantes,
+    Eux, qui sont destinés au chic des garnisons,
+    Ils narguent au café les maisons importantes,
+    Blousés neuf et gueulant d'effroyables chansons.
 
-    Cependant le curï¿½ choisit, pour les enfances,
-    Des dessins; dans son clos, les vï¿½pres dites, quand
+    Cependant le curé choisit, pour les enfances,
+    Des dessins; dans son clos, les vêpres dites, quand
     L'air s'emplit du lointain nasillement des danses,
-    Il se sent, en dï¿½pit des cï¿½lestes dï¿½fenses,
+    Il se sent, en dépit des célestes défenses,
     Les doigts de pied ravis et le mollet marquant...
-    --La nuit vient, noir pirate au ciel noir dï¿½barquant.
+    --La nuit vient, noir pirate au ciel noir débarquant.
 
 
 II
 
-    Le prï¿½tre a distinguï¿½, parmi les catï¿½chistes
-    Congrï¿½gï¿½s des faubourgs ou des riches quartiers,
+    Le prêtre a distingué, parmi les catéchistes
+    Congrégés des faubourgs ou des riches quartiers,
     Cette petite fille inconnue, aux yeux tristes,
     Front jaune. Ses parents semblent de doux portiers.
-    Au grand jour, la marquant parmi les catï¿½chistes,
-    Dieu fera, sur son front, neiger ses bï¿½nitiers.
+    Au grand jour, la marquant parmi les catéchistes,
+    Dieu fera, sur son front, neiger ses bénitiers.
 
     La veille du grand jour, l'enfant se fait malade
-    Mieux qu'ï¿½ l'ï¿½glise haute aux funï¿½bres rumeurs.
-    D'abord le frisson vient, le lit n'ï¿½tant pas fade,
+    Mieux qu'à l'église haute aux funèbres rumeurs.
+    D'abord le frisson vient, le lit n'étant pas fade,
     Un frisson surhumain qui retourne: Je meurs...
 
-    Et, comme un vol d'amour fait ï¿½ ses soeurs stupides,
+    Et, comme un vol d'amour fait à ses soeurs stupides,
     Elle compte, abattue et les mains sur son coeur,
-    Ses Anges, ses Jï¿½sus et ses Vierges nitides,
-    Et, calmement, son ï¿½me a bu tout son vainqueur.
+    Ses Anges, ses Jésus et ses Vierges nitides,
+    Et, calmement, son âme a bu tout son vainqueur.
 
-    Adonaï¿½!... Dans les terminaisons latines
-    Des cieux moirï¿½s de vert baignent les Fronts vermeils
-    Et tachï¿½s du sang pur des cï¿½lestes poitrines,
+    Adonaï!... Dans les terminaisons latines
+    Des cieux moirés de vert baignent les Fronts vermeils
+    Et tachés du sang pur des célestes poitrines,
     De grands linges neigeux tombent sur les soleils.
 
-    Pour ses virginitï¿½s prï¿½sentes et futures
-    Elle mord aux fraï¿½cheurs de ta Rï¿½mission;
+    Pour ses virginités présentes et futures
+    Elle mord aux fraîcheurs de ta Rémission;
     Mais plus que les lys d'eau, plus que les confitures
-    Tes pardons sont glacï¿½s, ï¿½ Reine de Sion.
+    Tes pardons sont glacés, ô Reine de Sion.
 
 
 III
 
     Puis la Vierge n'est plus que la Vierge du livre;
-    Les mystiques ï¿½lans se cassent quelquefois,
-    Et vient la pauvretï¿½ des images que cuivre
+    Les mystiques élans se cassent quelquefois,
+    Et vient la pauvreté des images que cuivre
     L'ennui, l'enluminure atroce et les vieux bois.
 
-    Des curiositï¿½s vaguement impudiques
-    ï¿½pouvantent le rï¿½ve aux chastes bleuitï¿½s
-    Qui sont surpris autour des cï¿½lestes tuniques
-    Du linge dont Jï¿½sus voile ses nuditï¿½s.
+    Des curiosités vaguement impudiques
+    Épouvantent le rêve aux chastes bleuités
+    Qui sont surpris autour des célestes tuniques
+    Du linge dont Jésus voile ses nudités.
 
-    Elle veut, elle veut pourtant, l'ï¿½me en dï¿½tresse,
-    Le front dans l'oreiller creusï¿½ par les cris sourds,
-    Prolonger les ï¿½clairs suprï¿½mes de tendresse
+    Elle veut, elle veut pourtant, l'âme en détresse,
+    Le front dans l'oreiller creusé par les cris sourds,
+    Prolonger les éclairs suprêmes de tendresse
     Et bave...--L'ombre emplit les maisons et les cours,
 
     Et l'enfant ne peut plus. Elle s'agite et cambre
     Les reins, et d'une main ouvre le rideau bleu
-    Pour amener un peu la fraï¿½cheur de la chambre
+    Pour amener un peu la fraîcheur de la chambre
     Sous le drap, vers son ventre et sa poitrine en feu.
 
 
 IV
 
-    ï¿½ son rï¿½veil,--minuit,--la fenï¿½tre ï¿½tait blanche
-    Devant le soleil bleu des rideaux illunï¿½s;
+    À son réveil,--minuit,--la fenêtre était blanche
+    Devant le soleil bleu des rideaux illunés;
     La vision la prit des langueurs du Dimanche,
-    Elle avait rï¿½vï¿½ rouge. Elle saigna du nez,
+    Elle avait rêvé rouge. Elle saigna du nez,
 
     Et se sentant bien chaste et pleine de faiblesse,
     Pour savourer en Dieu son amour revenant,
-    Elle eut soif de la nuit oï¿½ s'exalte et s'abaisse
+    Elle eut soif de la nuit où s'exalte et s'abaisse
     Le coeur, sous l'oeil des cieux doux, en les devinant;
 
-    De la nuit, Vierge-Mï¿½re impalpable qui baigne
-    Tous les jeunes ï¿½mois de ses silences gris;
-    Elle eut soif de la nuit forte oï¿½ le coeur qui saigne
-    ï¿½coute sans tï¿½moin sa rï¿½volte sans cris.
+    De la nuit, Vierge-Mère impalpable qui baigne
+    Tous les jeunes émois de ses silences gris;
+    Elle eut soif de la nuit forte où le coeur qui saigne
+    Écoute sans témoin sa révolte sans cris.
 
-    Et, faisant la victime et la petite ï¿½pouse,
-    Son ï¿½toile la vit, une chandelle aux doigts,
-    Descendre dans la cour oï¿½ sï¿½chait une blouse,
+    Et, faisant la victime et la petite épouse,
+    Son étoile la vit, une chandelle aux doigts,
+    Descendre dans la cour où séchait une blouse,
     Spectre blanc, et lever les spectres noirs des toits.
 
 
@@ -1010,24 +1010,24 @@ V
     Elle passa sa nuit Sainte dans les latrines.
     Vers la chandelle, aux trous du toit, coulait l'air blanc
     Et quelque vigne folle aux noirceurs purpurines
-    En deï¿½ï¿½ d'une cour voisine s'ï¿½croulant.
+    En deçà d'une cour voisine s'écroulant.
 
     La lucarne faisait un coeur de lueur vive
-    Dans la cour oï¿½ les cieux bas plaquaient d'ors vermeils
-    Les vitres; les pavï¿½s puant l'eau de lessive
-    Souffraient l'ombre des toits bordï¿½s de noirs sommeils.
+    Dans la cour où les cieux bas plaquaient d'ors vermeils
+    Les vitres; les pavés puant l'eau de lessive
+    Souffraient l'ombre des toits bordés de noirs sommeils.
 
 
 VI
 
-    Qui dira ces langueurs et ces pitiï¿½s immondes
-    Et ce qui lui viendra de haine, ï¿½ sales fous,
-    Dont le travail divin dï¿½forme encor les mondes
-    Quand la lï¿½pre, ï¿½ la fin, rongera ce corps doux,
+    Qui dira ces langueurs et ces pitiés immondes
+    Et ce qui lui viendra de haine, ô sales fous,
+    Dont le travail divin déforme encor les mondes
+    Quand la lèpre, à la fin, rongera ce corps doux,
 
-    Et quand, ayant rentrï¿½ tous ces noeuds d'hystï¿½ries
+    Et quand, ayant rentré tous ces noeuds d'hystéries
     Elle verra, sous les tristesses du bonheur,
-    L'amant rï¿½ver au blanc million de Maries
+    L'amant rêver au blanc million de Maries
     Au matin de la nuit d'amour, avec douleur!
 
 
@@ -1036,35 +1036,35 @@ VII
     Sais-tu que je t'ai fait mourir? J'ai pris ta bouche,
     Ton coeur, tout ce qu'on a, tout ce que vous avez,
     Et moi je suis malade. Oh! je veux qu'on me couche
-    Parmi les Morts des eaux nocturnes abreuvï¿½s!
+    Parmi les Morts des eaux nocturnes abreuvés!
 
-    J'ï¿½tais bien jeune, et Christ a souillï¿½ mes haleines,
-    Il me bonda jusqu'ï¿½ la gorge de dï¿½goï¿½ts;
+    J'étais bien jeune, et Christ a souillé mes haleines,
+    Il me bonda jusqu'à la gorge de dégoûts;
     Tu baisais mes cheveux profonds comme des laines,
     Et je me laissais faire!... Oh! va... c'est bon pour vous,
 
     Hommes! qui songez peu que la plus amoureuse
     Est, dans sa conscience, aux ignobles terreurs
-    La plus prostituï¿½e et la plus douloureuse
-    Et que tous nos ï¿½lans vers vous sont des erreurs.
+    La plus prostituée et la plus douloureuse
+    Et que tous nos élans vers vous sont des erreurs.
 
-    Car ma communion premiï¿½re est bien passï¿½e!
+    Car ma communion première est bien passée!
     Tes baisers, je ne puis jamais les avoir bus.
-    Et mon coeur et ma chair par ta chair embrassï¿½e
-    Fourmillent du baiser putride de Jï¿½sus...
+    Et mon coeur et ma chair par ta chair embrassée
+    Fourmillent du baiser putride de Jésus...
 
 
 VIII
 
-    Alors l'ï¿½me pourrie et l'ï¿½me dï¿½solï¿½e
-    Sentiront ruisseler tes malï¿½dictions.
-    --Ils avaient couchï¿½ sur ta haine inviolï¿½e
-    Echappï¿½s, pour la mort, des justes passions.
+    Alors l'âme pourrie et l'âme désolée
+    Sentiront ruisseler tes malédictions.
+    --Ils avaient couché sur ta haine inviolée
+    Echappés, pour la mort, des justes passions.
 
-    Christ, ï¿½ Christ, ï¿½ternel voleur des ï¿½nergies,
-    Dieu qui, pour deux mille ans, vouas, ï¿½ ta pï¿½leur,
-    Clouï¿½s au sol, de honte et de cï¿½phalalgies,
-    Ou renversï¿½s, les fronts des Femmes de douleur.
+    Christ, ô Christ, éternel voleur des énergies,
+    Dieu qui, pour deux mille ans, vouas, à ta pâleur,
+    Cloués au sol, de honte et de céphalalgies,
+    Ou renversés, les fronts des Femmes de douleur.
 
 Juillet 1871.
 
@@ -1078,99 +1078,99 @@ OU
 PARIS SE REPEUPLE
 
 
-    ï¿½ lï¿½ches, la voilï¿½! dï¿½gorgez dans les gares!
+    Ô lâches, la voilà! dégorgez dans les gares!
     Le soleil expia de ses poumons ardents
-    Les boulevards qu'un soir comblï¿½rent les Barbares
-    Voilï¿½ la Citï¿½ belle assise ï¿½ l'occident!
+    Les boulevards qu'un soir comblèrent les Barbares
+    Voilà la Cité belle assise à l'occident!
 
-    Allez! on prï¿½viendra les reflux d'incendie,
-    Voilï¿½ les quais! voilï¿½ les boulevards! voilï¿½,
-    Sur les maisons, l'azur lï¿½ger qui s'irradie,
-    Et qu'un soir la rougeur des bombes ï¿½toila.
+    Allez! on préviendra les reflux d'incendie,
+    Voilà les quais! voilà les boulevards! voilà,
+    Sur les maisons, l'azur léger qui s'irradie,
+    Et qu'un soir la rougeur des bombes étoila.
 
     Cachez les palais morts dans des niches de planches
-    L'ancien jour effarï¿½ rafraï¿½chit vos regards.
+    L'ancien jour effaré rafraîchit vos regards.
     Voici le troupeau roux des tordeuses de hanches,
-    Soyez fous, vous serez drï¿½les, ï¿½tant hagards!
+    Soyez fous, vous serez drôles, étant hagards!
 
     Tas de chiennes en rut mangeant des cataplasmes,
-    Le cri des maisons d'or vous rï¿½clame. Volez!
+    Le cri des maisons d'or vous réclame. Volez!
     Mangez! voici la nuit de joie aux profonds spasmes
-    Qui descend dans la rue, ï¿½ buveurs dï¿½solï¿½s,
+    Qui descend dans la rue, ô buveurs désolés,
 
-    Buvez. Quand La lumiï¿½re arrive intense et folle
-    Fouillant ï¿½ vos cï¿½tï¿½s les luxes ruisselants,
+    Buvez. Quand La lumière arrive intense et folle
+    Fouillant à vos côtés les luxes ruisselants,
     Vous n'allez pas baver, sans geste, sans parole,
     Dans vos verres, les yeux perdus aux lointains blancs,
 
     Avalez, pour la Reine aux fesses cascadantes!
-    ï¿½coutez l'action des stupides hoquets
-    Dï¿½chirants. ï¿½coutez, sauter aux nuits ardentes
-    Les idiots rï¿½leux, vieillards, pantins, laquais!
+    Écoutez l'action des stupides hoquets
+    Déchirants. Écoutez, sauter aux nuits ardentes
+    Les idiots râleux, vieillards, pantins, laquais!
 
-    ï¿½ coeurs de saletï¿½, bouches ï¿½pouvantables,
+    Ô coeurs de saleté, bouches épouvantables,
     Fonctionnez plus fort, bouches de puanteurs!
     Un vin pour ces torpeurs ignobles, sur ces tables...
-    Vos ventres sont fondus de hontes, ï¿½ Vainqueurs!
+    Vos ventres sont fondus de hontes, ô Vainqueurs!
 
-    Ouvrez votre narine aux superbes nausï¿½es!
+    Ouvrez votre narine aux superbes nausées!
     Trempez de poisons forts les cordes de vos cous!
-    Sur vos nuques d'enfants baissant ses mains croisï¿½es
-    Le Poï¿½te vous dit: ï¿½ lï¿½ches, soyez fous!
+    Sur vos nuques d'enfants baissant ses mains croisées
+    Le Poète vous dit: ô lâches, soyez fous!
 
     Parce que vous fouillez le ventre de la Femme
     Vous craignez d'elle encore une convulsion
-    Qui crie, asphyxiant votre nichï¿½e infï¿½me
+    Qui crie, asphyxiant votre nichée infâme
     Sur sa poitrine, en une horrible pression.
 
     Syphilitiques, fous, rois, pantins, ventriloques,
-    Qu'est-ce que ï¿½a peut faire ï¿½ la pudeur Paris,
-    Vos ï¿½mes et vos corps, vos poisons et vos loques?
+    Qu'est-ce que ça peut faire à la pudeur Paris,
+    Vos âmes et vos corps, vos poisons et vos loques?
     Elle se secouera de vous, hargneux pourris!
 
     Et quand vous serez bas, geignant sur vos entrailles
-    Les flancs morts, rï¿½clamant votre argent, ï¿½perdus,
+    Les flancs morts, réclamant votre argent, éperdus,
     La rouge courtisane aux seins gros des batailles,
     Loin de votre stupeur tordra ses poings ardus!
 
-    Quand tes pieds ont dansï¿½ si fort dans les colï¿½res,
-    Paris! quand tu reï¿½us tant de coups de couteau,
+    Quand tes pieds ont dansé si fort dans les colères,
+    Paris! quand tu reçus tant de coups de couteau,
     Quand tu gis, retenant dans tes prunelles claires,
-    Un peu de la bontï¿½ du fauve renouveau,
+    Un peu de la bonté du fauve renouveau,
 
-    ï¿½ citï¿½ douloureuse, ï¿½ citï¿½ quasi morte,
-    La tï¿½te et les deux seins jetï¿½s vers l'Avenir
-    Ouvrant sur ta pï¿½leur ses milliards de portes,
-    Citï¿½ que le Passï¿½ sombre pourrait bï¿½nir:
+    Ô cité douloureuse, ô cité quasi morte,
+    La tête et les deux seins jetés vers l'Avenir
+    Ouvrant sur ta pâleur ses milliards de portes,
+    Cité que le Passé sombre pourrait bénir:
 
-    Corps remagnï¿½tisï¿½ pour les ï¿½normes peines,
+    Corps remagnétisé pour les énormes peines,
     Tu rebois donc la vie effroyable! tu sens
     Sourdre le flux des vers livides en tes veines,
-    Et sur ton clair amour rï¿½der les doigts glaï¿½ants!
+    Et sur ton clair amour rôder les doigts glaçants!
 
     Et ce n'est pas mauvais. Tes vers, tes vers livides
-    Ne gï¿½neront pas plus ton souffle de Progrï¿½s
-    Que les Stryx n'ï¿½teignaient l'oeil des Cariatides
-    Oï¿½ des pleurs d'or astral tombaient des bleus degrï¿½s.
+    Ne gêneront pas plus ton souffle de Progrès
+    Que les Stryx n'éteignaient l'oeil des Cariatides
+    Où des pleurs d'or astral tombaient des bleus degrés.
 
     Quoique ce soit affreux de te revoir couverte
-    Ainsi; quoiqu'on n'ait fait jamais d'une citï¿½
-    Ulcï¿½re plus puant ï¿½ la Nature verte,
-    Le Poï¿½te te dit ï¿½Splendide est ta Beautï¿½!ï¿½
+    Ainsi; quoiqu'on n'ait fait jamais d'une cité
+    Ulcère plus puant à la Nature verte,
+    Le Poète te dit «Splendide est ta Beauté!»
 
-    L'orage t'a sacrï¿½e suprï¿½me poï¿½sie;
+    L'orage t'a sacrée suprême poésie;
     L'immense remuement des forces te secourt;
-    Ton oeuvre bout, la mort gronde, Citï¿½ choisie!
+    Ton oeuvre bout, la mort gronde, Cité choisie!
     Amasse les strideurs au coeur du clairon lourd.
 
-    Le Poï¿½te prendra le sanglot des Infï¿½mes,
-    La haine des Forï¿½ats, la clameur des maudits;
+    Le Poète prendra le sanglot des Infâmes,
+    La haine des Forçats, la clameur des maudits;
     Et ses rayons d'amour flagelleront les Femmes.
-    Ses strophes bondiront, voilï¿½! voilï¿½! bandits!
+    Ses strophes bondiront, voilà! voilà! bandits!
 
-    --Sociï¿½tï¿½, tout est rï¿½tabli:--les orgies
-    Pleurent leur ancien rï¿½le aux anciens lupanars:
-    Et les gaz en dï¿½lire aux murailles rougies
+    --Société, tout est rétabli:--les orgies
+    Pleurent leur ancien râle aux anciens lupanars:
+    Et les gaz en délire aux murailles rougies
     Flambent sinistrement vers les azurs blafards!
 
 Mai 1871.
@@ -1181,102 +1181,102 @@ Mai 1871.
 ACCROUPISSEMENTS
 
 
-    Bien tard, quand il se sent l'estomac ï¿½coeurï¿½,
-    Le frï¿½re Milotus un oeil ï¿½ la lucarne
-    D'oï¿½ le soleil, clair comme un chaudron rï¿½curï¿½,
+    Bien tard, quand il se sent l'estomac écoeuré,
+    Le frère Milotus un oeil à la lucarne
+    D'où le soleil, clair comme un chaudron récuré,
     Lui darde une migraine et fait son regard darne,
-    Dï¿½place dans les draps son ventre de curï¿½.
+    Déplace dans les draps son ventre de curé.
 
-    Il se dï¿½mï¿½ne sous sa couverture grise
-    Et descend ses genoux ï¿½ son ventre tremblant,
-    Effarï¿½ comme un vieux qui mangerait sa prise,
-    Car il lui faut, le poing ï¿½ l'anse d'un pot blanc,
-    ï¿½ ses reins largement retrousser sa chemise!
+    Il se démène sous sa couverture grise
+    Et descend ses genoux à son ventre tremblant,
+    Effaré comme un vieux qui mangerait sa prise,
+    Car il lui faut, le poing à l'anse d'un pot blanc,
+    À ses reins largement retrousser sa chemise!
 
     Or, il s'est accroupi frileux, les doigts de pied
-    Repliï¿½s grelottant au clair soleil qui plaque
+    Repliés grelottant au clair soleil qui plaque
     Des jaunes de brioches aux vitres de papiers,
-    Et le nez du bonhomme oï¿½ s'allume la laque
+    Et le nez du bonhomme où s'allume la laque
     Renifle aux rayons, tel qu'un charnel polypier.
 
     . . . . . . . . . . . . . . . . . . . . . . . .
 
     Le bonhomme mijote au feu, bras tordus, lippe
     Au ventre: il sent glisser ses cuisses dans le feu
-    Et ses chausses roussir et s'ï¿½teindre sa pipe;
+    Et ses chausses roussir et s'éteindre sa pipe;
     Quelque chose comme un oiseau remue un peu
-    ï¿½ son ventre serein comme un morceau de tripe!
+    À son ventre serein comme un morceau de tripe!
 
     Autour, dort un fouillis de meubles abrutis
     Dans des haillons de crasse et sur de sales ventres,
-    Des escabeaux, crapauds ï¿½tranges, sont blottis
+    Des escabeaux, crapauds étranges, sont blottis
     Aux coins noirs: des buffets ont des gueules de chantres
-    Qu'entr'ouvre un sommeil plein d'horribles appï¿½tits.
+    Qu'entr'ouvre un sommeil plein d'horribles appétits.
 
-    L'ï¿½coeurante chaleur gorge la chambre ï¿½troite,
-    Le cerveau du bonhomme est bourrï¿½ de chiffons,
-    Il ï¿½coute les poils pousser dans sa peau moite
+    L'écoeurante chaleur gorge la chambre étroite,
+    Le cerveau du bonhomme est bourré de chiffons,
+    Il écoute les poils pousser dans sa peau moite
     Et parfois en hoquets fort gravement bouffons
-    S'ï¿½chappe, secouant son escabeau qui boite...
+    S'échappe, secouant son escabeau qui boite...
 
     . . . . . . . . . . . . . . . . . . . . . . . .
 
     Et le soir aux rayons de lune qui lui font
-    Aux contours du cul des bavures de lumiï¿½re,
-    Une ombre avec dï¿½tails s'accroupit sur un fond
-    De neige rose ainsi qu'une rose trï¿½miï¿½re...
-    Fantasque, un nez poursuit Vï¿½nus au ciel profond.
+    Aux contours du cul des bavures de lumière,
+    Une ombre avec détails s'accroupit sur un fond
+    De neige rose ainsi qu'une rose trémière...
+    Fantasque, un nez poursuit Vénus au ciel profond.
 
 
 
 
-LES PAUVRES ï¿½ L'ï¿½GLISE
+LES PAUVRES À L'ÉGLISE
 
 
-    Parquï¿½s entre des bancs de chï¿½ne, aux coins d'ï¿½glise
-    Qu'attiï¿½dit puamment leur souffle, tous leurs yeux
-    Vers le coeur ruisselant d'orrie et la maï¿½trise
+    Parqués entre des bancs de chêne, aux coins d'église
+    Qu'attiédit puamment leur souffle, tous leurs yeux
+    Vers le coeur ruisselant d'orrie et la maîtrise
     Aux vingt gueules gueulant les cantiques pieux;
 
     Comme un parfum de pain humant l'odeur de cire,
-    Heureux, humiliï¿½s comme des chiens battus,
+    Heureux, humiliés comme des chiens battus,
     Les Pauvres au bon Dieu, le patron et le sire,
-    Tendent leurs oremus risibles et tï¿½tus.
+    Tendent leurs oremus risibles et têtus.
 
     Aux femmes, c'est bien bon de faire des bancs lisses;
-    Aprï¿½s les six jours noirs oï¿½ Dieu les fait souffrir!
-    Elles bercent, tordus dans d'ï¿½tranges pelisses,
-    Des espï¿½ces d'enfants qui pleurent ï¿½ mourir;
+    Après les six jours noirs où Dieu les fait souffrir!
+    Elles bercent, tordus dans d'étranges pelisses,
+    Des espèces d'enfants qui pleurent à mourir;
 
     Leurs seins crasseux dehors, ces mangeuses de soupe,
-    Une priï¿½re aux yeux et ne priant jamais,
+    Une prière aux yeux et ne priant jamais,
     Regardent parader mauvaisement un groupe
-    De gamines avec leurs chapeaux dï¿½formï¿½s.
+    De gamines avec leurs chapeaux déformés.
 
     Dehors, le froid, la faim, l'homme en ribote:
-    C'est bon. Encore une heure; aprï¿½s, les maux sans nom
+    C'est bon. Encore une heure; après, les maux sans nom
     --Cependant, alentour, geint, nazille, chuchote
-    Une collection de vieilles ï¿½ fanons;
+    Une collection de vieilles à fanons;
 
-    Ces effarï¿½s y sont et ces ï¿½pileptiques
-    Dont on se dï¿½tournait hier aux carrefours;
+    Ces effarés y sont et ces épileptiques
+    Dont on se détournait hier aux carrefours;
     Et, fringalant du nez dans des missels antiques
     Ces aveugles qu'un chien introduit dans les cours.
 
     Et tous, bavant la foi mendiante et stupide,
-    Rï¿½citent la complainte infinie ï¿½ Jï¿½sus
-    Qui rï¿½ve en haut, jauni par le vitrail livide,
-    Loin des maigres mauvais et des mï¿½chants pansus,
+    Récitent la complainte infinie à Jésus
+    Qui rêve en haut, jauni par le vitrail livide,
+    Loin des maigres mauvais et des méchants pansus,
 
-    Loin des senteurs de viande et d'ï¿½toffes moisies,
-    Farce prostrï¿½e et sombre aux gestes repoussants;
+    Loin des senteurs de viande et d'étoffes moisies,
+    Farce prostrée et sombre aux gestes repoussants;
     --Et l'oraison fleurit d'expressions choisies,
-    Et les mysticitï¿½s prennent des tons pressants,
+    Et les mysticités prennent des tons pressants,
 
-    Quand, des nefs oï¿½ pï¿½rit le soleil, plis de soie
+    Quand, des nefs où périt le soleil, plis de soie
     Banals, sourires verts, les Dames des quartiers
-    Distinguï¿½s,--ï¿½ Jï¿½sus!--les malades du foie
-    Font baiser leurs longs doigts jaunes aux bï¿½nitiers.
+    Distingués,--ô Jésus!--les malades du foie
+    Font baiser leurs longs doigts jaunes aux bénitiers.
 
 1871
 
@@ -1301,7 +1301,7 @@ LUI
     De chaque branche, gouttes vertes,
         Des bourgeons clairs,
     On sent dans les choses ouvertes
-        Frï¿½mir des chairs;
+        Frémir des chairs;
 
     Tu plongerais dans la luzerne
         Ton long peignoir,
@@ -1313,35 +1313,35 @@ LUI
     Comme une mousse de champagne,
         Ton rire fou!
 
-    Riant ï¿½ moi, brutal d'ivresse,
+    Riant à moi, brutal d'ivresse,
         Qui te prendrais
     Comme cela,--la belle tresse,
         Oh!--qui boirais
 
-    Ton goï¿½t de framboise et de fraise,
-        ï¿½ chair de fleur!
+    Ton goût de framboise et de fraise,
+        Ô chair de fleur!
     Riant au vent vif qui te baise
         Comme un voleur!
 
-    Au rose ï¿½glantier qui t'embï¿½te
+    Au rose églantier qui t'embête
         Aimablement...
-    Riant surtout, ï¿½ folle tï¿½te,
-        ï¿½ ton amant!...
+    Riant surtout, ô folle tête,
+        À ton amant!...
 
     Dix-sept ans! Tu seras heureuse!
-        Oh! les grands prï¿½s,
+        Oh! les grands prés,
     La grande campagne amoureuse!
-        --Dis, viens plus prï¿½s!...
+        --Dis, viens plus près!...
 
     Ta poitrine sur ma poitrine,
-        Mï¿½lant nos voix,
+        Mêlant nos voix,
     Lents, nous gagnerions la ravine,
         Puis les grands bois!...
 
     Puis, comme une petite morte,
-        Le coeur pï¿½mï¿½,
+        Le coeur pâmé,
     Tu me dirais que je te porte,
-        L'oeil mi-fermï¿½...
+        L'oeil mi-fermé...
 
     Je te porterais, palpitante
         Dans le sentier...
@@ -1354,47 +1354,47 @@ LUI
         Ivre du sang
 
     Qui coule, bleu, sous ta peau blanche
-        Aux tons rosï¿½s,
+        Aux tons rosés,
     Te parlant bas la langue franche...
         Tiens!... que tu sais...
 
-    Nos grands bois sentiraient la sï¿½ve,
+    Nos grands bois sentiraient la sève,
         Et le soleil
-    Sablerait d'or fin leur grand rï¿½ve
+    Sablerait d'or fin leur grand rêve
         Sombre et vermeil!
 
     Le soir?... Nous reprendrons la route
         Blanche qui court,
-    Flï¿½nant, comme un troupeau qui broute,
-        Tout ï¿½ l'entour...
+    Flânant, comme un troupeau qui broute,
+        Tout à l'entour...
 
-    Les bons vergers ï¿½ l'herbe bleue
+    Les bons vergers à l'herbe bleue
         Aux pommiers tors!
     Comme on les sent tout une lieue,
         Leurs parfums forts!
 
     Nous regagnerions le village
         Au ciel mi-noir;
-    Et ï¿½a sentirait le laitage
+    Et ça sentirait le laitage
         Dans l'air du soir:
 
-    ï¿½a sentirait l'ï¿½table pleine
+    Ça sentirait l'étable pleine
         De fumiers chauds,
     Pleine d'un rythme lent d'haleine,
         Et de grands dos
 
-    Blanchissant sous quelque lumiï¿½re;
-        Et, tout lï¿½-bas,
-    Une vache fienterait fiï¿½re,
-        ï¿½ chaque pas!...
+    Blanchissant sous quelque lumière;
+        Et, tout là-bas,
+    Une vache fienterait fière,
+        À chaque pas!...
 
-    --Les lunettes de la grand'mï¿½re
+    --Les lunettes de la grand'mère
         Et son nez long
-    Dans son missel, le pot de biï¿½re
-        Cerclï¿½ de plomb
+    Dans son missel, le pot de bière
+        Cerclé de plomb
 
     Moussant entre trois larges pipes
-        Qui, crï¿½nement,
+        Qui, crânement,
     Fument: dix, quinze, immenses lippes
         Qui, tout fumant,
 
@@ -1405,12 +1405,12 @@ LUI
 
     Les fesses luisantes et grasses
         D'un gros enfant
-    Qui fourre, ï¿½ genoux, dans des tasses,
+    Qui fourre, à genoux, dans des tasses,
         Son museau blanc
 
-    Frolï¿½ par un mufle qui gronde
+    Frolé par un mufle qui gronde
         D'un ton gentil,
-    Et pourlï¿½che la face ronde
+    Et pourlèche la face ronde
         Du cher petit...
 
     Noire, rogue au bord de sa chaise,
@@ -1418,77 +1418,77 @@ LUI
     Une vieille devant la braise
         Qui fait du fil;
 
-    Que de choses nous verrions, chï¿½re,
+    Que de choses nous verrions, chère,
         Dans ces taudis,
     Quand la flamme illumine, claire,
         Les carreaux gris!...
 
-    --Et puis, fraï¿½che et toute nichï¿½e
+    --Et puis, fraîche et toute nichée
         Dans les lilas,
-    La maison, la vitre cachï¿½e
-        Qui rit lï¿½-bas...
+    La maison, la vitre cachée
+        Qui rit là-bas...
 
     Tu viendras, tu viendras, je t'aime,
         Ce sera beau!
-    Tu viendras, n'est-ce pas? et mï¿½me...
+    Tu viendras, n'est-ce pas? et même...
 
 ELLE
 
         Mais le bureau?
 
-15 aoï¿½t 1870.
+15 août 1870.
 
 
 
 
-Vï¿½NUS ANADYOMï¿½NE
+VÉNUS ANADYOMÈNE
 
 
-    Comme d'un cercueil vert en fer-blanc, une tï¿½te
-    De femme ï¿½ cheveux bruns fortement pommadï¿½s
-    D'une vieille baignoire ï¿½merge, lente et bï¿½te,
-    Montrant des dï¿½ficits assez mal ravaudï¿½s;
+    Comme d'un cercueil vert en fer-blanc, une tête
+    De femme à cheveux bruns fortement pommadés
+    D'une vieille baignoire émerge, lente et bête,
+    Montrant des déficits assez mal ravaudés;
 
     Puis le col gras et gris, les larges omoplates
     Qui saillent; le dos court qui rentre et qui ressort.
-    --La graisse sous la peau paraï¿½t en feuilles plates;
+    --La graisse sous la peau paraît en feuilles plates;
     Et les rondeurs des reins semblent prendre l'essor...
 
-    L'ï¿½chine est un peu rouge, et le tout sent un goï¿½t
-    Horrible ï¿½trangement,--on remarque surtout
-    Des singularitï¿½s qu'il faut voir ï¿½ la loupe...
+    L'échine est un peu rouge, et le tout sent un goût
+    Horrible étrangement,--on remarque surtout
+    Des singularités qu'il faut voir à la loupe...
 
-    Les reins portent deux mots gravï¿½s: _Clara Vï¿½nus_
+    Les reins portent deux mots gravés: _Clara Vénus_
     --Et tout ce corps remue et tend sa large croupe
-    Belle hideusement d'un ulcï¿½re ï¿½ l'anus.
+    Belle hideusement d'un ulcère à l'anus.
 
 27 juillet 1870.
 
 
 
 
-  ï¿½Franï¿½ais de soixante-dix, bonapartistes, rï¿½publicains, souvenez-vous
-  de vos pï¿½res en 92, etc...ï¿½
+  «Français de soixante-dix, bonapartistes, républicains, souvenez-vous
+  de vos pères en 92, etc...»
 
   PAUL DE CASSAGNAC _(Le Pays)_
 
 
     Morts de quatre-vingt-douze et de quatre-vingt-treize
-    Qui, pï¿½les du baiser fort de la libertï¿½,
-    Calmes, sous vos sabots, brisiez le joug qui pï¿½se
-    Sur l'ï¿½me et sur le front de toute humanitï¿½;
+    Qui, pâles du baiser fort de la liberté,
+    Calmes, sous vos sabots, brisiez le joug qui pèse
+    Sur l'âme et sur le front de toute humanité;
 
-    Hommes extasiï¿½s et grands dans la tourmente,
+    Hommes extasiés et grands dans la tourmente,
     Vous dont les coeurs sautaient d'amour sous les haillons,
-    ï¿½ soldats que la Mort a semï¿½s, noble Amante,
-    Pour les rï¿½gï¿½nï¿½rer, dans tous les vieux sillons;
+    Ô soldats que la Mort a semés, noble Amante,
+    Pour les régénérer, dans tous les vieux sillons;
 
     Vous dont le sang lavait toute grandeur salie,
     Morts de Valmy, Morts de Fleurus, Morts d'Italie,
-    ï¿½ Million de Christs aux yeux sombres et doux;
+    Ô Million de Christs aux yeux sombres et doux;
 
-    Nous vous laissions dormir avec la Rï¿½publique,
-    Nous, courbï¿½s sous les rois comme sous une trique:
+    Nous vous laissions dormir avec la République,
+    Nous, courbés sous les rois comme sous une trique:
     --Messieurs de Cassagnac nous reparlent de vous!
 
 3 septembre 1870.
@@ -1496,13 +1496,13 @@ Vï¿½NUS ANADYOMï¿½NE
 
 
 
-COMï¿½DIE EN TROIS BAISERS
+COMÉDIE EN TROIS BAISERS
 
 
-    Elle ï¿½tait fort dï¿½shabillï¿½e,
+    Elle était fort déshabillée,
     Et de grands arbres indiscrets
-    Aux vitres penchaient leur feuillï¿½e
-    Malinement, tout prï¿½s, tout prï¿½s.
+    Aux vitres penchaient leur feuillée
+    Malinement, tout près, tout près.
 
     Assise sur ma grande chaise,
     Mi-nue elle joignait les mains.
@@ -1516,28 +1516,28 @@ COMï¿½DIE EN TROIS BAISERS
 
     --Je baisai ses fines chevilles.
     Elle eut un long rire tris-mal
-    Qui s'ï¿½grenait en claires trilles,
+    Qui s'égrenait en claires trilles,
     Une risure de cristal...
 
     Les petits pieds sous la chemise
-    Se sauvï¿½rent: ï¿½Veux-tu finir!ï¿½
-    --La premiï¿½re audace permise,
+    Se sauvèrent: «Veux-tu finir!»
+    --La première audace permise,
     Le rire feignait de punir!
 
-    --Pauvrets palpitant sous ma lï¿½vre,
+    --Pauvrets palpitant sous ma lèvre,
     Je baisai doucement ses yeux:
-    --Elle jeta sa tï¿½te miï¿½vre
-    En arriï¿½re: ï¿½Oh! c'est encor mieux!...ï¿½
+    --Elle jeta sa tête mièvre
+    En arrière: «Oh! c'est encor mieux!...»
 
-    ï¿½Monsieur, j'ai deux mots ï¿½ te dire...ï¿½
+    «Monsieur, j'ai deux mots à te dire...»
     --Je lui jetai le reste au sein
     Dans un baiser, qui la fit rire
     D'un bon rire qui voulait bien...
 
-    --Elle ï¿½tait fort dï¿½shabillï¿½e
+    --Elle était fort déshabillée
     Et de grands arbres indiscrets
-    Aux vitres penchaient leur feuillï¿½e
-    Malinement, tout prï¿½s, tout prï¿½s.
+    Aux vitres penchaient leur feuillée
+    Malinement, tout près, tout près.
 
 
 
@@ -1545,14 +1545,14 @@ COMï¿½DIE EN TROIS BAISERS
 SENSATION
 
 
-    Par les soirs bleus d'ï¿½tï¿½, j'irai dans les sentiers,
-    Picotï¿½ par les blï¿½s, fouler l'herbe menue:
-    Rï¿½veur, j'en sentirai la fraï¿½cheur ï¿½ mes pieds.
-    Je laisserai le vent baigner ma tï¿½te nue!
+    Par les soirs bleus d'été, j'irai dans les sentiers,
+    Picoté par les blés, fouler l'herbe menue:
+    Rêveur, j'en sentirai la fraîcheur à mes pieds.
+    Je laisserai le vent baigner ma tête nue!
 
     Je ne parlerai pas, je ne penserai rien;
-    Mais l'amour infini me montera dans l'ï¿½me,
-    Et j'irai loin, bien loin, comme un bohï¿½mien
+    Mais l'amour infini me montera dans l'âme,
+    Et j'irai loin, bien loin, comme un bohémien
     Par la Nature,--heureux comme avec une femme.
 
 Mars 1870.
@@ -1569,47 +1569,47 @@ BAL DES PENDUS
         Les squelettes de Saladins.
 
     Messire Belzebuth tire par la cravate
-    Ses petits pantins noirs grimaï¿½ant sur le ciel,
+    Ses petits pantins noirs grimaçant sur le ciel,
     Et, leur claquant au front un revers de savate,
-    Les fait danser, danser aux sons d'un vieux Noï¿½l!
+    Les fait danser, danser aux sons d'un vieux Noël!
 
-    Et les pantins choquï¿½s enlacent leurs bras grï¿½les:
-    Comme des orgues noirs, les poitrines ï¿½ jour
+    Et les pantins choqués enlacent leurs bras grêles:
+    Comme des orgues noirs, les poitrines à jour
     Que serraient autrefois les gentes damoiselles,
     Se heurtent longuement dans un hideux amour.
 
     Hurrah! les gais danseurs, qui n'avez plus de panse!
-    On peut cabrioler, les trï¿½teaux sont si longs!
+    On peut cabrioler, les tréteaux sont si longs!
     Hop! qu'on ne sache plus si c'est bataille ou danse!
-    Belzebuth enragï¿½ rï¿½cle ses violons!
+    Belzebuth enragé râcle ses violons!
 
-    ï¿½ durs talons, jamais on n'use sa sandale!
-    Presque tous ont quittï¿½ la chemise de peau:
-    Le reste est peu gï¿½nant et se voit sans scandale.
-    Sur les crï¿½nes, la neige applique un blanc chapeau:
+    Ô durs talons, jamais on n'use sa sandale!
+    Presque tous ont quitté la chemise de peau:
+    Le reste est peu gênant et se voit sans scandale.
+    Sur les crânes, la neige applique un blanc chapeau:
 
-    Le corbeau fait panache ï¿½ ces tï¿½tes fï¿½lï¿½es,
-    Un morceau de chair tremble ï¿½ leur maigre menton:
-    On dirait, tournoyant dans les sombres mï¿½lï¿½es,
+    Le corbeau fait panache à ces têtes fêlées,
+    Un morceau de chair tremble à leur maigre menton:
+    On dirait, tournoyant dans les sombres mêlées,
     Des preux, raides, heurtant armures de carton.
 
     Hurrah! la bise siffle au grand bal des squelettes!
     Le gibet noir mugit comme un orgue de fer!
-    Les loups vont rï¿½pondant des forï¿½ts violettes:
-    ï¿½ l'horizon, le ciel est d'un rouge d'enfer...
+    Les loups vont répondant des forêts violettes:
+    À l'horizon, le ciel est d'un rouge d'enfer...
 
-    Holï¿½, secouez-moi ces capitans funï¿½bres
-    Qui dï¿½filent, sournois, de leurs gros doigts cassï¿½s
-    Un chapelet d'amour sur leurs pï¿½les vertï¿½bres:
-    Ce n'est pas un monstier ici, les trï¿½passï¿½s!
+    Holà, secouez-moi ces capitans funèbres
+    Qui défilent, sournois, de leurs gros doigts cassés
+    Un chapelet d'amour sur leurs pâles vertèbres:
+    Ce n'est pas un monstier ici, les trépassés!
 
-    Oh! voilï¿½ qu'au milieu de la danse macabre
+    Oh! voilà qu'au milieu de la danse macabre
     Bondit dans le ciel rouge un grand squelette fou
-    Emportï¿½ par l'ï¿½lan, comme un cheval se cabre:
+    Emporté par l'élan, comme un cheval se cabre:
     Et, se sentant encor la corde raide au cou,
 
-    Crispe ses petits doigts sur son fï¿½mur qui craque
-    Avec des cris pareils ï¿½ des ricanements,
+    Crispe ses petits doigts sur son fémur qui craque
+    Avec des cris pareils à des ricanements,
     Et, comme un baladin rentre dans la baraque,
     Rebondit dans le bal au chant des ossements.
 
@@ -1626,53 +1626,53 @@ ROMAN
 
 I
 
-    On n'est pas sï¿½rieux, quand on a dix-sept ans.
+    On n'est pas sérieux, quand on a dix-sept ans.
     --Un beau soir, foin des bocks et de la limonade,
-    Ces cafï¿½s tapageurs aux lustres ï¿½clatants!
+    Ces cafés tapageurs aux lustres éclatants!
     --On va sous les tilleuls verts de la promenade,
 
     Les tilleuls sentent bon dans les bons soirs de juin!
-    L'air est parfois si doux, qu'on ferme la paupiï¿½re;
-    Le vent chargï¿½ de bruits,--la ville n'est pas loin,--
-    A des parfums de vigne et des parfums de biï¿½re...
+    L'air est parfois si doux, qu'on ferme la paupière;
+    Le vent chargé de bruits,--la ville n'est pas loin,--
+    A des parfums de vigne et des parfums de bière...
 
 
 II
 
-    --Voilï¿½ qu'on aperï¿½oit un tout petit chiffon
-    D'azur sombre, encadrï¿½ d'une petite branche,
-    Piquï¿½ d'une mauvaise ï¿½toile, qui se fond
+    --Voilà qu'on aperçoit un tout petit chiffon
+    D'azur sombre, encadré d'une petite branche,
+    Piqué d'une mauvaise étoile, qui se fond
     Avec de doux frissons, petite et toute blanche...
 
     Nuit de juin! Dix-sept ans!--On se laisse griser.
-    La sï¿½ve est du champagne et vous monte ï¿½ la tï¿½te...
-    On divague; on se sent aux lï¿½vres un baiser
-    Qui palpite lï¿½, comme une petite bï¿½te...
+    La sève est du champagne et vous monte à la tête...
+    On divague; on se sent aux lèvres un baiser
+    Qui palpite là, comme une petite bête...
 
 
 III
 
-    Le coeur fou Robinsonne ï¿½ travers les romans,
-    --Lorsque, dans la clartï¿½ d'un pï¿½le rï¿½verbï¿½re,
+    Le coeur fou Robinsonne à travers les romans,
+    --Lorsque, dans la clarté d'un pâle réverbère,
     Passe une demoiselle aux petits airs charmants,
-    Sous l'ombre du faux-col effrayant de son pï¿½re...
+    Sous l'ombre du faux-col effrayant de son père...
 
-    Et, comme elle vous trouve immensï¿½ment naï¿½f,
+    Et, comme elle vous trouve immensément naïf,
     Tout en faisant trotter ses petites bottines,
     Elle se tourne, alerte et d'un mouvement vif...
-    --Sur vos lï¿½vres alors meurent les cavatines...
+    --Sur vos lèvres alors meurent les cavatines...
 
 
 IV
 
-    Vous ï¿½tes amoureux. Louï¿½ jusqu'au moi d'aoï¿½t.
-    Vous ï¿½tes amoureux.--Vos sonnets la font rire.
-    Tous vos amis s'en vont, vous ï¿½tes mauvais goï¿½t.
-    --Puis l'adorï¿½e, un soir, a daignï¿½ vous ï¿½crire...!
+    Vous êtes amoureux. Loué jusqu'au moi d'août.
+    Vous êtes amoureux.--Vos sonnets la font rire.
+    Tous vos amis s'en vont, vous êtes mauvais goût.
+    --Puis l'adorée, un soir, a daigné vous écrire...!
 
-    --Ce soir-lï¿½, ...--vous rentrez aux cafï¿½s ï¿½clatants,
+    --Ce soir-là, ...--vous rentrez aux cafés éclatants,
     Vous demandez des bocks ou de la limonade...
-    --On n'est pas sï¿½rieux, quand on a dix-sept ans
+    --On n'est pas sérieux, quand on a dix-sept ans
     Et qu'on a des tilleuls verts sur la promenade.
 
 23 septembre 1870.
@@ -1680,24 +1680,24 @@ IV
 
 
 
-RAGES DE Cï¿½SARS
+RAGES DE CÉSARS
 
 
-    L'Homme pï¿½le, le long des pelouses fleuries,
+    L'Homme pâle, le long des pelouses fleuries,
     Chemine, en habit noir, et le cigare aux dents:
-    L'Homme pï¿½le repense aux fleurs des Tuileries
+    L'Homme pâle repense aux fleurs des Tuileries
     --Et parfois son oeil terne a des regards ardents...!
 
-    Car l'Empereur est saoï¿½l de ses vingt ans d'orgie!
-    Il s'ï¿½tait dit: ï¿½Je vais souffler la Libertï¿½
-    Bien dï¿½licatement, ainsi qu'une bougie!ï¿½
-    La Libertï¿½ revit! Il se sent ï¿½reintï¿½!
+    Car l'Empereur est saoûl de ses vingt ans d'orgie!
+    Il s'était dit: «Je vais souffler la Liberté
+    Bien délicatement, ainsi qu'une bougie!»
+    La Liberté revit! Il se sent éreinté!
 
-    Il est pris.--Oh! quel nom sur ses lï¿½vres muettes
+    Il est pris.--Oh! quel nom sur ses lèvres muettes
     Tressaille? Quel regret incapable le mord?
     On ne le saura pas. L'Empereur a l'oeil mort.
 
-    Il repense peut-ï¿½tre au Compï¿½re en lunettes...
+    Il repense peut-être au Compère en lunettes...
     --Et regarde filer de son cigare en feu,
     Comme aux soirs de Saint-Cloud, un fin nuage bleu
 
@@ -1709,327 +1709,327 @@ LE MAL
 
     Tandis que les crachats rouges de la mitraille
     Sifflent tout le jour par l'infini du ciel bleu;
-    Qu'ï¿½carlates ou verts, prï¿½s du Roi qui les raille,
+    Qu'écarlates ou verts, près du Roi qui les raille,
     Croulent les bataillons en masse dans le feu;
 
-    Tandis qu'une folie ï¿½pouvantable, broie
+    Tandis qu'une folie épouvantable, broie
     Et fait de cent milliers d'hommes un tas fumant;
-    --Pauvres morts! dans l'ï¿½tï¿½, dans l'herbe, dans ta joie,
-    Nature! ï¿½ toi qui fis ces hommes saintement!...--
+    --Pauvres morts! dans l'été, dans l'herbe, dans ta joie,
+    Nature! ô toi qui fis ces hommes saintement!...--
 
-    --Il est un Dieu, qui rit aux nappes damassï¿½es
-    Des autels, ï¿½ l'encens, aux grands calices d'or;
+    --Il est un Dieu, qui rit aux nappes damassées
+    Des autels, à l'encens, aux grands calices d'or;
     Qui dans le bercement des hosannah s'endort,
 
-    Et se rï¿½veille, quand des mï¿½res, ramassï¿½es
+    Et se réveille, quand des mères, ramassées
     Dans l'angoisse et pleurant sous leur vieux bonnet noir,
-    Lui donnent un gros sou liï¿½ dans leur mouchoir!
+    Lui donnent un gros sou lié dans leur mouchoir!
 
 
 
 
-OPHï¿½LIE
+OPHÉLIE
 
 
 I
 
-    Sur l'onde calme et noire oï¿½ dorment les ï¿½toiles,
-    La blanche Ophï¿½lia flotte comme un grand lys,
-    Flotte trï¿½s lentement, couchï¿½e en ses longs voiles...
+    Sur l'onde calme et noire où dorment les étoiles,
+    La blanche Ophélia flotte comme un grand lys,
+    Flotte très lentement, couchée en ses longs voiles...
     --On entend dans les bois de lointains hallalis...
 
-    Voici plus de mille ans que la triste Ophï¿½lie
-    Passe, fantï¿½me blanc, sur le long fleuve noir;
+    Voici plus de mille ans que la triste Ophélie
+    Passe, fantôme blanc, sur le long fleuve noir;
     Voici plus de mille ans que sa douce folie
-    Murmure sa romance ï¿½ la brise du soir.
+    Murmure sa romance à la brise du soir.
 
-    Le vent baise ses seins et dï¿½ploie en corolle
-    Ses longs voiles bercï¿½s mollement par les eaux;
-    Les saules frissonnants pleurent sur son ï¿½paule,
-    Sur son grand front rï¿½veur s'inclinent les roseaux.
+    Le vent baise ses seins et déploie en corolle
+    Ses longs voiles bercés mollement par les eaux;
+    Les saules frissonnants pleurent sur son épaule,
+    Sur son grand front rêveur s'inclinent les roseaux.
 
-    Les nï¿½nuphars froissï¿½s soupirent autour d'elle;
-    Elle ï¿½veille parfois, dans un aune qui dort,
-    Quelque nid, d'oï¿½ s'ï¿½chappe un petit frisson d'aile.
-    --Un chant mystï¿½rieux tombe des astres d'or.
+    Les nénuphars froissés soupirent autour d'elle;
+    Elle éveille parfois, dans un aune qui dort,
+    Quelque nid, d'où s'échappe un petit frisson d'aile.
+    --Un chant mystérieux tombe des astres d'or.
 
 
 II
 
-    ï¿½ pï¿½le Ophï¿½lia! belle comme la neige,
-    Oui, tu mourus, enfant, par un fleuve emportï¿½!
-    --C'est que les vents tombant des grands monts de Norwï¿½ge
-    T'avaient parlï¿½ tout bas de l'ï¿½pre libertï¿½!
+    Ô pâle Ophélia! belle comme la neige,
+    Oui, tu mourus, enfant, par un fleuve emporté!
+    --C'est que les vents tombant des grands monts de Norwège
+    T'avaient parlé tout bas de l'âpre liberté!
 
     C'est qu'un souffle inconnu, fouettant ta chevelure,
-    ï¿½ ton esprit rï¿½veur portait d'ï¿½tranges bruits;
+    À ton esprit rêveur portait d'étranges bruits;
     Que ton coeur entendait la voix de la Nature
     Dans les plaintes de l'arbre et les soupirs des nuits!
 
-    C'est que la voix des mers, comme un immense rï¿½le,
+    C'est que la voix des mers, comme un immense râle,
     Brisait ton sein d'enfant, trop humain et trop doux;
-    C'est qu'un matin d'avril, un beau cavalier pï¿½le,
-    Un pauvre fou s'assit, muet, ï¿½ tes genoux!
+    C'est qu'un matin d'avril, un beau cavalier pâle,
+    Un pauvre fou s'assit, muet, à tes genoux!
 
-    Ciel! Amour! Libertï¿½! Quel rï¿½ve, ï¿½ pauvre Follet
-    Tu te fondais ï¿½ lui comme une neige au feu.
-    Tes grandes visions ï¿½tranglaient ta parole:
+    Ciel! Amour! Liberté! Quel rêve, ô pauvre Follet
+    Tu te fondais à lui comme une neige au feu.
+    Tes grandes visions étranglaient ta parole:
     --Un Infini terrible effara ton oeil bleu!
 
 
 III
 
-    --Et le Poï¿½te dit qu'aux rayons des ï¿½toiles
+    --Et le Poète dit qu'aux rayons des étoiles
     Tu viens chercher, la nuit, les fleurs que tu cueillis;
-    Et qu'il a vu sur l'eau, couchï¿½e en ses longs voiles,
-    La blanche Ophï¿½lia flotter, comme un grand lys.
+    Et qu'il a vu sur l'eau, couchée en ses longs voiles,
+    La blanche Ophélia flotter, comme un grand lys.
 
 
 
 
-LE CHï¿½TIMENT DE TARTUFE
+LE CHÂTIMENT DE TARTUFE
 
 
     Tisonnant, tisonnant son coeur amoureux sous
-    Sa chaste robe noire, heureux, la main gantï¿½e,
+    Sa chaste robe noire, heureux, la main gantée,
     Un jour qu'il s'en allait, effroyablement doux,
-    Jaune, bavant la foi de sa bouche ï¿½dentï¿½e,
+    Jaune, bavant la foi de sa bouche édentée,
 
-    Un jour qu'il s'en allait, ï¿½Orï¿½musï¿½,--un Mï¿½chant
+    Un jour qu'il s'en allait, «Orémus»,--un Méchant
     Le prit rudement par son oreille benoite
     Et lui jeta des mots affreux, en arrachant
     Sa chaste robe noire autour de sa peau moite!
 
-    Chï¿½timent!... Ses habits ï¿½taient dï¿½boutonnï¿½s,
-    Et le long chapelet des pï¿½chï¿½s pardonnï¿½s
-    S'ï¿½grenant dans son coeur, Saint Tartufe ï¿½tait pï¿½le!...
+    Châtiment!... Ses habits étaient déboutonnés,
+    Et le long chapelet des péchés pardonnés
+    S'égrenant dans son coeur, Saint Tartufe était pâle!...
 
-    Donc, il se confessait, priait, avec un rï¿½le!
+    Donc, il se confessait, priait, avec un râle!
     L'homme se contenta d'emporter ses rabats...
-    --Peuh! Tartufe ï¿½tait nu du haut jusques en bas!
+    --Peuh! Tartufe était nu du haut jusques en bas!
 
 
 
 
-ï¿½ LA MUSIQUE
+À LA MUSIQUE
 
 
-  _Place de la Gare, ï¿½ Charleville._
+  _Place de la Gare, à Charleville._
 
-    Sur la place taillï¿½e en mesquines pelouses,
-    Square oï¿½ tout est correct, les arbres et les fleurs,
-    Tous les bourgeois poussifs qu'ï¿½tranglent les chaleurs
-    Portent, les jeudis soirs, leurs bï¿½tises jalouses.
+    Sur la place taillée en mesquines pelouses,
+    Square où tout est correct, les arbres et les fleurs,
+    Tous les bourgeois poussifs qu'étranglent les chaleurs
+    Portent, les jeudis soirs, leurs bêtises jalouses.
 
     Un orchestre guerrier, au milieu du jardin,
     Balance ses schakos dans la Valse des fifres:
     On voit, aux premiers rangs, parader le gandin,
-    Les notaires montrent leurs breloques ï¿½ chiffres:
+    Les notaires montrent leurs breloques à chiffres:
 
-    Des rentiers ï¿½ lorgnons soulignent tous les couacs;
-    Les gros bureaux bouffis traï¿½nent leurs grosses dames,
-    Auprï¿½s desquelles vont, officieux cornacs,
-    Celles dont les volants ont des airs de rï¿½clames;
+    Des rentiers à lorgnons soulignent tous les couacs;
+    Les gros bureaux bouffis traînent leurs grosses dames,
+    Auprès desquelles vont, officieux cornacs,
+    Celles dont les volants ont des airs de réclames;
 
-    Sur les bancs verts, des clubs d'ï¿½piciers retraitï¿½s
-    Qui tisonnent le sable avec leur canne ï¿½ pomme,
-    Fort sï¿½rieusement discutent des traitï¿½s,
+    Sur les bancs verts, des clubs d'épiciers retraités
+    Qui tisonnent le sable avec leur canne à pomme,
+    Fort sérieusement discutent des traités,
     Puis prisent en argent, mieux que monsieur Prud'homme!
 
-    ï¿½talant sur un banc les rondeurs de ses reins,
-    Un bourgeois bienheureux, ï¿½ bedaine flamande,
-    Savoure, s'abï¿½mant en des rï¿½ves divins,
-    La musique franï¿½aise et la pipe allemande!
+    Étalant sur un banc les rondeurs de ses reins,
+    Un bourgeois bienheureux, à bedaine flamande,
+    Savoure, s'abîmant en des rêves divins,
+    La musique française et la pipe allemande!
 
     Au bord des gazons frais ricanent les voyous;
     Et, rendus amoureux par le chant des trombones,
-    Trï¿½s naï¿½fs, et fumant des roses, des pioupious
-    Caressent les bï¿½bï¿½s pour enjï¿½ler les bonnes...
+    Très naïfs, et fumant des roses, des pioupious
+    Caressent les bébés pour enjôler les bonnes...
 
-    --Moi, je suis, dï¿½braillï¿½ comme un ï¿½tudiant,
+    --Moi, je suis, débraillé comme un étudiant,
     Sous les marronniers verts les alertes fillettes:
     Elles le savent bien, et tournent en riant,
-    Vers moi, leurs yeux tout pleins de choses indiscrï¿½tes.
+    Vers moi, leurs yeux tout pleins de choses indiscrètes.
 
     Je ne dis pas un mot: je regarde toujours
-    La chair de leurs cous blancs brodï¿½s de mï¿½ches folles;
-    Je suis, sous leur corsage et les frï¿½les atours,
-    Le dos divin aprï¿½s la courbe des ï¿½paules...
+    La chair de leurs cous blancs brodés de mèches folles;
+    Je suis, sous leur corsage et les frêles atours,
+    Le dos divin après la courbe des épaules...
 
     Je cherche la bottine... et je vais jusqu'aux bas;
-    Je reconstruis le corps, brï¿½lï¿½ de belles fiï¿½vres.
-    Elles me trouvent drï¿½le et se parlent tout bas...
-    --Et je sens les baisers qui me viennent aux lï¿½vres...
+    Je reconstruis le corps, brûlé de belles fièvres.
+    Elles me trouvent drôle et se parlent tout bas...
+    --Et je sens les baisers qui me viennent aux lèvres...
 
 
 
 
 LE FORGERON
 
-  _Palais des Tuileries, vers le 10 aoï¿½t 92._
+  _Palais des Tuileries, vers le 10 août 92._
 
     Le bras sur un marteau gigantesque, effrayant
     D'ivresse et de grandeur, le front vaste, riant
     Comme un clairon d'airain, avec toute sa bouche,
-    Et prenant ce gros-lï¿½ dans son regard farouche,
-    Le Forgeron parlait ï¿½ Louis Seize, un jour
-    Que le Peuple ï¿½tait lï¿½, se tordant tout autour,
-    Et sur les lambris d'or traï¿½nant sa veste sale.
-    Or le bon roi, debout sur son ventre, ï¿½tait pï¿½le,
-    Pï¿½le comme un vaincu qu'on prend pour le gibet,
+    Et prenant ce gros-là dans son regard farouche,
+    Le Forgeron parlait à Louis Seize, un jour
+    Que le Peuple était là, se tordant tout autour,
+    Et sur les lambris d'or traînant sa veste sale.
+    Or le bon roi, debout sur son ventre, était pâle,
+    Pâle comme un vaincu qu'on prend pour le gibet,
     Et, soumis comme un chien, jamais ne regimbait,
-    Car ce maraud de forge aux ï¿½normes ï¿½paules
-    Lui disait de vieux mots et des choses si drï¿½les,
+    Car ce maraud de forge aux énormes épaules
+    Lui disait de vieux mots et des choses si drôles,
     Que cela l'empoignait au front, comme cela!
-    ï¿½Or, tu sais bien, Monsieur, nous chantions tra la la
+    «Or, tu sais bien, Monsieur, nous chantions tra la la
     Et nous piquions les boeufs vers les sillons des autres:
-    Le Chanoine au soleil filait des patenï¿½tres
-    Sur des chapelets clairs grenï¿½s de piï¿½ces d'or.
-    Le Seigneur, ï¿½ cheval, passait, sonnant du cor
+    Le Chanoine au soleil filait des patenôtres
+    Sur des chapelets clairs grenés de pièces d'or.
+    Le Seigneur, à cheval, passait, sonnant du cor
     Et l'un avec la hart, l'autre avec la cravache
-    Nous fouillaient.--Hï¿½bï¿½tï¿½s comme des yeux de vache,
+    Nous fouillaient.--Hébétés comme des yeux de vache,
     Nos yeux ne pleuraient plus; nous allions, nous allions
     Et quand nous avions mis le pays en sillons,
-    Quand nous avions laissï¿½e dans cette terre noire
+    Quand nous avions laissée dans cette terre noire
     Un peu de notre chair... nous avions un pourboire:
     On nous faisait flamber nos taudis dans la nuit,
-    Nos petits y faisaient un gï¿½teau fort bien cuit.
+    Nos petits y faisaient un gâteau fort bien cuit.
 
-    ... ï¿½Oh! je ne me plains pas. Je te dis mes bï¿½tises,
+    ... «Oh! je ne me plains pas. Je te dis mes bêtises,
     C'est entre nous. J'admets que tu me contredises,
     Or, n'est-ce pas joyeux de voir, au mois de juin
     Dans les granges entrer des voitures de foin
-    ï¿½normes? De sentir l'odeur de ce qui pousse,
+    Énormes? De sentir l'odeur de ce qui pousse,
     Des vergers quand il pleut un peu, de l'herbe rousse?
-    De voir des blï¿½s, des blï¿½s, des ï¿½pis pleins de grain,
-    De penser que cela prï¿½pare bien du pain...
+    De voir des blés, des blés, des épis pleins de grain,
+    De penser que cela prépare bien du pain...
     Oh! plus fort, on irait, au fourneau qu'il s'allume,
     Chanter joyeusement en martelant l'enclume,
-    Si l'on ï¿½tait certain de pouvoir prendre un peu,
-    ï¿½tant homme, ï¿½ la fin! de ce que donne Dieu!
-    ï¿½Mais voilï¿½, c'est toujours la mï¿½me vieille histoire!...
+    Si l'on était certain de pouvoir prendre un peu,
+    Étant homme, à la fin! de ce que donne Dieu!
+    «Mais voilà, c'est toujours la même vieille histoire!...
     Mais je sais, maintenant! Moi je ne peux plus croire,
     Quand j'ai deux bonnes mains, mon front et mon marteau
-    Qu'un homme vienne lï¿½, dague sur le manteau,
+    Qu'un homme vienne là, dague sur le manteau,
     Et me dise: Mon gars, ensemence ma terre;
     Que l'on arrive encor, quand ce serait la guerre,
-    De prendre mon garï¿½on comme cela, chez moi!
+    De prendre mon garçon comme cela, chez moi!
     --Moi, je serais un homme, et toi, tu serais roi,
     Tu me dirais: Je veux!...--Tu vois bien, c'est stupide.
     Tu crois que j'aime voir ta baraque splendide,
-    Tes officiers dorï¿½s, tes mille chenapans,
-    Tes palsembleu bï¿½tards tournant comme des paons:
+    Tes officiers dorés, tes mille chenapans,
+    Tes palsembleu bâtards tournant comme des paons:
     Ils ont rempli ton nid de l'odeur de nos filles
     Et de petits billets pour nous mettre aux Bastilles
-    Et nous dirons: C'est bien; les pauvres ï¿½ genoux!
+    Et nous dirons: C'est bien; les pauvres à genoux!
     Nous dorerons ton Louvre en donnant nos gros sous!
-    Et tu te soï¿½leras, tu feras belle fï¿½te.
-    --Et ces Messieurs riront, les reins sur notre tï¿½te!
-    ï¿½Non. Ces saletï¿½s-lï¿½ datent de nos papas!
+    Et tu te soûleras, tu feras belle fête.
+    --Et ces Messieurs riront, les reins sur notre tête!
+    «Non. Ces saletés-là datent de nos papas!
     Oh! Le Peuple n'est plus une putain. Trois pas
-    Et, tous, nous avons mis ta Bastille en poussiï¿½re.
-    Cette bï¿½te suait du sang ï¿½ chaque pierre
-    Et c'ï¿½tait dï¿½goï¿½tant, la Bastille debout
-    Avec ses murs lï¿½preux qui nous racontaient tout
-    Et, toujours, nous tenaient enfermï¿½s dans leur ombre!
-    --Citoyen! citoyen! c'ï¿½tait le passï¿½ sombre
-    Qui croulait, qui rï¿½lait, quand nous prï¿½mes la tour
+    Et, tous, nous avons mis ta Bastille en poussière.
+    Cette bête suait du sang à chaque pierre
+    Et c'était dégoûtant, la Bastille debout
+    Avec ses murs lépreux qui nous racontaient tout
+    Et, toujours, nous tenaient enfermés dans leur ombre!
+    --Citoyen! citoyen! c'était le passé sombre
+    Qui croulait, qui râlait, quand nous prîmes la tour
     Nous avions quelque chose au coeur comme l'amour.
-    Nous avions embrassï¿½ nos fils sur nos poitrines.
+    Nous avions embrassé nos fils sur nos poitrines.
     Et, comme des chevaux, en soufflant des narines
-    Nous allions, fiers et forts, et ï¿½a nous battait lï¿½...
+    Nous allions, fiers et forts, et ça nous battait là...
     Nous marchions au soleil, front haut; comme cela,
     Dans Paris! On venait devant nos vestes sales.
-    Enfin! Nous nous sentions Hommes! Nous ï¿½tions pï¿½les
-    Sire, nous ï¿½tions soï¿½ls de terribles espoirs:
-    Et quand nous fï¿½mes lï¿½, devant les donjons noirs,
-    Agitant nos clairons et nos feuilles de chï¿½ne,
-    Les piques ï¿½ la main; nous n'eï¿½mes pas de haine,
-    --Nous nous sentions si forts, nous voulions ï¿½tre doux!
+    Enfin! Nous nous sentions Hommes! Nous étions pâles
+    Sire, nous étions soûls de terribles espoirs:
+    Et quand nous fûmes là, devant les donjons noirs,
+    Agitant nos clairons et nos feuilles de chêne,
+    Les piques à la main; nous n'eûmes pas de haine,
+    --Nous nous sentions si forts, nous voulions être doux!
     . . . . . . . . . . . . . . . . . . . . . . . . . . . .
     . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-    ï¿½Et depuis ce jour-lï¿½, nous sommes comme fous!
-    Le tas des ouvriers a montï¿½ dans la rue,
+    «Et depuis ce jour-là, nous sommes comme fous!
+    Le tas des ouvriers a monté dans la rue,
     Et ces maudits s'en vont, foule toujours accrue
     De sombres revenants, aux portes des richards.
     Moi, je cours avec eux assommer les mouchards:
-    Et je vais dans Paris, noir, marteau sur l'ï¿½paule,
-    Farouche, ï¿½ chaque coin balayant quelque drï¿½le,
+    Et je vais dans Paris, noir, marteau sur l'épaule,
+    Farouche, à chaque coin balayant quelque drôle,
     Et, si tu me riais au nez, je te tuerais!
     --Puis, tu peux y compter, tu te feras des frais
-    Avec tes hommes noirs, qui prennent nos requï¿½tes
+    Avec tes hommes noirs, qui prennent nos requêtes
     Pour se les renvoyer comme sur des raquettes
-    Et, tout bas, les malins se disent; ï¿½Qu'ils sont sots!ï¿½
+    Et, tout bas, les malins se disent; «Qu'ils sont sots!»
     Pour mitonner des lois, coller de petits pots
-    Pleins de jolis dï¿½crets roses et de droguailles,
-    S'amuser ï¿½ couper proprement quelques tailles,
-    Puis se boucher le nez quand nous marchons prï¿½s d'eux
-    --Nos doux reprï¿½sentants qui nous trouvent crasseux!
-    Pour ne rien redouter, rien, que les baï¿½onnettes...,
-    C'est trï¿½s bien. Foin de leur tabatiï¿½re ï¿½ sornettes!
-    Nous en avons assez, lï¿½, de ces cerveaux plats
-    Et de ces ventres-dieux. Ah! ce sont lï¿½ les plats
-    Que tu nous sers bourgeois, quand nous sommes fï¿½roces
-    Quand nous brisons dï¿½jï¿½ les sceptres et les crosses!...
+    Pleins de jolis décrets roses et de droguailles,
+    S'amuser à couper proprement quelques tailles,
+    Puis se boucher le nez quand nous marchons près d'eux
+    --Nos doux représentants qui nous trouvent crasseux!
+    Pour ne rien redouter, rien, que les baïonnettes...,
+    C'est très bien. Foin de leur tabatière à sornettes!
+    Nous en avons assez, là, de ces cerveaux plats
+    Et de ces ventres-dieux. Ah! ce sont là les plats
+    Que tu nous sers bourgeois, quand nous sommes féroces
+    Quand nous brisons déjà les sceptres et les crosses!...
     . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
     Il le prend par le bras, arrache le velours
     Des rideaux, et lui montre en bas les larges cours
-    Oï¿½ fourmille, oï¿½ fourmille, oï¿½ se lï¿½ve la foule,
-    La foule ï¿½pouvantable avec des bruits de houle
+    Où fourmille, où fourmille, où se lève la foule,
+    La foule épouvantable avec des bruits de houle
     Hurlant comme une chienne, hurlant comme une mer,
-    Avec ses bï¿½tons forts et ses piques de fer,
+    Avec ses bâtons forts et ses piques de fer,
     Ses tambours, ses grands cris de halles et de bouges,
     Tas sombre de haillons saignants de bonnets rouges;
-    L'Homme, par la fenï¿½tre ouverte, montre tout
-    Au roi pï¿½le, et suant qui chancelle debout,
-    Malade ï¿½ regarder cela!
+    L'Homme, par la fenêtre ouverte, montre tout
+    Au roi pâle, et suant qui chancelle debout,
+    Malade à regarder cela!
 
-                           ï¿½C'est la crapule,
-    Sire. ï¿½a bave aux murs, ï¿½a monte, ï¿½a pullule:
+                           «C'est la crapule,
+    Sire. Ça bave aux murs, ça monte, ça pullule:
     --Puisqu'ils ne mangent pas, Sire, ce sont des gueux!
     Je suis un forgeron: ma femme est avec eux,
     Folle! Elle croit trouver du pain aux Tuileries!
     --On ne veut pas de nous dans les boulangeries.
     J'ai trois petits. Je suis crapule.--Je connais
     Des vieilles qui s'en vont pleurant sous leurs bonnets
-    Parce qu'on leur a pris leur garï¿½on ou leur fille:
-    C'est la crapule.--Un homme ï¿½tait ï¿½ la Bastille,
-    Un autre ï¿½tait forï¿½at: et, tous deux, citoyens
-    Honnï¿½tes. Libï¿½rï¿½s, ils sont comme des chiens:
-    On les insulte! Alors, ils ont lï¿½ quelque chose
+    Parce qu'on leur a pris leur garçon ou leur fille:
+    C'est la crapule.--Un homme était à la Bastille,
+    Un autre était forçat: et, tous deux, citoyens
+    Honnêtes. Libérés, ils sont comme des chiens:
+    On les insulte! Alors, ils ont là quelque chose
     Qui leur fait mal, allez! C'est terrible, et c'est cause
-    Que, se sentant brisï¿½s, que, se sentant damnï¿½s,
-    Ils sont lï¿½, maintenant, hurlant sous votre nez!
-    Crapule.--Lï¿½ dedans sont des filles, infï¿½mes
+    Que, se sentant brisés, que, se sentant damnés,
+    Ils sont là, maintenant, hurlant sous votre nez!
+    Crapule.--Là dedans sont des filles, infâmes
     Parce que,--vous saviez que c'est faible, les femmes,
-    Messeigneurs de la cour,--que ï¿½a veut toujours bien,
-    Vous avez crachï¿½ sur l'ï¿½me, comme rien!
-    Vos belles, aujourd'hui, sont lï¿½. C'est la crapule.
+    Messeigneurs de la cour,--que ça veut toujours bien,
+    Vous avez craché sur l'âme, comme rien!
+    Vos belles, aujourd'hui, sont là. C'est la crapule.
     . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-    ï¿½Oh! tous les malheureux, tous ceux dont le dos brï¿½le
-    Sous le soleil fï¿½roce, et qui vont, et qui vont,
-    Qui dans ce travail-lï¿½ sentent crever leur front.
-    Chapeau bas, mes bourgeois! Oh! ceux-lï¿½ sont les Hommes!
+    «Oh! tous les malheureux, tous ceux dont le dos brûle
+    Sous le soleil féroce, et qui vont, et qui vont,
+    Qui dans ce travail-là sentent crever leur front.
+    Chapeau bas, mes bourgeois! Oh! ceux-là sont les Hommes!
     Nous sommes Ouvriers, Sire! Ouvriers! Nous sommes
-    Pour les grands temps nouveaux oï¿½ l'on voudra savoir,
-    Oï¿½ l'Homme forgera du matin jusqu'au soir,
+    Pour les grands temps nouveaux où l'on voudra savoir,
+    Où l'Homme forgera du matin jusqu'au soir,
     Chasseur des grands effets, chasseur des grandes causes
     Ou, lentement vainqueur, il domptera les choses
     Et montera sur Tout, comme sur un cheval!
     Oh! splendides lueurs des forges! Plus de mal,
-    Plus!--Ce qu'on ne sait pas, c'est peut-ï¿½tre terrible:
+    Plus!--Ce qu'on ne sait pas, c'est peut-être terrible:
     Nous saurons!--Nos marteaux en main; passons au crible
-    Tout ce que nous savons: puis, Frï¿½res, en avant!
-    Nous faisons quelquefois ce grand rï¿½ve ï¿½mouvant
+    Tout ce que nous savons: puis, Frères, en avant!
+    Nous faisons quelquefois ce grand rêve émouvant
     De vivre simplement, ardemment, sans rien dire
     De mauvais, travaillant sous l'auguste sourire
     D'une femme qu'on aime avec un noble amour:
-    Et l'on travaillerait fiï¿½rement tout le jour,
-    ï¿½coutant le devoir comme un clairon qui sonne:
-    Et l'on se sentirait trï¿½s heureux: et personne
+    Et l'on travaillerait fièrement tout le jour,
+    Écoutant le devoir comme un clairon qui sonne:
+    Et l'on se sentirait très heureux: et personne
     Oh! personne, surtout, ne vous ferait ployer!
     On aurait un fusil au-dessus du foyer...
     . . . . . . . . . . . . . . . . . . . . . . . . . . . .
@@ -2038,29 +2038,29 @@ LE FORGERON
     Que te disais-je donc? Je suis de la canaille!
     Il reste des mouchards et des accapareurs.
     Nous sommes libres, nous! Nous avons des terreurs
-    Oï¿½ nous nous sentons grands, oh! si grands! Tout ï¿½ l'heure
+    Où nous nous sentons grands, oh! si grands! Tout à l'heure
     Je parlais de devoir calme, d'une demeure...
     Regarde donc le ciel!--C'est trop petit pour nous,
-    Nous crï¿½verions de chaud, nous serions ï¿½ genoux!
+    Nous crèverions de chaud, nous serions à genoux!
     Regarde donc le ciel!--Je rentre dans la foule
     Dans la grande canaille effroyable qui roule,
-    Sire, tes vieux canons sur les sales pavï¿½s;
-    --Oh! quand nous serons morts, nous les aurons lavï¿½s.
+    Sire, tes vieux canons sur les sales pavés;
+    --Oh! quand nous serons morts, nous les aurons lavés.
     --Et si, devant nos cris, devant notre vengeance,
-    Les pattes des vieux rois mordorï¿½s, sur la France
-    Poussaient leurs rï¿½giments en habits de gala,
-    Eh bien, n'est-ce pas, vous tous? Merde ï¿½ ces chiens-lï¿½
+    Les pattes des vieux rois mordorés, sur la France
+    Poussaient leurs régiments en habits de gala,
+    Eh bien, n'est-ce pas, vous tous? Merde à ces chiens-là
     . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-    --Il reprit son marteau sur l'ï¿½paule.
+    --Il reprit son marteau sur l'épaule.
 
                                          La foule
-    Prï¿½s de cet homme-lï¿½ se sentait l'ï¿½me soï¿½le,
+    Près de cet homme-là se sentait l'âme soûle,
     Et, dans la grande cour, dans les appartements,
-    Oï¿½ Paris haletait avec des hurlements,
+    Où Paris haletait avec des hurlements,
     Un frisson secoua l'immense populace.
     Alors, de sa main large et superbe de crasse
-    Bien que le roi ventru suï¿½t, le Forgeron,
+    Bien que le roi ventru suât, le Forgeron,
     Terrible, lui jeta le bonnet rouge au front!
 
 
@@ -2070,95 +2070,95 @@ SOLEIL ET CHAIR
 
 
     Le Soleil, le foyer de tendresse et de vie,
-    Verse l'amour brï¿½lant ï¿½ la terre ravie,
-    Et, quand on est couchï¿½ sur la vallï¿½e, on sent
-    Que la terre est nubile et dï¿½borde de sang;
-    Que son immense sein, soulevï¿½ par une ï¿½me,
+    Verse l'amour brûlant à la terre ravie,
+    Et, quand on est couché sur la vallée, on sent
+    Que la terre est nubile et déborde de sang;
+    Que son immense sein, soulevé par une âme,
     Est d'amour comme dieu, de chair comme la femme,
-    Et qu'il renferme, gros de sï¿½ve et de rayons,
+    Et qu'il renferme, gros de sève et de rayons,
     Le grand fourmillement de tous les embryons!
 
-    Et tout croï¿½t, et tout monte!
-                                  ï¿½ Vï¿½nus, ï¿½ Dï¿½esse!
+    Et tout croît, et tout monte!
+                                  Ô Vénus, ô Déesse!
     Je regrette les temps de l'antique jeunesse,
     Des satyres lascifs, des faunes animaux,
-    Dieux qui mordaient d'amour l'ï¿½corce des rameaux
-    Et dans les nï¿½nufars baisaient la Nymphe blonde!
-    Je regrette les temps oï¿½ la sï¿½ve du monde,
+    Dieux qui mordaient d'amour l'écorce des rameaux
+    Et dans les nénufars baisaient la Nymphe blonde!
+    Je regrette les temps où la sève du monde,
     L'eau du fleuve, le sang rose des arbres verts
     Dans les veines de Pan mettaient un univers!
-    Oï¿½ le sol palpitait, vert, sous ses pieds de chï¿½vre;
-    Oï¿½, baisant mollement le clair syrinx, sa lï¿½vre
+    Où le sol palpitait, vert, sous ses pieds de chèvre;
+    Où, baisant mollement le clair syrinx, sa lèvre
     Modulait sous le ciel le grand hymne d'amour;
-    Oï¿½, debout sur la plaine, il entendait autour
-    Rï¿½pondre ï¿½ son appel la Nature vivante;
-    Oï¿½, les arbres muets, berï¿½ant l'oiseau qui chante,
-    La terre berï¿½ant l'homme, et tout l'Ocï¿½an bleu
+    Où, debout sur la plaine, il entendait autour
+    Répondre à son appel la Nature vivante;
+    Où, les arbres muets, berçant l'oiseau qui chante,
+    La terre berçant l'homme, et tout l'Océan bleu
     Et tous les animaux, aimaient, aimaient en Dieu!
-    Je regrette les temps de la grande Cybï¿½le
+    Je regrette les temps de la grande Cybèle
     Qu'on disait parcourir, gigantesquement belle,
-    Sur un grand char d'airain, les splendides citï¿½s;
-    Son double sein versait dans les immensitï¿½s
+    Sur un grand char d'airain, les splendides cités;
+    Son double sein versait dans les immensités
     Le pur ruissellement de la vie infinie.
-    L'Homme suï¿½ait, heureux, sa mamelle bï¿½nie,
+    L'Homme suçait, heureux, sa mamelle bénie,
     Comme un petit enfant, jouant sur ses genoux.
-    --Parce qu'il ï¿½tait fort, l'Homme ï¿½tait chaste et doux.
+    --Parce qu'il était fort, l'Homme était chaste et doux.
 
-    Misï¿½re! Maintenant il dit: Je sais les choses,
-    Et va, les yeux fermï¿½s et les oreilles closes;
+    Misère! Maintenant il dit: Je sais les choses,
+    Et va, les yeux fermés et les oreilles closes;
     --Et pourtant, plus de dieux! plus de dieux! l'Homme est Roi!
-    L'Homme est Dieu! Mais l'Amour, voilï¿½ la grande Foi!
-    Oh! si l'homme puisait encore ï¿½ ta mamelle,
-    Grande mï¿½re des dieux et des hommes, Cybï¿½le;
-    S'il n'avait pas laissï¿½ l'immortelle Astartï¿½
-    Qui jadis, ï¿½mergeant dans l'immense clartï¿½
+    L'Homme est Dieu! Mais l'Amour, voilà la grande Foi!
+    Oh! si l'homme puisait encore à ta mamelle,
+    Grande mère des dieux et des hommes, Cybèle;
+    S'il n'avait pas laissé l'immortelle Astarté
+    Qui jadis, émergeant dans l'immense clarté
     Des flots bleus, fleur de chair que la vague parfume,
-    Montra son nombril rose oï¿½ vint neiger l'ï¿½cume,
-    Et fit chanter, Dï¿½esse aux grands yeux noirs vainqueurs,
+    Montra son nombril rose où vint neiger l'écume,
+    Et fit chanter, Déesse aux grands yeux noirs vainqueurs,
     Le rossignol aux bois et l'amour dans les coeurs!
 
 
 II
 
-    Je crois en toi! Je crois en toi! Divine mï¿½re,
-    Aphrodite marine!--Oh! la route est amï¿½re
-    Depuis que l'autre Dieu nous attelle ï¿½ sa croix;
-    Chair, Marbre, Fleur, Vï¿½nus, c'est en toi que je crois!
+    Je crois en toi! Je crois en toi! Divine mère,
+    Aphrodite marine!--Oh! la route est amère
+    Depuis que l'autre Dieu nous attelle à sa croix;
+    Chair, Marbre, Fleur, Vénus, c'est en toi que je crois!
     --Oui l'Homme est triste et laid, triste sous le ciel vaste,
-    Il a des vï¿½tements, parce qu'il n'est plus chaste,
+    Il a des vêtements, parce qu'il n'est plus chaste,
     Parce qu'il a sali son fier buste de Dieu,
     Et qu'il a rabougri, comme une idole au feu,
     Son corps olympien aux servitudes sales!
-    Oui, mï¿½me aprï¿½s la mort, dans les squelettes pï¿½les
-    Il veut vivre, insultant la premiï¿½re beautï¿½!
-    --Et l'Idole oï¿½ tu mis tant de virginitï¿½,
-    Oï¿½ tu divinisas notre argile, la Femme,
-    Afin que l'homme pï¿½t ï¿½clairer sa pauvre ï¿½me
+    Oui, même après la mort, dans les squelettes pâles
+    Il veut vivre, insultant la première beauté!
+    --Et l'Idole où tu mis tant de virginité,
+    Où tu divinisas notre argile, la Femme,
+    Afin que l'homme pût éclairer sa pauvre âme
     Et monter lentement, dans un immense amour,
-    De la prison terrestre ï¿½ la beautï¿½ du jour,
-    La femme ne sait plus mï¿½me ï¿½tre courtisane!
+    De la prison terrestre à la beauté du jour,
+    La femme ne sait plus même être courtisane!
     --C'est une bonne farce! et le monde ricane
-    Au nom doux et sacrï¿½ de la grande Vï¿½nus!
+    Au nom doux et sacré de la grande Vénus!
 
 
 III
 
     Si les temps revenaient, les temps qui sont venus!
-    --Car l'Homme a fini! l'Homme a jouï¿½ tous les rï¿½les!
-    Au grand jour, fatiguï¿½ de briser des idoles
+    --Car l'Homme a fini! l'Homme a joué tous les rôles!
+    Au grand jour, fatigué de briser des idoles
     Il ressuscitera, libre de tous ses Dieux,
     Et, comme il est du ciel, il scrutera les cieux!
-    L'Idï¿½al, la pensï¿½e invincible, ï¿½ternelle,
+    L'Idéal, la pensée invincible, éternelle,
     Tout le dieu qui vit, sous son argile charnelle,
-    Montera, montera, brï¿½lera sous son front!
+    Montera, montera, brûlera sous son front!
     Et quand tu le verras sonder tout l'horizon,
     Contempteur des vieux jougs, libre de toute crainte,
-    Tu viendras lui donner la Rï¿½demption sainte!
+    Tu viendras lui donner la Rédemption sainte!
     --Splendide, radieuse, au sein des grandes mers
     Tu surgiras, jetant sur le vaste Univers
     L'Amour infini dans un infini sourire!
     Le Monde vibrera comme une immense lyre
-    Dans le frï¿½missement d'un immense baiser:
+    Dans le frémissement d'un immense baiser:
 
     --Le Monde a soif d'amour: tu viendras l'apaiser.
     . . . . . . . . . . . . . . . . . . . . . . . . .
@@ -2166,55 +2166,55 @@ III
 
 IV
 
-    ï¿½ splendeur de la chair! ï¿½ splendeur idï¿½ale!
-    ï¿½ renouveau d'amour, aurore triomphale
-    Oï¿½, courbant ï¿½ leurs pieds les Dieux et les Hï¿½ros
-    Kallipige la blanche et le petit ï¿½ros
+    Ô splendeur de la chair! ô splendeur idéale!
+    Ô renouveau d'amour, aurore triomphale
+    Où, courbant à leurs pieds les Dieux et les Héros
+    Kallipige la blanche et le petit Éros
     Effleureront, couverts de la neige des roses,
-    Les femmes et les fleurs sous leurs beaux pieds ï¿½closes!
-    ï¿½ grande Ariadnï¿½, qui jettes tes sanglots
-    Sur la rive, en voyant fuir lï¿½-bas sur les flots,
-    Blanche sous le soleil, la voile de Thï¿½sï¿½e,
-    ï¿½ douce vierge enfant qu'une nuit a brisï¿½e,
-    Tais-toi! Sur son char d'or brodï¿½ de noirs raisins,
-    Lysios, promenï¿½ dans les champs Phrygiens
-    Par les tigres lascifs et les panthï¿½res rousses,
+    Les femmes et les fleurs sous leurs beaux pieds écloses!
+    Ô grande Ariadné, qui jettes tes sanglots
+    Sur la rive, en voyant fuir là-bas sur les flots,
+    Blanche sous le soleil, la voile de Thésée,
+    Ô douce vierge enfant qu'une nuit a brisée,
+    Tais-toi! Sur son char d'or brodé de noirs raisins,
+    Lysios, promené dans les champs Phrygiens
+    Par les tigres lascifs et les panthères rousses,
     Le long des fleuves bleus rougit les sombres mousses.
     Zeus, Taureau, sur son cou berce comme un enfant
-    Le corps nu d'Europï¿½, qui jette son bras blanc
+    Le corps nu d'Europé, qui jette son bras blanc
     Au cou nerveux du Dieu frissonnant dans la vague,
     Il tourne lentement vers elle son oeil vague;
-    Elle, laisse traï¿½ner sa pï¿½le joue en fleur
-    Au front de Zeus; ses yeux sont fermï¿½s; elle meurt
+    Elle, laisse traîner sa pâle joue en fleur
+    Au front de Zeus; ses yeux sont fermés; elle meurt
     Dans un divin baiser, et le flot qui murmure
-    De son ï¿½cume d'or fleurit sa chevelure.
+    De son écume d'or fleurit sa chevelure.
     --Entre le laurier-rose et le lotus jaseur
-    Glisse amoureusement le grand Cygne rï¿½veur
-    Embrassant la Lï¿½da des blancheurs de son aile;
-    --Et tandis que Cypris passe, ï¿½trangement belle,
+    Glisse amoureusement le grand Cygne rêveur
+    Embrassant la Léda des blancheurs de son aile;
+    --Et tandis que Cypris passe, étrangement belle,
     Et, cambrant les rondeurs splendides de ses reins,
-    ï¿½tale fiï¿½rement l'or de ses larges seins
-    Et son ventre neigeux brodï¿½ de mousse noire,
-    --Hï¿½raclï¿½s, le Dompteur, qui, comme d'une gloire
+    Étale fièrement l'or de ses larges seins
+    Et son ventre neigeux brodé de mousse noire,
+    --Héraclès, le Dompteur, qui, comme d'une gloire
     Fort, ceint son vaste corps de la peau du lion,
-    S'avance, front terrible et doux, ï¿½ l'horizon!
+    S'avance, front terrible et doux, à l'horizon!
 
-    Par la lune d'ï¿½tï¿½ vaguement ï¿½clairï¿½e,
-    Debout, nue, et rï¿½vant dans sa pï¿½leur dorï¿½e
+    Par la lune d'été vaguement éclairée,
+    Debout, nue, et rêvant dans sa pâleur dorée
     Que tache le flot lourd de ses longs cheveux bleus,
-    Dans la clairiï¿½re sombre oï¿½ la mousse s'ï¿½toile,
+    Dans la clairière sombre où la mousse s'étoile,
     La Dryade regarde au ciel silencieux...
-    --La blanche Sï¿½lï¿½nï¿½ laisse flotter son voile,
+    --La blanche Séléné laisse flotter son voile,
     Craintive, sur les pieds du bel Endymion,
-    Et lui jette un baiser dans un pï¿½le rayon...
+    Et lui jette un baiser dans un pâle rayon...
     --La Source pleure au loin dans une longue extase...
-    C'est la Nymphe qui rï¿½ve, un coude sur son vase,
-    Au beau jeune homme blanc que son onde a pressï¿½.
-    --Une brise d'amour dans la nuit a passï¿½,
-    Et, dans les bois sacrï¿½s, dans l'horreur des grands arbres,
+    C'est la Nymphe qui rêve, un coude sur son vase,
+    Au beau jeune homme blanc que son onde a pressé.
+    --Une brise d'amour dans la nuit a passé,
+    Et, dans les bois sacrés, dans l'horreur des grands arbres,
     Majestueusement debout, les sombres Marbres,
     Les Dieux, au front desquels le Bouvreuil fait son nid,
-    --Les Dieux ï¿½coutent l'Homme et le Monde infini!
+    --Les Dieux écoutent l'Homme et le Monde infini!
 
 7 mai 1870.
 
@@ -2224,23 +2224,23 @@ IV
 LE DORMEUR DU VAL
 
 
-    C'est un trou de verdure oï¿½ chante une riviï¿½re
+    C'est un trou de verdure où chante une rivière
     Accrochant follement aux herbes des haillons
-    D'argent; oï¿½ le soleil, de la montagne fiï¿½re,
+    D'argent; où le soleil, de la montagne fière,
     Luit: c'est un petit aval qui mousse de rayons.
 
-    Un soldat jeune, bouche ouverte, tï¿½te nue,
+    Un soldat jeune, bouche ouverte, tête nue,
     Et la nuque baignant dans le frais cresson bleu,
-    Dort; il est ï¿½tendu dans l'herbe, sous la nue,
-    Pï¿½le dans son lit vert oï¿½ la lumiï¿½re pleut.
+    Dort; il est étendu dans l'herbe, sous la nue,
+    Pâle dans son lit vert où la lumière pleut.
 
-    Les pieds dans les glaï¿½euls, il dort. Souriant comme
+    Les pieds dans les glaïeuls, il dort. Souriant comme
     Sourirait un enfant malade, il fait un somme:
     Nature, berce-le chaudement: il a froid.
 
     Les parfums ne font pas frissonner sa narine;
     Il dort dans le soleil, la main sur sa poitrine
-    Tranquille. Il a deux trous rouges au cï¿½tï¿½ droit.
+    Tranquille. Il a deux trous rouges au côté droit.
 
 7 octobre 1870.
 
@@ -2252,23 +2252,23 @@ AU CABARET-VERT
 
   _Cinq heures du soir._
 
-    Depuis huit jours, j'avais dï¿½chirï¿½ mes bottines
-    Aux cailloux des chemins. J'entrais ï¿½ Charleroi,
+    Depuis huit jours, j'avais déchiré mes bottines
+    Aux cailloux des chemins. J'entrais à Charleroi,
     --_Au Cabaret-Vert_: je demandai des tartines
-    De beurre et du jambon qui fï¿½t ï¿½ moitiï¿½ froid.
+    De beurre et du jambon qui fût à moitié froid.
 
     Bienheureux, j'allongeai les jambes sous la table
-    Verte: je contemplai les sujets trï¿½s naï¿½fs
+    Verte: je contemplai les sujets très naïfs
     De la tapisserie.--Et ce fut adorable,
-    Quand la fille aux tï¿½tons ï¿½normes, aux yeux vifs,
+    Quand la fille aux tétons énormes, aux yeux vifs,
 
-    --Celle-lï¿½, ce n'est pas un baiser qui l'ï¿½peure!--
+    --Celle-là, ce n'est pas un baiser qui l'épeure!--
     Rieuse, m'apporta des tartines de beurre,
-    Du jambon tiï¿½de, dans un plat coloriï¿½,
+    Du jambon tiède, dans un plat colorié,
 
-    Du jambon rose et blanc parfumï¿½ d'une gousse
+    Du jambon rose et blanc parfumé d'une gousse
     D'ail,--et m'emplit la chope immense, avec sa mousse
-    Que dorait un rayon de soleil arriï¿½rï¿½.
+    Que dorait un rayon de soleil arriéré.
 
 Octobre 1870.
 
@@ -2278,65 +2278,65 @@ Octobre 1870.
 LA MALINE
 
 
-    Dans la salle ï¿½ manger brune, que parfumait
-    Une odeur de vernis et de fruits, ï¿½ mon aise
+    Dans la salle à manger brune, que parfumait
+    Une odeur de vernis et de fruits, à mon aise
     Je ramassais un plat de je ne sais quel met
-    Belge, et je m'ï¿½patais dans mon immense chaise.
+    Belge, et je m'épatais dans mon immense chaise.
 
-    En mangeant, j'ï¿½coutais l'horloge,--heureux et coi.
-    La cuisine s'ouvrit avec une bouffï¿½e
+    En mangeant, j'écoutais l'horloge,--heureux et coi.
+    La cuisine s'ouvrit avec une bouffée
     --Et la servante vint, je ne sais pas pourquoi,
-    Fichu moitiï¿½ dï¿½fait, malinement coiffï¿½e.
+    Fichu moitié défait, malinement coiffée.
 
     Et tout en promenant son petit doigt tremblant
-    Sur sa joue, un velours de pï¿½che rose et blanc,
-    En faisant, de sa lï¿½vre enfantine, une moue,
+    Sur sa joue, un velours de pêche rose et blanc,
+    En faisant, de sa lèvre enfantine, une moue,
 
-    Elle arrangeait les plats, prï¿½s de moi, pour m'aiser;
-    --Puis, comme ï¿½a,--bien sï¿½r pour avoir un baiser,--
-    Tout bas: ï¿½Sens donc: j'ai pris une froid sur la joue...ï¿½
+    Elle arrangeait les plats, près de moi, pour m'aiser;
+    --Puis, comme ça,--bien sûr pour avoir un baiser,--
+    Tout bas: «Sens donc: j'ai pris une froid sur la joue...»
 
 Charleroi, octobre 1870.
 
 
 
 
-L'ï¿½CLATANTE VICTOIRE
+L'ÉCLATANTE VICTOIRE
 
 DE SARREBRUCK
 
-REMPORTï¿½E AUX CRIS DE VIVE L'EMPEREUR!
+REMPORTÉE AUX CRIS DE VIVE L'EMPEREUR!
 
-(Gravure belge brillamment coloriï¿½e, se vend ï¿½ Charleroi, 35 centimes.)
+(Gravure belge brillamment coloriée, se vend à Charleroi, 35 centimes.)
 
 
-    Au milieu, l'Empereur, dans une apothï¿½ose
+    Au milieu, l'Empereur, dans une apothéose
     Bleue et jaune, s'en va, raide, sur son dada
-    Flamboyant; trï¿½s heureux,--car il voit tout en rose,
-    Fï¿½roce comme Zeus et doux comme un papa;
+    Flamboyant; très heureux,--car il voit tout en rose,
+    Féroce comme Zeus et doux comme un papa;
 
     En bas, les bons Pioupious qui faisaient la sieste
-    Prï¿½s des tambours dorï¿½s et des rouges canons,
-    Se lï¿½vent gentiment. Pitou remet sa veste,
-    Et, tournï¿½ vers le Chef, s'ï¿½tourdit de grands noms
+    Près des tambours dorés et des rouges canons,
+    Se lèvent gentiment. Pitou remet sa veste,
+    Et, tourné vers le Chef, s'étourdit de grands noms
 
-    ï¿½ droite, Dumanet, appuyï¿½ sur la crosse
-    De son chassepot, sent frï¿½mir sa nuque en brosse,
-    Et: ï¿½Vive l'Empereur!!ï¿½--Son voisin reste coi...
+    À droite, Dumanet, appuyé sur la crosse
+    De son chassepot, sent frémir sa nuque en brosse,
+    Et: «Vive l'Empereur!!»--Son voisin reste coi...
 
     Un schako surgit, comme un soleil noir...--Au centre
-    Boquillon, rouge et bleu, trï¿½s naï¿½f, sur son ventre
-    Se dresse, et,--prï¿½sentant ses derriï¿½res: ï¿½De quoi?...ï¿½
+    Boquillon, rouge et bleu, très naïf, sur son ventre
+    Se dresse, et,--présentant ses derrières: «De quoi?...»
 
 Octobre 1870.
 
 
 
 
-Rï¿½Vï¿½ POUR L'HIVER
+RÊVÉ POUR L'HIVER
 
 
-  _ï¿½ Elle._
+  _À Elle._
 
     L'hiver, nous irons dans un petit wagon rose
             Avec des coussins bleus.
@@ -2345,15 +2345,15 @@ Rï¿½Vï¿½ POUR L'HIVER
 
     Tu fermeras l'oeil, pour ne point voir, par la glace,
           Grimacer les ombres des soirs,
-    Ces monstruositï¿½s hargneuses, populace
-          De dï¿½mons noirs et de loups noirs.
+    Ces monstruosités hargneuses, populace
+          De démons noirs et de loups noirs.
 
-    Puis tu te sentiras la joue ï¿½gratignï¿½e...
-    Un petit baiser, comme une folle araignï¿½e,
+    Puis tu te sentiras la joue égratignée...
+    Un petit baiser, comme une folle araignée,
             Te courra par le cou...
 
-    Et tu me diras: ï¿½Cherche!ï¿½ en inclinant la tï¿½te;
-    --Et nous prendons du temps ï¿½ trouver cette bï¿½te!
+    Et tu me diras: «Cherche!» en inclinant la tête;
+    --Et nous prendons du temps à trouver cette bête!
             --Qui voyage beaucoup...
 
 En wagon, le 7 octobre 1870.
@@ -2364,21 +2364,21 @@ En wagon, le 7 octobre 1870.
 LE BUFFET
 
 
-    C'est un large buffet sculptï¿½; le chï¿½ne sombre,
-    Trï¿½s vieux, a pris cet air si bon des vieilles gens;
+    C'est un large buffet sculpté; le chêne sombre,
+    Très vieux, a pris cet air si bon des vieilles gens;
     Le buffet est ouvert, et verse dans son ombre
     Comme un flot de vin vieux, des parfums engageants;
 
     Tout plein, c'est un fouillis de vieilles vieilleries,
     De linges odorants et jaunes, de chiffons
-    De femmes ou d'enfants, de dentelles flï¿½tries,
-    De fichus de grand'mï¿½re oï¿½ sont peints des griffons;
+    De femmes ou d'enfants, de dentelles flétries,
+    De fichus de grand'mère où sont peints des griffons;
 
-    --C'est lï¿½ qu'on trouverait les mï¿½daillons, les mï¿½ches
-    De cheveux blancs ou blonds, les portraits, les fleurs sï¿½ches
-    Dont le parfum se mï¿½le ï¿½ des parfums de fruits.
+    --C'est là qu'on trouverait les médaillons, les mèches
+    De cheveux blancs ou blonds, les portraits, les fleurs sèches
+    Dont le parfum se mêle à des parfums de fruits.
 
-    --ï¿½ buffet du vieux temps, tu sais bien des histoires,
+    --Ô buffet du vieux temps, tu sais bien des histoires,
     Et tu voudrais conter tes contes, et tu bruis
     Quand s'ouvrent lentement tes grands portes noires.
 
@@ -2387,28 +2387,28 @@ Octobre 1870.
 
 
 
-MA BOHï¿½ME
+MA BOHÈME
 
 (_Fantaisie_)
 
 
-    Je m'en allais, les poings dans mes poches crevï¿½es;
-    Mon paletot aussi devenait idï¿½al;
-    J'allais sous le ciel, Muse! et j'ï¿½tais ton fï¿½al;
-    Oh! lï¿½ lï¿½! que d'amours splendides j'ai rï¿½vï¿½es!
+    Je m'en allais, les poings dans mes poches crevées;
+    Mon paletot aussi devenait idéal;
+    J'allais sous le ciel, Muse! et j'étais ton féal;
+    Oh! là là! que d'amours splendides j'ai rêvées!
 
     Mon unique culotte avait un large trou.
-    --Petit Poucet rï¿½veur, j'ï¿½grenais dans ma course
-    Des rimes. Mon auberge ï¿½tait ï¿½ la Grande-Ourse;
-    --Mes ï¿½toiles au ciel avaient un doux frou-frou.
+    --Petit Poucet rêveur, j'égrenais dans ma course
+    Des rimes. Mon auberge était à la Grande-Ourse;
+    --Mes étoiles au ciel avaient un doux frou-frou.
 
-    Et je les ï¿½coutais, assis au bord des routes,
-    Ces bons soirs de septembre oï¿½ je sentais des gouttes
-    De rosï¿½e ï¿½ mon front, comme un vin de vigueur;
+    Et je les écoutais, assis au bord des routes,
+    Ces bons soirs de septembre où je sentais des gouttes
+    De rosée à mon front, comme un vin de vigueur;
 
-    Oï¿½, rimant au milieu des ombres fantastiques,
-    Comme des lyres, je tirais les ï¿½lastiques
-    De mes souliers blessï¿½s, un pied prï¿½s de mon coeur!
+    Où, rimant au milieu des ombres fantastiques,
+    Comme des lyres, je tirais les élastiques
+    De mes souliers blessés, un pied près de mon coeur!
 
 Octobre 1870.
 
@@ -2419,13 +2419,13 @@ ENTENDS COMME BRAME
 
 
     Entends, comme brame
-    prï¿½s des acacias
+    près des acacias
     en avril la rame
     viride du pois!
 
     Dans sa vapeur nette,
-    Vers Phoebï¿½! tu vois
-    s'agiter la tï¿½te
+    Vers Phoebé! tu vois
+    s'agiter la tête
     de saints d'autrefois...
 
     Loin des claires meules
@@ -2438,10 +2438,10 @@ ENTENDS COMME BRAME
     la brume qu'exhale
     ce nocturne effet.
 
-    Nï¿½anmoins ils restent,
+    Néanmoins ils restent,
     --Sicile, Allemagne,
     dans ce brouillard triste
-    et blï¿½mi, justement!
+    et blêmi, justement!
 
 
 
@@ -2449,47 +2449,47 @@ ENTENDS COMME BRAME
 CHANT DE GUERRE PARISIEN
 
 
-    Le printemps est ï¿½vident, car
-    Du coeur des Propriï¿½tï¿½s vertes
+    Le printemps est évident, car
+    Du coeur des Propriétés vertes
     Le vol de Thiers et de Picard
     Tient ses splendeurs grandes ouvertes.
 
-    ï¿½ mai! Quels dï¿½lirants cul-nus!
-    Sï¿½vres, Meudon, Bagneux, Asniï¿½res,
-    ï¿½coutez donc les bienvenus
-    Semer les choses printaniï¿½res!
+    Ô mai! Quels délirants cul-nus!
+    Sèvres, Meudon, Bagneux, Asnières,
+    Écoutez donc les bienvenus
+    Semer les choses printanières!
 
     Ils ont schako, sabre et tamtam
-    Non la vieille boï¿½te ï¿½ bougies
+    Non la vieille boîte à bougies
     Et des yoles qui n'ont jam... jam...
     Fendent le lac aux eaux rougies!...
 
     Plus que jamais nous bambochons
-    Quand arrivent sur nos taniï¿½res[1]
+    Quand arrivent sur nos tanières[1]
     Crouler les jaunes cabochons
-    Dans des aubes particuliï¿½res.
+    Dans des aubes particulières.
 
-    Thiers et Picard sont des ï¿½ros
-    Des enleveurs d'hï¿½liotropes
-    Au pï¿½trole ils font des Corots.
+    Thiers et Picard sont des Éros
+    Des enleveurs d'héliotropes
+    Au pétrole ils font des Corots.
     Voici hannetonner leurs tropes...
 
     Ils sont familiers du grand turc!...
-    Et couchï¿½ dans les glaï¿½euls, Favre,
+    Et couché dans les glaïeuls, Favre,
     Fait son cillement aqueduc
-    Et ses reniflements ï¿½ poivre!
+    Et ses reniflements à poivre!
 
-    La Grand-Ville a le pavï¿½ chaud
-    Malgrï¿½ vos douches de pï¿½trole
-    Et dï¿½cidï¿½ment il nous faut
-    Nous secouer dans votre rï¿½le...
+    La Grand-Ville a le pavé chaud
+    Malgré vos douches de pétrole
+    Et décidément il nous faut
+    Nous secouer dans votre rôle...
 
-    Et les ruraux qui se prï¿½lassent
+    Et les ruraux qui se prélassent
     Dans de longs accroupissements
     Entendront des rameaux qui cassent
     Parmi les rouges froissements.
 
-  [1] Quand viennent sur nos fourmiliï¿½res (_var. de l'auteur_).
+  [1] Quand viennent sur nos fourmilières (_var. de l'auteur_).
 
 
 
@@ -2502,207 +2502,207 @@ MES PETITES AMOUREUSES
     Sous l'arbre tendronnier qui bave
       Vos caoutchoucs.
 
-    Blancs de lunes particuliï¿½res
+    Blancs de lunes particulières
       Aux pialats ronds,
-    Entrechoquez vos genouillï¿½res
+    Entrechoquez vos genouillères
       Mes laiderons!
 
-    Nous nous aimions ï¿½ cette ï¿½poque,
+    Nous nous aimions à cette époque,
       Bleu laideron:
-    On mangeait des oeufs ï¿½ la coque
+    On mangeait des oeufs à la coque
       Et du mouron!
 
-    Un soir tu me sacras poï¿½te,
+    Un soir tu me sacras poète,
       Blond laideron.
     Descends ici que je te fouette
       En mon giron;
 
-    J'ai dï¿½gueulï¿½ ta bandoline
+    J'ai dégueulé ta bandoline
       Noir laideron;
     Tu couperais ma mandoline
       Au fil du front.
 
-    Pouah! nos salives dessï¿½chï¿½es
+    Pouah! nos salives desséchées
       Roux laideron
-    Infectent encor les tranchï¿½es
+    Infectent encor les tranchées
       De ton sein rond!
 
-    ï¿½ mes petites amoureuses
+    Ô mes petites amoureuses
       Que je vous hais!
     Plaquez de fouffes douloureuses,
-      Vos tï¿½tons laids!
+      Vos tétons laids!
 
-    Piï¿½tinez mes vieilles terrines
+    Piétinez mes vieilles terrines
       De sentiment;
     Hop donc soyez-moi ballerines
       Pour un moment!...
 
-    Vos omoplates se dï¿½boï¿½tent
-      ï¿½ mes amours!
-    Une ï¿½toile ï¿½ vos reins qui boï¿½tent
+    Vos omoplates se déboîtent
+      Ô mes amours!
+    Une étoile à vos reins qui boîtent
       Tournez vos tours.
 
-    Est-ce pourtant pour ces ï¿½clanches
-      Que j'ai rimï¿½!
+    Est-ce pourtant pour ces éclanches
+      Que j'ai rimé!
     Je voudrais vous casser les hanches
-      D'avoir aimï¿½!
+      D'avoir aimé!
 
-    Fade amas d'ï¿½toiles ratï¿½es
+    Fade amas d'étoiles ratées
       Comblez les coins
-    --Vous creverez en Dieu, bï¿½tï¿½es
+    --Vous creverez en Dieu, bâtées
       D'ignobles soins!
 
-    Sous les lunes particuliï¿½res
+    Sous les lunes particulières
       Aux pialats ronds
-    Entrechoquez vos genouilliï¿½res,
+    Entrechoquez vos genouillières,
       Mes laiderons!
 
 
 
 
-LES POï¿½TES DE SEPT ANS
+LES POÈTES DE SEPT ANS
 
 
   _A M. P. Demeny._
 
-    Et la Mï¿½re, fermant le livre du devoir,
-    S'en allait satisfaite et trï¿½s fiï¿½re sans voir,
-    Dans les yeux bleus et sous le front plein d'ï¿½minence,
-    L'ï¿½me de son enfant livrï¿½e aux rï¿½pugnances.
+    Et la Mère, fermant le livre du devoir,
+    S'en allait satisfaite et très fière sans voir,
+    Dans les yeux bleus et sous le front plein d'éminence,
+    L'âme de son enfant livrée aux répugnances.
 
-    Tout le jour il suait d'obï¿½issance; trï¿½s
+    Tout le jour il suait d'obéissance; très
     Intelligent; pourtant des tics noirs, quelques traits,
-    Semblaient prouver en lui d'ï¿½cres hypocrisies.
+    Semblaient prouver en lui d'âcres hypocrisies.
     Dans l'ombre des couloirs aux tentures moisies,
     En passant il tirait la langue, les deux poings
-    ï¿½ l'aine, et dans ses yeux fermï¿½s voyait des points.
-    Une porte s'ouvrait sur le soir; ï¿½ la lampe
-    On le voyait, lï¿½-haut qui rï¿½lait sur la rampe,
-    Sous un golfe de jour pendant du toit. L'ï¿½tï¿½
-    Surtout, vaincu, stupide, il ï¿½tait entï¿½tï¿½
-    ï¿½ se renfermer dans la fraï¿½cheur des latrines:
-    Il pensait lï¿½, tranquille et livrant ses narines.
-    Quand, lavï¿½ des odeurs du jour, le jardinet
-    Derriï¿½re la maison, en hiver s'illunait,
-    Gisant au pied d'un mur, enterrï¿½ dans la marne
-    Et pour des visions ï¿½crasant son oeil darne,
-    Il ï¿½coutait grouiller les galeux espaliers.
-    Pitiï¿½! Ces enfants seuls ï¿½taient ses familiers
-    Qui, chï¿½tifs, fronts nus, oeil dï¿½teignant sur la joue,
+    À l'aine, et dans ses yeux fermés voyait des points.
+    Une porte s'ouvrait sur le soir; à la lampe
+    On le voyait, là-haut qui râlait sur la rampe,
+    Sous un golfe de jour pendant du toit. L'été
+    Surtout, vaincu, stupide, il était entêté
+    À se renfermer dans la fraîcheur des latrines:
+    Il pensait là, tranquille et livrant ses narines.
+    Quand, lavé des odeurs du jour, le jardinet
+    Derrière la maison, en hiver s'illunait,
+    Gisant au pied d'un mur, enterré dans la marne
+    Et pour des visions écrasant son oeil darne,
+    Il écoutait grouiller les galeux espaliers.
+    Pitié! Ces enfants seuls étaient ses familiers
+    Qui, chétifs, fronts nus, oeil déteignant sur la joue,
     Cachant de maigres doigts jaunes et noirs de boue,
     Sous des habits puant la foire et tout vieillots,
     Conversaient avec la douceur des idiots!
-    Et si, l'ayant surpris ï¿½ des pitiï¿½s immondes,
-    Sa mï¿½re s'effrayait; les tendresses profondes
-    De l'enfant se jetaient sur cet ï¿½tonnement.
-    C'ï¿½tait bon. Elle avait le bleu regard,--qui ment!
+    Et si, l'ayant surpris à des pitiés immondes,
+    Sa mère s'effrayait; les tendresses profondes
+    De l'enfant se jetaient sur cet étonnement.
+    C'était bon. Elle avait le bleu regard,--qui ment!
 
-    ï¿½ sept ans, il faisait des romans sur la vie
-    Du grand dï¿½sert, oï¿½ luit la Libertï¿½ ravie,
-    Forï¿½ts, soleils, rives, savanes!--Il s'aidait
-    De journaux illustrï¿½s oï¿½, rouge, il regardait
+    À sept ans, il faisait des romans sur la vie
+    Du grand désert, où luit la Liberté ravie,
+    Forêts, soleils, rives, savanes!--Il s'aidait
+    De journaux illustrés où, rouge, il regardait
     Des Espagnoles rire et des Italiennes.
     Quand venait, l'oeil brun, folle, en robes d'indiennes,
-    --Huit ans,--la fille des ouvriers d'ï¿½ cï¿½tï¿½,
-    La petite brutale, et qu'elle avait sautï¿½,
+    --Huit ans,--la fille des ouvriers d'à côté,
+    La petite brutale, et qu'elle avait sauté,
     Dans un coin, sur son dos, en secouant ses tresses,
-    Et qu'il ï¿½tait sous elle, il lui mordait les fesses,
+    Et qu'il était sous elle, il lui mordait les fesses,
     Car elle ne portait jamais de pantalons;
     --Et, par elle meurtri des poings et des talons
     Remportait les saveurs de sa peau dans sa chambre.
 
-    Il craignait les blafards dimanches de dï¿½cembre,
-    Oï¿½, pommadï¿½, sur un guï¿½ridon d'acajou,
-    Il lisait une Bible ï¿½ la tranche vert-chou;
-    Des rï¿½ves l'oppressaient chaque nuit dans l'alcï¿½ve.
+    Il craignait les blafards dimanches de décembre,
+    Où, pommadé, sur un guéridon d'acajou,
+    Il lisait une Bible à la tranche vert-chou;
+    Des rêves l'oppressaient chaque nuit dans l'alcôve.
     Il n'aimait pas Dieu; mais les hommes, qu'au soir fauve,
     Noirs, en blouse, il voyait rentrer dans le faubourg
-    Oï¿½ les crieurs, en trois roulements de tambour
-    Font autour des ï¿½dits rire et gronder les foules.
-    --Il rï¿½vait la prairie amoureuse, oï¿½ des houles
+    Où les crieurs, en trois roulements de tambour
+    Font autour des édits rire et gronder les foules.
+    --Il rêvait la prairie amoureuse, où des houles
     Lumineuses, parfums sains, pubescences d'or,
     Font leur remuement calme et prennent leur essor!
 
     Et comme il savourait surtout les sombres choses,
     Quand, dans la chambre nue aux persiennes closes,
-    Haute et bleue, ï¿½crement prise d'humiditï¿½,
-    Il lisait son roman sans cesse mï¿½ditï¿½,
-    Plein de lourds ciels ocreux et de forï¿½ts noyï¿½es,
-    De fleurs de chair aux bois sidï¿½rals dï¿½ployï¿½es,
-    Vertige, ï¿½croulements, dï¿½routes et pitiï¿½!
+    Haute et bleue, âcrement prise d'humidité,
+    Il lisait son roman sans cesse médité,
+    Plein de lourds ciels ocreux et de forêts noyées,
+    De fleurs de chair aux bois sidérals déployées,
+    Vertige, écroulements, déroutes et pitié!
     --Tandis que se faisait la rumeur du quartier,
-    En bas,--seul, et couchï¿½ sur des piï¿½ces de toile
-    ï¿½crue, et pressentant violemment le voile!
+    En bas,--seul, et couché sur des pièces de toile
+    Écrue, et pressentant violemment le voile!
 
 26 mai 1871.
 
 [Note (Project Gutenberg).
 
-On nous a fait savoir que le terme "le voile" dans la derniï¿½re ligne du
-poï¿½me ï¿½LES POï¿½TES DE SEPT ANSï¿½, doit ï¿½tre corrigï¿½e en "la voile".
+On nous a fait savoir que le terme "le voile" dans la dernière ligne du
+poème «LES POÈTES DE SEPT ANS», doit être corrigée en "la voile".
 
-D'aprï¿½s nos recherches, le poï¿½me ï¿½crit en 1871 se terminait en effet sur
+D'après nos recherches, le poème écrit en 1871 se terminait en effet sur
 les mots "la voile".
 
-La prï¿½sente ï¿½dition de 1895 a ï¿½tï¿½ corrigï¿½e de la main de Verlaine, sur
-des ï¿½preuves fournies par l'imprimerie Ch. Herissey ï¿½ ï¿½vreux. Il nous
-est difficile de savoir pourquoi Verlaine a corrigï¿½ ï¿½la voileï¿½ en ï¿½le
-voileï¿½, ou s'agit-il d'un moment d'inattention?
+La présente édition de 1895 a été corrigée de la main de Verlaine, sur
+des épreuves fournies par l'imprimerie Ch. Herissey à Évreux. Il nous
+est difficile de savoir pourquoi Verlaine a corrigé «la voile» en «le
+voile», ou s'agit-il d'un moment d'inattention?
 
-Ce qui est certain, notre ï¿½dition marque bien ï¿½le voileï¿½.]
-
-
+Ce qui est certain, notre édition marque bien «le voile».]
 
 
-LE COEUR VOLï¿½
 
 
-    Mon pauvre coeur bave ï¿½ la poupe,
+LE COEUR VOLÉ
+
+
+    Mon pauvre coeur bave à la poupe,
     Mon coeur est plein de caporal;
     Ils lui lancent des jets de soupe,
-    Mon triste coeur bave ï¿½ la poupe.
+    Mon triste coeur bave à la poupe.
     Sous les quolibets de la troupe
-    Qui pousse un rire gï¿½nï¿½ral,
-    Mon triste coeur brave ï¿½ la poupe
+    Qui pousse un rire général,
+    Mon triste coeur brave à la poupe
     Mon coeur est plein de caporal!
 
     Ithyphalliques et pioupiesques,
-    Leurs insultes l'ont dï¿½pravï¿½.
-    ï¿½ la vesprï¿½e, ils font des fresques
+    Leurs insultes l'ont dépravé.
+    À la vesprée, ils font des fresques
     Ithyphalliques et pioupiesques,
-    ï¿½ flots abracadabrantesques
-    Prenez mon coeur, qu'il soit sauvï¿½!
+    Ô flots abracadabrantesques
+    Prenez mon coeur, qu'il soit sauvé!
     Ithyphalliques et pioupiesques
-    Leurs insultes l'ont dï¿½pravï¿½!
+    Leurs insultes l'ont dépravé!
 
     Quand ils auront tari leurs chiques,
-    Comment agir, ï¿½ coeur volï¿½?
+    Comment agir, ô coeur volé?
     Ce seront des refrains bachiques
     Quand ils auront tari leurs chiques.
     J'aurai des sursauts stomachiques
-    Si mon coeur triste est ravalï¿½:
+    Si mon coeur triste est ravalé:
     Quand ils auront tari leurs chiques,
-    Comment agir, ï¿½ coeur volï¿½?
+    Comment agir, ô coeur volé?
 
 
 
 
-Tï¿½TE DE FAUNE
+TÊTE DE FAUNE
 
 
-    Dans la feuillï¿½e, ï¿½crin vert tachï¿½ d'or,
-    Dans la feuillï¿½e incertaine et fleurie,
-    D'ï¿½normes fleurs oï¿½ l'ï¿½cre baiser dort
+    Dans la feuillée, écrin vert taché d'or,
+    Dans la feuillée incertaine et fleurie,
+    D'énormes fleurs où l'âcre baiser dort
     Vif et devant l'exquise broderie,
 
-    Le Faune affolï¿½ montre ses grands yeux
+    Le Faune affolé montre ses grands yeux
     Et mord la fleur rouge avec ses dents blanches
     Brunie et sanglante ainsi qu'un vin vieux,
-    Sa lï¿½vre ï¿½clate en rires par les branches;
+    Sa lèvre éclate en rires par les branches;
 
-    Et quand il a fui, tel un ï¿½cureuil,
-    Son rire perle encore ï¿½ chaque feuille
-    Et l'on croit ï¿½peurï¿½ par un bouvreuil
+    Et quand il a fui, tel un écureuil,
+    Son rire perle encore à chaque feuille
+    Et l'on croit épeuré par un bouvreuil
     Le baiser d'or du bois qui se recueille.
 
 
@@ -2712,22 +2712,22 @@ POISON PERDU
 
 
     Des nuits du blond et de la brune
-    Pas un souvenir n'est restï¿½;
-    Pas une dentelle d'ï¿½tï¿½,
+    Pas un souvenir n'est resté;
+    Pas une dentelle d'été,
     Pas une cravate commune.
 
-    Et sur le balcon, oï¿½ le thï¿½
+    Et sur le balcon, où le thé
     Se prend aux heures de la lune,
-    Il n'est restï¿½ de trace aucune,
-    Aucun souvenir n'est restï¿½,
+    Il n'est resté de trace aucune,
+    Aucun souvenir n'est resté,
 
-    Au bord d'un rideau bleu piquï¿½e,
-    Luit une ï¿½pingle ï¿½ tï¿½te d'or
+    Au bord d'un rideau bleu piquée,
+    Luit une épingle à tête d'or
     Comme un gros insecte qui dort,
 
-    Pointe d'un fin poison trempï¿½e,
-    Je te prends, sois-moi prï¿½parï¿½e
-    Aux heures des dï¿½sirs de mort.
+    Pointe d'un fin poison trempée,
+    Je te prends, sois-moi préparée
+    Aux heures des désirs de mort.
 
 
 
@@ -2738,30 +2738,30 @@ LES CORBEAUX
     Seigneur, quand froide est la prairie,
     Quand dans les hameaux abattus,
     Les longs angelus se sont tus
-    Sur la nature dï¿½fleurie,
+    Sur la nature défleurie,
     Faites s'abattre des grands cieux
-    Les chers corbeaux dï¿½licieux.
+    Les chers corbeaux délicieux.
 
-    Armï¿½e ï¿½trange aux cris sï¿½vï¿½res,
+    Armée étrange aux cris sévères,
     Les vents froids attaquent vos nids!
     Vous, le long des fleuves jaunis,
     Sur les routes aux vieux calvaires,
-    Sur les fossï¿½s et sur les trous,
+    Sur les fossés et sur les trous,
     Dispersez-vous, ralliez-vous!
 
     Par milliers, sur les champs de France,
-    Oï¿½ dorment les morts d'avant-hier,
+    Où dorment les morts d'avant-hier,
     Tournoyez, n'est-ce pas, l'hiver,
     Pour que chaque passant repense!
     Sois donc le crieur du devoir,
-    ï¿½ notre funï¿½bre oiseau noir!
+    Ô notre funèbre oiseau noir!
 
-    Mais, saints du ciel, en haut du chï¿½ne,
-    Mï¿½t perdu dans le soir charmï¿½,
+    Mais, saints du ciel, en haut du chêne,
+    Mât perdu dans le soir charmé,
     Laissez les fauvettes de mai
-    Pour ceux qu'au fond du bois enchaï¿½ne,
-    Dans l'herbe d'oï¿½ l'on ne peut fuir,
-    La dï¿½faite sans avenir.
+    Pour ceux qu'au fond du bois enchaîne,
+    Dans l'herbe d'où l'on ne peut fuir,
+    La défaite sans avenir.
 
 1872.
 
@@ -2771,14 +2771,14 @@ LES CORBEAUX
 PATIENCE
 
 
-  _D'un ï¿½tï¿½._
+  _D'un été._
 
     Aux branches claires des tilleurs
     Meurt un maladif hallali.
     Mais des chansons spirituelles
     Voltigent partout les groseilles.
     Que notre sang rie en nos veines,
-    Voici s'enchevï¿½trer les vignes.
+    Voici s'enchevêtrer les vignes.
     Le ciel est joli comme un ange,
     Azur et Onde communient.
     Je sors! Si un rayon me blesse,
@@ -2786,64 +2786,64 @@ PATIENCE
 
     Qu'on patiente et qu'on s'ennuie,
     C'est si simple!... Fi de ces peines!
-    Je veux que l'ï¿½tï¿½ dramatique
-    Me lie ï¿½ son char de fortune.
-    Que par toi beaucoup, ï¿½ Nature,
+    Je veux que l'été dramatique
+    Me lie à son char de fortune.
+    Que par toi beaucoup, ô Nature,
     --Ah! moins nul et moins seul! je meure,
-    Au lieu que les bergers, c'est drï¿½le,
-    Meurent ï¿½ peu prï¿½s par le monde.
+    Au lieu que les bergers, c'est drôle,
+    Meurent à peu près par le monde.
 
     Je veux bien que les saisons m'usent.
-    ï¿½ toi, Nature! je me rends,
+    À toi, Nature! je me rends,
     Et ma faim et toute ma soif;
-    Et s'il te plaï¿½t, nourris, abreuve.
+    Et s'il te plaît, nourris, abreuve.
     Rien de rien ne m'illusionne;
     C'est rire aux parents qu'au soleil;
-    Mais moi je ne veux rire ï¿½ rien,
+    Mais moi je ne veux rire à rien,
     Et libre soit cette infortune.
 
 
 
 
-JEUNE Mï¿½NAGE
+JEUNE MÉNAGE
 
 
     La chambre est ouverte au ciel bleu turquin;
     Pas de place: des coffrets et des huches!
     Dehors le mur est plein d'aristoloches
-    Oï¿½ vibrent les gencives des lutins.
+    Où vibrent les gencives des lutins.
 
-    Que ce sont bien intrigues de gï¿½nies
-    Cette dï¿½pense et ces dï¿½sordres vains!
-    C'est la fï¿½e africaine qui fournit
-    La mï¿½re, et les rï¿½silles dans les coins.
+    Que ce sont bien intrigues de génies
+    Cette dépense et ces désordres vains!
+    C'est la fée africaine qui fournit
+    La mûre, et les résilles dans les coins.
 
-    Plusieurs entrent, marraines mï¿½contentes,
-    En pans de lumiï¿½re dans les buffets,
-    Puis y restent! le mï¿½nage s'absente
-    Peu sï¿½rieusement, et rien ne se fait.
+    Plusieurs entrent, marraines mécontentes,
+    En pans de lumière dans les buffets,
+    Puis y restent! le ménage s'absente
+    Peu sérieusement, et rien ne se fait.
 
-    Le mariï¿½ a le vent qui le floue
+    Le marié a le vent qui le floue
     Pendant son absence, ici, tout le temps.
-    Mï¿½me des esprits des eaux malfaisants
-    Entrent vaguer aux sphï¿½res de l'alcï¿½ve.
+    Même des esprits des eaux malfaisants
+    Entrent vaguer aux sphères de l'alcôve.
 
     La nuit, l'amie oh, la lune de miel
     Cueillera leur sourire et remplira
     De mille bandeaux de cuivre le ciel.
     Puis ils auront affaire au malin rat.
 
-    --S'il n'arrive pas un feu follet blï¿½me,
-    Comme un coup de fusil, aprï¿½s des vï¿½pres.
-    --ï¿½ spectres saints et blancs de Bethlï¿½em,
-    Charmez plutï¿½t le bleu de leur fenï¿½tre!
+    --S'il n'arrive pas un feu follet blême,
+    Comme un coup de fusil, après des vêpres.
+    --Ô spectres saints et blancs de Bethléem,
+    Charmez plutôt le bleu de leur fenêtre!
 
 27 juin 1872.
 
 
 
 
-Mï¿½MOIRE
+MÉMOIRE
 
 
 I
@@ -2851,9 +2851,9 @@ I
     L'eau claire; comme le sel des larmes d'enfance;
     L'assaut au soleil des blancheurs des corps de femmes;
     La soie, en foule et de lys pur des oriflammes
-    Sous les murs dont quelque pucelle eut la dï¿½fense;
+    Sous les murs dont quelque pucelle eut la défense;
 
-    L'ï¿½bat des anges;--non... le courant d'or en marche,
+    L'ébat des anges;--non... le courant d'or en marche,
     Meut ses bras, noirs, et lourds, et frais surtout, d'herbe. Elle,
     Sombre, ayant le ciel bleu pour ciel de lit, appelle
     Pour rideaux l'ombre de la colline et de l'arche.
@@ -2862,37 +2862,37 @@ I
 II
 
     Eh! l'humide carreau tend ses bouillons limpides!
-    L'eau meuble d'or pï¿½le et sans fond les couches prï¿½tes.
-    Les robes vertes et dï¿½teintes des fillettes
-    Font les saules, d'oï¿½ sautent les oiseaux sans brides.
+    L'eau meuble d'or pâle et sans fond les couches prêtes.
+    Les robes vertes et déteintes des fillettes
+    Font les saules, d'où sautent les oiseaux sans brides.
 
-    Plus pure qu'un louis, jaune et chaude paupiï¿½re
-    Le souci d'eau--ta foi conjugale, ï¿½ l'ï¿½pouse!--
+    Plus pure qu'un louis, jaune et chaude paupière
+    Le souci d'eau--ta foi conjugale, ô l'Épouse!--
     Au midi prompt, de son terne miroir, jalouse
-    Au ciel gris de chaleur la sphï¿½re rose et chï¿½re.
+    Au ciel gris de chaleur la sphère rose et chère.
 
 
 III
 
     Madame se tient trop debout dans la prairie
-    Prochaine oï¿½ neigent les fils du travail; l'ombrelle
-    Aux doigts; foulant l'ombelle; trop fiï¿½re pour elle
+    Prochaine où neigent les fils du travail; l'ombrelle
+    Aux doigts; foulant l'ombelle; trop fière pour elle
     Des enfants lisant dans la verdure fleurie
 
-    Leur livre de maroquin rouge! Hï¿½las, Lui, comme
-    Mille anges blancs qui se sï¿½parent sur la route,
-    S'ï¿½loigne par delï¿½ la montagne! Elle, toute
-    Froide, et noire, court! aprï¿½s le dï¿½part de l'homme!
+    Leur livre de maroquin rouge! Hélas, Lui, comme
+    Mille anges blancs qui se séparent sur la route,
+    S'éloigne par delà la montagne! Elle, toute
+    Froide, et noire, court! après le départ de l'homme!
 
 
 IV
 
-    Regrets des bras ï¿½pais et jeunes d'herbe pure!
+    Regrets des bras épais et jeunes d'herbe pure!
     Or des lunes d'avril au coeur du saint lit! Joie
-    Des chantiers riverains ï¿½ l'abandon, en proie
-    Aux soirs d'aoï¿½t qui faisaient germer ces pourritures!
+    Des chantiers riverains à l'abandon, en proie
+    Aux soirs d'août qui faisaient germer ces pourritures!
 
-    Qu'elle pleure ï¿½ prï¿½sent sous les remparts: l'haleine
+    Qu'elle pleure à présent sous les remparts: l'haleine
     Des peupliers d'en haut est pour la seule brise.
     Amis, c'est la nappe, sans reflets, sans source, grise--
     Un vieux dragueur, dans sa barque immobile, peine.
@@ -2901,54 +2901,54 @@ IV
 V
 
     Jouet de cet oeil d'eau morne, je n'y puis prendre,
-    ï¿½ canot immobile! ï¿½ bras trop courts! ni l'une
+    Ô canot immobile! ô bras trop courts! ni l'une
     Ni l'autre fleur; ni la jaune qui m'importune,
-    Lï¿½; ni la bleue, amis, ï¿½ l'eau couleur de cendre.
+    Là; ni la bleue, amis, à l'eau couleur de cendre.
 
     Ah! la poudre des saules qu'une aile secoue!
-    Les roses des roseaux dï¿½s longtemps dï¿½vorï¿½es!...
-    Mon canot toujours fixe; et sa chaï¿½ne tirï¿½e
-    Au fond de cet oeil d'eau sans bords--ï¿½ quelle boue?
+    Les roses des roseaux dès longtemps dévorées!...
+    Mon canot toujours fixe; et sa chaîne tirée
+    Au fond de cet oeil d'eau sans bords--à quelle boue?
 
 
 
 
-    Est-elle almï¿½e?... aux premiï¿½res heures bleues
-    Se dï¿½truira-t-elle comme les fleurs feues...
-    Devant la splendide ï¿½tendue oï¿½ l'on sente
-    Souffler la ville ï¿½normï¿½ment florissante!
+    Est-elle almée?... aux premières heures bleues
+    Se détruira-t-elle comme les fleurs feues...
+    Devant la splendide étendue où l'on sente
+    Souffler la ville énormément florissante!
 
-    C'est trop beau! c'est trop beau! mais c'est nï¿½cessaire
-    --Pour la Pï¿½cheuse et la chanson du corsaire,
+    C'est trop beau! c'est trop beau! mais c'est nécessaire
+    --Pour la Pêcheuse et la chanson du corsaire,
     Et aussi puisque les derniers masques crurent
-    Encore aux fï¿½tes de nuit sur la mer pure!
+    Encore aux fêtes de nuit sur la mer pure!
 
 Juillet 1872
 
 
 
 
-Fï¿½TES DE LA FAIM
+FÊTES DE LA FAIM
 
 
         Ma faim, Anne, Anne,
-        Fuis sur ton ï¿½ne.
+        Fuis sur ton âne.
 
-    Si j'ai du goï¿½t, ce n'est guï¿½res
+    Si j'ai du goût, ce n'est guères
     Que pour la terre et les pierres
     Dinn! dinn! dinn! dinn! Mangeons l'air,
     Le roc, les terres, le fer,
             Charbons.
 
     Mes faims, tournez. Paissez, faims,
-        Le prï¿½ des sons!
+        Le pré des sons!
     Attirez le gai venin
         Des liserons;
 
     Mangez les cailloux qu'un pauvre brise,
-    Les vieilles pierres d'ï¿½glises,
-    Les galets, fils des dï¿½luges,
-    Pains couchï¿½s aux vallï¿½es grises!
+    Les vieilles pierres d'églises,
+    Les galets, fils des déluges,
+    Pains couchés aux vallées grises!
 
     Des faims, c'est les bouts d'air noir;
         L'azur sonneur;
@@ -2961,9 +2961,9 @@ Fï¿½TES DE LA FAIM
     La doucette et la violette.
 
         Ma faim, Anne, Anne!
-        Fuis sur ton ï¿½ne.
+        Fuis sur ton âne.
 
-Aoï¿½t 1872.
+Août 1872.
 
 
 
@@ -2978,21 +2978,21 @@ I
 FLAIRY
 
 
-Pour Hï¿½lï¿½ne se conjurï¿½rent les sï¿½ves ornementales dans les ombres
-vierges et les clartï¿½s impassibles dans le silence astral. L'ardeur de
-l'ï¿½tï¿½ fut confiï¿½e ï¿½ des oiseaux muets et l'indolence requise ï¿½ une
+Pour Hélène se conjurèrent les sèves ornementales dans les ombres
+vierges et les clartés impassibles dans le silence astral. L'ardeur de
+l'été fut confiée à des oiseaux muets et l'indolence requise à une
 barque de deuils sans prix par des anses d'amours morts et de parfums
-affaissï¿½s.
+affaissés.
 
-Aprï¿½s le moment de l'air des bï¿½cheronnes ï¿½ la rumeur du torrent sous la
-ruine des bois, de la sonnerie des bestiaux ï¿½ l'ï¿½cho des vals, et des
+Après le moment de l'air des bûcheronnes à la rumeur du torrent sous la
+ruine des bois, de la sonnerie des bestiaux à l'écho des vals, et des
 cris des steppes.
 
-Pour l'enfance d'Hï¿½lï¿½ne frissonnï¿½rent les fourrï¿½s et les ombres, et le
-sein des pauvres, et les lï¿½gendes du ciel.
+Pour l'enfance d'Hélène frissonnèrent les fourrés et les ombres, et le
+sein des pauvres, et les légendes du ciel.
 
-Et ses yeux et sa danse supï¿½rieurs encore aux ï¿½clats prï¿½cieux, aux
-influences froides, au plaisir du dï¿½cor et de l'heure uniques.
+Et ses yeux et sa danse supérieurs encore aux éclats précieux, aux
+influences froides, au plaisir du décor et de l'heure uniques.
 
 
 
@@ -3002,12 +3002,12 @@ II
 GUERRE
 
 
-Enfant, certains ciels ont affinï¿½ mon optique, tous les caractï¿½res
-nuancï¿½rent ma physionomie. Les phï¿½nomï¿½nes s'ï¿½murent. ï¿½ prï¿½sent
-l'inflexion ï¿½ternelle des moments de l'infini des mathï¿½matiques me
-chassent par ce monde oï¿½ je subis tous les succï¿½s civils, respectï¿½ de
-l'enfance ï¿½trange et des affections ï¿½normes. Je songe ï¿½ une guerre, de
-droit ou de force, de logique bien imprï¿½vue.
+Enfant, certains ciels ont affiné mon optique, tous les caractères
+nuancèrent ma physionomie. Les phénomènes s'émurent. À présent
+l'inflexion éternelle des moments de l'infini des mathématiques me
+chassent par ce monde où je subis tous les succès civils, respecté de
+l'enfance étrange et des affections énormes. Je songe à une guerre, de
+droit ou de force, de logique bien imprévue.
 
 C'est aussi simple qu'une phrase musicale.
 
@@ -3016,52 +3016,52 @@ C'est aussi simple qu'une phrase musicale.
 
 III
 
-Gï¿½NIE
+GÉNIE
 
 
-Il est l'affection et le prï¿½sent puisqu'il a fait la maison ouverte ï¿½
-l'hiver ï¿½cumeux et ï¿½ la rumeur de l'ï¿½tï¿½, lui qui a purifiï¿½ les boissons
-et les aliments, lui qui est le charme des lieux fuyant et le dï¿½lice
+Il est l'affection et le présent puisqu'il a fait la maison ouverte à
+l'hiver écumeux et à la rumeur de l'été, lui qui a purifié les boissons
+et les aliments, lui qui est le charme des lieux fuyant et le délice
 surhumain des stations. Il est l'affection et l'avenir, la force et
 l'amour que nous, debout dans les rages et les ennuis, nous voyons
-passer dans le ciel de tempï¿½te et les drapeaux d'extase.
+passer dans le ciel de tempête et les drapeaux d'extase.
 
-Il est l'amour, mesure parfaite et rï¿½inventï¿½e, raison merveilleuse et
-imprï¿½vue, et l'ï¿½ternitï¿½: machine aimï¿½e des qualitï¿½s fatales. Nous avons
-tous eu l'ï¿½pouvante de sa concession et de la nï¿½tre: ï¿½ jouissance de
-notre santï¿½, ï¿½lan de nos facultï¿½s, affection ï¿½goï¿½ste et passion pour
+Il est l'amour, mesure parfaite et réinventée, raison merveilleuse et
+imprévue, et l'éternité: machine aimée des qualités fatales. Nous avons
+tous eu l'épouvante de sa concession et de la nôtre: ô jouissance de
+notre santé, élan de nos facultés, affection égoïste et passion pour
 lui, lui qui nous aime pour sa vie infinie...
 
 Et nous nous le rappelons et il voyage... Et si l'Adoration s'en va,
-sonne, sa promesse sonne: ï¿½Arriï¿½re ces superstitions, ces anciens corps,
-ces mï¿½nages et ces ï¿½ges. C'est cette ï¿½poque-ci qui a sombrï¿½!ï¿½
+sonne, sa promesse sonne: «Arrière ces superstitions, ces anciens corps,
+ces ménages et ces âges. C'est cette époque-ci qui a sombré!»
 
 Il ne s'en ira pas, il ne redescendra pas d'un ciel, il n'accomplira pas
-la rï¿½demption des colï¿½res de femmes et des gaï¿½tï¿½s des hommes et de tout
-ce pï¿½chï¿½: car c'est fait, lui ï¿½tant, et ï¿½tant aimï¿½.
+la rédemption des colères de femmes et des gaîtés des hommes et de tout
+ce péché: car c'est fait, lui étant, et étant aimé.
 
-ï¿½ ses souffles, ses tï¿½tes, ses courses; la terrible cï¿½lï¿½ritï¿½ de la
+Ô ses souffles, ses têtes, ses courses; la terrible célérité de la
 perfection des formes et de l'action.
 
-ï¿½ fï¿½conditï¿½ de l'esprit et immensitï¿½ de l'univers!
+Ô fécondité de l'esprit et immensité de l'univers!
 
-Son corps! Le dï¿½gagement rï¿½vï¿½ le brisement de la grï¿½ce croisï¿½e de
+Son corps! Le dégagement rêvé le brisement de la grâce croisée de
 violence nouvelle! sa vue, sa vue! tous les agenouillages anciens et les
-peines _relevï¿½s_ ï¿½ sa suite.
+peines _relevés_ à sa suite.
 
 Son jour! l'abolition de toutes souffrances sonores et mouvantes dans la
 musique plus intense.
 
-Son pas! les migrations plus ï¿½normes que les anciennes invasions.
+Son pas! les migrations plus énormes que les anciennes invasions.
 
-ï¿½ Lui et nous! l'orgueil plus bienveillant que les charitï¿½s perdues.
+Ô Lui et nous! l'orgueil plus bienveillant que les charités perdues.
 
-ï¿½ monde! et le chant clair des malheurs nouveaux!
+Ô monde! et le chant clair des malheurs nouveaux!
 
-Il nous a connus tous et nous a tous tous aimï¿½. Sachons, cette nuit
-d'hiver, de cap en cap, du pï¿½le tumultueux au chï¿½teau, de la foule ï¿½ la
-plage, de regards en regards, forces et sentiments las, le hï¿½ler et le
-voir, et le renvoyer, et sous les marï¿½es et au haut des dï¿½serts de
+Il nous a connus tous et nous a tous tous aimé. Sachons, cette nuit
+d'hiver, de cap en cap, du pôle tumultueux au château, de la foule à la
+plage, de regards en regards, forces et sentiments las, le héler et le
+voir, et le renvoyer, et sous les marées et au haut des déserts de
 neige, suivre ses vues, ses souffles, son corps, son jour.
 
 
@@ -3076,17 +3076,17 @@ I
 
 DIMANCHE
 
-Les calculs de cï¿½tï¿½, l'inï¿½vitable descente du ciel, la visite des
-souvenirs et la sï¿½ance des rythmes occupent la demeure, la tï¿½te et le
+Les calculs de côté, l'inévitable descente du ciel, la visite des
+souvenirs et la séance des rythmes occupent la demeure, la tête et le
 monde de l'esprit.
 
---Un cheval dï¿½tale sur le turf suburbain, le long des cultures et des
-boisements, percï¿½ par la peste carbonique. Une misï¿½rable femme de drame,
-quelque part dans le monde soupire aprï¿½s les abandons improbables. Les
-desperadves languissent aprï¿½s l'orage, l'ivresse et les blessures. De
-petits enfants ï¿½touffent des malï¿½dictions le long des riviï¿½res.
+--Un cheval détale sur le turf suburbain, le long des cultures et des
+boisements, percé par la peste carbonique. Une misérable femme de drame,
+quelque part dans le monde soupire après les abandons improbables. Les
+desperadves languissent après l'orage, l'ivresse et les blessures. De
+petits enfants étouffent des malédictions le long des rivières.
 
-Reprenons l'ï¿½tude au bruit de l'oeuvre dï¿½vorante qui se rassemble et se
+Reprenons l'étude au bruit de l'oeuvre dévorante qui se rassemble et se
 monte dans les masses.
 
 
@@ -3094,40 +3094,40 @@ II
 
 SONNET
 
-_Homme_ de constitution ordinaire, la chair n'ï¿½tait-elle pas un fruit
-pendu dans le verger, ï¿½ journï¿½es enfantes! le corps un trï¿½sor ï¿½
-prodiguer; ï¿½ aimer, le pï¿½ril ou la force de Psychï¿½? La terre avait des
+_Homme_ de constitution ordinaire, la chair n'était-elle pas un fruit
+pendu dans le verger, ô journées enfantes! le corps un trésor à
+prodiguer; ô aimer, le péril ou la force de Psyché? La terre avait des
 versants fertiles en princes et en artistes, et la descendance et la
 race nous poussaient aux crimes et aux deuils: ce monde votre fortune et
-votre pï¿½ril. Mais ï¿½ prï¿½sent, le labeur comblï¿½, toi, tes calculs, toi,
-tes impatiences, ne sont plus que votre danse et votre voix, non fixï¿½es
-et point forcï¿½es, quoique d'un double ï¿½vï¿½nement d'invention et de succï¿½s
-une liaison, en l'humanitï¿½ fraternelle est discrï¿½te par l'univers sans
-images;--la force et le droit rï¿½flï¿½chissent la danse et la voix ï¿½
-prï¿½sent seulement apprï¿½ciï¿½es.
+votre péril. Mais à présent, le labeur comblé, toi, tes calculs, toi,
+tes impatiences, ne sont plus que votre danse et votre voix, non fixées
+et point forcées, quoique d'un double événement d'invention et de succès
+une liaison, en l'humanité fraternelle est discrète par l'univers sans
+images;--la force et le droit réfléchissent la danse et la voix à
+présent seulement appréciées.
 
 
 III
 
 VINGT ANS
 
-Les voix instructives exilï¿½es... L'ingï¿½nuitï¿½ physique amï¿½rement
-rassise... Adagio. Ah! l'ï¿½goï¿½sme infini de l'adolescence, l'optimisme
-studieux: que le monde ï¿½tait plein de fleurs cet ï¿½tï¿½! Les airs et les
+Les voix instructives exilées... L'ingénuité physique amèrement
+rassise... Adagio. Ah! l'égoïsme infini de l'adolescence, l'optimisme
+studieux: que le monde était plein de fleurs cet été! Les airs et les
 formes mourant... Un choeur, pour calmer l'impuissance et l'absence! Un
-choeur de verres de mï¿½lodies nocturnes... En effet les nerfs vont vite
+choeur de verres de mélodies nocturnes... En effet les nerfs vont vite
 chasser.
 
 
 IV
 
-Tu en es encore ï¿½ la tentation d'Antoine. L'ï¿½bat du zï¿½le ï¿½courtï¿½, les
-tics d'orgueil, l'affaissement et l'effroi. Mais tu te mettras ï¿½ ce
-travail: toutes les possibilitï¿½s harmoniques et architecturales
-s'ï¿½mouvront autour de ton siï¿½ge. Des ï¿½tres parfaits, imprï¿½vus,
-s'offriront ï¿½ tes expï¿½riences. Dans tes environs affluera rï¿½veusement la
-curiositï¿½ d'anciennes foules et de luxes oisifs. Ta mï¿½moire et tes sens
-ne seront que la nourriture de ton impulsion crï¿½atrice. Quant au monde,
+Tu en es encore à la tentation d'Antoine. L'ébat du zèle écourté, les
+tics d'orgueil, l'affaissement et l'effroi. Mais tu te mettras à ce
+travail: toutes les possibilités harmoniques et architecturales
+s'émouvront autour de ton siège. Des êtres parfaits, imprévus,
+s'offriront à tes expériences. Dans tes environs affluera rêveusement la
+curiosité d'anciennes foules et de luxes oisifs. Ta mémoire et tes sens
+ne seront que la nourriture de ton impulsion créatrice. Quant au monde,
 quand tu sortiras, que sera-t-il devenu? En tout cas, rien des
 apparences actuelles.
 
@@ -3139,34 +3139,34 @@ V
 SOLDES
 
 
-ï¿½ vendre ce que les Juifs n'ont pas vendus, ce que noblesse ni crime
-n'ont goï¿½tï¿½, ce qu'ignorent l'amour maudit et la probitï¿½ infernale des
-masses; ce que le temps ni la science n'ont pas ï¿½ reconnaï¿½tre:
+À vendre ce que les Juifs n'ont pas vendus, ce que noblesse ni crime
+n'ont goûté, ce qu'ignorent l'amour maudit et la probité infernale des
+masses; ce que le temps ni la science n'ont pas à reconnaître:
 
-Les voix reconstituï¿½es; l'ï¿½veil fraternel de toutes les ï¿½nergies
-chorales et orchestrales, et leurs applications instantanï¿½es,
-l'occasion, unique, de dï¿½gager nos sens!
+Les voix reconstituées; l'éveil fraternel de toutes les énergies
+chorales et orchestrales, et leurs applications instantanées,
+l'occasion, unique, de dégager nos sens!
 
-ï¿½ vendre les corps sans prix, hors de toute race, de tout monde, de tout
-sexe, de toute descendance! Les richesses jaillissant ï¿½ chaque dï¿½marche!
-Solde de diamants sans contrï¿½le!
+À vendre les corps sans prix, hors de toute race, de tout monde, de tout
+sexe, de toute descendance! Les richesses jaillissant à chaque démarche!
+Solde de diamants sans contrôle!
 
-ï¿½ vendre l'anarchie pour les masses; la satisfaction irrï¿½prï¿½ssible pour
-les amateurs supï¿½rieurs; la mort atroce pour les fidï¿½les et les amants!
+À vendre l'anarchie pour les masses; la satisfaction irrépréssible pour
+les amateurs supérieurs; la mort atroce pour les fidèles et les amants!
 
-ï¿½ vendre les habitations et les migrations, sports, fï¿½eries et conforts
+À vendre les habitations et les migrations, sports, féeries et conforts
 parfaits, et le bruit, le mouvement et l'avenir qu'ils font:
 
-ï¿½ vendre les applications de calcul et sauts d'harmonie inouï¿½s. Les
-trouvailles et les termes non soupï¿½onnï¿½s, possession immï¿½diate.
+À vendre les applications de calcul et sauts d'harmonie inouïs. Les
+trouvailles et les termes non soupçonnés, possession immédiate.
 
-ï¿½lan insensï¿½ et infini aux splendeurs et invisibles aux dï¿½lices
-insensibles, et ses secrets affolants pour chaque vice, et sa gaï¿½tï¿½
+Élan insensé et infini aux splendeurs et invisibles aux délices
+insensibles, et ses secrets affolants pour chaque vice, et sa gaîté
 effroyante pour la foule.
 
-ï¿½ vendre les corps, les voix, l'immense opulence inquestionable, ce
-qu'on ne vendra jamais. Les vendeurs ne sont pas ï¿½ bout de solde! Les
-voyageurs n'ont pas ï¿½ rendre leur commission de sitï¿½t!
+À vendre les corps, les voix, l'immense opulence inquestionable, ce
+qu'on ne vendra jamais. Les vendeurs ne sont pas à bout de solde! Les
+voyageurs n'ont pas à rendre leur commission de sitôt!
 
 
 
@@ -3174,58 +3174,58 @@ voyageurs n'ont pas ï¿½ rendre leur commission de sitï¿½t!
 TABLE
 
 
-    PRï¿½FACE
-    Les ï¿½trennes des orphelins
+    PRÉFACE
+    Les étrennes des orphelins
     Voyelles
     Oraison du soir
     Les assis
-    Les effarï¿½s
+    Les effarés
     Les chercheuses de poux
     Bateau ivre
-    Premiï¿½res communions
+    Premières communions
     L'orgie parisienne ou Paris se repeuple
     Accroupissements
-    Les pauvres ï¿½ l'ï¿½glise
+    Les pauvres à l'église
     Ce qui retient Nina
-    Vï¿½nus Anadyomï¿½ne
+    Vénus Anadyomène
     Morts de quatre-vingt-douze
-    Comï¿½die en trois baisers
+    Comédie en trois baisers
     Sensation
     Bal des pendus
     Roman
-    Rages de Cï¿½sars
+    Rages de Césars
     Le mal
-    Ophï¿½lie
-    Le chï¿½timent de Tartufe
-    ï¿½ la musique
+    Ophélie
+    Le châtiment de Tartufe
+    À la musique
     Le forgeron
     Soleil et chair
     Le dormeur du Val
     Au Cabaret Vert
     La Maline
-    L'ï¿½clatante victoire de Sarrebruck
-    Rï¿½vï¿½ pour l'hiver
+    L'éclatante victoire de Sarrebruck
+    Rêvé pour l'hiver
     Le buffet
-    Ma bohï¿½me
+    Ma bohème
     Entends comme Brame
     Chant de guerre parisien
     Mes petites amoureuses
-    Les poï¿½tes de sept ans
-    Le coeur volï¿½
-    Tï¿½te de faune
+    Les poètes de sept ans
+    Le coeur volé
+    Tête de faune
     Poison perdu
     Les corbeaux
     Patience
-    Jeune mï¿½nage
-    Mï¿½moire
-    ... Est-elle almï¿½e?
-    Fï¿½tes de la faim (variante)
+    Jeune ménage
+    Mémoire
+    ... Est-elle almée?
+    Fêtes de la faim (variante)
 
 PROSE
 
     Fairy
     Guerre
-    Gï¿½nie
+    Génie
     Jeunesse
     I. Dimanche
     II. Sonnet
@@ -3237,15 +3237,15 @@ PROSE
 
 [Notes sur la transcription:
 
-On a effectuï¿½ les corrections suivantes:
+On a effectué les corrections suivantes:
 
-    ombragï¿½ => ombrï¿½ (On paie au Prï¿½tre un toit ombragï¿½ d'une charmille)
-    retirï¿½ ï¿½petitsï¿½ (De s'entendre appeler garces par les petits garï¿½ons)
-    retirï¿½ ï¿½fortesï¿½ (Elle eut soif de la nuit forte oï¿½ s'exalte et s'abaisse)
-    Boï¿½te => Poï¿½te (Le Boï¿½te prendra le sanglot des Infï¿½mes)
+    ombragé => ombré (On paie au Prêtre un toit ombragé d'une charmille)
+    retiré «petits» (De s'entendre appeler garces par les petits garçons)
+    retiré «fortes» (Elle eut soif de la nuit forte où s'exalte et s'abaisse)
+    Boète => Poète (Le Boète prendra le sanglot des Infâmes)
     gravements => gravement (Et parfois en hoquets fort gravements bouffons)
-    ajoutï¿½ ï¿½est Roi!ï¿½ (--Et pourtant, plus de dieux! plus de dieux! l'Homme)
-    dlamants => diamants (Solde de dlamants sans contrï¿½le!)]
+    ajouté «est Roi!» (--Et pourtant, plus de dieux! plus de dieux! l'Homme)
+    dlamants => diamants (Solde de dlamants sans contrôle!)]
 
 
 

@@ -1,5 +1,5 @@
 (http://dp.rastko.net); produced from images of the
-Bibliothï¿½que nationale de France (BNF/Gallica) at
+Bibliothèque nationale de France (BNF/Gallica) at
 http://gallica.bnf.fr
 
 
@@ -11,26 +11,26 @@ http://gallica.bnf.fr
 
 
 
-           OUVELLE RELATION DE L'ITINï¿½RAIRE DE NAPOLï¿½ON,
-                 DE FONTAINEBLEAU ï¿½ L'ï¿½LE D'ELBE,
-                           Rï¿½DIGï¿½
+           OUVELLE RELATION DE L'ITINÉRAIRE DE NAPOLÉON,
+                 DE FONTAINEBLEAU À L'ÎLE D'ELBE,
+                           RÉDIGÉ
                         PAR LE COMTE
-DE WALDBOURG-TRUCHSESS, COMMISSAIRE NOMMï¿½, PAR S. M. LE ROI DE PRUSSE,
+DE WALDBOURG-TRUCHSESS, COMMISSAIRE NOMMÉ, PAR S. M. LE ROI DE PRUSSE,
                      POUR L'ACCOMPAGNER.
 
                   OUVRAGE TRADUIT DE L'ALLEMAND,
-             Sous les yeux de l'Auteur, et augmentï¿½ de
+             Sous les yeux de l'Auteur, et augmenté de
          plusieurs faits qui ne sont pas dans l'original.
 
                             PARIS,
 
                             Chez:
 
-C.L.F. PANCKOUCKE, imprimeur-libraire, rue et hï¿½tel Serpente, n. 16;
+C.L.F. PANCKOUCKE, imprimeur-libraire, rue et hôtel Serpente, n. 16;
 LENORMAND, rue de Seine;
-DENTU, PETIT, DELAUNAY, Pï¿½LISSIER, au Palais-Royal;
-PILLET, rue Christine, nï¿½. 8; VERDIï¿½RES, quai des Augustins, nï¿½. 27;
-Et tous les Marchands de nouveautï¿½s.
+DENTU, PETIT, DELAUNAY, PÉLISSIER, au Palais-Royal;
+PILLET, rue Christine, nº. 8; VERDIÈRES, quai des Augustins, nº. 27;
+Et tous les Marchands de nouveautés.
 
                             1815.
 
@@ -45,1057 +45,1057 @@ Et tous les Marchands de nouveautï¿½s.
                           DU COMTE
                     DE WALDBOURG-TRUCHSESS,
 
-Commissaire nommï¿½ par S. M. le roi de Prusse, pour accompagner Napolï¿½on
+Commissaire nommé par S. M. le roi de Prusse, pour accompagner Napoléon
 Buonaparte.
 
 
-LE 16 avril, j'arrivai le soir ï¿½ Fontainebleau; le 17, je fis ma visite
-au grand-marï¿½chal Bertrand, et au gï¿½nï¿½ral Drouot, qui m'engagï¿½rent ï¿½
-prendre un logement au chï¿½teau; ce que j'acceptai. Aprï¿½s la messe, les
-commissaires nommï¿½s pour accompagner S. M. l'Empereur des Franï¿½ais[1],
-eurent une audience particuliï¿½re. Le gï¿½nï¿½ral Koller ï¿½tait envoyï¿½ pour
-l'Autriche, le gï¿½nï¿½ral Schuwaloff pour la Russie, le colonel Campbell
+LE 16 avril, j'arrivai le soir à Fontainebleau; le 17, je fis ma visite
+au grand-maréchal Bertrand, et au général Drouot, qui m'engagèrent à
+prendre un logement au château; ce que j'acceptai. Après la messe, les
+commissaires nommés pour accompagner S. M. l'Empereur des Français[1],
+eurent une audience particulière. Le général Koller était envoyé pour
+l'Autriche, le général Schuwaloff pour la Russie, le colonel Campbell
 pour l'Angleterre, et moi pour la Prusse. Le major comte de
-Clam-Martiniz avait ï¿½tï¿½ adjoint au gï¿½nï¿½ral Koller, en qualitï¿½ de premier
+Clam-Martiniz avait été adjoint au général Koller, en qualité de premier
 aide-de-camp.
 
-[Note 1: Il nous ï¿½tait particuliï¿½rement recommandï¿½ de lui donner le
-titre d'Empereur, et de lui rendre tous les honneurs dus ï¿½ son rang.]
+[Note 1: Il nous était particulièrement recommandé de lui donner le
+titre d'Empereur, et de lui rendre tous les honneurs dus à son rang.]
 
-Chacun de nous eut une audience particuliï¿½re de Napolï¿½on. Il nous reï¿½ut
-assez froidement; mais son mï¿½contentement et son embarras furent
-extrï¿½mes, lorsqu'on lui annonï¿½a un commissaire de la Prusse; car on ne
-peut douter que Bonaparte, dans ses plans, n'eï¿½t voulu faire disparaï¿½tre
+Chacun de nous eut une audience particulière de Napoléon. Il nous reçut
+assez froidement; mais son mécontentement et son embarras furent
+extrêmes, lorsqu'on lui annonça un commissaire de la Prusse; car on ne
+peut douter que Bonaparte, dans ses plans, n'eût voulu faire disparaître
 cette couronne du nombre des puissances. Il me demanda s'il y avait des
-troupes prussiennes sur la route que nous avions ï¿½ parcourir? Comme je
-lui rï¿½pondis nï¿½gativement, il ajouta: _mais en ce cas, vous ne deviez
-pas vous donner la peine de m'accompagner_. Je lui dis que ce n'ï¿½tait
+troupes prussiennes sur la route que nous avions à parcourir? Comme je
+lui répondis négativement, il ajouta: _mais en ce cas, vous ne deviez
+pas vous donner la peine de m'accompagner_. Je lui dis que ce n'était
 pas une peine, mais un honneur. Il persista dans son sentiment, et comme
-je lui assurai qu'il m'ï¿½tait impossible de me dï¿½mettre de l'honorable
+je lui assurai qu'il m'était impossible de me démettre de l'honorable
 commission dont S. M. avait bien voulu me charger, il ne me parla plus,
-et me fit trï¿½s-mauvaise mine[2]. Il accueillit le colonel Campbell; il
-lui demanda avec intï¿½rï¿½t des nouvelles de sa blessure, et ï¿½ quelles
-batailles il avait reï¿½u les ordres dont il ï¿½tait dï¿½corï¿½; et il prit
-occasion de lï¿½, pour parler de la campagne d'Espagne, en donnant les
-plus grands ï¿½loges ï¿½ lord Wellington. Il s'informa, avec les plus petits
-dï¿½tails, de son caractï¿½re et de ses habitudes; demanda au colonel
-Campbell de quel pays il ï¿½tait; et comme celui-ci rï¿½pondit qu'il ï¿½tait
-nï¿½ en ï¿½cosse, l'Empereur se mit ï¿½ louer les poï¿½sies d'Ossian, et ï¿½
+et me fit très-mauvaise mine[2]. Il accueillit le colonel Campbell; il
+lui demanda avec intérêt des nouvelles de sa blessure, et à quelles
+batailles il avait reçu les ordres dont il était décoré; et il prit
+occasion de là, pour parler de la campagne d'Espagne, en donnant les
+plus grands éloges à lord Wellington. Il s'informa, avec les plus petits
+détails, de son caractère et de ses habitudes; demanda au colonel
+Campbell de quel pays il était; et comme celui-ci répondit qu'il était
+né en Écosse, l'Empereur se mit à louer les poésies d'Ossian, et à
 vanter surtout l'esprit guerrier de cet ouvrage.
 
-[Note 2: Il tï¿½moigna aussi son mï¿½contentement au gï¿½nï¿½ral Koller,
-d'ï¿½tre accompagnï¿½ par un commissaire prussien; et comme le gï¿½nï¿½ral lui
-rappela que lui-mï¿½me avait demandï¿½ des commissaires ï¿½ toutes les
-puissances alliï¿½es, l'Empereur lui rï¿½pliqua vivement: _Pourquoi ne m'en
-a-t-on pas envoyï¿½ aussi un de Baden, et un de Darmstadt?_]
+[Note 2: Il témoigna aussi son mécontentement au général Koller,
+d'être accompagné par un commissaire prussien; et comme le général lui
+rappela que lui-même avait demandé des commissaires à toutes les
+puissances alliées, l'Empereur lui répliqua vivement: _Pourquoi ne m'en
+a-t-on pas envoyé aussi un de Baden, et un de Darmstadt?_]
 
-Ce jour mï¿½me ï¿½tait fixï¿½ pour le dï¿½part; mais Napolï¿½on trouva un prï¿½texte
-pour le diffï¿½rer, parce que, disait-il, il ne voulait pas suivre la
+Ce jour même était fixé pour le départ; mais Napoléon trouva un prétexte
+pour le différer, parce que, disait-il, il ne voulait pas suivre la
 route d'Auxerre, Lyon, Grenoble, Gap et Digne, mais celle de Briare,
-Roanne, Lyon, Valence et Avignon. Le gï¿½nï¿½ral Bertrand fut chargï¿½ de
-nous faire cette demande, et de la motiver sur ce que le chemin indiquï¿½
-ï¿½tait trop mauvais pour les voitures et pour sa garde dont, suivant le
-traitï¿½, Napolï¿½on devait ï¿½tre accompagnï¿½; et parce que, de plus, ses
-ï¿½quipages, venus d'Orlï¿½ans, s'ï¿½taient dï¿½jï¿½ dirigï¿½s sur Briare et l'y
+Roanne, Lyon, Valence et Avignon. Le général Bertrand fut chargé de
+nous faire cette demande, et de la motiver sur ce que le chemin indiqué
+était trop mauvais pour les voitures et pour sa garde dont, suivant le
+traité, Napoléon devait être accompagné; et parce que, de plus, ses
+équipages, venus d'Orléans, s'étaient déjà dirigés sur Briare et l'y
 attendaient; il y devait changer de voiture, et trouver pour le voyage
-beaucoup de facilitï¿½s, dont il ï¿½tait privï¿½ en ce moment.
+beaucoup de facilités, dont il était privé en ce moment.
 
-Il nous fallut envoyer ï¿½ Paris pour obtenir ce que l'Empereur demandait.
-Le gï¿½nï¿½ral Caulaincourt[3] fut chargï¿½ de ce message: aprï¿½s avoir pris
-congï¿½ de S. M., il partit avec nos dï¿½pï¿½ches auprï¿½s des autoritï¿½s
-franï¿½aises, afin d'obtenir un ordre direct pour le gouverneur de l'ï¿½le
-d'Elbe, l'Empereur ne voulant pas courir le risque de n'ï¿½tre pas reï¿½u en
-cette ï¿½le. Nous eï¿½mes, dans la nuit du 18 au 19, la permission de passer
-par oï¿½ l'Empereur dï¿½sirait, et l'ordre pour que le gouverneur remï¿½t
-l'ï¿½le. Cet ordre n'ï¿½tait pas aussi clair que S. M. l'aurait voulu. Elle
-craignait qu'on ne lui enlevï¿½t les moyens de dï¿½fense qui existaient dans
-l'ï¿½le; il fallut en consï¿½quence envoyer de nouveau ï¿½ Paris. Le gï¿½nï¿½ral
-Koller assura ï¿½ l'Empereur qu'on lui accordait tout ce qu'il demandait,
-et le dï¿½part fut enfin fixï¿½ pour le 20. Napolï¿½on avait fait partir,
-pendant la nuit, prï¿½s de cent voitures chargï¿½es de munitions de guerre,
+Il nous fallut envoyer à Paris pour obtenir ce que l'Empereur demandait.
+Le général Caulaincourt[3] fut chargé de ce message: après avoir pris
+congé de S. M., il partit avec nos dépêches auprès des autorités
+françaises, afin d'obtenir un ordre direct pour le gouverneur de l'île
+d'Elbe, l'Empereur ne voulant pas courir le risque de n'être pas reçu en
+cette île. Nous eûmes, dans la nuit du 18 au 19, la permission de passer
+par où l'Empereur désirait, et l'ordre pour que le gouverneur remît
+l'île. Cet ordre n'était pas aussi clair que S. M. l'aurait voulu. Elle
+craignait qu'on ne lui enlevât les moyens de défense qui existaient dans
+l'île; il fallut en conséquence envoyer de nouveau à Paris. Le général
+Koller assura à l'Empereur qu'on lui accordait tout ce qu'il demandait,
+et le départ fut enfin fixé pour le 20. Napoléon avait fait partir,
+pendant la nuit, près de cent voitures chargées de munitions de guerre,
 d'argent, de meubles, de bronzes, de tableaux, de statues, de livres, et
-peut-ï¿½tre ï¿½tait-ce lï¿½ la vraie cause des retards qu'il avait suscitï¿½s?
+peut-être était-ce là la vraie cause des retards qu'il avait suscités?
 
 [Note 3: Caulaincourt lui avait remis une somme de cinq cent mille
-francs qu'il avait touchï¿½e ï¿½ Blois sur la liste civile.]
+francs qu'il avait touchée à Blois sur la liste civile.]
 
 Le 19, l'Empereur fit venir le duc de Bassano; dans le cours de la
-conversation nous remarquï¿½mes ces mots: _On vous reproche de m'avoir
-constamment empï¿½chï¿½ de faire la paix: qu'en dites-vous?_ Le duc de
-Bassano lui rï¿½pondit: ï¿½Votre Majestï¿½ sait trï¿½s-bien qu'elle ne m'a
-jamais consultï¿½, et qu'elle a toujours agi d'aprï¿½s sa propre sagesse,
+conversation nous remarquâmes ces mots: _On vous reproche de m'avoir
+constamment empêché de faire la paix: qu'en dites-vous?_ Le duc de
+Bassano lui répondit: «Votre Majesté sait très-bien qu'elle ne m'a
+jamais consulté, et qu'elle a toujours agi d'après sa propre sagesse,
 sans prendre conseil des personnes qui l'entouraient: je ne me suis donc
-pas trouvï¿½ dans le cas de lui en donner, mais seulement d'obï¿½ir ï¿½ ses
-ordres.ï¿½ _Je le sais bien_, dit l'Empereur satisfait, _mais je vous en
-parle, pour vous faire connaï¿½tre l'opinion qu'on a de vous_.
+pas trouvé dans le cas de lui en donner, mais seulement d'obéir à ses
+ordres.» _Je le sais bien_, dit l'Empereur satisfait, _mais je vous en
+parle, pour vous faire connaître l'opinion qu'on a de vous_.
 
-Les gï¿½nï¿½raux Belliard, Ornano, Petit, Dejean et Korsakowsky, les
+Les généraux Belliard, Ornano, Petit, Dejean et Korsakowsky, les
 colonels Montesquiou, Bussy, Delaplace, le chambellan de Turenne et le
-ministre Bassano, sont les personnes les plus marquantes qui restï¿½rent
-auprï¿½s de l'Empereur jusqu'ï¿½ son dï¿½part[4].
+ministre Bassano, sont les personnes les plus marquantes qui restèrent
+auprès de l'Empereur jusqu'à son départ[4].
 
-[Note 4: Les gï¿½nï¿½raux de division comte Dejean, fils de
+[Note 4: Les généraux de division comte Dejean, fils de
 l'ex-ministre de l'administration de la guerre, et Montesquiou, fils du
-grand-chambellan furent envoyï¿½s ï¿½ Paris par Napolï¿½on, un jour avant son
-dï¿½part. Le comte Dejean pouvait si peu cacher son chagrin sur l'ï¿½tat
-actuel des choses, qu'ï¿½ table il se frappa plusieurs fois le front, en
+grand-chambellan furent envoyés à Paris par Napoléon, un jour avant son
+départ. Le comte Dejean pouvait si peu cacher son chagrin sur l'état
+actuel des choses, qu'à table il se frappa plusieurs fois le front, en
 disant: _Ah mon Dieu, est-il possible!_ Et quand on lui adressait la
-parole, il paraissait sortir de la plus profonde rï¿½verie; mais il
-rï¿½pondait toujours avec une grande politesse.]
+parole, il paraissait sortir de la plus profonde rêverie; mais il
+répondait toujours avec une grande politesse.]
 
-Les gï¿½nï¿½raux Bertrand et Drouot furent les seuls qui l'accompagnï¿½rent
-pour rester avec lui et partager son sort. Le gï¿½nï¿½ral Lefebvre-Desnouettes
-alla l'attendre ï¿½ Nevers, et ce fut lï¿½ qu'il prit congï¿½ de lui.
+Les généraux Bertrand et Drouot furent les seuls qui l'accompagnèrent
+pour rester avec lui et partager son sort. Le général Lefebvre-Desnouettes
+alla l'attendre à Nevers, et ce fut là qu'il prit congé de lui.
 
 Le mameluck Rustan, et son premier valet de chambre Constant, l'avaient
-abandonnï¿½ dï¿½jï¿½ depuis deux jours, aprï¿½s avoir reï¿½u de lui une somme
-considï¿½rable(_a_)[5].
+abandonné déjà depuis deux jours, après avoir reçu de lui une somme
+considérable(_a_)[5].
 
-[Note 5: Voyez les notes ï¿½ la fin.]
+[Note 5: Voyez les notes à la fin.]
 
-Le 20 avril, ï¿½ dix heures du matin, toutes les voitures ï¿½taient prï¿½tes
-dans la cour du chï¿½teau de Fontainebleau, lorsque l'Empereur fit venir
-le gï¿½nï¿½ral Koller, et lui dit ces mots: _J'ai rï¿½flï¿½chi sur ce qui me
-restait ï¿½ faire, je me suis dï¿½cidï¿½ ï¿½ ne pas partir. Les alliï¿½s ne sont
-pas fidï¿½les aux engagemens qu'ils ont pris avec moi; je puis donc aussi
-rï¿½voquer mon abdication, qui n'ï¿½tait toujours que conditionnelle. Plus
+Le 20 avril, à dix heures du matin, toutes les voitures étaient prêtes
+dans la cour du château de Fontainebleau, lorsque l'Empereur fit venir
+le général Koller, et lui dit ces mots: _J'ai réfléchi sur ce qui me
+restait à faire, je me suis décidé à ne pas partir. Les alliés ne sont
+pas fidèles aux engagemens qu'ils ont pris avec moi; je puis donc aussi
+révoquer mon abdication, qui n'était toujours que conditionnelle. Plus
 de mille adresses me sont parvenues cette nuit: l'on m'y conjure de
-reprendre les rï¿½nes du gouvernement. Je n'avais renoncï¿½ ï¿½ tous mes
-droits ï¿½ la couronne que pour ï¿½pargner ï¿½ la France les horreurs d'une
+reprendre les rênes du gouvernement. Je n'avais renoncé à tous mes
+droits à la couronne que pour épargner à la France les horreurs d'une
 guerre civile, n'ayant jamais eu d'autre but que sa gloire et son
-bonheur; mais, connaissant aujourd'hui le mï¿½contentement qu'inspirent
+bonheur; mais, connaissant aujourd'hui le mécontentement qu'inspirent
 les mesures prises par le nouveau gouvernement; voyant de quelle
-maniï¿½re on remplit les promesses qui m'ont ï¿½tï¿½ faites, je puis expliquer
-maintenant ï¿½ mes gardes quels sont les motifs qui me font rï¿½voquer mon
+manière on remplit les promesses qui m'ont été faites, je puis expliquer
+maintenant à mes gardes quels sont les motifs qui me font révoquer mon
 abdication, et je verrai comment on m'arrachera le coeur de mes vieux
 soldats. Il est vrai que le nombre des troupes sur lesquelles je pourrai
-compter, n'excï¿½dera guï¿½re 30,000 hommes; mais il me sera facile de les
-porter en peu de jours jusqu'ï¿½ 130,000. Sachez que je pourrai tout aussi
-bien, sans compromettre mon honneur, dire ï¿½ mes gardes que, ne
-considï¿½rant que le repos et le bonheur de la patrie, je renonce ï¿½ tous
-mes droits, et les exhorte ï¿½ suivre, ainsi que moi, le voeu de la
+compter, n'excédera guère 30,000 hommes; mais il me sera facile de les
+porter en peu de jours jusqu'à 130,000. Sachez que je pourrai tout aussi
+bien, sans compromettre mon honneur, dire à mes gardes que, ne
+considérant que le repos et le bonheur de la patrie, je renonce à tous
+mes droits, et les exhorte à suivre, ainsi que moi, le voeu de la
 nation._
 
-Le gï¿½nï¿½ral Koller, qui n'avait pas interrompu l'Empereur, se recueillit
-un moment, et lui dit que son sacrifice au repos de la patrie ï¿½tait une
-des plus belles choses qu'il eï¿½t faites; qu'il prouvait par lï¿½ qu'il
-ï¿½tait capable de tout ce qui ï¿½tait grand et noble; et il le pria de lui
-dire en quoi les alliï¿½s avaient manquï¿½ au traitï¿½. _En ce que l'on
-empï¿½che l'Impï¿½ratrice de m'accompagner jusqu'ï¿½ Saint-Tropez, comme il
-ï¿½tait convenu_, lui dit l'Empereur. ï¿½Je vous assure, reprit le gï¿½nï¿½ral,
-que S. M. n'est pas retenue, et que c'est par sa propre volontï¿½ qu'elle
-s'est dï¿½cidï¿½e ï¿½ ne pas vous accompagner.ï¿½ _Eh bien, je veux bien rester
-encore fidï¿½le ï¿½ ma promesse; mais si j'ai de nouvelles raisons de me
-plaindre, je me verrai dï¿½gagï¿½ de tout ce que j'ai promis._
+Le général Koller, qui n'avait pas interrompu l'Empereur, se recueillit
+un moment, et lui dit que son sacrifice au repos de la patrie était une
+des plus belles choses qu'il eût faites; qu'il prouvait par là qu'il
+était capable de tout ce qui était grand et noble; et il le pria de lui
+dire en quoi les alliés avaient manqué au traité. _En ce que l'on
+empêche l'Impératrice de m'accompagner jusqu'à Saint-Tropez, comme il
+était convenu_, lui dit l'Empereur. «Je vous assure, reprit le général,
+que S. M. n'est pas retenue, et que c'est par sa propre volonté qu'elle
+s'est décidée à ne pas vous accompagner.» _Eh bien, je veux bien rester
+encore fidèle à ma promesse; mais si j'ai de nouvelles raisons de me
+plaindre, je me verrai dégagé de tout ce que j'ai promis._
 
-Il ï¿½tait onze heures, et M. de Bussy, aide-de-camp de l'Empereur, vint
-lui dire que le grand-marï¿½chal lui faisait annoncer que tout ï¿½tait prï¿½t
-pour le dï¿½part. _Le grand-marï¿½chal ne me connaï¿½t-il donc pas?_ dit
-l'Empereur ï¿½ l'aide-de-camp, _depuis quand dois-je me rï¿½gler d'aprï¿½s sa
-montre? Je partirai quand je voudrai et peut-ï¿½tre pas du tout._ Le
-colonel Bussy sortit, et Napolï¿½on, se promenant en long et en large dans
+Il était onze heures, et M. de Bussy, aide-de-camp de l'Empereur, vint
+lui dire que le grand-maréchal lui faisait annoncer que tout était prêt
+pour le départ. _Le grand-maréchal ne me connaît-il donc pas?_ dit
+l'Empereur à l'aide-de-camp, _depuis quand dois-je me régler d'après sa
+montre? Je partirai quand je voudrai et peut-être pas du tout._ Le
+colonel Bussy sortit, et Napoléon, se promenant en long et en large dans
 la chambre, parla sans cesse des injustices qu'on lui faisait; il accusa
-l'Empereur d'Autriche d'ï¿½tre un homme sans religion, et de travailler
+l'Empereur d'Autriche d'être un homme sans religion, et de travailler
 tant qu'il pouvait au divorce de sa fille, au lieu de remplir son
 devoir, en maintenant la bonne intelligence parmi ses enfans. Il se
-plaignit aussi du manque de dï¿½licatesse de l'empereur de Russie ï¿½ son
-ï¿½gard, et dit qu'il ï¿½tait, lui seul, cause que l'Impï¿½ratrice n'avait pas
-conservï¿½ la rï¿½gence, et trouva ses visites ï¿½ Rambouillet trï¿½s-dï¿½placï¿½es;
-accusa l'empereur Alexandre et le roi de Prusse d'y aller insulter ï¿½ son
-malheur. Le gï¿½nï¿½ral Koller s'efforï¿½a de lui prouver que ces deux
-souverains n'avaient eu d'autre intention que de prouver leurs ï¿½gards ï¿½
-l'impï¿½ratrice; mais Napolï¿½on ne voulut se dï¿½partir en rien de ses
+plaignit aussi du manque de délicatesse de l'empereur de Russie à son
+égard, et dit qu'il était, lui seul, cause que l'Impératrice n'avait pas
+conservé la régence, et trouva ses visites à Rambouillet très-déplacées;
+accusa l'empereur Alexandre et le roi de Prusse d'y aller insulter à son
+malheur. Le général Koller s'efforça de lui prouver que ces deux
+souverains n'avaient eu d'autre intention que de prouver leurs égards à
+l'impératrice; mais Napoléon ne voulut se départir en rien de ses
 plaintes, relativement au roi de Prusse, contre lequel il laissait
-toujours percer sa haine. Il cherchait ï¿½ convaincre le gï¿½nï¿½ral Koller,
+toujours percer sa haine. Il cherchait à convaincre le général Koller,
 que l'Autriche, par sa position politique actuelle envers la Russie et
-la Prusse, se trouvait beaucoup plus en danger qu'elle ne l'ï¿½tait
-auparavant avec la France, qui, par sa prï¿½pondï¿½rance, arrï¿½tait la Russie
-dans ses plans de conquï¿½te; que le traitï¿½ de Francfort ï¿½tait avantageux
-pour l'Autriche, et que celui d'aujourd'hui, quoiqu'il donnï¿½t plus
-d'ï¿½tendue ï¿½ son territoire, l'exposait aux plus grands dangers avec ses
+la Prusse, se trouvait beaucoup plus en danger qu'elle ne l'était
+auparavant avec la France, qui, par sa prépondérance, arrêtait la Russie
+dans ses plans de conquête; que le traité de Francfort était avantageux
+pour l'Autriche, et que celui d'aujourd'hui, quoiqu'il donnât plus
+d'étendue à son territoire, l'exposait aux plus grands dangers avec ses
 ennemis naturels, la Russie et la Prusse, dont les cabinets ont toujours
-ï¿½tï¿½ connus par leur manque de foi et leurs projets astucieux, au lieu
-qu'avec lui, Napolï¿½on, on pouvait certainement compter sur tout ce qu'il
+été connus par leur manque de foi et leurs projets astucieux, au lieu
+qu'avec lui, Napoléon, on pouvait certainement compter sur tout ce qu'il
 promettait. Il dit aussi que depuis la campagne de Russie il n'avait pas
-eu d'autre but que de conclure la paix telle que les alliï¿½s l'avaient
-proposï¿½e ï¿½ Francfort; que le gï¿½nï¿½ral Caulaincourt, qui avait sans doute
-eu de bonnes intentions, avait abusï¿½ de ses pleins-pouvoirs, en laissant
-espï¿½rer que le souverain de la France signerait jamais les conditions
-prescrites par les alliï¿½s ï¿½ Chï¿½tillon, quoiqu'il eï¿½t renoncï¿½, depuis
-quelque temps, ï¿½ ses prï¿½tentions sur l'Allemagne et sur l'Italie. Le
-gï¿½nï¿½ral Koller tï¿½moigna ï¿½ l'Empereur son ï¿½tonnement de ce qu'il n'avait
-pas fait la paix ï¿½ Prague ou ï¿½ Dresde, oï¿½ on lui avait fait des
-propositions bien plus avantageuses qu'ï¿½ Francfort. _Que voulez-vous_,
-rï¿½pondit l'Empereur sans faire attention qu'il se contredisait, _j'ai eu
+eu d'autre but que de conclure la paix telle que les alliés l'avaient
+proposée à Francfort; que le général Caulaincourt, qui avait sans doute
+eu de bonnes intentions, avait abusé de ses pleins-pouvoirs, en laissant
+espérer que le souverain de la France signerait jamais les conditions
+prescrites par les alliés à Châtillon, quoiqu'il eût renoncé, depuis
+quelque temps, à ses prétentions sur l'Allemagne et sur l'Italie. Le
+général Koller témoigna à l'Empereur son étonnement de ce qu'il n'avait
+pas fait la paix à Prague ou à Dresde, où on lui avait fait des
+propositions bien plus avantageuses qu'à Francfort. _Que voulez-vous_,
+répondit l'Empereur sans faire attention qu'il se contredisait, _j'ai eu
 tort; mais j'avais alors d'autres vues, parce que j'avais encore
-beaucoup de ressources......_ Puis, changeant tout ï¿½ coup de discours;
-_Mais, dites-moi, gï¿½nï¿½ral, si je ne suis pas reï¿½u ï¿½ l'ï¿½le d'Elbe, que me
-conseillez-vous de faire?_ Le gï¿½nï¿½ral pensa qu'il n'y avait aucun motif
-de craindre qu'il ne fï¿½t pas reï¿½u; que d'ailleurs, dans tous les cas, le
+beaucoup de ressources......_ Puis, changeant tout à coup de discours;
+_Mais, dites-moi, général, si je ne suis pas reçu à l'île d'Elbe, que me
+conseillez-vous de faire?_ Le général pensa qu'il n'y avait aucun motif
+de craindre qu'il ne fût pas reçu; que d'ailleurs, dans tous les cas, le
 chemin de l'Angleterre lui restait toujours ouvert. _C'est ce que j'ai
-pensï¿½ aussi; mais comme je leur ai voulu faire tant de mal, les Anglais
+pensé aussi; mais comme je leur ai voulu faire tant de mal, les Anglais
 m'en conserveront toujours du ressentiment._--Comme vous n'avez pas
-exï¿½cutï¿½ vos plans d'anï¿½antissement de l'Angleterre, dit le gï¿½nï¿½ral, vous
-n'avez rien ï¿½ redouter de cette puissance. Il fit encore observer ï¿½
-l'Empereur qu'il s'exposait ï¿½ perdre tous les avantages qui lui ï¿½taient
-assurï¿½s par le traitï¿½ du 11 avril, s'il continuait ï¿½ faire difficultï¿½ de
-partir: alors Napoleon le congï¿½dia en lui disant: _Vous le savez, je
-n'ai jamais manquï¿½ ï¿½ ma parole; ainsi je ne le ferai pas plus ï¿½ prï¿½sent;
-ï¿½ moins qu'on ne m'y force par de mauvais traitemens._ Plusieurs idï¿½es
-remarquables lui ï¿½chappï¿½rent dans cette conversation, nous citons celles
+exécuté vos plans d'anéantissement de l'Angleterre, dit le général, vous
+n'avez rien à redouter de cette puissance. Il fit encore observer à
+l'Empereur qu'il s'exposait à perdre tous les avantages qui lui étaient
+assurés par le traité du 11 avril, s'il continuait à faire difficulté de
+partir: alors Napoleon le congédia en lui disant: _Vous le savez, je
+n'ai jamais manqué à ma parole; ainsi je ne le ferai pas plus à présent;
+à moins qu'on ne m'y force par de mauvais traitemens._ Plusieurs idées
+remarquables lui échappèrent dans cette conversation, nous citons celles
 qui paraissent le plus dignes d'attention. Il savait qu'on lui faisait
-un grand reproche de ne s'ï¿½tre pas donnï¿½ la mort: _Je ne vois rien de
-grand ï¿½ finir sa vie comme quelqu'un qui a perdu toute sa fortune au
-jeu. Il y a beaucoup plus de courage de survivre ï¿½ son malheur non
-mï¿½ritï¿½. Je n'ai pas craint la mort, je l'ai prouvï¿½ dans plus d'un
-combat, et encore derniï¿½rement ï¿½ Arcis-sur-Aube oï¿½ on m'a tuï¿½ quatre
-chevaux sous moi_ (la vï¿½ritï¿½ est qu'il n'a eu qu'un seul cheval
-lï¿½gï¿½rement blessï¿½ dans cette journï¿½e). Il dit aussi: _Je n'ai pas de
-reproches ï¿½ me faire; je n'ai point ï¿½tï¿½ usurpateur, parce que je n'ai
-acceptï¿½ la couronne que d'aprï¿½s le voeu unanime de toute la nation,
-tandis que Louis XVIII l'a usurpï¿½e, n'ï¿½tant appelï¿½ au trï¿½ne que par un
-vil sï¿½nat, dont plus de dix membres ont votï¿½ la mort de Louis XVI. Je
-n'ai jamais ï¿½tï¿½ la cause de la perte de qui que ce soit; quant ï¿½ la
-guerre, c'est diffï¿½rent; mais j'ai dï¿½ la faire parce que la nation
+un grand reproche de ne s'être pas donné la mort: _Je ne vois rien de
+grand à finir sa vie comme quelqu'un qui a perdu toute sa fortune au
+jeu. Il y a beaucoup plus de courage de survivre à son malheur non
+mérité. Je n'ai pas craint la mort, je l'ai prouvé dans plus d'un
+combat, et encore dernièrement à Arcis-sur-Aube où on m'a tué quatre
+chevaux sous moi_ (la vérité est qu'il n'a eu qu'un seul cheval
+légèrement blessé dans cette journée). Il dit aussi: _Je n'ai pas de
+reproches à me faire; je n'ai point été usurpateur, parce que je n'ai
+accepté la couronne que d'après le voeu unanime de toute la nation,
+tandis que Louis XVIII l'a usurpée, n'étant appelé au trône que par un
+vil sénat, dont plus de dix membres ont voté la mort de Louis XVI. Je
+n'ai jamais été la cause de la perte de qui que ce soit; quant à la
+guerre, c'est différent; mais j'ai dû la faire parce que la nation
 voulait que j'aggrandisse la France._
 
-Il congï¿½dia le gï¿½nï¿½ral Koller et fit venir le colonel Campbell; il lui
+Il congédia le général Koller et fit venir le colonel Campbell; il lui
 parla beaucoup du plan qu'il avait de se mettre sous la protection des
 Anglais.
 
-Il accorda ensuite des audiences trï¿½s-courtes au gï¿½nï¿½ral Schuwaloff et ï¿½
-moi; il n'y parla que de choses indiffï¿½rentes, et ï¿½ midi il descendit
-dans la cour du chï¿½teau, oï¿½ ï¿½taient rangï¿½s en ligne les grenadiers de sa
-garde. Il fut aussitï¿½t entourï¿½ de tous les officiers et des soldats; il
-prononï¿½a un discours avec tant de dignitï¿½ et de chaleur, que tous ceux
-qui ï¿½taient prï¿½sens en furent touchï¿½s(_b_). Ensuite il pressa le gï¿½nï¿½ral
-Petit dans ses bras, embrassa l'aigle impï¿½riale, et dit, d'une voix
-entrecoupï¿½e: _Adieu, mes enfans! mes voeux vous accompagneront toujours;
-conservez mon souvenir._ Il donna sa main ï¿½ baiser aux officiers qui
-l'entouraient, et monta dans sa voiture avec le grand-marï¿½chal.
+Il accorda ensuite des audiences très-courtes au général Schuwaloff et à
+moi; il n'y parla que de choses indifférentes, et à midi il descendit
+dans la cour du château, où étaient rangés en ligne les grenadiers de sa
+garde. Il fut aussitôt entouré de tous les officiers et des soldats; il
+prononça un discours avec tant de dignité et de chaleur, que tous ceux
+qui étaient présens en furent touchés(_b_). Ensuite il pressa le général
+Petit dans ses bras, embrassa l'aigle impériale, et dit, d'une voix
+entrecoupée: _Adieu, mes enfans! mes voeux vous accompagneront toujours;
+conservez mon souvenir._ Il donna sa main à baiser aux officiers qui
+l'entouraient, et monta dans sa voiture avec le grand-maréchal.
 
-Le gï¿½nï¿½ral Drouot prï¿½cï¿½dait, dans une voiture ï¿½ quatre places, fermï¿½e;
-immï¿½diatement aprï¿½s ï¿½tait la voiture de l'Empereur; ensuite le gï¿½nï¿½ral
-Koller; aprï¿½s lui le gï¿½nï¿½ral Schuwaloff, puis le colonel Campbell, et
-enfin moi, chacun de nous dans sa calï¿½che; un aide-de-camp du gï¿½nï¿½ral
-Schuwaloff venait derriï¿½re moi, et huit voitures de l'Empereur, avec
-tout son monde, terminaient notre cortï¿½ge. Il fut accueilli partout aux
-cris de _vive l'Empereur_! et nous eï¿½mes beaucoup ï¿½ souffrir des injures
+Le général Drouot précédait, dans une voiture à quatre places, fermée;
+immédiatement après était la voiture de l'Empereur; ensuite le général
+Koller; après lui le général Schuwaloff, puis le colonel Campbell, et
+enfin moi, chacun de nous dans sa calèche; un aide-de-camp du général
+Schuwaloff venait derrière moi, et huit voitures de l'Empereur, avec
+tout son monde, terminaient notre cortège. Il fut accueilli partout aux
+cris de _vive l'Empereur_! et nous eûmes beaucoup à souffrir des injures
 que le peuple nous adressait.
 
-Ce qui est trï¿½s-remarquable, c'est que Napolï¿½on exprimait toujours au
-gï¿½nï¿½ral Koller ses regrets sur l'impertinence du peuple, tandis qu'il
-ï¿½coutait avec une joie maligne, et se plaisait ï¿½ rï¿½pï¿½ter les traits
-dirigï¿½s contre le commissaire du roi de Prusse. Il fut accompagnï¿½
-jusqu'ï¿½ Briare par sa garde. Il partit la nuit de cet endroit; cinq de
+Ce qui est très-remarquable, c'est que Napoléon exprimait toujours au
+général Koller ses regrets sur l'impertinence du peuple, tandis qu'il
+écoutait avec une joie maligne, et se plaisait à répéter les traits
+dirigés contre le commissaire du roi de Prusse. Il fut accompagné
+jusqu'à Briare par sa garde. Il partit la nuit de cet endroit; cinq de
 ses voitures prirent les devants, parce que le manque de chevaux nous
-forï¿½a de voyager en deux convois.
+força de voyager en deux convois.
 
 L'Empereur se mit en route, avec ses quatre autres voitures, le 21 vers
-midi, aprï¿½s avoir eu encore, avec le gï¿½nï¿½ral Koller, un long entretien
-dont voici le rï¿½sumï¿½: _Eh bien! vous avez entendu hier mon discours ï¿½ la
+midi, après avoir eu encore, avec le général Koller, un long entretien
+dont voici le résumé: _Eh bien! vous avez entendu hier mon discours à la
 vieille garde; il vous a plu, et vous avez vu l'effet qu'il a produit.
-Voilï¿½ comme il faut parler et agir avec eux, et si Louis XVIII ne suit
-pas cet exemple, il ne fera jamais rien du soldat franï¿½ais._ Il loua
-beaucoup l'empereur Alexandre et la maniï¿½re amicale avec laquelle il lui
-avait offert un asile en Russie: procï¿½dï¿½ qu'il avait, vainement
-disait-il, attendu de son beau-pï¿½re avec plus de droit. Il dit ensuite
-qu'il ne pardonnerait jamais au roi de Prusse d'avoir donnï¿½, le premier,
-l'exemple de l'apostasie contre lui, et demanda comment on ï¿½tait parvenu
-ï¿½ exaspï¿½rer ainsi la nation prussienne, nation ï¿½ laquelle il rendait
-d'ailleurs toute espï¿½ce de justice. Il revint encore sur le danger que
-l'Autriche courait avec un semblable voisin, qui ï¿½tait liï¿½ d'intï¿½rï¿½t
-avec la Russie, si ï¿½troitement, que ces deux ï¿½tats n'en formaient pour
+Voilà comme il faut parler et agir avec eux, et si Louis XVIII ne suit
+pas cet exemple, il ne fera jamais rien du soldat français._ Il loua
+beaucoup l'empereur Alexandre et la manière amicale avec laquelle il lui
+avait offert un asile en Russie: procédé qu'il avait, vainement
+disait-il, attendu de son beau-père avec plus de droit. Il dit ensuite
+qu'il ne pardonnerait jamais au roi de Prusse d'avoir donné, le premier,
+l'exemple de l'apostasie contre lui, et demanda comment on était parvenu
+à exaspérer ainsi la nation prussienne, nation à laquelle il rendait
+d'ailleurs toute espèce de justice. Il revint encore sur le danger que
+l'Autriche courait avec un semblable voisin, qui était lié d'intérêt
+avec la Russie, si étroitement, que ces deux états n'en formaient pour
 ainsi dire qu'un seul.
 
-Il retint, ce jour lï¿½, le colonel Campbell ï¿½ dï¿½jeï¿½ner, et lui parla
-beaucoup de la guerre d'Espagne, loua extrï¿½mement la nation anglaise et
-le lord Wellington; et ensuite il s'entretint, en la prï¿½sence du lord et
-sans ï¿½gard pour lui, avec le colonel Delaplace, son officier
-d'ordonnance, sur la derniï¿½re campagne.
+Il retint, ce jour là, le colonel Campbell à déjeûner, et lui parla
+beaucoup de la guerre d'Espagne, loua extrêmement la nation anglaise et
+le lord Wellington; et ensuite il s'entretint, en la présence du lord et
+sans égard pour lui, avec le colonel Delaplace, son officier
+d'ordonnance, sur la dernière campagne.
 
-_Sans cet animal de gï¿½nï¿½ral_, dit-il, _qui m'a fait accroire que c'ï¿½tait
-Schwartzenberg qui me poursuivait ï¿½ Saint-Dizier, tandis que ce n'ï¿½tait
-que Wintzingerode, et sans cette autre bï¿½te qui fut cause que je courus
-aprï¿½s ï¿½ Troyes, oï¿½ je comptais manger quarante mille Autrichiens et n'y
-trouvai pas un chat, j'eusse marchï¿½ sur Paris; j'y serais arrivï¿½ avant
-les alliï¿½s, et je n'en serais pas oï¿½ j'en suis; mais j'ai toujours ï¿½tï¿½
-mal entourï¿½: et puis ces flagorneurs de prï¿½fets qui m'assuraient que la
-levï¿½e en masse se faisait avec le plus grand succï¿½s; enfin, ce traï¿½tre
-de Marmont qui a achevï¿½ la chose.... Mais il y a encore d'autres
-marï¿½chaux tout aussi mal intentionnï¿½s, entre autres Suchet, que j'ai, au
+_Sans cet animal de général_, dit-il, _qui m'a fait accroire que c'était
+Schwartzenberg qui me poursuivait à Saint-Dizier, tandis que ce n'était
+que Wintzingerode, et sans cette autre bête qui fut cause que je courus
+après à Troyes, où je comptais manger quarante mille Autrichiens et n'y
+trouvai pas un chat, j'eusse marché sur Paris; j'y serais arrivé avant
+les alliés, et je n'en serais pas où j'en suis; mais j'ai toujours été
+mal entouré: et puis ces flagorneurs de préfets qui m'assuraient que la
+levée en masse se faisait avec le plus grand succès; enfin, ce traître
+de Marmont qui a achevé la chose.... Mais il y a encore d'autres
+maréchaux tout aussi mal intentionnés, entre autres Suchet, que j'ai, au
 reste, toujours connu, lui et sa femme, pour des intrigans[6]._
 
-[Note 6: Toutes les paroles de Napolï¿½on sont en franï¿½ais dans
+[Note 6: Toutes les paroles de Napoléon sont en français dans
 l'original.]
 
-Il parla encore longtemps des torts et de la mauvaise conduite du sï¿½nat
-envers lui et envers la France; accusa particuliï¿½rement le nouveau
+Il parla encore longtemps des torts et de la mauvaise conduite du sénat
+envers lui et envers la France; accusa particulièrement le nouveau
 gouvernement de ce qu'il n'employait pas la caisse, qu'on lui avait
-enlevï¿½e, pour payer l'armï¿½e, mais de ce que ce gouvernement considï¿½rait
-cet argent comme appartenant ï¿½ la couronne, et se l'appropriait.
+enlevée, pour payer l'armée, mais de ce que ce gouvernement considérait
+cet argent comme appartenant à la couronne, et se l'appropriait.
 
-ï¿½ quelque distance de Briare, nous rencontrï¿½mes les ï¿½quipages de cour de
-Napolï¿½on, plusieurs voitures de munitions lourdement chargï¿½es, et des
-chevaux de selle, qui, d'aprï¿½s son ordre, devaient aller en avant, par
-Auxerre, Lyon et Grenoble, ï¿½ Savonne, oï¿½ ils devaient s'embarquer pour
-l'ï¿½le d'Elbe. Il ne pouvait cependant pas se servir, dans ce pays, de
-ces ï¿½quipages d'apparat qui n'ï¿½taient bons tout au plus qu'ï¿½ montrer aux
-habitans comme objets de curiositï¿½, les chemins y ï¿½tant impraticables.
+À quelque distance de Briare, nous rencontrâmes les équipages de cour de
+Napoléon, plusieurs voitures de munitions lourdement chargées, et des
+chevaux de selle, qui, d'après son ordre, devaient aller en avant, par
+Auxerre, Lyon et Grenoble, à Savonne, où ils devaient s'embarquer pour
+l'île d'Elbe. Il ne pouvait cependant pas se servir, dans ce pays, de
+ces équipages d'apparat qui n'étaient bons tout au plus qu'à montrer aux
+habitans comme objets de curiosité, les chemins y étant impraticables.
 
-Ce jour nous allï¿½mes jusqu'ï¿½ Nevers; l'accueil qu'on nous fit en cet
-endroit fut le mï¿½me qui nous avait ï¿½tï¿½ fait dans les villes prï¿½cï¿½dentes;
-on jurait aprï¿½s nous, on nous adressait mille invectives jusque sous nos
-fenï¿½tres, tandis qu'au contraire on ne se lassait pas de crier _vive
+Ce jour nous allâmes jusqu'à Nevers; l'accueil qu'on nous fit en cet
+endroit fut le même qui nous avait été fait dans les villes précédentes;
+on jurait après nous, on nous adressait mille invectives jusque sous nos
+fenêtres, tandis qu'au contraire on ne se lassait pas de crier _vive
 l'Empereur_!
 
-Le 22, ï¿½ six heures du matin, nous partï¿½mes. Le major Clamm arriva de
-Paris, avec les ordres nouveaux des autoritï¿½s franï¿½aises, pour le
-gouverneur de l'ï¿½le d'Elbe, qui assuraient ï¿½ l'Empereur la propriï¿½tï¿½ de
-tout ce qui ï¿½tait relatif ï¿½ la dï¿½fense militaire, de toute l'artillerie
-et de toutes les munitions de guerre qui se trouvaient dans cette ï¿½le.
-Le comte Clamm se rï¿½unit au gï¿½nï¿½ral Koller et continua le voyage avec
-nous. Les derniers dï¿½tachemens de la garde, qui devaient accompagner
-l'Empereur, se trouvaient ï¿½ Nevers, ils l'escortï¿½rent encore jusqu'ï¿½
-Villeneuve-sur-Allier, et dï¿½s-lors Napolï¿½on ne trouva plus que des corps
-kosaques et autrichiens destinï¿½s ï¿½ l'escorter. Il refusa d'ï¿½tre
-accompagnï¿½ par ces soldats ï¿½trangers pour n'avoir pas l'air d'un
-prisonnier d'ï¿½tat, et dit: _Vous voyez bien que je n'en ai aucunement
-besoin._ Il passa la nuit ï¿½ Beaune, et partit, le 23, ï¿½ 9 heures du
+Le 22, à six heures du matin, nous partîmes. Le major Clamm arriva de
+Paris, avec les ordres nouveaux des autorités françaises, pour le
+gouverneur de l'île d'Elbe, qui assuraient à l'Empereur la propriété de
+tout ce qui était relatif à la défense militaire, de toute l'artillerie
+et de toutes les munitions de guerre qui se trouvaient dans cette île.
+Le comte Clamm se réunit au général Koller et continua le voyage avec
+nous. Les derniers détachemens de la garde, qui devaient accompagner
+l'Empereur, se trouvaient à Nevers, ils l'escortèrent encore jusqu'à
+Villeneuve-sur-Allier, et dès-lors Napoléon ne trouva plus que des corps
+kosaques et autrichiens destinés à l'escorter. Il refusa d'être
+accompagné par ces soldats étrangers pour n'avoir pas l'air d'un
+prisonnier d'état, et dit: _Vous voyez bien que je n'en ai aucunement
+besoin._ Il passa la nuit à Beaune, et partit, le 23, à 9 heures du
 matin.
 
-Les cris de _vive l'Empereur_ cessï¿½rent dï¿½s que les troupes franï¿½aises
-ne furent plus avec nous. ï¿½ Moulins, nous vï¿½mes les premiï¿½res cocardes
-blanches et les habitans nous reï¿½urent aux acclamations de _vivent les
-alliï¿½s_! Le colonel Campbell partit de Lyon en avant, pour aller
-chercher ï¿½ Toulon ou ï¿½ Marseille une frï¿½gate anglaise qui pï¿½t, d'aprï¿½s
-le voeu de Napolï¿½on, le conduire dans son ï¿½le.
+Les cris de _vive l'Empereur_ cessèrent dès que les troupes françaises
+ne furent plus avec nous. À Moulins, nous vîmes les premières cocardes
+blanches et les habitans nous reçurent aux acclamations de _vivent les
+alliés_! Le colonel Campbell partit de Lyon en avant, pour aller
+chercher à Toulon ou à Marseille une frégate anglaise qui pût, d'après
+le voeu de Napoléon, le conduire dans son île.
 
-ï¿½ Lyon, oï¿½ nous passï¿½mes vers les onze heures du soir, il s'assembla
-quelques groupes qui criï¿½rent _vive Napolï¿½on_! Le 24, vers midi, nous
-rencontrï¿½mes le marï¿½chal Augereau prï¿½s de Valence. L'Empereur et le
-marï¿½chal descendirent de voiture; Napolï¿½on ï¿½ta son chapeau, et tendit
-les bras ï¿½ Augereau qui l'embrassa, mais sans le saluer. _Oï¿½ vas-tu
-comme-ï¿½a_? lui dit l'Empereur, en le prenant par le bras, _tu vas ï¿½ la
-cour?_ Augereau rï¿½pondit que pour le moment il allait ï¿½ Lyon: ils
-marchï¿½rent prï¿½s d'un quart d'heure ensemble, en suivant la route de
-Valence. Je sais de bonne source le rï¿½sultat de cet entretien.
-L'Empereur fit au marï¿½chal des reproches sur sa conduite envers lui et
-lui dit: _Ta proclamation est bien bï¿½te; pourquoi des injures contre
-moi? il fallait simplement dire: le voeu de la nation s'ï¿½tant prononcï¿½
-en faveur d'un nouveau souverain, le devoir de l'armï¿½e est de s'y
+À Lyon, où nous passâmes vers les onze heures du soir, il s'assembla
+quelques groupes qui crièrent _vive Napoléon_! Le 24, vers midi, nous
+rencontrâmes le maréchal Augereau près de Valence. L'Empereur et le
+maréchal descendirent de voiture; Napoléon ôta son chapeau, et tendit
+les bras à Augereau qui l'embrassa, mais sans le saluer. _Où vas-tu
+comme-ça_? lui dit l'Empereur, en le prenant par le bras, _tu vas à la
+cour?_ Augereau répondit que pour le moment il allait à Lyon: ils
+marchèrent près d'un quart d'heure ensemble, en suivant la route de
+Valence. Je sais de bonne source le résultat de cet entretien.
+L'Empereur fit au maréchal des reproches sur sa conduite envers lui et
+lui dit: _Ta proclamation est bien bête; pourquoi des injures contre
+moi? il fallait simplement dire: le voeu de la nation s'étant prononcé
+en faveur d'un nouveau souverain, le devoir de l'armée est de s'y
 conformer. Vive le Roi! vive Louis XVIII_(_c_). Augereau alors se mit
-aussi ï¿½ tutoyer Buonaparte, et lui fit ï¿½ son tour d'amers reproches sur
-son insatiable ambition, ï¿½ laquelle il avait tout sacrifiï¿½, mï¿½me le
-bonheur de la France entiï¿½re. Ce discours fatiguant Napolï¿½on, il se
-tourna avec brusquerie du cï¿½tï¿½ du marï¿½chal, l'embrassa, lui ï¿½ta encore
+aussi à tutoyer Buonaparte, et lui fit à son tour d'amers reproches sur
+son insatiable ambition, à laquelle il avait tout sacrifié, même le
+bonheur de la France entière. Ce discours fatiguant Napoléon, il se
+tourna avec brusquerie du côté du maréchal, l'embrassa, lui ôta encore
 son chapeau, et se jeta dans sa voiture.
 
-Augereau, les mains derriï¿½re le dos, ne dï¿½rangea pas sa casquette de
-dessus sa tï¿½te, et seulement, lorsque l'Empereur fut remontï¿½ dans sa
-voiture, il lui fit un geste mï¿½prisant de la main, en lui disant adieu.
-En s'en retournant, il adressa un salut trï¿½s-gracieux aux commissaires.
+Augereau, les mains derrière le dos, ne dérangea pas sa casquette de
+dessus sa tête, et seulement, lorsque l'Empereur fut remonté dans sa
+voiture, il lui fit un geste méprisant de la main, en lui disant adieu.
+En s'en retournant, il adressa un salut très-gracieux aux commissaires.
 
-L'Empereur, toujours fidï¿½le ï¿½ son amour pour la vï¿½ritï¿½, dit au gï¿½nï¿½ral
-Koller, une heure aprï¿½s: _Je viens d'apprendre, ï¿½ l'instant mï¿½me,
-l'infï¿½me proclamation d'Augereau; si je l'eusse connue, lorsque je l'ai
-rencontrï¿½, je lui aurais bien lavï¿½ la tï¿½te._
+L'Empereur, toujours fidèle à son amour pour la vérité, dit au général
+Koller, une heure après: _Je viens d'apprendre, à l'instant même,
+l'infâme proclamation d'Augereau; si je l'eusse connue, lorsque je l'ai
+rencontré, je lui aurais bien lavé la tête._
 
-Nous trouvï¿½mes, ï¿½ Valence, des troupes franï¿½aises du corps d'Augereau,
-qui avaient arborï¿½ la cocarde blanche, et qui cependant rendirent ï¿½
-l'Empereur tous les honneurs dus ï¿½ son rang. Le mï¿½contentement des
-soldats se manifesta visiblement lorsqu'ils nous virent ï¿½ sa suite. Mais
-ce fut lï¿½ son dernier triomphe, car, nulle part ailleurs, il n'entendit
+Nous trouvâmes, à Valence, des troupes françaises du corps d'Augereau,
+qui avaient arboré la cocarde blanche, et qui cependant rendirent à
+l'Empereur tous les honneurs dus à son rang. Le mécontentement des
+soldats se manifesta visiblement lorsqu'ils nous virent à sa suite. Mais
+ce fut là son dernier triomphe, car, nulle part ailleurs, il n'entendit
 plus de _vivat_.
 
-Le 25, nous arrivï¿½mes ï¿½ Orange; nous fï¿½mes reï¿½us aux cris de _Vive le
+Le 25, nous arrivâmes à Orange; nous fûmes reçus aux cris de _Vive le
 Roi! Vive Louis XVIII!_
 
-Napolï¿½on, jusque lï¿½, avait ï¿½tï¿½ d'une humeur trï¿½s-gaie, et plaisantait
-souvent lui-mï¿½me sur sa situation. Entre autres choses, il disait un
-jour aux commissaires, aprï¿½s avoir retracï¿½ avec beaucoup de franchise
-les diffï¿½rens degrï¿½s qu'il avait parcourus dans sa carriï¿½re, depuis
-vingt-cinq ans: _Au bout du compte, je n'y perds rien; car j'ai commencï¿½
-la partie avec un ï¿½cu de six francs dans ma poche et j'en sors fort
+Napoléon, jusque là, avait été d'une humeur très-gaie, et plaisantait
+souvent lui-même sur sa situation. Entre autres choses, il disait un
+jour aux commissaires, après avoir retracé avec beaucoup de franchise
+les différens degrés qu'il avait parcourus dans sa carrière, depuis
+vingt-cinq ans: _Au bout du compte, je n'y perds rien; car j'ai commencé
+la partie avec un écu de six francs dans ma poche et j'en sors fort
 riche_[7].
 
-[Note 7: Cette anecdote n'est pas dans l'original, et a ï¿½tï¿½
-communiquï¿½e au traducteur par le comte de Truchsess, ainsi que plusieurs
+[Note 7: Cette anecdote n'est pas dans l'original, et a été
+communiquée au traducteur par le comte de Truchsess, ainsi que plusieurs
 autres faits.]
 
-Le mï¿½me jour, le matin, l'Empereur trouva un peu en avant d'Avignon, ï¿½
-l'endroit oï¿½ l'on devait changer de chevaux, beaucoup de peuple
-rassemblï¿½, qui l'attendait ï¿½ son passage, et qui nous accueillit aux
-cris de _vive le Roi! Vivent les Alliï¿½s! ï¿½ bas Nicolas! ï¿½ bas le tyran,
+Le même jour, le matin, l'Empereur trouva un peu en avant d'Avignon, à
+l'endroit où l'on devait changer de chevaux, beaucoup de peuple
+rassemblé, qui l'attendait à son passage, et qui nous accueillit aux
+cris de _vive le Roi! Vivent les Alliés! À bas Nicolas! À bas le tyran,
 le coquin, le mauvais gueux!..._ Cette multitude vomit encore contre lui
 mille invectives.
 
-Nous fï¿½mes tout ce que nous pï¿½mes, pour arrï¿½ter ce scandale, et diviser
-la foule qui assaillait sa voiture; nous ne pï¿½mes obtenir de ces
-forcenï¿½s qu'ils cessassent d'insulter l'homme qui, disaient-ils, les
-avait rendus si malheureux, et qui n'avait d'autre dï¿½sir que d'augmenter
-encore leur misï¿½re. Enfin, d'aprï¿½s nos remontrances, ils se rendirent et
-crurent ï¿½tre trï¿½s-modï¿½rï¿½s en ne lui faisant plus entendre que les cris
-de _Vivent les alliï¿½s, nos libï¿½rateurs, le gï¿½nï¿½reux empereur de Russie,
-et le bon roi Frï¿½dï¿½ric Guillaume!_ Ils voulurent mï¿½me forcer le cocher
-de l'Empereur ï¿½ crier _vive le Roi!_ Il s'y refusa, et alors, un de ces
-hommes qui ï¿½tait armï¿½, tira le sabre contre lui; heureusement on
-l'empï¿½cha de frapper, et, les chevaux se trouvant alors attelï¿½s, on les
-fit partir au grand galop et si vite que nous ne pï¿½mes rejoindre
-l'Empereur qu'ï¿½ un quart de lieue d'Avignon. Dans tous les endroits que
-nous traversï¿½mes, il fut reï¿½u de la mï¿½me maniï¿½re. ï¿½ Orgon, petit village
-oï¿½ nous changeï¿½mes de chevaux, la rage du peuple ï¿½tait ï¿½ son comble;
-devant l'auberge mï¿½me oï¿½ il devait s'arrï¿½ter, on avait ï¿½levï¿½ une potence
-ï¿½ laquelle ï¿½tait suspendu un mannequin, en uniforme franï¿½ais, couvert de
-sang, avec une inscription placï¿½e sur la poitrine et ainsi conï¿½ue: _Tel
-sera tï¿½t ou tard le sort du tyran_(_d_).
+Nous fîmes tout ce que nous pûmes, pour arrêter ce scandale, et diviser
+la foule qui assaillait sa voiture; nous ne pûmes obtenir de ces
+forcenés qu'ils cessassent d'insulter l'homme qui, disaient-ils, les
+avait rendus si malheureux, et qui n'avait d'autre désir que d'augmenter
+encore leur misère. Enfin, d'après nos remontrances, ils se rendirent et
+crurent être très-modérés en ne lui faisant plus entendre que les cris
+de _Vivent les alliés, nos libérateurs, le généreux empereur de Russie,
+et le bon roi Frédéric Guillaume!_ Ils voulurent même forcer le cocher
+de l'Empereur à crier _vive le Roi!_ Il s'y refusa, et alors, un de ces
+hommes qui était armé, tira le sabre contre lui; heureusement on
+l'empêcha de frapper, et, les chevaux se trouvant alors attelés, on les
+fit partir au grand galop et si vite que nous ne pûmes rejoindre
+l'Empereur qu'à un quart de lieue d'Avignon. Dans tous les endroits que
+nous traversâmes, il fut reçu de la même manière. À Orgon, petit village
+où nous changeâmes de chevaux, la rage du peuple était à son comble;
+devant l'auberge même où il devait s'arrêter, on avait élevé une potence
+à laquelle était suspendu un mannequin, en uniforme français, couvert de
+sang, avec une inscription placée sur la poitrine et ainsi conçue: _Tel
+sera tôt ou tard le sort du tyran_(_d_).
 
-Le peuple se cramponait ï¿½ la voiture de Napolï¿½on et cherchait ï¿½ le voir
+Le peuple se cramponait à la voiture de Napoléon et cherchait à le voir
 pour lui adresser les plus fortes injures. L'Empereur se cachait
-derriï¿½re le gï¿½nï¿½ral Bertrand le plus qu'il pouvait; il ï¿½tait pï¿½le et
-dï¿½fait, ne disait pas un mot. ï¿½ force de pï¿½rorer le peuple, nous
-parvï¿½nmes ï¿½ le sortir de ce mauvais pas.
+derrière le général Bertrand le plus qu'il pouvait; il était pâle et
+défait, ne disait pas un mot. À force de pérorer le peuple, nous
+parvînmes à le sortir de ce mauvais pas.
 
-Le comte Schuwaloff, ï¿½ cï¿½tï¿½ de la voiture de Buonaparte, harangua la
-populace en ces termes: ï¿½N'avez-vous pas honte d'insulter ï¿½ un
-malheureux sans dï¿½fense? Il est assez humiliï¿½ par la triste situation oï¿½
-il se trouve, lui qui s'imaginait donner des lois ï¿½ l'univers et qui se
-voit aujourd'hui ï¿½ la merci de votre gï¿½nï¿½rositï¿½! Abandonnez-le ï¿½
-lui-mï¿½me; regardez-le: vous voyez que le mï¿½pris est la seule arme que
-vous devez employer contre cet homme, qui a cessï¿½ d'ï¿½tre dangereux. Il
-serait au dessous de la nation franï¿½aise d'en prendre une autre
-vengeance!ï¿½ Le peuple applaudissait ï¿½ ce discours, et Buonaparte, voyant
+Le comte Schuwaloff, à côté de la voiture de Buonaparte, harangua la
+populace en ces termes: «N'avez-vous pas honte d'insulter à un
+malheureux sans défense? Il est assez humilié par la triste situation où
+il se trouve, lui qui s'imaginait donner des lois à l'univers et qui se
+voit aujourd'hui à la merci de votre générosité! Abandonnez-le à
+lui-même; regardez-le: vous voyez que le mépris est la seule arme que
+vous devez employer contre cet homme, qui a cessé d'être dangereux. Il
+serait au dessous de la nation française d'en prendre une autre
+vengeance!» Le peuple applaudissait à ce discours, et Buonaparte, voyant
 l'effet qu'il produisait, faisait des signes d'approbation au comte
 Schuwaloff, et le remercia ensuite du service qu'il lui avait rendu.
 
-ï¿½ un quart de lieue en deï¿½ï¿½ d'Orgon, il crut indispensable la prï¿½caution
-de se dï¿½guiser: il mit une mauvaise redingotte bleue, un chapeau rond
-sur sa tï¿½te avec une cocarde blanche, et monta un cheval de poste pour
+À un quart de lieue en deçà d'Orgon, il crut indispensable la précaution
+de se déguiser: il mit une mauvaise redingotte bleue, un chapeau rond
+sur sa tête avec une cocarde blanche, et monta un cheval de poste pour
 galoper devant sa voiture, voulant passer ainsi pour un courrier. Comme
-nous ne pouvions le suivre, nous arrivï¿½mes ï¿½ Saint-Canat, bien aprï¿½s
+nous ne pouvions le suivre, nous arrivâmes à Saint-Canat, bien après
 lui. Ignorant les moyens qu'il avait pris pour se soustraire au peuple,
 nous le croyions dans le plus grand danger, car nous voyions sa voiture
-entourï¿½e de gens furieux qui cherchaient ï¿½ ouvrir les portiï¿½res: elles
-ï¿½taient heureusement bien fermï¿½es, ce qui sauva le gï¿½nï¿½ral Bertrand. La
-tï¿½nacitï¿½ des femmes nous ï¿½tonna le plus; elles nous suppliaient de le
-leur livrer, disant: ï¿½Il l'a si bien mï¿½ritï¿½ par ses torts envers nous et
-envers vous-mï¿½mes, que nous ne vous demandons qu'une chose juste.ï¿½
+entourée de gens furieux qui cherchaient à ouvrir les portières: elles
+étaient heureusement bien fermées, ce qui sauva le général Bertrand. La
+ténacité des femmes nous étonna le plus; elles nous suppliaient de le
+leur livrer, disant: «Il l'a si bien mérité par ses torts envers nous et
+envers vous-mêmes, que nous ne vous demandons qu'une chose juste.»
 
-ï¿½ une demi-lieue de Saint-Canat, nous atteignï¿½mes la voiture de
-l'Empereur, qui, bientï¿½t aprï¿½s, entra dans une mauvaise auberge situï¿½e
-sur la grande route, et appelï¿½e _la Calade_. Nous l'y suivï¿½mes; et ce
-n'est qu'en cet endroit que nous apprï¿½mes et le travestissement dont il
-s'ï¿½tait servi, et son arrivï¿½e dans cette auberge ï¿½ la faveur de ce
-bizarre accoutrement; il n'avait ï¿½tï¿½ accompagnï¿½ que d'un seul courrier;
-sa suite, depuis le gï¿½nï¿½ral jusqu'au marmiton, ï¿½tait parï¿½e de cocardes
-blanches, dont ils paraissaient s'ï¿½tre approvisionnï¿½s ï¿½ l'avance. Son
+À une demi-lieue de Saint-Canat, nous atteignîmes la voiture de
+l'Empereur, qui, bientôt après, entra dans une mauvaise auberge située
+sur la grande route, et appelée _la Calade_. Nous l'y suivîmes; et ce
+n'est qu'en cet endroit que nous apprîmes et le travestissement dont il
+s'était servi, et son arrivée dans cette auberge à la faveur de ce
+bizarre accoutrement; il n'avait été accompagné que d'un seul courrier;
+sa suite, depuis le général jusqu'au marmiton, était parée de cocardes
+blanches, dont ils paraissaient s'être approvisionnés à l'avance. Son
 valet de chambre qui vint au devant de nous, nous pria de faire passer
-l'Empereur pour le colonel Campbell, parce qu'en arrivant il s'ï¿½tait
-annoncï¿½ pour tel ï¿½ l'hï¿½tesse. Nous promï¿½mes de nous conformer ï¿½ ce
-dï¿½sir, et j'entrai le premier dans une espï¿½ce de chambre, oï¿½ nous fï¿½mes
-frappï¿½s de trouver le ci-devant souverain du monde plongï¿½ dans de
-profondes rï¿½flexions, la tï¿½te appuyï¿½e dans ses mains.
+l'Empereur pour le colonel Campbell, parce qu'en arrivant il s'était
+annoncé pour tel à l'hôtesse. Nous promîmes de nous conformer à ce
+désir, et j'entrai le premier dans une espèce de chambre, où nous fûmes
+frappés de trouver le ci-devant souverain du monde plongé dans de
+profondes réflexions, la tête appuyée dans ses mains.
 
 Je ne le reconnus pas d'abord, et je m'approchai de lui. Il se leva en
 sursaut en entendant quelqu'un marcher, et me laissa voir son visage
-arrosï¿½ de larmes. Il me fit signe de ne rien dire, me fit asseoir prï¿½s
-de lui, et tout le temps que l'hï¿½tesse fut dans la chambre, il ne me
-parla que de choses indiffï¿½rentes. Mais, lorsqu'elle sortit, il reprit
-sa premiï¿½re position. Je jugeai convenable de le laisser seul; il nous
+arrosé de larmes. Il me fit signe de ne rien dire, me fit asseoir près
+de lui, et tout le temps que l'hôtesse fut dans la chambre, il ne me
+parla que de choses indifférentes. Mais, lorsqu'elle sortit, il reprit
+sa première position. Je jugeai convenable de le laisser seul; il nous
 fit cependant prier de passer de temps en temps dans sa chambre pour ne
-pas faire soupï¿½onner sa prï¿½sence.
+pas faire soupçonner sa présence.
 
-Nous lui fï¿½mes savoir qu'on ï¿½tait instruit que le colonel Campbell avait
-passï¿½ la veille justement par cet endroit, pour se rendre ï¿½ Toulon. Il
-rï¿½solut aussitï¿½t de prendre le nom de lord Burghersh.
+Nous lui fîmes savoir qu'on était instruit que le colonel Campbell avait
+passé la veille justement par cet endroit, pour se rendre à Toulon. Il
+résolut aussitôt de prendre le nom de lord Burghersh.
 
-On se mit ï¿½ table, mais comme ce n'ï¿½taient pas ses cuisiniers qui
-avaient prï¿½parï¿½ le dï¿½ner, il ne pouvait se rï¿½soudre ï¿½ prendre aucune
-nourriture dans la crainte d'ï¿½tre empoisonnï¿½. Cependant nous voyant
-manger de bon appï¿½tit, il eut honte de nous faire voir les terreurs qui
+On se mit à table, mais comme ce n'étaient pas ses cuisiniers qui
+avaient préparé le dîner, il ne pouvait se résoudre à prendre aucune
+nourriture dans la crainte d'être empoisonné. Cependant nous voyant
+manger de bon appétit, il eut honte de nous faire voir les terreurs qui
 l'agitaient et prit de tout ce qu'on lui offrit; il fit semblant d'y
-goï¿½ter, mais il renvoyait les mets sans y toucher; quelquefois, il
-jetait dessous la table ce qu'il avait acceptï¿½ pour faire croire qu'il
-l'avait mangï¿½. Son dï¿½ner fut composï¿½ d'un peu de pain et d'un flacon de
-vin, qu'il fit retirer de sa voiture et qu'il partagea mï¿½me avec nous.
+goûter, mais il renvoyait les mets sans y toucher; quelquefois, il
+jetait dessous la table ce qu'il avait accepté pour faire croire qu'il
+l'avait mangé. Son dîner fut composé d'un peu de pain et d'un flacon de
+vin, qu'il fit retirer de sa voiture et qu'il partagea même avec nous.
 
-Il parla beaucoup, et fut d'une amabilitï¿½ trï¿½s-remarquable avec nous.
-Lorsque nous fï¿½mes seuls, et que l'hï¿½tesse qui nous servait fut sortie,
-il nous fï¿½t connaï¿½tre combien il croyait sa vie en danger; il ï¿½tait
-persuadï¿½ que le gouvernement franï¿½ais avait pris des mesures pour le
+Il parla beaucoup, et fut d'une amabilité très-remarquable avec nous.
+Lorsque nous fûmes seuls, et que l'hôtesse qui nous servait fut sortie,
+il nous fît connaître combien il croyait sa vie en danger; il était
+persuadé que le gouvernement français avait pris des mesures pour le
 faire enlever ou assassiner dans cet endroit.
 
-Mille projets se croisaient dans sa tï¿½te sur la maniï¿½re dont il pourrait
-se sauver; il rï¿½vait aussi aux moyens de tromper le peuple d'Aix, car on
-l'avait prï¿½venu qu'une trï¿½s-grande foule l'attendait ï¿½ la poste. Il nous
-dï¿½clara donc que ce qui lui semblait le plus convenable, c'ï¿½tait de
-retourner jusqu'ï¿½ Lyon, et de prendre de-lï¿½ une autre route pour
-s'embarquer en Italie. Nous n'aurions pu, en aucun cas, consentir ï¿½ ce
-projet, et nous cherchï¿½mes ï¿½ le persuader de se rendre directement ï¿½
-Toulon ou d'aller par Digne ï¿½ Frï¿½jus. Nous tachï¿½mes de le convaincre
-qu'il ï¿½tait impossible que le gouvernement franï¿½ais pï¿½t avoir des
-intentions si perfides ï¿½ son ï¿½gard, sans que nous en fussions instruits,
-et que la populace, malgrï¿½ les indï¿½cences auxquelles elle se portait, ne
+Mille projets se croisaient dans sa tête sur la manière dont il pourrait
+se sauver; il rêvait aussi aux moyens de tromper le peuple d'Aix, car on
+l'avait prévenu qu'une très-grande foule l'attendait à la poste. Il nous
+déclara donc que ce qui lui semblait le plus convenable, c'était de
+retourner jusqu'à Lyon, et de prendre de-là une autre route pour
+s'embarquer en Italie. Nous n'aurions pu, en aucun cas, consentir à ce
+projet, et nous cherchâmes à le persuader de se rendre directement à
+Toulon ou d'aller par Digne à Fréjus. Nous tachâmes de le convaincre
+qu'il était impossible que le gouvernement français pût avoir des
+intentions si perfides à son égard, sans que nous en fussions instruits,
+et que la populace, malgré les indécences auxquelles elle se portait, ne
 se rendrait pas coupable d'un crime de cette nature.
 
-Pour nous mieux persuader, et pour nous prouver jusqu'ï¿½ quel point ses
-craintes, selon lui, ï¿½taient fondï¿½es, il nous raconta ce qui s'ï¿½tait
-passï¿½ entre lui et l'hï¿½tesse, qui ne l'avait pas reconnu. ï¿½Eh! bien, lui
-avait-elle dit, avez-vous rencontrï¿½ Buonaparte?ï¿½ _Non_, avait-il
-rï¿½pondu. ï¿½Je suis curieuse, continua-t-elle, de voir s'il pourra se
+Pour nous mieux persuader, et pour nous prouver jusqu'à quel point ses
+craintes, selon lui, étaient fondées, il nous raconta ce qui s'était
+passé entre lui et l'hôtesse, qui ne l'avait pas reconnu. «Eh! bien, lui
+avait-elle dit, avez-vous rencontré Buonaparte?» _Non_, avait-il
+répondu. «Je suis curieuse, continua-t-elle, de voir s'il pourra se
 sauver; je crois toujours que le peuple va le massacrer: aussi faut-il
-convenir qu'il l'a bien mï¿½ritï¿½, ce coquin-lï¿½! Dites-moi donc, on va
-l'embarquer pour son ï¿½le?--_Mais, oui._--On le noyera, n'est-ce pas? _Je
-l'espï¿½re bien_! lui rï¿½pliqua Napolï¿½on.ï¿½ _Vous voyez donc_, ajouta-t-il,
-_ï¿½ quel danger je suis exposï¿½._
+convenir qu'il l'a bien mérité, ce coquin-là! Dites-moi donc, on va
+l'embarquer pour son île?--_Mais, oui._--On le noyera, n'est-ce pas? _Je
+l'espère bien_! lui répliqua Napoléon.» _Vous voyez donc_, ajouta-t-il,
+_à quel danger je suis exposé._
 
-Alors il recommenï¿½a ï¿½ nous fatiguer de ses inquiï¿½tudes et de ses
-irrï¿½solutions. Il nous pria mï¿½me d'examiner s'il n'y avait pas quelque
-part une porte cachï¿½e par laquelle il pourrait s'ï¿½chapper, ou si la
-fenï¿½tre dont il avait fait fermer les volets en arrivant, n'ï¿½tait pas
-trop ï¿½levï¿½e pour pouvoir sauter et s'ï¿½vader ainsi.
+Alors il recommença à nous fatiguer de ses inquiétudes et de ses
+irrésolutions. Il nous pria même d'examiner s'il n'y avait pas quelque
+part une porte cachée par laquelle il pourrait s'échapper, ou si la
+fenêtre dont il avait fait fermer les volets en arrivant, n'était pas
+trop élevée pour pouvoir sauter et s'évader ainsi.
 
-La fenï¿½tre ï¿½tait grillï¿½e en dehors, et je le mis dans un embarras
-extrï¿½me en lui communiquant cette dï¿½couverte. Au moindre bruit il
+La fenêtre était grillée en dehors, et je le mis dans un embarras
+extrême en lui communiquant cette découverte. Au moindre bruit il
 tressaillait et changeait de couleur.
 
-Aprï¿½s dï¿½ner nous le laissï¿½mes ï¿½ ses rï¿½flexions, et comme, de temps en
-temps, nous entrions dans sa chambre, d'aprï¿½s le dï¿½sir qu'il en avait
-tï¿½moignï¿½, nous le trouvions toujours en pleurs.
+Après dîner nous le laissâmes à ses réflexions, et comme, de temps en
+temps, nous entrions dans sa chambre, d'après le désir qu'il en avait
+témoigné, nous le trouvions toujours en pleurs.
 
-Il s'ï¿½tait rassemblï¿½ dans cette auberge beaucoup de personnes: la
-plupart ï¿½taient venues d'Aix, soupï¿½onnant que notre long sï¿½jour ï¿½tait
-occasionnï¿½ par la prï¿½sence de l'Empereur Napolï¿½on. Nous tï¿½chions de leur
+Il s'était rassemblé dans cette auberge beaucoup de personnes: la
+plupart étaient venues d'Aix, soupçonnant que notre long séjour était
+occasionné par la présence de l'Empereur Napoléon. Nous tâchions de leur
 faire accroire qu'il avait pris les devants; mais elles ne voulaient pas
-ajouter foi ï¿½ nos discours. Elles nous assuraient qu'elles ne voulaient
+ajouter foi à nos discours. Elles nous assuraient qu'elles ne voulaient
 pas lui faire de mal, mais seulement le contempler, pour voir quel effet
 produisait sur lui le malheur; qu'elles lui feraient tout au plus, de
-vive voix, quelques reproches, ou qu'elles lui diraient la vï¿½ritï¿½ qu'il
+vive voix, quelques reproches, ou qu'elles lui diraient la vérité qu'il
 avait si rarement entendue.
 
-Nous fï¿½mes tout ce que nous pï¿½mes pour les dï¿½tourner de ce dessein, et
-nous parvï¿½nmes ï¿½ les calmer. Un individu, qui nous parut un homme de
-marque, s'offrit de faire maintenir l'ordre et la tranquillitï¿½ ï¿½ Aix, si
+Nous fîmes tout ce que nous pûmes pour les détourner de ce dessein, et
+nous parvînmes à les calmer. Un individu, qui nous parut un homme de
+marque, s'offrit de faire maintenir l'ordre et la tranquillité à Aix, si
 nous voulions le charger d'une lettre pour le maire de cette ville. Le
-gï¿½nï¿½ral Koller communiqua cette proposition ï¿½ l'Empereur qui
-l'accueillit avec plaisir. Cette personne fut donc envoyï¿½e avec une
-lettre auprï¿½s du magistrat. Il revint avec l'assurance que les bonnes
-dispositions du maire empï¿½cheraient tout tumulte d'avoir lieu.
+général Koller communiqua cette proposition à l'Empereur qui
+l'accueillit avec plaisir. Cette personne fut donc envoyée avec une
+lettre auprès du magistrat. Il revint avec l'assurance que les bonnes
+dispositions du maire empêcheraient tout tumulte d'avoir lieu.
 
-L'aide-de-camp du gï¿½nï¿½ral Schuwaloff vint dire que le peuple qui ï¿½tait
-ameutï¿½ dans la rue ï¿½tait presqu'entiï¿½rement retirï¿½. L'Empereur rï¿½solut
-de partir ï¿½ minuit.
+L'aide-de-camp du général Schuwaloff vint dire que le peuple qui était
+ameuté dans la rue était presqu'entièrement retiré. L'Empereur résolut
+de partir à minuit.
 
-Par une prï¿½voyance exagï¿½rï¿½e, il prit encore de nouveaux moyens, pour
-n'ï¿½tre pas reconnu.
+Par une prévoyance exagérée, il prit encore de nouveaux moyens, pour
+n'être pas reconnu.
 
-Par ses instances, il contraignit l'aide-de-camp du gï¿½nï¿½ral Schuwaloff
-de se vï¿½tir de la redingotte bleue et du chapeau rond, avec lesquels il
-ï¿½tait arrivï¿½ dans l'auberge, afin sans doute, qu'en cas de nï¿½cessitï¿½,
-l'aide-de-camp fï¿½t insultï¿½, ou mï¿½me assassinï¿½ ï¿½ sa place[8].
+Par ses instances, il contraignit l'aide-de-camp du général Schuwaloff
+de se vêtir de la redingotte bleue et du chapeau rond, avec lesquels il
+était arrivé dans l'auberge, afin sans doute, qu'en cas de nécessité,
+l'aide-de-camp fût insulté, ou même assassiné à sa place[8].
 
-[Note 8: Comme il n'est arrivï¿½ aucun mal ï¿½ l'aide-de-camp qui jouait
-le rï¿½le de Buonaparte, il est suffisamment prouvï¿½ que Napolï¿½on n'avait
-plus rien ï¿½ craindre et que son dï¿½guisement n'ï¿½tait nullement
-nï¿½cessaire; il ne servit rï¿½ellement qu'ï¿½ le rendre ridicule et
-mï¿½prisable.]
+[Note 8: Comme il n'est arrivé aucun mal à l'aide-de-camp qui jouait
+le rôle de Buonaparte, il est suffisamment prouvé que Napoléon n'avait
+plus rien à craindre et que son déguisement n'était nullement
+nécessaire; il ne servit réellement qu'à le rendre ridicule et
+méprisable.]
 
 Buonaparte, qui alors voulut se faire passer pour un colonel autrichien,
-mit l'uniforme du gï¿½nï¿½ral Koller, se dï¿½cora de l'ordre de
-Sainte-Thï¿½rï¿½se, que portait le gï¿½nï¿½ral, mit ma casquette de voyage sur
-sa tï¿½te, et se couvrit du manteau du gï¿½nï¿½ral Schuwaloff.
+mit l'uniforme du général Koller, se décora de l'ordre de
+Sainte-Thérèse, que portait le général, mit ma casquette de voyage sur
+sa tête, et se couvrit du manteau du général Schuwaloff.
 
-Aprï¿½s que les commissaires des puissances alliï¿½es l'eurent ainsi ï¿½quipï¿½,
-les voitures avancï¿½rent; mais, avant de descendre, nous fï¿½mes une
-rï¿½pï¿½tition, dans notre chambre, de l'ordre dans lequel nous devions
-marcher. Le gï¿½nï¿½ral Drouot ouvrait le cortï¿½ge; venait ensuite le
-soi-disant empereur, l'aide-de-camp du gï¿½nï¿½ral Schuwaloff, ensuite le
-gï¿½nï¿½ral Koller, l'Empereur, le gï¿½nï¿½ral Schuwaloff et moi, qui avais
-l'honneur de faire partie de l'arriï¿½re-garde, ï¿½ laquelle se joignit la
+Après que les commissaires des puissances alliées l'eurent ainsi équipé,
+les voitures avancèrent; mais, avant de descendre, nous fîmes une
+répétition, dans notre chambre, de l'ordre dans lequel nous devions
+marcher. Le général Drouot ouvrait le cortège; venait ensuite le
+soi-disant empereur, l'aide-de-camp du général Schuwaloff, ensuite le
+général Koller, l'Empereur, le général Schuwaloff et moi, qui avais
+l'honneur de faire partie de l'arrière-garde, à laquelle se joignit la
 suite de l'Empereur.
 
-Nous traversï¿½mes ainsi la foule ï¿½bahie qui se donnait une peine extrï¿½me
-pour tï¿½cher de dï¿½couvrir parmi nous celui qu'elle appelait _son tyran_.
+Nous traversâmes ainsi la foule ébahie qui se donnait une peine extrême
+pour tâcher de découvrir parmi nous celui qu'elle appelait _son tyran_.
 
 L'aide-de-camp de Schuwaloff (le major Olewieff) prit la place de
-Napolï¿½on dans sa voiture, et Napolï¿½on partit avec le gï¿½nï¿½ral Koller dans
-sa calï¿½che.
+Napoléon dans sa voiture, et Napoléon partit avec le général Koller dans
+sa calèche.
 
-Quelques gendarmes dï¿½pï¿½chï¿½s ï¿½ Aix par ordre du maire, dissipï¿½rent le
-peuple qui cherchait ï¿½ nous entourer, et notre voyage se continua fort
+Quelques gendarmes dépêchés à Aix par ordre du maire, dissipèrent le
+peuple qui cherchait à nous entourer, et notre voyage se continua fort
 paisiblement.
 
-Une circonstance que je voudrais omettre, mais que ma qualitï¿½
+Une circonstance que je voudrais omettre, mais que ma qualité
 d'historien ne me permet pas de passer sous silence, c'est que notre
-intimitï¿½ avec l'Empereur auprï¿½s duquel nous ï¿½tions sans cesse dans la
-mï¿½me chambre, nous fit dï¿½couvrir qu'il ï¿½tait attaquï¿½ d'une maladie
-galante; il s'en cachait si peu, qu'il employait en notre prï¿½sence les
-remï¿½des nï¿½cessaires; et nous apprï¿½mes de son mï¿½decin, que nous
-questionnï¿½mes, qu'il en avait ï¿½tï¿½ attaquï¿½ ï¿½ son dernier voyage ï¿½ Paris.
+intimité avec l'Empereur auprès duquel nous étions sans cesse dans la
+même chambre, nous fit découvrir qu'il était attaqué d'une maladie
+galante; il s'en cachait si peu, qu'il employait en notre présence les
+remèdes nécessaires; et nous apprîmes de son médecin, que nous
+questionnâmes, qu'il en avait été attaqué à son dernier voyage à Paris.
 
-Partout nous trouvï¿½mes des rassemblemens qui nous recevaient aux cris
-les plus vifs de _vive le Roi_! On vocifï¿½rait aussi des injures contre
-Napolï¿½on, mais il n'y eut aucune tentative inquiï¿½tante.
+Partout nous trouvâmes des rassemblemens qui nous recevaient aux cris
+les plus vifs de _vive le Roi_! On vociférait aussi des injures contre
+Napoléon, mais il n'y eut aucune tentative inquiétante.
 
 Toutefois l'Empereur ne se rassurait pas, il restait toujours dans la
-calï¿½che du gï¿½nï¿½ral autrichien, et il commanda au cocher de fumer, afin
-que cette familiaritï¿½ pï¿½t dissimuler sa prï¿½sence. Il pria mï¿½me le
-gï¿½nï¿½ral Koller de chanter, et comme celui-ci lui rï¿½pondit, qu'il ne
+calèche du général autrichien, et il commanda au cocher de fumer, afin
+que cette familiarité pût dissimuler sa présence. Il pria même le
+général Koller de chanter, et comme celui-ci lui répondit, qu'il ne
 savait pas chanter, Buonaparte lui dit de siffler.
 
-C'est ainsi qu'il poursuivit sa route, cachï¿½ dans un des coins de la
-calï¿½che, faisant semblant de dormir, bercï¿½ par l'agrï¿½able musique du
-gï¿½nï¿½ral et encensï¿½ par la fumï¿½e du cocher.
+C'est ainsi qu'il poursuivit sa route, caché dans un des coins de la
+calèche, faisant semblant de dormir, bercé par l'agréable musique du
+général et encensé par la fumée du cocher.
 
-En pleine campagne, il recommenï¿½a ï¿½ causer avec le gï¿½nï¿½ral et
-l'entretint du nouveau plan qu'il avait formï¿½: c'ï¿½tait de dï¿½possï¿½der le
-roi de Naples actuel, de replacer la vï¿½ritable dynastie sur le trï¿½ne, de
-faire du roi de Sardaigne le roi d'Italie, et d'aller s'ï¿½tablir lui-mï¿½me
-dans l'ï¿½le de Sardaigne; puis tout-ï¿½-coup, abandonnant cette idï¿½e,
-_Non_, dit-il, _je renonce maintenant tout-ï¿½-fait au monde politique, et
-ne m'intï¿½resse plus ï¿½ tout ce qui peut arriver_. Et alors il s'ï¿½tendit
-beaucoup sur la maniï¿½re tranquille dont il voulait couler ses jours, et
-dit qu'ï¿½ Porto-Ferrajo il voulait vivre heureux, en ne s'occupant plus
-que des sciences. Il ajouta mï¿½me, que si on lui offrait la couronne de
-l'Europe, il la refuserait. _Je n'ai jamais estimï¿½ les hommes, dit-il,
-et je les ai toujours traitï¿½s comme ils le mï¿½ritent; mais cependant les
-procï¿½dï¿½s des Franï¿½ais envers moi sont d'une si grande ingratitude, que
-je suis entiï¿½rement dï¿½goï¿½tï¿½ de l'ambition de vouloir gouverner_[9].
+En pleine campagne, il recommença à causer avec le général et
+l'entretint du nouveau plan qu'il avait formé: c'était de déposséder le
+roi de Naples actuel, de replacer la véritable dynastie sur le trône, de
+faire du roi de Sardaigne le roi d'Italie, et d'aller s'établir lui-même
+dans l'île de Sardaigne; puis tout-à-coup, abandonnant cette idée,
+_Non_, dit-il, _je renonce maintenant tout-à-fait au monde politique, et
+ne m'intéresse plus à tout ce qui peut arriver_. Et alors il s'étendit
+beaucoup sur la manière tranquille dont il voulait couler ses jours, et
+dit qu'à Porto-Ferrajo il voulait vivre heureux, en ne s'occupant plus
+que des sciences. Il ajouta même, que si on lui offrait la couronne de
+l'Europe, il la refuserait. _Je n'ai jamais estimé les hommes, dit-il,
+et je les ai toujours traités comme ils le méritent; mais cependant les
+procédés des Français envers moi sont d'une si grande ingratitude, que
+je suis entièrement dégoûté de l'ambition de vouloir gouverner_[9].
 
-[Note 9: Il paraï¿½t certain qu'il avait quelques plans qu'il voulait
-exï¿½cuter ï¿½ l'aide du vice-roi d'Italie. Ce qui le prouve, c'est une
-lettre qui a ï¿½tï¿½ trouvï¿½e et dont voici un passage: ï¿½Je vous ï¿½crirai
-d'Elbe, je vous ferai part de mes projets futurs; jusque lï¿½, je vous
-prie, tenez-vous bien tranquille.ï¿½]
+[Note 9: Il paraît certain qu'il avait quelques plans qu'il voulait
+exécuter à l'aide du vice-roi d'Italie. Ce qui le prouve, c'est une
+lettre qui a été trouvée et dont voici un passage: «Je vous écrirai
+d'Elbe, je vous ferai part de mes projets futurs; jusque là, je vous
+prie, tenez-vous bien tranquille.»]
 
-ï¿½ Saint-Maximin il dï¿½jeï¿½na avec nous. Comme il entendit dire que le
-sous-prï¿½fet d'Aix ï¿½tait en cet endroit, il le fit appeler, et
+À Saint-Maximin il déjeûna avec nous. Comme il entendit dire que le
+sous-préfet d'Aix était en cet endroit, il le fit appeler, et
 l'apostropha en ces termes: _Vous devez rougir de me voir en uniforme
-autrichien, j'ai dï¿½ le prendre pour me mettre ï¿½ l'abri des insultes des
-Provenï¿½aux. J'arrivais avec pleine confiance au milieu de vous, tandis
+autrichien, j'ai dû le prendre pour me mettre à l'abri des insultes des
+Provençaux. J'arrivais avec pleine confiance au milieu de vous, tandis
 que j'aurais pu emmener avec moi six mille hommes de ma garde. Je ne
-trouve ici que des tas d'enragï¿½s qui menacent ma vie. C'est une mï¿½chante
-race que les Provenï¿½aux; ils ont commis toutes sortes d'horreurs et de
-crimes dans la rï¿½volution et sont tout prï¿½ts ï¿½ recommencer; mais quand
-il s'agit de se battre avec courage, alors ce sont des lï¿½ches; jamais
-la Provence ne m'a fourni un seul rï¿½giment, dont j'aurais pu ï¿½tre
-content. Mais ils seront peut-ï¿½tre demain aussi acharnï¿½s contre Louis
+trouve ici que des tas d'enragés qui menacent ma vie. C'est une méchante
+race que les Provençaux; ils ont commis toutes sortes d'horreurs et de
+crimes dans la révolution et sont tout prêts à recommencer; mais quand
+il s'agit de se battre avec courage, alors ce sont des lâches; jamais
+la Provence ne m'a fourni un seul régiment, dont j'aurais pu être
+content. Mais ils seront peut-être demain aussi acharnés contre Louis
 XVIII, qu'ils le paraissent aujourd'hui contre moi; ils croyent qu'ils
-n'auront plus rien ï¿½ payer; et quand ils verront que les contributions
-ne changeront que de nom, ils seront tout aussi enclins ï¿½ la rï¿½volte que
-dans l'annï¿½e 1790.--Vous n'avez donc pas pu contenir cette
-populace?_--Le prï¿½fet ne sachant comment rï¿½pondre, ni s'il devait
-s'excuser devant nous, se contenta de lui dire: ï¿½J'en suis tout confus,
-Sire.ï¿½ L'Empereur lui demanda ensuite si les droits rï¿½unis ï¿½taient dï¿½jï¿½
-abolis, et si la levï¿½e en masse aurait ï¿½tï¿½ difficile ï¿½ opï¿½rer? ï¿½Une
-levï¿½e en masse! Sire, rï¿½pliqua le prï¿½fet, je n'ai jamais pu rï¿½unir la
-moitiï¿½ du contingent qu'on devait fournir pour la conscription.ï¿½
-Napolï¿½on recommenï¿½a alors ses invectives contre les Provenï¿½aux et
-congï¿½dia le prï¿½fet.
+n'auront plus rien à payer; et quand ils verront que les contributions
+ne changeront que de nom, ils seront tout aussi enclins à la révolte que
+dans l'année 1790.--Vous n'avez donc pas pu contenir cette
+populace?_--Le préfet ne sachant comment répondre, ni s'il devait
+s'excuser devant nous, se contenta de lui dire: «J'en suis tout confus,
+Sire.» L'Empereur lui demanda ensuite si les droits réunis étaient déjà
+abolis, et si la levée en masse aurait été difficile à opérer? «Une
+levée en masse! Sire, répliqua le préfet, je n'ai jamais pu réunir la
+moitié du contingent qu'on devait fournir pour la conscription.»
+Napoléon recommença alors ses invectives contre les Provençaux et
+congédia le préfet.
 
 Ensuite, se tournant vers nous, il nous dit que Louis XVIII ne ferait
-jamais rien de la nation franï¿½aise, s'il la traitait avec trop de
-mï¿½nagement. _Puis_, continua-t-il, _il faut nï¿½cessairement qu'il lï¿½ve
-des impï¿½ts considï¿½rables, et ces mesures lui attireront aussitï¿½t la
+jamais rien de la nation française, s'il la traitait avec trop de
+ménagement. _Puis_, continua-t-il, _il faut nécessairement qu'il lève
+des impôts considérables, et ces mesures lui attireront aussitôt la
 haine de ses sujets._
 
-Il nous raconta qu'il y avait dix-huit ans qu'il avait ï¿½tï¿½ envoyï¿½ en ce
-pays, avec plusieurs milliers d'hommes, pour dï¿½livrer deux royalistes
-qui devaient ï¿½tre pendus, pour avoir portï¿½ la cocarde blanche. _Je les
-sauvai avec beaucoup de peine des mains de ces enragï¿½s; et aujourd'hui_,
-continua-t-il, _ces hommes recommenceraient les mï¿½mes excï¿½s contre celui
-d'entre eux qui se refuserait ï¿½ porter la cocarde blanche! Telle est
-l'inconstance du peuple franï¿½ais!_
+Il nous raconta qu'il y avait dix-huit ans qu'il avait été envoyé en ce
+pays, avec plusieurs milliers d'hommes, pour délivrer deux royalistes
+qui devaient être pendus, pour avoir porté la cocarde blanche. _Je les
+sauvai avec beaucoup de peine des mains de ces enragés; et aujourd'hui_,
+continua-t-il, _ces hommes recommenceraient les mêmes excès contre celui
+d'entre eux qui se refuserait à porter la cocarde blanche! Telle est
+l'inconstance du peuple français!_
 
-Nous apprï¿½mes qu'il y avait au Luc deux escadrons de hussards
-autrichiens; et, d'aprï¿½s la demande de Napolï¿½on, nous envoyï¿½mes l'ordre
-au commandant d'y attendre notre arrivï¿½e pour escorter l'Empereur
-jusqu'ï¿½ Frï¿½jus. Cette caution le tranquillisa singuliï¿½rement; mais
-malgrï¿½ cela il garda toujours le plus strict incognito.
+Nous apprîmes qu'il y avait au Luc deux escadrons de hussards
+autrichiens; et, d'après la demande de Napoléon, nous envoyâmes l'ordre
+au commandant d'y attendre notre arrivée pour escorter l'Empereur
+jusqu'à Fréjus. Cette caution le tranquillisa singulièrement; mais
+malgré cela il garda toujours le plus strict incognito.
 
-Il fut surtout trï¿½s-content de ce que le gï¿½nï¿½ral Koller consentit ï¿½
-passer pour lui dans une conversation que ce gï¿½nï¿½ral eut avec un
+Il fut surtout très-content de ce que le général Koller consentit à
+passer pour lui dans une conversation que ce général eut avec un
 officier corse au service de France. Il lui fit plusieurs questions, que
-Buonaparte lui soufflait dans l'oreille, et l'officier fut persuadï¿½ que
-c'ï¿½tait ï¿½ l'Empereur lui-mï¿½me qu'il parlait; car il ne pouvait concevoir
-qu'un gï¿½nï¿½ral autrichien, quelque instruit qu'il fï¿½t, pï¿½t avoir des
-notions aussi justes sur l'ï¿½le de Corse. Napolï¿½on, voyant son erreur,
-pria le gï¿½nï¿½ral de ne pas le dï¿½sabuser.
+Buonaparte lui soufflait dans l'oreille, et l'officier fut persuadé que
+c'était à l'Empereur lui-même qu'il parlait; car il ne pouvait concevoir
+qu'un général autrichien, quelque instruit qu'il fût, pût avoir des
+notions aussi justes sur l'île de Corse. Napoléon, voyant son erreur,
+pria le général de ne pas le désabuser.
 
-Nous arrivï¿½mes aprï¿½s le dï¿½ner dans la maison de M. Charles, lï¿½gislateur.
-Cette campagne est situï¿½e prï¿½s de Luc; la princesse Pauline Borghï¿½se,
-soeur de l'Empereur, y sï¿½journait depuis quelque temps. Elle frissonna
-au rï¿½cit des dangers que son frï¿½re avait courus dans son voyage, et ne
-pouvait croire aux dï¿½guisemens qu'il avait ï¿½tï¿½ obligï¿½ d'employer. Dï¿½s ce
-moment, elle rï¿½solut de l'accompagner ï¿½ l'ï¿½le d'Elbe et de ne plus
+Nous arrivâmes après le dîner dans la maison de M. Charles, législateur.
+Cette campagne est située près de Luc; la princesse Pauline Borghèse,
+soeur de l'Empereur, y séjournait depuis quelque temps. Elle frissonna
+au récit des dangers que son frère avait courus dans son voyage, et ne
+pouvait croire aux déguisemens qu'il avait été obligé d'employer. Dès ce
+moment, elle résolut de l'accompagner à l'île d'Elbe et de ne plus
 l'abandonner.
 
-Elle avait eu d'abord beaucoup de peine ï¿½ se persuader les grands
-ï¿½vï¿½nemens qui venaient d'avoir lieu, et enfin lorsqu'il lui fut
-impossible de se refuser ï¿½ leur authenticitï¿½, elle s'ï¿½cria: ï¿½Mais, en
-ce cas, mon frï¿½re est mort?ï¿½ On la convainquit que l'Empereur se portait
-bien, qu'on lui avait assurï¿½ un trï¿½s-beau traitement, et qu'il ï¿½tait en
-route pour se rendre ï¿½ sa nouvelle destination. ï¿½Comment, dit-elle, il a
-pu survivre ï¿½ tout cela? C'est-lï¿½ la plus mauvaise des nouvelles que
-vous venez de me donnerï¿½. Elle tomba alors sans connaissance, et ne
-revint ï¿½ elle que beaucoup plus souffrante qu'elle ne l'ï¿½tait
-ordinairement: l'entrevue qu'elle eut ce jour mï¿½me avec son frï¿½re,
-augmenta encore son ï¿½tat de mauvaise santï¿½.
+Elle avait eu d'abord beaucoup de peine à se persuader les grands
+événemens qui venaient d'avoir lieu, et enfin lorsqu'il lui fut
+impossible de se refuser à leur authenticité, elle s'écria: «Mais, en
+ce cas, mon frère est mort?» On la convainquit que l'Empereur se portait
+bien, qu'on lui avait assuré un très-beau traitement, et qu'il était en
+route pour se rendre à sa nouvelle destination. «Comment, dit-elle, il a
+pu survivre à tout cela? C'est-là la plus mauvaise des nouvelles que
+vous venez de me donner». Elle tomba alors sans connaissance, et ne
+revint à elle que beaucoup plus souffrante qu'elle ne l'était
+ordinairement: l'entrevue qu'elle eut ce jour même avec son frère,
+augmenta encore son état de mauvaise santé.
 
 Elle partit le soir pour Muy, afin de n'avoir le jour suivant que deux
-lieues ï¿½ faire pour se rendre ï¿½ Frï¿½jus. Avant de partir, elle nous fit
-prier de venir chez elle. Nous lui fï¿½mes prï¿½sentï¿½s par le gï¿½nï¿½ral
-Bertrand; elle nous entretint avec la grï¿½ce qui lui est connue, puis
-elle nous quitta en disant qu'elle espï¿½rait nous voir le lendemain ï¿½
-Frï¿½jus[10].
+lieues à faire pour se rendre à Fréjus. Avant de partir, elle nous fit
+prier de venir chez elle. Nous lui fûmes présentés par le général
+Bertrand; elle nous entretint avec la grâce qui lui est connue, puis
+elle nous quitta en disant qu'elle espérait nous voir le lendemain à
+Fréjus[10].
 
-[Note 10: Elle a exprimï¿½ combien elle avait eu de plaisir ï¿½
-rencontrer ici son frï¿½re, parce qu'elle l'avait empï¿½chï¿½ d'exï¿½cuter un
-projet dont il ï¿½tait imbu, et qui sans doute l'aurait prï¿½cipitï¿½ dans
-l'abï¿½me. Ce projet ï¿½tait peut-ï¿½tre relatif ï¿½ la lettre dont nous avons
-parlï¿½ plus haut.]
+[Note 10: Elle a exprimé combien elle avait eu de plaisir à
+rencontrer ici son frère, parce qu'elle l'avait empêché d'exécuter un
+projet dont il était imbu, et qui sans doute l'aurait précipité dans
+l'abîme. Ce projet était peut-être relatif à la lettre dont nous avons
+parlé plus haut.]
 
-Nous y arrivï¿½mes effectivement le 27, sans aucun encombre. Les hussards
-autrichiens qui nous avaient escortï¿½s, depuis cet endroit jusqu'ï¿½
-Frï¿½jus, continuï¿½rent le service auprï¿½s de l'Empereur. Dï¿½s qu'il se vit
-ainsi entourï¿½ de troupes, il reprit quelque courage, remit son uniforme
-et se replaï¿½a dans sa voiture. Ses ï¿½quipages ï¿½taient aussi arrivï¿½s, non
-sans peine, un jour plus tï¿½t que nous ï¿½ Frï¿½jus. Ils avaient traversï¿½ la
+Nous y arrivâmes effectivement le 27, sans aucun encombre. Les hussards
+autrichiens qui nous avaient escortés, depuis cet endroit jusqu'à
+Fréjus, continuèrent le service auprès de l'Empereur. Dès qu'il se vit
+ainsi entouré de troupes, il reprit quelque courage, remit son uniforme
+et se replaça dans sa voiture. Ses équipages étaient aussi arrivés, non
+sans peine, un jour plus tôt que nous à Fréjus. Ils avaient traversé la
 ville d'Avignon le dimanche 24 avril. Ceux qui les conduisaient
-n'avaient pu ï¿½chapper au danger d'ï¿½tre pillï¿½s qu'en cachant tout ce qui
-pouvait faire soupï¿½onner qu'ils ï¿½taient de la suite de Napolï¿½on: ils
-ï¿½tï¿½rent leurs habits de livrï¿½e, mirent des cocardes blanches, et
-jetï¿½rent de l'argent au peuple, en criant, comme lui: _Vive le Roi! vive
-Louis XVIII! ï¿½ bas l'Empereur! ï¿½ bas Nicolas!_ On avait trouvï¿½ le moyen
-d'avertir l'Empereur de cette scï¿½ne, et c'est pourquoi il avait pris
-tant de prï¿½cautions.
+n'avaient pu échapper au danger d'être pillés qu'en cachant tout ce qui
+pouvait faire soupçonner qu'ils étaient de la suite de Napoléon: ils
+ôtèrent leurs habits de livrée, mirent des cocardes blanches, et
+jetèrent de l'argent au peuple, en criant, comme lui: _Vive le Roi! vive
+Louis XVIII! à bas l'Empereur! à bas Nicolas!_ On avait trouvé le moyen
+d'avertir l'Empereur de cette scène, et c'est pourquoi il avait pris
+tant de précautions.
 
-Plusieurs personnes de sa suite l'avaient quittï¿½ au Luc, et il est
+Plusieurs personnes de sa suite l'avaient quitté au Luc, et il est
 probable que c'est l'une de ces personnes, qui trouva bon de
-s'approprier la cassette du maï¿½tre d'hï¿½tel de l'Empereur, qui ï¿½tait
-chargï¿½ des dï¿½penses du voyage, et auquel il restait ï¿½ peu prï¿½s soixante
+s'approprier la cassette du maître d'hôtel de l'Empereur, qui était
+chargé des dépenses du voyage, et auquel il restait à peu près soixante
 mille francs. Ce vol se fit dans la nuit du 26 au 27.
 
-Nous trouvï¿½mes ï¿½ Frï¿½jus le colonel Campbell, qui ï¿½tait arrivï¿½ de
-Marseille avec la frï¿½gate anglaise _the Undounted_ (l'Indomptï¿½). Ce
-bï¿½timent ï¿½tait commandï¿½ par le capitaine Asher, et ï¿½tait destinï¿½ ï¿½
-escorter l'Empereur, pour garantir son vaisseau de toute espï¿½ce
-d'attaque. Selon le traitï¿½, Buonaparte devait ï¿½tre conduit dans une
-corvette, et il fut trï¿½s-mï¿½content de ne trouver que le brick nommï¿½
-l'_Inconstant_, qui devait recevoir son souverain dï¿½trï¿½nï¿½ et lui rester
-en toute propriï¿½tï¿½.
+Nous trouvâmes à Fréjus le colonel Campbell, qui était arrivé de
+Marseille avec la frégate anglaise _the Undounted_ (l'Indompté). Ce
+bâtiment était commandé par le capitaine Asher, et était destiné à
+escorter l'Empereur, pour garantir son vaisseau de toute espèce
+d'attaque. Selon le traité, Buonaparte devait être conduit dans une
+corvette, et il fut très-mécontent de ne trouver que le brick nommé
+l'_Inconstant_, qui devait recevoir son souverain détrôné et lui rester
+en toute propriété.
 
-Aprï¿½s mille indï¿½cisions, nous le vï¿½mes avec plaisir se rï¿½soudre enfin ï¿½
-s'embarquer sur une frï¿½gate anglaise, et ï¿½ ne faire aucun usage du
-brick qui lui ï¿½tait destinï¿½. _Si le gouvernement, dit-il, eï¿½t su ce
-qu'il se doit ï¿½ lui-mï¿½me, il m'aurait envoyï¿½ un bï¿½timent ï¿½ trois ponts,
-et non pas un vieux brick pourri[11], ï¿½ bord duquel il serait au-dessous
-de ma dignitï¿½ de monter._
+Après mille indécisions, nous le vîmes avec plaisir se résoudre enfin à
+s'embarquer sur une frégate anglaise, et à ne faire aucun usage du
+brick qui lui était destiné. _Si le gouvernement, dit-il, eût su ce
+qu'il se doit à lui-même, il m'aurait envoyé un bâtiment à trois ponts,
+et non pas un vieux brick pourri[11], à bord duquel il serait au-dessous
+de ma dignité de monter._
 
-[Note 11: Ce brick n'ï¿½tait nullement en mauvais ï¿½tat: j'appris ï¿½ mon
-passage ï¿½ Toulon, qu'il ne s'ï¿½tait point trouvï¿½, dans le port, de
+[Note 11: Ce brick n'était nullement en mauvais état: j'appris à mon
+passage à Toulon, qu'il ne s'était point trouvé, dans le port, de
 corvette lorsque l'ordre du gouvernement arriva, et que celle qui lui
-ï¿½tait destinï¿½e l'attendait ï¿½ Saint-Tropez.]
+était destinée l'attendait à Saint-Tropez.]
 
-Le capitaine franï¿½ais, scandalisï¿½ du peu de cas que l'Empereur faisait
-de son bï¿½timent, repartit sur le champ pour Toulon.
+Le capitaine français, scandalisé du peu de cas que l'Empereur faisait
+de son bâtiment, repartit sur le champ pour Toulon.
 
-L'Empereur n'invita ï¿½ dï¿½ner que les commissaires, le comte Clamm et le
-capitaine du vaisseau anglais Asher. Il reprit alors toute la dignitï¿½
-impï¿½riale; il s'entretint beaucoup avec le capitaine Asher; et, comme
-celui-ci ne parlait pas trï¿½s-facilement franï¿½ais, Campbell leur servit
-d'interprï¿½te. Il nous parla avec une rare franchise des plans
-d'agrandissement qu'il avait encore pour la France, ï¿½ nos propres
-dï¿½pens; il nous expliqua comment il voulait faire de Hambourg un second
-Anvers, et rendre le port de Cuxhaven semblable ï¿½ celui de Cherbourg: il
-voulut aussi nous faire connaï¿½tre ce que personne n'avait encore
-remarquï¿½, c'est que l'Elbe avait la mï¿½me profondeur que l'Escaut, et
-qu'on pouvait construire ï¿½ son embouchure un port semblable ï¿½ celui dont
-il avait enrichi la Belgique. Il avait aussi le projet tout formï¿½ de
-faire dans ses ï¿½tats une conscription pour la marine, de mï¿½me que celle
-qui avait lieu pour les armï¿½es de terre. _Et_, dit-il, _si j'avais
-employï¿½ les moyens dont je me suis servi sur le Continent, contre
-l'Angleterre, je l'aurais renversï¿½e en deux ans de temps. Car_,
-disait-il, _c'ï¿½tait-lï¿½ mon unique but. Dans la position oï¿½ je me trouve
+L'Empereur n'invita à dîner que les commissaires, le comte Clamm et le
+capitaine du vaisseau anglais Asher. Il reprit alors toute la dignité
+impériale; il s'entretint beaucoup avec le capitaine Asher; et, comme
+celui-ci ne parlait pas très-facilement français, Campbell leur servit
+d'interprète. Il nous parla avec une rare franchise des plans
+d'agrandissement qu'il avait encore pour la France, à nos propres
+dépens; il nous expliqua comment il voulait faire de Hambourg un second
+Anvers, et rendre le port de Cuxhaven semblable à celui de Cherbourg: il
+voulut aussi nous faire connaître ce que personne n'avait encore
+remarqué, c'est que l'Elbe avait la même profondeur que l'Escaut, et
+qu'on pouvait construire à son embouchure un port semblable à celui dont
+il avait enrichi la Belgique. Il avait aussi le projet tout formé de
+faire dans ses états une conscription pour la marine, de même que celle
+qui avait lieu pour les armées de terre. _Et_, dit-il, _si j'avais
+employé les moyens dont je me suis servi sur le Continent, contre
+l'Angleterre, je l'aurais renversée en deux ans de temps. Car_,
+disait-il, _c'était-là mon unique but. Dans la position où je me trouve
 maintenant, je puis bien parler de tout cela, puisqu'il m'est impossible
-de rien exï¿½cuter._ Il s'exprimait avec tant de passion et de vivacitï¿½ en
-parlant de ses flottes de Toulon, de Brest et d'Anvers, de son armï¿½e de
-Hambourg et des mortiers qui se trouvaient ï¿½ Hyï¿½res, avec lesquels il
-pouvait jeter des bombes ï¿½ trois mille pas, que l'on eï¿½t cru que tout
+de rien exécuter._ Il s'exprimait avec tant de passion et de vivacité en
+parlant de ses flottes de Toulon, de Brest et d'Anvers, de son armée de
+Hambourg et des mortiers qui se trouvaient à Hyères, avec lesquels il
+pouvait jeter des bombes à trois mille pas, que l'on eût cru que tout
 cela lui appartenait encore.
 
-Aprï¿½s le dï¿½ner, il prit congï¿½ du gï¿½nï¿½ral Schuwaloff et de moi; il nous
-remercia des soins que nous lui avions donnï¿½s pendant son voyage, et
-parla ensuite avec beaucoup de mï¿½pris du gouvernement franï¿½ais. Il se
-plaignit surtout au gï¿½nï¿½ral Koller des injustices dont on l'accablait;
-de ce qu'on ne lui avait laissï¿½ qu'un seul service en argent, que six
+Après le dîner, il prit congé du général Schuwaloff et de moi; il nous
+remercia des soins que nous lui avions donnés pendant son voyage, et
+parla ensuite avec beaucoup de mépris du gouvernement français. Il se
+plaignit surtout au général Koller des injustices dont on l'accablait;
+de ce qu'on ne lui avait laissé qu'un seul service en argent, que six
 douzaines de chemises, et qu'on lui avait retenu le reste de son linge
-et de son argenterie, ainsi qu'une quantitï¿½ de meubles et de choses
+et de son argenterie, ainsi qu'une quantité de meubles et de choses
 qu'il avait acquises de son propre argent, et de ce qu'on ne voulait pas
-reconnaï¿½tre son droit exclusif sur le _rï¿½gent_, qu'il avait retirï¿½ de
+reconnaître son droit exclusif sur le _régent_, qu'il avait retiré de
 Berlin avec ses propres fonds, moyennant quatre millions. Ce diamant
-avait ï¿½tï¿½ en effet mis en gage pour 400,000 ï¿½cus, chez les juifs de
-Berlin par le gouvernement franï¿½ais. Il pria le gï¿½nï¿½ral de porter sa
-plainte ï¿½ son Empereur et ï¿½ celui de Russie, espï¿½rant qu'avec l'aide de
+avait été en effet mis en gage pour 400,000 écus, chez les juifs de
+Berlin par le gouvernement français. Il pria le général de porter sa
+plainte à son Empereur et à celui de Russie, espérant qu'avec l'aide de
 ces princes, justice lui serait rendue.
 
-Ce mï¿½me soir, nous ï¿½crivï¿½mes encore deux fois au gouverneur franï¿½ais de
-l'ï¿½le d'Elbe, pour obtenir de lui qu'il se rendï¿½t aux ordres qu'on lui
-envoyait, et pour qu'il livrï¿½t la place sans difficultï¿½s ï¿½ Napolï¿½on.
+Ce même soir, nous écrivîmes encore deux fois au gouverneur français de
+l'île d'Elbe, pour obtenir de lui qu'il se rendît aux ordres qu'on lui
+envoyait, et pour qu'il livrât la place sans difficultés à Napoléon.
 
 Le 28 au matin, l'Empereur aurait voulu partir et faire embarquer ses
-ï¿½quipages; mais il se trouva incommodï¿½, et partit seulement ï¿½ neuf
-heures du soir, aprï¿½s avoir encore demandï¿½ ï¿½ parler, au gï¿½nï¿½ral
-Schuwaloff et ï¿½ moi. Comme le gï¿½nï¿½ral avait dï¿½jï¿½ pris les devants pour
-se rendre au port un des premiers, l'Empereur ne prit congï¿½ que de moi
-seul; il me remercia encore une fois des attentions particuliï¿½res que
+équipages; mais il se trouva incommodé, et partit seulement à neuf
+heures du soir, après avoir encore demandé à parler, au général
+Schuwaloff et à moi. Comme le général avait déjà pris les devants pour
+se rendre au port un des premiers, l'Empereur ne prit congé que de moi
+seul; il me remercia encore une fois des attentions particulières que
 j'avais eues pour lui, mais ne me dit pas un mot pour le roi de Prusse.
-Le gï¿½nï¿½ral Schuwaloff se rendit ï¿½ bord de la frï¿½gate, comme Napolï¿½on y
-ï¿½tait dï¿½jï¿½, et l'Empereur le chargea de prï¿½senter ses hommages ï¿½
+Le général Schuwaloff se rendit à bord de la frégate, comme Napoléon y
+était déjà, et l'Empereur le chargea de présenter ses hommages à
 l'empereur Alexandre.
 
-Les hussards autrichiens l'accompagnï¿½rent jusqu'au port de Saint-Raphau,
-le mï¿½me oï¿½ il avait abordï¿½, quatorze ans auparavant, ï¿½ son retour
-d'ï¿½gypte. Il fut reï¿½u avec les honneurs militaires, et vingt-quatre
-coups de canon furent tirï¿½s[12].
+Les hussards autrichiens l'accompagnèrent jusqu'au port de Saint-Raphau,
+le même où il avait abordé, quatorze ans auparavant, à son retour
+d'Égypte. Il fut reçu avec les honneurs militaires, et vingt-quatre
+coups de canon furent tirés[12].
 
-[Note 12: Ces coups de canon ne furent pas tirï¿½s pour lui, mais
-douze en l'honneur du feld-marï¿½chal-lieutenant baron Koller, et douze
-pour le gï¿½nï¿½ral comte Schuwaloff. On laissa Buonaparte dans son erreur,
-afin qu'il ne fï¿½t pas de nouvelles difficultï¿½s pour s'embarquer s'il
+[Note 12: Ces coups de canon ne furent pas tirés pour lui, mais
+douze en l'honneur du feld-maréchal-lieutenant baron Koller, et douze
+pour le général comte Schuwaloff. On laissa Buonaparte dans son erreur,
+afin qu'il ne fît pas de nouvelles difficultés pour s'embarquer s'il
 connaissait l'intention du capitaine Asher de le recevoir comme simple
 particulier et non comme empereur.]
 
-Deux heures aprï¿½s, la frï¿½gate cingla. Le gï¿½nï¿½ral Koller, le colonel
-Campbell, le comte Clamm et l'aide-de-camp du gï¿½nï¿½ral Koller,
-accompagnï¿½rent l'Empereur jusqu'ï¿½ l'ï¿½le d'Elbe. Sa suite se composait
-des gï¿½nï¿½raux Bertrand et Drouot, le major polonais Ferzmanofsky, deux
-fouriers du palais, un officier payeur, M. Peyruche; un mï¿½decin, M.
-Fourrau; deux secrï¿½taires, un maï¿½tre d'hï¿½tel, un valet de chambre, deux
+Deux heures après, la frégate cingla. Le général Koller, le colonel
+Campbell, le comte Clamm et l'aide-de-camp du général Koller,
+accompagnèrent l'Empereur jusqu'à l'île d'Elbe. Sa suite se composait
+des généraux Bertrand et Drouot, le major polonais Ferzmanofsky, deux
+fouriers du palais, un officier payeur, M. Peyruche; un médecin, M.
+Fourrau; deux secrétaires, un maître d'hôtel, un valet de chambre, deux
 cuisiniers et six domestiques.
 
-Le gï¿½nï¿½ral Bertrand ne put cacher combien le sacrifice lui coï¿½tait, et
+Le général Bertrand ne put cacher combien le sacrifice lui coûtait, et
 ne dissimula pas qu'il ne le faisait que pour remplir son devoir envers
 l'Empereur.
 
-Le gï¿½nï¿½ral Drouot, au contraire, montra constamment le mï¿½me courage et
-la mï¿½me gaï¿½tï¿½. On m'a assurï¿½ que l'Empereur avait voulu lui donner cent
-mille francs, et qu'il les avait refusï¿½s, en lui disant que s'il
-acceptait de l'argent de lui, on n'attribuerait alors son sincï¿½re
-dï¿½vouement qu'ï¿½ un vil intï¿½rï¿½t. Le reste de son monde ne paraissait le
+Le général Drouot, au contraire, montra constamment le même courage et
+la même gaîté. On m'a assuré que l'Empereur avait voulu lui donner cent
+mille francs, et qu'il les avait refusés, en lui disant que s'il
+acceptait de l'argent de lui, on n'attribuerait alors son sincère
+dévouement qu'à un vil intérêt. Le reste de son monde ne paraissait le
 suivre que pour conserver son traitement.
 
-Le gï¿½nï¿½ral Schuwaloff et moi partï¿½mes, la mï¿½me nuit, de Frï¿½jus, et je
-revins directement ï¿½ Paris par Toulon et Marseille.
+Le général Schuwaloff et moi partîmes, la même nuit, de Fréjus, et je
+revins directement à Paris par Toulon et Marseille.
 
 
 
 
-SUITE DE L'ITINï¿½RAIRE DE NAPOLï¿½ON;
+SUITE DE L'ITINÉRAIRE DE NAPOLÉON;
 
-D'aprï¿½s le rï¿½cit que m'a fait, lui-mï¿½me, le gï¿½nï¿½ral Koller.
+D'après le récit que m'a fait, lui-même, le général Koller.
 
 
-LE gï¿½nï¿½ral Koller et le colonel Campbell, qui avaient la mission
-d'accompagner Napolï¿½on jusqu'ï¿½ l'ï¿½le d'Elbe, eurent l'occasion de
-considï¿½rer de plus prï¿½s cet homme extraordinaire. Pendant les cinq jours
-qu'ils furent obligï¿½s de passer sur mer, parce que les vents contraires,
-les orages, et les calmes dont ils furent surpris, les empï¿½chï¿½rent
-d'arriver plutï¿½t, Napolï¿½on fut toujours de bonne humeur, d'une
-prï¿½venance et d'une politesse parfaites. Il tï¿½moignait cependant une
+LE général Koller et le colonel Campbell, qui avaient la mission
+d'accompagner Napoléon jusqu'à l'île d'Elbe, eurent l'occasion de
+considérer de plus près cet homme extraordinaire. Pendant les cinq jours
+qu'ils furent obligés de passer sur mer, parce que les vents contraires,
+les orages, et les calmes dont ils furent surpris, les empêchèrent
+d'arriver plutôt, Napoléon fut toujours de bonne humeur, d'une
+prévenance et d'une politesse parfaites. Il témoignait cependant une
 grande impatience d'arriver au lieu de sa destination. Les deux
 commissaires, le capitaine Asher, le comte Clamm et le lieutenant de
-vaisseau anglais Smith, furent tous les jours admis ï¿½ sa table; mais il
-accorda toujours une prï¿½fï¿½rence marquï¿½e au gï¿½nï¿½ral Koller. Il lui
-tï¿½moignait combien tout ce qui s'ï¿½tait passï¿½ dans les derniers jours de
-son voyage lui faisait de peine. _Quant ï¿½ vous, mon cher gï¿½nï¿½ral_, lui
-dit-il, _je me suis montrï¿½ cul-nu; mais, dites-moi franchement, si vous
-ne croyez pas aussi que toutes ces scï¿½nes scandaleuses aient ï¿½tï¿½
-sourdement excitï¿½es par le gouvernement franï¿½ais_[13]? Le gï¿½nï¿½ral
-l'assura qu'il ï¿½tait bien ï¿½loignï¿½ de partager cette pensï¿½e, et que le
-gouvernement franï¿½ais ne se serait sans doute pas permis une conduite si
-contraire aux intentions des puissances alliï¿½es. L'Empereur manifestait
-cependant toujours l'inquiï¿½tude de n'ï¿½tre pas reï¿½u ï¿½ l'ï¿½le d'Elbe.
+vaisseau anglais Smith, furent tous les jours admis à sa table; mais il
+accorda toujours une préférence marquée au général Koller. Il lui
+témoignait combien tout ce qui s'était passé dans les derniers jours de
+son voyage lui faisait de peine. _Quant à vous, mon cher général_, lui
+dit-il, _je me suis montré cul-nu; mais, dites-moi franchement, si vous
+ne croyez pas aussi que toutes ces scènes scandaleuses aient été
+sourdement excitées par le gouvernement français_[13]? Le général
+l'assura qu'il était bien éloigné de partager cette pensée, et que le
+gouvernement français ne se serait sans doute pas permis une conduite si
+contraire aux intentions des puissances alliées. L'Empereur manifestait
+cependant toujours l'inquiétude de n'être pas reçu à l'île d'Elbe.
 
-[Note 13: Toutes les paroles de l'Empereur sont en franï¿½ais dans
+[Note 13: Toutes les paroles de l'Empereur sont en français dans
 l'original.]
 
-Le 3 mai, lorsqu'on aperï¿½ut l'ï¿½le, le gï¿½nï¿½ral Drouot, le comte Clamm et
-le lieutenant Smith furent envoyï¿½s en parlementaires; le premier, en
-qualitï¿½ de commissaire de l'Empereur, les deux autres ï¿½taient chargï¿½s de
-l'ordre du gouvernement franï¿½ais, et d'un certificat signï¿½ par nous,
-pour inviter le gï¿½nï¿½ral Dalesme, gouverneur d'Elbe, de remettre le
-commandement, la possession de l'ï¿½le, de tous ses forts et munitions de
-guerre au gï¿½nï¿½ral Drouot, plï¿½nipotentiaire de l'Empereur.
+Le 3 mai, lorsqu'on aperçut l'île, le général Drouot, le comte Clamm et
+le lieutenant Smith furent envoyés en parlementaires; le premier, en
+qualité de commissaire de l'Empereur, les deux autres étaient chargés de
+l'ordre du gouvernement français, et d'un certificat signé par nous,
+pour inviter le général Dalesme, gouverneur d'Elbe, de remettre le
+commandement, la possession de l'île, de tous ses forts et munitions de
+guerre au général Drouot, plénipotentiaire de l'Empereur.
 
-Les dï¿½putï¿½s trouvï¿½rent les Elbois dans une anarchie complette. ï¿½
-Porto-Ferrajo flottait le drapeau blanc, ï¿½ Porto-Lungone l'ï¿½tendard aux
-trois couleurs; le reste de l'ï¿½le voulait proclamer son indï¿½pendance.
-Lorsque la nouvelle de l'arrivï¿½e de Buonaparte se rï¿½pandit, et surtout
-celle des trï¿½sors qu'il apportait, tous les partis se rï¿½unirent, pour
-venir au devant de leur nouveau maï¿½tre.
+Les députés trouvèrent les Elbois dans une anarchie complette. À
+Porto-Ferrajo flottait le drapeau blanc, à Porto-Lungone l'étendard aux
+trois couleurs; le reste de l'île voulait proclamer son indépendance.
+Lorsque la nouvelle de l'arrivée de Buonaparte se répandit, et surtout
+celle des trésors qu'il apportait, tous les partis se réunirent, pour
+venir au devant de leur nouveau maître.
 
-Le gï¿½nï¿½ral Drouot reï¿½ut du gouverneur les clefs de la ville, le fort,
+Le général Drouot reçut du gouverneur les clefs de la ville, le fort,
 tout ce qu'il contenait d'artillerie, et trois cent-vingt-cinq canons
-qui en faisaient partie: tout fut remis sans difficultï¿½s(_e_).
+qui en faisaient partie: tout fut remis sans difficultés(_e_).
 
-Aprï¿½s que le nouveau drapeau impï¿½rial fut posï¿½ sur les tours de
-Porto-Ferrajo, le comte Clamm et le lieutenant Smith retournï¿½rent ï¿½
-bord de l'_Indomptï¿½_, pour apprendre ï¿½ l'Empereur l'issue de leur
-mission. Dï¿½jï¿½ le capitaine Asher avait saluï¿½, ï¿½ son arrivï¿½e, la garnison
+Après que le nouveau drapeau impérial fut posé sur les tours de
+Porto-Ferrajo, le comte Clamm et le lieutenant Smith retournèrent à
+bord de l'_Indompté_, pour apprendre à l'Empereur l'issue de leur
+mission. Déjà le capitaine Asher avait salué, à son arrivée, la garnison
 de Porto-Ferrajo des coups de canon d'usage, la garnison y avait
-rï¿½pondu: politesse que Napolï¿½on s'attribua encore faussement. Mais
-lorsque le gï¿½nï¿½ral Drouot fut gouverneur, il donna l'ordre de tirer cent
-coups de canon qui furent alors bien certainement tirï¿½s en l'honneur de
+répondu: politesse que Napoléon s'attribua encore faussement. Mais
+lorsque le général Drouot fut gouverneur, il donna l'ordre de tirer cent
+coups de canon qui furent alors bien certainement tirés en l'honneur de
 l'Empereur.
 
-Lorsque Buonaparte mit pied ï¿½ terre, la municipalitï¿½ et les corps de
-l'ï¿½tat vinrent le recevoir et le haranguer. Napolï¿½on leur rï¿½pondit ï¿½ peu
-prï¿½s en ces termes: _La douceur de votre climat, les sites romantiques
-de votre ï¿½le m'ont dï¿½cidï¿½ ï¿½ la choisir, entre tous mes vastes ï¿½tats,
-pour mon sï¿½jour; j'espï¿½re que vous saurez apprï¿½cier cette prï¿½fï¿½rence, et
+Lorsque Buonaparte mit pied à terre, la municipalité et les corps de
+l'état vinrent le recevoir et le haranguer. Napoléon leur répondit à peu
+près en ces termes: _La douceur de votre climat, les sites romantiques
+de votre île m'ont décidé à la choisir, entre tous mes vastes états,
+pour mon séjour; j'espère que vous saurez apprécier cette préférence, et
 que vous m'aimerez comme des enfans soumis; aussi me trouverez-vous
-toujours disposï¿½ ï¿½ avoir pour vous toute la sollicitude d'un pï¿½re._
+toujours disposé à avoir pour vous toute la sollicitude d'un père._
 
-Trois violons, et deux basses, qui avaient accompagnï¿½ la dï¿½putation,
-surprirent ce tendre pï¿½re de leurs sons harmonieux. On le conduisit,
-sous un dais ornï¿½ de papier dorï¿½ et de vieux morceaux d'ï¿½carlate, dans
-le lieu de sa rï¿½sidence. C'ï¿½tait ï¿½ l'Hï¿½tel-de-Ville qu'il devait loger.
-On avait ornï¿½ la salle qui servait ordinairement pour les bals publics
-avec quelques petits tableaux, des candï¿½labres en glaces, et un trï¿½ne
-impï¿½rial avait ï¿½tï¿½ ï¿½levï¿½ ï¿½ la hï¿½te et parï¿½ aussi de beaucoup de papier
-d'or et de morceaux ï¿½carlates. La musique de la chapelle l'accompagna
-jusque-lï¿½ et fit retentir des sons si touchans, que le Prince, tout ï¿½mu,
-demanda bien vite ï¿½ ï¿½tre conduit dans son appartement. Il le trouva si
-misï¿½rablement meublï¿½ qu'il prit des arrangemens avec le gï¿½nï¿½ral Koller
+Trois violons, et deux basses, qui avaient accompagné la députation,
+surprirent ce tendre père de leurs sons harmonieux. On le conduisit,
+sous un dais orné de papier doré et de vieux morceaux d'écarlate, dans
+le lieu de sa résidence. C'était à l'Hôtel-de-Ville qu'il devait loger.
+On avait orné la salle qui servait ordinairement pour les bals publics
+avec quelques petits tableaux, des candélabres en glaces, et un trône
+impérial avait été élevé à la hâte et paré aussi de beaucoup de papier
+d'or et de morceaux écarlates. La musique de la chapelle l'accompagna
+jusque-là et fit retentir des sons si touchans, que le Prince, tout ému,
+demanda bien vite à être conduit dans son appartement. Il le trouva si
+misérablement meublé qu'il prit des arrangemens avec le général Koller
 sur les moyens de faire venir de Lucques et Piombino le mobilier de sa
-soeur ï¿½liza. Le gï¿½nï¿½ral ï¿½crivit ï¿½ la grande-duchesse de Toscane qui
-envoya aussitï¿½t ce qui lui ï¿½tait demandï¿½ sur de petits bï¿½timens: c'est
-ce qui a donnï¿½ lieu au faux bruit qui a couru que Napolï¿½on s'ï¿½tait
-emparï¿½ d'un vaisseau appartenant ï¿½ son beau-frï¿½re, l'avait confisquï¿½ et
-dï¿½clarï¿½ de bonne prise.
+soeur Éliza. Le général écrivit à la grande-duchesse de Toscane qui
+envoya aussitôt ce qui lui était demandé sur de petits bâtimens: c'est
+ce qui a donné lieu au faux bruit qui a couru que Napoléon s'était
+emparé d'un vaisseau appartenant à son beau-frère, l'avait confisqué et
+déclaré de bonne prise.
 
-Aussitï¿½t aprï¿½s son arrivï¿½e, l'Empereur visita les fortifications, et
-assura d'un air de contentement que moyennant les amï¿½liorations qu'il
-mï¿½ditait, il pourrait se dï¿½fendre contre toute espï¿½ce de tentative de la
+Aussitôt après son arrivée, l'Empereur visita les fortifications, et
+assura d'un air de contentement que moyennant les améliorations qu'il
+méditait, il pourrait se défendre contre toute espèce de tentative de la
 part des habitans du continent.
 
-Le gï¿½nï¿½ral Koller resta dix jours ï¿½ l'ï¿½le d'Elbe et gagna de plus en
+Le général Koller resta dix jours à l'île d'Elbe et gagna de plus en
 plus la confiance de l'Empereur, qui n'entreprenait absolument rien sans
 le consulter. Il lui confia un jour que, dans l'espace de vingt-quatre
-heures, il aurait ï¿½ ses ordres plus de trois ï¿½ quatre mille hommes,
-parce qu'il avait fait une proclamation ï¿½ la garnison franï¿½aise qui se
-trouvait dans l'ï¿½le, que ceux qui voudraient prendre du service seraient
-ï¿½ sa solde, et qu'il avait appris que l'affluence ï¿½tait si grande que
-plusieurs milliers s'ï¿½taient dï¿½jï¿½ proposï¿½s. Koller blï¿½ma ouvertement
-cette mesure, qui naturellement devait jeter une grande dï¿½fiance sur ses
-projets pacifiques. _Qu'est-ce que cela me fait_, rï¿½partit Napolï¿½on?
-_j'ai examinï¿½ les fortifications, et je dï¿½fie qu'on puisse m'attaquer
-ici avec le moindre succï¿½s._ ï¿½Je le crois, reprit le gï¿½nï¿½ral; mais je
-crois aussi que le gouvernement franï¿½ais saisirait bien vite ce prï¿½texte
-pour ne pas vous payer la pension convenue.ï¿½ _Croyez-vous_, interrompit
+heures, il aurait à ses ordres plus de trois à quatre mille hommes,
+parce qu'il avait fait une proclamation à la garnison française qui se
+trouvait dans l'île, que ceux qui voudraient prendre du service seraient
+à sa solde, et qu'il avait appris que l'affluence était si grande que
+plusieurs milliers s'étaient déjà proposés. Koller blâma ouvertement
+cette mesure, qui naturellement devait jeter une grande défiance sur ses
+projets pacifiques. _Qu'est-ce que cela me fait_, répartit Napoléon?
+_j'ai examiné les fortifications, et je défie qu'on puisse m'attaquer
+ici avec le moindre succès._ «Je le crois, reprit le général; mais je
+crois aussi que le gouvernement français saisirait bien vite ce prétexte
+pour ne pas vous payer la pension convenue.» _Croyez-vous_, interrompit
 brusquement l'Empereur? _diable, cela ne m'arrangerait pas du tout. Mais
-que faire ï¿½ prï¿½sent?_ ï¿½Il faut, dit le gï¿½nï¿½ral, publier une nouvelle
-proclamation oï¿½ vous dï¿½clarerez que cette invitation ne devait
+que faire à présent?_ «Il faut, dit le général, publier une nouvelle
+proclamation où vous déclarerez que cette invitation ne devait
 s'appliquer qu'aux soldats Elbois qui servaient la France et qui
-dï¿½sireraient rester dans leur pays natal.ï¿½ Aussitï¿½t l'Empereur adopta ce
-conseil, et remercia beaucoup ce gï¿½nï¿½ral, qui l'avait dï¿½jï¿½ habituï¿½ ï¿½
-s'entendre dire patiemment qu'il avait tort. Dï¿½s les premiers jours du
+désireraient rester dans leur pays natal.» Aussitôt l'Empereur adopta ce
+conseil, et remercia beaucoup ce général, qui l'avait déjà habitué à
+s'entendre dire patiemment qu'il avait tort. Dès les premiers jours du
 voyage de Fontainebleau, il lui avait dit en plusieurs circonstances
-ï¿½Votre Majestï¿½ a tortï¿½. Napolï¿½on peu accoutumï¿½ ï¿½ cette franchise, lui
-avait rï¿½pondu avec vivacitï¿½: _Vous me dites toujours que j'ai tort, et
-continuellement que j'ai tort; parlez-vous donc aussi comme cela ï¿½ votre
-Empereur?_ Le gï¿½nï¿½ral l'assura que son Empereur serait trï¿½s-fï¿½chï¿½ contre
-lui, s'il soupï¿½onnait qu'il ne lui dit pas toujours bien franchement sa
-faï¿½on de penser. _En ce cas_, reprit l'Empereur radouci, _votre maï¿½tre
-est bien mieux servi que je ne l'ai jamais ï¿½tï¿½._
+«Votre Majesté a tort». Napoléon peu accoutumé à cette franchise, lui
+avait répondu avec vivacité: _Vous me dites toujours que j'ai tort, et
+continuellement que j'ai tort; parlez-vous donc aussi comme cela à votre
+Empereur?_ Le général l'assura que son Empereur serait très-fâché contre
+lui, s'il soupçonnait qu'il ne lui dit pas toujours bien franchement sa
+façon de penser. _En ce cas_, reprit l'Empereur radouci, _votre maître
+est bien mieux servi que je ne l'ai jamais été._
 
-Napolï¿½on s'occupait sans relï¿½che et avec une activitï¿½ incroyable: tantï¿½t
-il allait visiter les petites ï¿½les voisines de l'ï¿½le d'Elbe. Pianosa,
-l'une d'elles et la plus remarquable, est embellie par la vï¿½gï¿½tation la
-plus riche; des sites tout ï¿½ fait romantiques et beaucoup de chevaux
-sauvages animent cette dï¿½licieuse contrï¿½e. D'autres fois, il parcourait
-l'ï¿½le ï¿½ cheval dans tous les sens. Le gï¿½nï¿½ral Koller l'accompagna
+Napoléon s'occupait sans relâche et avec une activité incroyable: tantôt
+il allait visiter les petites îles voisines de l'île d'Elbe. Pianosa,
+l'une d'elles et la plus remarquable, est embellie par la végétation la
+plus riche; des sites tout à fait romantiques et beaucoup de chevaux
+sauvages animent cette délicieuse contrée. D'autres fois, il parcourait
+l'île à cheval dans tous les sens. Le général Koller l'accompagna
 constamment. L'Empereur lui contait tous ses projets d'embellissement
 pour Porto-Ferrajo. Il voulait faire construire un palais, et y fonder
-plusieurs institutions libï¿½rales. Tous ses plans sont vastes, et s'il
-vient ï¿½ bout de les exï¿½cuter, sa prï¿½sence sera un grand bienfait pour ce
-pays, dont il doublera certainement la population. Elle s'ï¿½value en ce
-moment ï¿½ douze mille personnes; mais l'ï¿½tendue et la richesse du pays
+plusieurs institutions libérales. Tous ses plans sont vastes, et s'il
+vient à bout de les exécuter, sa présence sera un grand bienfait pour ce
+pays, dont il doublera certainement la population. Elle s'évalue en ce
+moment à douze mille personnes; mais l'étendue et la richesse du pays
 suffiraient pour en nourrir trente mille. Les mines de fer, d'aimant, de
-sel, la pï¿½che du thon offrent des sources de richesses considï¿½rables et
+sel, la pêche du thon offrent des sources de richesses considérables et
 rapportaient au gouvernement 600,000 fr. Avec les plans que l'Empereur a
-formï¿½s, s'il a le temps et la force de les exï¿½cuter, je ne doute pas
-qu'il ne vienne ï¿½ bout de doubler le produit.
+formés, s'il a le temps et la force de les exécuter, je ne doute pas
+qu'il ne vienne à bout de doubler le produit.
 
 Pour gagner l'affection des Elbois, il leur fit donner, le second jour
-de son arrivï¿½e, soixante mille francs pour faire des routes dont les
-projets existaient depuis long-temps, mais qui n'avaient pu ï¿½tre
-effectuï¿½s faute d'argent.
+de son arrivée, soixante mille francs pour faire des routes dont les
+projets existaient depuis long-temps, mais qui n'avaient pu être
+effectués faute d'argent.
 
-Il avait fait changer cette somme, qu'il possï¿½dait en or, en piï¿½ces
-d'argent, afin que cela fï¿½t beaucoup plus d'effet lorsque ses gens
-transporteraient, ï¿½ travers les rues, ces sacs du chï¿½teau ï¿½ la
+Il avait fait changer cette somme, qu'il possédait en or, en pièces
+d'argent, afin que cela fît beaucoup plus d'effet lorsque ses gens
+transporteraient, à travers les rues, ces sacs du château à la
 Maison-de-Ville.
 
-Cet artifice eut tout le succï¿½s qu'il en attendait, on ne parla plus
-d'autre chose que de ses immenses trï¿½sors et de sa grande libï¿½ralitï¿½.
+Cet artifice eut tout le succès qu'il en attendait, on ne parla plus
+d'autre chose que de ses immenses trésors et de sa grande libéralité.
 
-La pï¿½che du thon avait ï¿½tï¿½, jusqu'ï¿½ son arrivï¿½e, affermï¿½e ï¿½ un riche
-Gï¿½nois, qui, pour faciliter son commerce, avait fait bï¿½tir une maison ï¿½
-Porto-Ferrajo; comme cette maison gï¿½nait Buonaparte dans ses projets
-d'embellissemens, il la fit jeter bas, sans autre forme de procï¿½s, et
-sans vouloir seulement en parler au propriï¿½taire; celui-ci poussa les
-hauts cris et s'ï¿½leva fortement contre l'injustice de ce procï¿½dï¿½. Alors
-l'Empereur lui fit savoir que, malgrï¿½ le bail qui existait, son
-intention ï¿½tait d'affermer de nouveau la pï¿½che au plus offrant, et qu'il
+La pêche du thon avait été, jusqu'à son arrivée, affermée à un riche
+Gênois, qui, pour faciliter son commerce, avait fait bâtir une maison à
+Porto-Ferrajo; comme cette maison gênait Buonaparte dans ses projets
+d'embellissemens, il la fit jeter bas, sans autre forme de procès, et
+sans vouloir seulement en parler au propriétaire; celui-ci poussa les
+hauts cris et s'éleva fortement contre l'injustice de ce procédé. Alors
+l'Empereur lui fit savoir que, malgré le bail qui existait, son
+intention était d'affermer de nouveau la pêche au plus offrant, et qu'il
 voulait avoir vingt mille francs de plus qu'elle ne rapportait par an.
-Le malheureux entrepreneur fut si effrayï¿½, qu'il fit dire ï¿½ l'Empereur
+Le malheureux entrepreneur fut si effrayé, qu'il fit dire à l'Empereur
 qu'il paierait tout ce qu'il voudrait et qu'il ne serait plus question
-de la maison abattue. Napolï¿½on se laissa pourtant un peu attendrir, lui
-rabattit quelque chose des vingt mille francs, et le Gï¿½nois ï¿½leva
-jusqu'aux nues la gï¿½nï¿½rositï¿½ impï¿½riale.
+de la maison abattue. Napoléon se laissa pourtant un peu attendrir, lui
+rabattit quelque chose des vingt mille francs, et le Gênois éleva
+jusqu'aux nues la générosité impériale.
 
-Buonaparte conclut un traitï¿½ de commerce avec Livourne, et lorsque le
-gï¿½nï¿½ral Koller le quitta, il le chargea de dï¿½pï¿½ches pour Gï¿½nes, afin de
-nï¿½gocier un semblable traitï¿½, qui eut lieu effectivement. L'Empereur lui
-fit des adieux affectueux, et le pria de venir bientï¿½t le revoir.
+Buonaparte conclut un traité de commerce avec Livourne, et lorsque le
+général Koller le quitta, il le chargea de dépêches pour Gênes, afin de
+négocier un semblable traité, qui eut lieu effectivement. L'Empereur lui
+fit des adieux affectueux, et le pria de venir bientôt le revoir.
 
        *       *       *       *       *
 
-Pendant mon voyage de Toulon ï¿½ Paris, je me convainquis ï¿½ quel point
-tout le pays ï¿½tait irritï¿½ contre Buonaparte. Si nous avions ï¿½tï¿½ obligï¿½s
+Pendant mon voyage de Toulon à Paris, je me convainquis à quel point
+tout le pays était irrité contre Buonaparte. Si nous avions été obligés
 d'y passer, je doute fort que nous eussions pu le sauver de la rage du
-peuple. On m'assura que cette maniï¿½re de voir ï¿½tait la mï¿½me dans tout le
-Languedoc, la Guyenne, la Gascogne, et particuliï¿½rement ï¿½ Toulouse, ï¿½
-Nï¿½mes et ï¿½ Montpellier.
+peuple. On m'assura que cette manière de voir était la même dans tout le
+Languedoc, la Guyenne, la Gascogne, et particulièrement à Toulouse, à
+Nîmes et à Montpellier.
 
-Je fus reï¿½u ï¿½ Toulon par le marï¿½chal Massï¿½na, avec la plus grande
-politesse. Il me dit combien il ï¿½tait charmï¿½ du renversement de
-Buonaparte, et il me fit mï¿½me connaï¿½tre le sujet de la haine qu'il lui
-avait vouï¿½e: et pour nous prouver la maniï¿½re indigne dont l'ex-Empereur
-avait agi envers lui, il nous raconta qu'un jour de chasse, Napolï¿½on,
-soit qu'il l'eï¿½t fait exprï¿½s ou non, le blessa d'un coup de fusil ï¿½
-l'oeil et le lui creva. Il ne fit pas mï¿½me semblant de l'apercevoir, et,
-aprï¿½s la chasse, il vint voir le marï¿½chal et lui dit tout bas: _C'est le
-prince Guillaume de Prusse qui vous a crevï¿½ l'oeil_, et chercha ï¿½ lui
-persuader que le prince l'avait fait ï¿½ dessein. Puis il s'informa avec
-une apparente sensibilitï¿½, s'il avait ï¿½prouvï¿½ une forte douleur. Massï¿½na
-nous dï¿½clara qu'il avait rï¿½pondu que ce malheureux coup n'avait pas ï¿½tï¿½
-dirigï¿½ par le prince Guillaume.
+Je fus reçu à Toulon par le maréchal Masséna, avec la plus grande
+politesse. Il me dit combien il était charmé du renversement de
+Buonaparte, et il me fit même connaître le sujet de la haine qu'il lui
+avait vouée: et pour nous prouver la manière indigne dont l'ex-Empereur
+avait agi envers lui, il nous raconta qu'un jour de chasse, Napoléon,
+soit qu'il l'eût fait exprès ou non, le blessa d'un coup de fusil à
+l'oeil et le lui creva. Il ne fit pas même semblant de l'apercevoir, et,
+après la chasse, il vint voir le maréchal et lui dit tout bas: _C'est le
+prince Guillaume de Prusse qui vous a crevé l'oeil_, et chercha à lui
+persuader que le prince l'avait fait à dessein. Puis il s'informa avec
+une apparente sensibilité, s'il avait éprouvé une forte douleur. Masséna
+nous déclara qu'il avait répondu que ce malheureux coup n'avait pas été
+dirigé par le prince Guillaume.
 
 Lorsque je visitai la flotte de Toulon, je trouvai une nouvelle preuve
-de la cruautï¿½ avec laquelle Napolï¿½on traitait les Prussiens. Sur le
-vaisseau Amiral, deux matelots, misï¿½rablement vï¿½tus, s'approchï¿½rent de
-moi et me parlï¿½rent en allemand. Ils me suppliï¿½rent, au nom de Dieu, de
+de la cruauté avec laquelle Napoléon traitait les Prussiens. Sur le
+vaisseau Amiral, deux matelots, misérablement vêtus, s'approchèrent de
+moi et me parlèrent en allemand. Ils me supplièrent, au nom de Dieu, de
 les tirer d'esclavage, eux et trois cents de leurs compatriotes qui
-ï¿½taient dï¿½tenus dans le bagne. La plupart ï¿½tait du corps de Schill, et
-les autres avaient ï¿½tï¿½ faits prisonniers ï¿½ Dantzick dans l'annï¿½e 1807.
-On les avait, malgrï¿½ le traitï¿½ de paix, conduits d'Anvers ï¿½ Toulon,
-attachï¿½s ï¿½ la chaï¿½ne comme de vils galï¿½riens. Sur ma demande, les deux
-matelots qui s'ï¿½taient prï¿½sentï¿½s d'abord ï¿½ moi furent mis aussitï¿½t en
-libertï¿½; et, lorsque je fus arrivï¿½ ï¿½ Paris, je fus assez heureux pour
-dï¿½livrer les autres prisonniers prussiens.
+étaient détenus dans le bagne. La plupart était du corps de Schill, et
+les autres avaient été faits prisonniers à Dantzick dans l'année 1807.
+On les avait, malgré le traité de paix, conduits d'Anvers à Toulon,
+attachés à la chaîne comme de vils galériens. Sur ma demande, les deux
+matelots qui s'étaient présentés d'abord à moi furent mis aussitôt en
+liberté; et, lorsque je fus arrivé à Paris, je fus assez heureux pour
+délivrer les autres prisonniers prussiens.
 
 
 
@@ -1103,178 +1103,178 @@ dï¿½livrer les autres prisonniers prussiens.
 NOTES.
 
 
-(_a_) Dans la _Gazette de France_ du 29 avril, Roustan a publiï¿½ la
+(_a_) Dans la _Gazette de France_ du 29 avril, Roustan a publié la
 lettre suivante:
 
-ï¿½MONSIEUR,
+«MONSIEUR,
 
-ï¿½On rï¿½pand, depuis quelque temps, les bruits les plus dï¿½savantageux sur
-ma personne; on va jusqu'ï¿½ dire que c'est aprï¿½s avoir reï¿½u une somme
-considï¿½rable de Buonaparte, mon maï¿½tre, que je suis parti de
+»On répand, depuis quelque temps, les bruits les plus désavantageux sur
+ma personne; on va jusqu'à dire que c'est après avoir reçu une somme
+considérable de Buonaparte, mon maître, que je suis parti de
 Fontainebleau.
 
-ï¿½Je me dois ï¿½ moi-mï¿½me, de dï¿½clarer ici la vï¿½ritï¿½, et de me disculper
+»Je me dois à moi-même, de déclarer ici la vérité, et de me disculper
 d'une action qui ne serait pas d'un brave homme, ce dont je suis
-incapable. Depuis seize ans que je servais Napolï¿½on, ma conduite a
-toujours ï¿½tï¿½ irrï¿½prochable, et devait seule prï¿½venir toute accusation
+incapable. Depuis seize ans que je servais Napoléon, ma conduite a
+toujours été irréprochable, et devait seule prévenir toute accusation
 injurieuse.
 
-ï¿½La vï¿½ritï¿½ est qu'aprï¿½s m'ï¿½tre comportï¿½ en homme d'honneur ï¿½ la journï¿½e
-d'Arcis-sur-Aube, et m'ï¿½tre battu en brave sous les yeux de mon maï¿½tre,
-j'ai reï¿½u de lui une gratification comme rï¿½compense de ma conduite; mais
-je dï¿½clare que, depuis le moment oï¿½ il a ï¿½tï¿½ question de sa dï¿½chï¿½ance,
-je n'ai reï¿½u de lui aucun bienfait, et je dï¿½fie mï¿½me qui que ce soit de
+»La vérité est qu'après m'être comporté en homme d'honneur à la journée
+d'Arcis-sur-Aube, et m'être battu en brave sous les yeux de mon maître,
+j'ai reçu de lui une gratification comme récompense de ma conduite; mais
+je déclare que, depuis le moment où il a été question de sa déchéance,
+je n'ai reçu de lui aucun bienfait, et je défie même qui que ce soit de
 prouver le contraire de ce que j'avance.
 
-ï¿½Quant ï¿½ tout ce que l'on pourrait dire sur ce que je ne l'ai pas suivi
-ï¿½ l'ï¿½le d'Elbe, je ne dois aucune explication ï¿½ ce sujet. MM. les
-gï¿½nï¿½raux comtes Bertrand et Drouot sont dï¿½positaires des justes motifs
-qui m'ont retenu prï¿½s de ma famille.ï¿½
+»Quant à tout ce que l'on pourrait dire sur ce que je ne l'ai pas suivi
+à l'île d'Elbe, je ne dois aucune explication à ce sujet. MM. les
+généraux comtes Bertrand et Drouot sont dépositaires des justes motifs
+qui m'ont retenu près de ma famille.»
 
                     ROUSTAN.
 
        *       *       *       *       *
 
-(_b_) Voici le discours qu'il adressa, au moment de son dï¿½part, aux
-troupes de la vieille garde qui ï¿½taient restï¿½es prï¿½s de lui:
+(_b_) Voici le discours qu'il adressa, au moment de son départ, aux
+troupes de la vieille garde qui étaient restées près de lui:
 
-ï¿½Officiers, sous-officiers et soldats de la vieille garde, je vous fais
+«Officiers, sous-officiers et soldats de la vieille garde, je vous fais
 mes adieux.
 
-ï¿½Depuis vingt ans que je vous commande, je suis content de vous, et je
-vous ai toujours trouvï¿½s sur le chemin de la gloire.
+»Depuis vingt ans que je vous commande, je suis content de vous, et je
+vous ai toujours trouvés sur le chemin de la gloire.
 
-ï¿½Les puissances alliï¿½es ont armï¿½ toute l'Europe contre moi; une partie
-de l'armï¿½e a trahi ses devoirs, et la France a cï¿½dï¿½ ï¿½ des intï¿½rï¿½ts
+»Les puissances alliées ont armé toute l'Europe contre moi; une partie
+de l'armée a trahi ses devoirs, et la France a cédé à des intérêts
 particuliers.
 
-ï¿½Avec vous et les braves qui me sont restï¿½s fidï¿½les, j'aurais pu
-entretenir la guerre civile pendant trois ans; mais la France eï¿½t ï¿½tï¿½
-malheureuse: ce qui ï¿½tait contraire au but que je m'ï¿½tais proposï¿½. Je
-devais donc sacrifier mon intï¿½rï¿½t personnel ï¿½ son bonheur: ce que j'ai
+»Avec vous et les braves qui me sont restés fidèles, j'aurais pu
+entretenir la guerre civile pendant trois ans; mais la France eût été
+malheureuse: ce qui était contraire au but que je m'étais proposé. Je
+devais donc sacrifier mon intérêt personnel à son bonheur: ce que j'ai
 fait.
 
-ï¿½Soyez fidï¿½les au nouveau souverain que la France s'est choisi;
-n'abandonnez point cette chï¿½re patrie, trop long-temps malheureuse. Ne
+»Soyez fidèles au nouveau souverain que la France s'est choisi;
+n'abandonnez point cette chère patrie, trop long-temps malheureuse. Ne
 plaignez point mon sort; je serai toujours heureux quand je saurai que
-vous l'ï¿½tes. J'aurais pu mourir: rien ne m'ï¿½tait plus facile; mais non,
-je suivrai toujours le chemin de l'honneur; j'ï¿½crirai ce que nous avons
+vous l'êtes. J'aurais pu mourir: rien ne m'était plus facile; mais non,
+je suivrai toujours le chemin de l'honneur; j'écrirai ce que nous avons
 fait.
 
-ï¿½Je ne puis vous embrasser tous, mais je vais embrasser votre chef.
-Venez, gï¿½nï¿½ral (il embrasse le gï¿½nï¿½ral Petit); qu'on m'apporte l'aigle,
+»Je ne puis vous embrasser tous, mais je vais embrasser votre chef.
+Venez, général (il embrasse le général Petit); qu'on m'apporte l'aigle,
 et en l'embrassant il dit: Cher aigle, que ces baisers retentissent dans
 le coeur de tous les braves!
 
-ï¿½Adieu, mes enfans! adieu mes braves! entourez-moi encore une fois.ï¿½
+»Adieu, mes enfans! adieu mes braves! entourez-moi encore une fois.»
 
        *       *       *       *       *
 
 
-_Proclamation de S. Exc. le marï¿½chal Augereau ï¿½ son armï¿½e._
+_Proclamation de S. Exc. le maréchal Augereau à son armée._
 
            Soldats!
 
-(_c_) Le sï¿½nat, interprï¿½te de la volontï¿½ nationale, lassï¿½ du joug
-tyrannique de Napolï¿½on Buonaparte, a prononcï¿½, le 2 avril, sa dï¿½chï¿½ance
+(_c_) Le sénat, interprète de la volonté nationale, lassé du joug
+tyrannique de Napoléon Buonaparte, a prononcé, le 2 avril, sa déchéance
 et celle de sa famille.
 
-Une nouvelle constitution monarchique, forte et libï¿½rale, et un
+Une nouvelle constitution monarchique, forte et libérale, et un
 descendant de nos anciens Rois, remplacent Buonaparte et son despotisme.
 
-Vos grades, vos honneurs et vos distinctions vous sont assurï¿½s.
+Vos grades, vos honneurs et vos distinctions vous sont assurés.
 
-Le corps-lï¿½gislatif, les grands dignitaires, les marï¿½chaux, les gï¿½nï¿½raux
-et tous les corps de la grande armï¿½e, ont adhï¿½rï¿½ aux dï¿½crets du sï¿½nat,
-et Buonaparte lui-mï¿½me a, par un acte datï¿½ de Fontainebleau, le 11
-avril, abdiquï¿½ pour lui et ses hï¿½ritiers, les trï¿½nes de France et
+Le corps-législatif, les grands dignitaires, les maréchaux, les généraux
+et tous les corps de la grande armée, ont adhéré aux décrets du sénat,
+et Buonaparte lui-même a, par un acte daté de Fontainebleau, le 11
+avril, abdiqué pour lui et ses héritiers, les trônes de France et
 d'Italie.
 
-Soldats, vous ï¿½tes dï¿½liï¿½s de vos sermens; vous l'ï¿½tes par la nation en
-qui rï¿½side la souverainetï¿½; vous l'ï¿½tes encore, s'il ï¿½tait nï¿½cessaire,
-par l'abdication mï¿½me _d'un homme qui, aprï¿½s avoir immolï¿½ des millions
-de victimes ï¿½ sa cruelle ambition, n'a pas su mourir en soldat_.
+Soldats, vous êtes déliés de vos sermens; vous l'êtes par la nation en
+qui réside la souveraineté; vous l'êtes encore, s'il était nécessaire,
+par l'abdication même _d'un homme qui, après avoir immolé des millions
+de victimes à sa cruelle ambition, n'a pas su mourir en soldat_.
 
-La nation appelle Louis XVIII sur le trï¿½ne: nï¿½ Franï¿½ais, il sera fier de
+La nation appelle Louis XVIII sur le trône: né Français, il sera fier de
 votre gloire, et s'entourera avec orgueil de vos chefs; fils d'Henri IV,
 il en aura le coeur: il aimera le soldat et le peuple.
 
-Jurons donc fidï¿½litï¿½ ï¿½ Louis XVIII et ï¿½ la constitution qui nous le
-prï¿½sente; arborons la couleur vraiment franï¿½aise, qui fait disparaï¿½tre
-tout emblï¿½me d'une rï¿½volution qui est fixï¿½e, et bientï¿½t vous trouverez
+Jurons donc fidélité à Louis XVIII et à la constitution qui nous le
+présente; arborons la couleur vraiment française, qui fait disparaître
+tout emblême d'une révolution qui est fixée, et bientôt vous trouverez
 dans la reconnaissance et dans l'admiration de votre Roi et de votre
-patrie, une juste rï¿½compense de vos nobles travaux.
+patrie, une juste récompense de vos nobles travaux.
 
-Au quartier-gï¿½nï¿½ral de Valence, le 16 avril 1814.
+Au quartier-général de Valence, le 16 avril 1814.
 
-                    Le marï¿½chal AUGEREAU.
+                    Le maréchal AUGEREAU.
 
        *       *       *       *       *
 
-(_d_) _ï¿½ Orgon_. Dans l'itinï¿½raire de Buonaparte, qui a ï¿½tï¿½ publiï¿½ en
-1814, on cite une lettre particuliï¿½re oï¿½ il est dit: ï¿½On brï¿½le en sa
-prï¿½sence son effigie, on lui en prï¿½sente d'autres qui ont le sein
-dï¿½chirï¿½ et qui sont teintes de sang.ï¿½ D'aprï¿½s les observations faites ï¿½
-nous-mï¿½mes par le comte Waldbourg-Truchsess, nous pouvons assurer que ce
-fait est controuvï¿½, ainsi qu'un trï¿½s-grand nombre d'autres qu'il serait
+(_d_) _À Orgon_. Dans l'itinéraire de Buonaparte, qui a été publié en
+1814, on cite une lettre particulière où il est dit: «On brûle en sa
+présence son effigie, on lui en présente d'autres qui ont le sein
+déchiré et qui sont teintes de sang.» D'après les observations faites à
+nous-mêmes par le comte Waldbourg-Truchsess, nous pouvons assurer que ce
+fait est controuvé, ainsi qu'un très-grand nombre d'autres qu'il serait
 trop long de rapporter.
 
        *       *       *       *       *
 
-(_e_) Le nouveau pavillon de l'ï¿½le, adoptï¿½ par Napolï¿½on, fut arborï¿½, ce
-qui fut constatï¿½ par le procï¿½s-verbal suivant:
+(_e_) Le nouveau pavillon de l'île, adopté par Napoléon, fut arboré, ce
+qui fut constaté par le procès-verbal suivant:
 
-ï¿½Cejourd'hui 4 mai 1814, S. M. l'empereur Napolï¿½on, ayant pris
-possession de l'ï¿½le d'Elbe, le gï¿½nï¿½ral Drouot, gouverneur de l'ï¿½le au
-nom de l'Empereur, a fait arborer, sur les forts, le pavillon de l'ï¿½le,
-fond blanc, traversï¿½ diagonalement d'une bande rouge semï¿½e de trois
-abeilles fond d'or. Ce pavillon a ï¿½tï¿½ saluï¿½ par les batteries des forts
-de la cï¿½te, de la frï¿½gate anglaise l'_Undounted_, et des bï¿½timens de
-guerre franï¿½ais, qui se trouvaient dans le port. En foi de quoi, nous,
-commissaires des puissances alliï¿½es, avons signï¿½ le procï¿½s-verbal avec
-le gï¿½nï¿½ral Drouot, gouverneur de l'ï¿½le, et le gï¿½nï¿½ral Dalesme,
-commandant supï¿½rieur de l'ï¿½le.
+«Cejourd'hui 4 mai 1814, S. M. l'empereur Napoléon, ayant pris
+possession de l'île d'Elbe, le général Drouot, gouverneur de l'île au
+nom de l'Empereur, a fait arborer, sur les forts, le pavillon de l'île,
+fond blanc, traversé diagonalement d'une bande rouge semée de trois
+abeilles fond d'or. Ce pavillon a été salué par les batteries des forts
+de la côte, de la frégate anglaise l'_Undounted_, et des bâtimens de
+guerre français, qui se trouvaient dans le port. En foi de quoi, nous,
+commissaires des puissances alliées, avons signé le procès-verbal avec
+le général Drouot, gouverneur de l'île, et le général Dalesme,
+commandant supérieur de l'île.
 
-         ï¿½Fait ï¿½ Porto-Ferrajo, le 4 mai 1814.ï¿½
+         »Fait à Porto-Ferrajo, le 4 mai 1814.»
 
 
-Dans le mï¿½me temps, le gï¿½nï¿½ral Dalesme fit afficher la proclamation
+Dans le même temps, le général Dalesme fit afficher la proclamation
 suivante:
 
-             ï¿½Habitans de l'ï¿½le d'Elbe,
+             «Habitans de l'île d'Elbe,
 
-ï¿½Les vicissitudes humaines ont conduit au milieu de vous l'empereur
-Napolï¿½on, et son choix vous le donne pour souverain. Avant d'entrer dans
-vos murs, votre auguste et nouveau monarque m'a adressï¿½ les paroles
-suivantes que je m'empresse de vous faire connaï¿½tre, parce qu'elles sont
-le gage de votre bonheur ï¿½ venir:
+»Les vicissitudes humaines ont conduit au milieu de vous l'empereur
+Napoléon, et son choix vous le donne pour souverain. Avant d'entrer dans
+vos murs, votre auguste et nouveau monarque m'a adressé les paroles
+suivantes que je m'empresse de vous faire connaître, parce qu'elles sont
+le gage de votre bonheur à venir:
 
-_Gï¿½nï¿½ral! j'ai sacrifiï¿½ mes droits aux intï¿½rï¿½ts de la patrie, et je me
-suis rï¿½servï¿½ la souverainetï¿½ et propriï¿½tï¿½ de l'ï¿½le d'Elbe, ce qui a ï¿½tï¿½
-consenti par toutes les puissances. Veuillez faire connaï¿½tre ce nouvel
-ï¿½tat de choses aux habitans, et le choix que j'ai fait de leur ï¿½le pour
-mon sï¿½jour, en considï¿½ration de la douceur de leurs moeurs et de leur
+_Général! j'ai sacrifié mes droits aux intérêts de la patrie, et je me
+suis réservé la souveraineté et propriété de l'île d'Elbe, ce qui a été
+consenti par toutes les puissances. Veuillez faire connaître ce nouvel
+état de choses aux habitans, et le choix que j'ai fait de leur île pour
+mon séjour, en considération de la douceur de leurs moeurs et de leur
 climat. Dites-leur qu'ils seront l'objet constant de mes plus vifs
-intï¿½rï¿½ts!_
+intérêts!_
 
-ï¿½Elbois! ces paroles n'ont pas besoin d'ï¿½tre commentï¿½es; elles fixent
-votre destinï¿½e. L'empereur vous a bien jugï¿½s. Je vous dois cette
+»Elbois! ces paroles n'ont pas besoin d'être commentées; elles fixent
+votre destinée. L'empereur vous a bien jugés. Je vous dois cette
 justice, et je vous la rends.
 
-ï¿½Habitans de l'ï¿½le d'Elbe! je m'ï¿½loignerai bientï¿½t de vous. Cet
-ï¿½loignement me sera pï¿½nible, parce que je vous aime sincï¿½rement; mais
-l'idï¿½e de votre bonheur adoucit l'amertume de mon dï¿½part; et en quelque
-lieu que je puisse ï¿½tre, je me rapprocherai toujours de cette ï¿½le par le
+»Habitans de l'île d'Elbe! je m'éloignerai bientôt de vous. Cet
+éloignement me sera pénible, parce que je vous aime sincèrement; mais
+l'idée de votre bonheur adoucit l'amertume de mon départ; et en quelque
+lieu que je puisse être, je me rapprocherai toujours de cette île par le
 souvenir des vertus de ses habitans, et par les voeux que je formerai
 pour eux.
 
-ï¿½Porto-Ferrajo, 4 mai 1814.
+»Porto-Ferrajo, 4 mai 1814.
 
-          ï¿½_Le gï¿½nï¿½ral de brigade_ DALESME.ï¿½
+          »_Le général de brigade_ DALESME.»
 
 
-Deux jours aprï¿½s la date de cette piï¿½ce parut le mandement que donna le
-vicaire-gï¿½nï¿½ral de l'ï¿½le d'Elbe, Joseph-Philippe Arrighi, parent de
+Deux jours après la date de cette pièce parut le mandement que donna le
+vicaire-général de l'île d'Elbe, Joseph-Philippe Arrighi, parent de
 Buonaparte.
 
        *       *       *       *       *
@@ -1282,72 +1282,72 @@ Buonaparte.
 
 MANDEMENT.
 
-ï¿½Joseph-Philippe ARRIGHI, chanoine honoraire de la cathï¿½drale de Pise et
-de l'ï¿½glise mï¿½tropolitaine de Florence, etc. (Sous l'ï¿½vï¿½que d'Ajaccio,
-vicaire-gï¿½nï¿½ral de l'ï¿½le d'Elbe et de la principautï¿½ de Piombino).
+«Joseph-Philippe ARRIGHI, chanoine honoraire de la cathédrale de Pise et
+de l'église métropolitaine de Florence, etc. (Sous l'évêque d'Ajaccio,
+vicaire-général de l'île d'Elbe et de la principauté de Piombino).
 
-ï¿½ï¿½ nos bien-aimï¿½s dans le Seigneur, nos frï¿½res composant le clergï¿½, et ï¿½
-tous les fidï¿½les de l'ï¿½le, salut et bï¿½nï¿½diction.
+»À nos bien-aimés dans le Seigneur, nos frères composant le clergé, et à
+tous les fidèles de l'île, salut et bénédiction.
 
-ï¿½La divine providence qui, dans sa bienveillance, dispose
-irrï¿½sistiblement de toutes choses, et assigne aux nations leurs
-destinï¿½es, a voulu qu'au milieu des changemens politiques de l'Europe,
-nous fussions ï¿½ l'avenir les sujets de _Napolï¿½on-le-Grand_.
+»La divine providence qui, dans sa bienveillance, dispose
+irrésistiblement de toutes choses, et assigne aux nations leurs
+destinées, a voulu qu'au milieu des changemens politiques de l'Europe,
+nous fussions à l'avenir les sujets de _Napoléon-le-Grand_.
 
-ï¿½L'ï¿½le d'Elbe, dï¿½jï¿½ cï¿½lï¿½bre par ses productions naturelles, va devenir
-dï¿½sormais illustre dans l'histoire des nations, par l'hommage qu'elle
-rend ï¿½ son nouveau prince dont la gloire est immortelle. L'ï¿½le d'Elbe
-prend en effet un rang parmi les nations, et son ï¿½troit territoire est
+»L'île d'Elbe, déjà célèbre par ses productions naturelles, va devenir
+désormais illustre dans l'histoire des nations, par l'hommage qu'elle
+rend à son nouveau prince dont la gloire est immortelle. L'île d'Elbe
+prend en effet un rang parmi les nations, et son étroit territoire est
 ennobli par le nom de son souverain.
 
-ï¿½ï¿½levï¿½e ï¿½ un honneur aussi sublime, elle reï¿½oit, dans son sein, l'_oint
-du Seigneur_, et les autres personnes distinguï¿½es qui l'accompagnent.
+»Élevée à un honneur aussi sublime, elle reçoit, dans son sein, l'_oint
+du Seigneur_, et les autres personnes distinguées qui l'accompagnent.
 
-ï¿½Lorsque S. M. I. et R. fit choix de cette ï¿½le pour sa retraite, elle
-annonï¿½a ï¿½ l'univers quelle ï¿½tait pour elle sa prï¿½dilection.
+»Lorsque S. M. I. et R. fit choix de cette île pour sa retraite, elle
+annonça à l'univers quelle était pour elle sa prédilection.
 
-ï¿½Quelles richesses vont inonder notre pays! quelles multitudes
-accourront de tous cotï¿½s pour contempler _un hï¿½ros_!
+»Quelles richesses vont inonder notre pays! quelles multitudes
+accourront de tous cotés pour contempler _un héros_!
 
-ï¿½Le premier jour qu'il mit le pied sur ce rivage, il proclama notre
-destinï¿½e et notre bonheur: _Je serai un bon pï¿½re_, dit-il, _soyez mes
-enfans chï¿½ris!_
+»Le premier jour qu'il mit le pied sur ce rivage, il proclama notre
+destinée et notre bonheur: _Je serai un bon père_, dit-il, _soyez mes
+enfans chéris!_
 
-ï¿½Chers catholiques, quelles paroles de tendresse! quelles expressions de
-bienveillance! quel gage de notre _fï¿½licitï¿½ future_! que ces paroles
-charment donc dï¿½licieusement vos pensï¿½es, et qu'imprimï¿½es fortement dans
-vos ï¿½mes, elles y soient une source inï¿½puisable de _consolations_!
+»Chers catholiques, quelles paroles de tendresse! quelles expressions de
+bienveillance! quel gage de notre _félicité future_! que ces paroles
+charment donc délicieusement vos pensées, et qu'imprimées fortement dans
+vos âmes, elles y soient une source inépuisable de _consolations_!
 
-ï¿½Que les pï¿½res les rï¿½pï¿½tent ï¿½ leurs enfans; que le souvenir de ces
-paroles, qui assurent la gloire et la prospï¿½ritï¿½ de l'ï¿½le d'Elbe, se
-perpï¿½tue de gï¿½nï¿½ration en gï¿½nï¿½ration.
+»Que les pères les répètent à leurs enfans; que le souvenir de ces
+paroles, qui assurent la gloire et la prospérité de l'île d'Elbe, se
+perpétue de génération en génération.
 
-ï¿½Heureux habitans de Porto-Ferrajo, c'est dans ces murs qu'habitera la
-_personne sacrï¿½e_ de S. M. I. et R. Renommï¿½s de tout temps par la
-douceur de votre caractï¿½re et par votre affection pour vos princes,
-Napolï¿½on-le-Grand rï¿½side parmi vous; n'oubliez jamais l'idï¿½e favorable
-qu'il s'est formï¿½e de ses fidï¿½les sujets.
+»Heureux habitans de Porto-Ferrajo, c'est dans ces murs qu'habitera la
+_personne sacrée_ de S. M. I. et R. Renommés de tout temps par la
+douceur de votre caractère et par votre affection pour vos princes,
+Napoléon-le-Grand réside parmi vous; n'oubliez jamais l'idée favorable
+qu'il s'est formée de ses fidèles sujets.
 
-ï¿½Et vous tous, fidï¿½les en Jï¿½sus-Christ, conformez-vous ï¿½ la destinï¿½e:
+»Et vous tous, fidèles en Jésus-Christ, conformez-vous à la destinée:
 _non sint schismata inter vos, pacem habete, et Deus pacis et
 directionis erit vobiscum!_
 
-ï¿½Que la fidï¿½litï¿½, la gratitude, la soumission, rï¿½gnent dans vos coeurs!
+»Que la fidélité, la gratitude, la soumission, règnent dans vos coeurs!
 Unissez-vous tous dans des sentimens respectueux d'amour pour votre
-prince, qui est plutï¿½t votre bon pï¿½re que votre souverain. Cï¿½lï¿½brez avec
-une joie sainte la bontï¿½ du Seigneur, qui de toute ï¿½ternitï¿½ vous a
-rï¿½servï¿½s ï¿½ cet heureux ï¿½vï¿½nement.
+prince, qui est plutôt votre bon père que votre souverain. Célébrez avec
+une joie sainte la bonté du Seigneur, qui de toute éternité vous a
+réservés à cet heureux événement.
 
-ï¿½En consï¿½quence, nous ordonnons que dimanche prochain, dans toutes les
-ï¿½glises, il soit chantï¿½ un _Te Deum_ solennel, en action de grï¿½ces au
-Tout-puissant, pour la faveur qu'il nous a accordï¿½e dans l'abondance de
-sa misï¿½ricorde.
+»En conséquence, nous ordonnons que dimanche prochain, dans toutes les
+églises, il soit chanté un _Te Deum_ solennel, en action de grâces au
+Tout-puissant, pour la faveur qu'il nous a accordée dans l'abondance de
+sa miséricorde.
 
-ï¿½Donnï¿½ au palais ï¿½piscopal de l'ï¿½le d'Elbe, le
-6 mai 1814.ï¿½
+»Donné au palais épiscopal de l'île d'Elbe, le
+6 mai 1814.»
 
-                    Le vicaire-gï¿½nï¿½ral ARRIGHI;
-                FRANCESCO ANGIOLETTI, _secrï¿½taire_.
+                    Le vicaire-général ARRIGHI;
+                FRANCESCO ANGIOLETTI, _secrétaire_.
 
 
 

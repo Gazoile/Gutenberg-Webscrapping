@@ -1,166 +1,166 @@
 Online Distributed Proofreading Team at http://www.pgdp.net
 (This file was produced from images generously made
-available by the Bibliothï¿½que nationale de France
+available by the Bibliothèque nationale de France
 (BnF/Gallica) at http://gallica.bnf.fr)
 
 
 
 
 
-[Note: Les lettres supï¿½rieures unusuelles sont prï¿½cï¿½dï¿½es par ^.]
+[Note: Les lettres supérieures unusuelles sont précédées par ^.]
 
 
 
 
-LES Rï¿½GLES DE CICCO SIMONETTA POUR LE Dï¿½CHIFFREMENT DES ï¿½CRITURES
-SECRï¿½TES
+LES RÈGLES DE CICCO SIMONETTA POUR LE DÉCHIFFREMENT DES ÉCRITURES
+SECRÈTES
 
 (4 JUILLET 1474).
 
 
-Le manuscrit italien 1595[1] de la Bibliothï¿½que nationale contient, du
-folio 438 au folio 446, des fragments d'un prï¿½tendu _diario_ de Cicco
-Simonetta, secrï¿½taire et conseiller des trois premiers ducs de Milan de
+Le manuscrit italien 1595[1] de la Bibliothèque nationale contient, du
+folio 438 au folio 446, des fragments d'un prétendu _diario_ de Cicco
+Simonetta, secrétaire et conseiller des trois premiers ducs de Milan de
 la dynastie de Sforza[2]. Les folios 438, 439 et 440 sont remplis par
 des minutes de comptes; les folios 442, 443, 444, 445, 446, par des
 catalogues de livres ou de manuscrits ou des minutes de lettres; enfin
 le folio 441 tout entier et le recto du folio 442, par les _Regule ad
-extrahendum litteras ziferatas sine exemplo_, qui font la matiï¿½re du
-prï¿½sent travail. Dans ces fragments, on le voit, il y a un peu de tout,
-des notes de toutes sortes plutï¿½t qu'un journal, et la dï¿½nomination de
-_diario_ qui leur a ï¿½tï¿½ assignï¿½e, soit par le classificateur, soit par
-le possesseur ancien du manuscrit en question, serait tout ï¿½ fait
-impropre, si la plupart d'entre eux n'ï¿½taient datï¿½s du quantiï¿½me et du
-mois. Quant ï¿½ leur attribution ï¿½ Simonetta, elle nous paraï¿½t devoir
-prï¿½ter moins ï¿½ controverse. D'abord la thï¿½orie des rï¿½gles suivies par la
-chancellerie milanaise avait ï¿½tï¿½ pendant longtemps l'objet des
-mï¿½ditations de Cicco Simonetta; il avait mï¿½me prï¿½parï¿½, en 1435, un
-traitï¿½ de la chancellerie de Franï¿½ois Sforza[3], et nous ne serions pas
-surpris que les rï¿½gles qui nous occupent eussent ï¿½tï¿½ tirï¿½es de ce
-traitï¿½, qui n'a jamais ï¿½tï¿½ publiï¿½. Ce n'est lï¿½ qu'une prï¿½somption en
-faveur de l'hypothï¿½se qui fait de Simonetta l'auteur de ces rï¿½gles; nous
+extrahendum litteras ziferatas sine exemplo_, qui font la matière du
+présent travail. Dans ces fragments, on le voit, il y a un peu de tout,
+des notes de toutes sortes plutôt qu'un journal, et la dénomination de
+_diario_ qui leur a été assignée, soit par le classificateur, soit par
+le possesseur ancien du manuscrit en question, serait tout à fait
+impropre, si la plupart d'entre eux n'étaient datés du quantième et du
+mois. Quant à leur attribution à Simonetta, elle nous paraît devoir
+prêter moins à controverse. D'abord la théorie des règles suivies par la
+chancellerie milanaise avait été pendant longtemps l'objet des
+méditations de Cicco Simonetta; il avait même préparé, en 1435, un
+traité de la chancellerie de François Sforza[3], et nous ne serions pas
+surpris que les règles qui nous occupent eussent été tirées de ce
+traité, qui n'a jamais été publié. Ce n'est là qu'une présomption en
+faveur de l'hypothèse qui fait de Simonetta l'auteur de ces règles; nous
 avons en revanche des preuves presque certaines que, si elles ne sont
-pas l'oeuvre de Cicco, elles ont du moins ï¿½tï¿½ tracï¿½es de sa main. En
-effet, elles sont de la mï¿½me ï¿½criture que le soi-disant _diario_, et
-l'ï¿½criture de ces notes prï¿½sente de telles analogies avec celle des
-lettres ou morceaux autographes de Simonetta, conservï¿½s dans l'_Archivio
-Sforzesco_[4], et avec celle du manuscrit dit de Simonetta[5], regardï¿½
-ordinairement comme autographe, qu'on doit les attribuer au mï¿½me
-personnage. Il est vrai que le catalogue de manuscrits, non datï¿½, qui,
-sous forme de lettre ï¿½ Philippe Sacramoro, orateur milanais ï¿½ Florence,
-termine le prï¿½tendu _diario_ (fol. 445 v^o et fol. 446 r^o) est signï¿½
-_Ja. Poggius_[6]; mais cette signature ne peut ï¿½tre autographe; en
-effet, l'ï¿½criture de ce catalogue est la mï¿½me que celle des autres
-piï¿½ces du _diario_[7]; or, toutes ces piï¿½ces sont datï¿½es de Pavie ou de
-Gallerate et ï¿½manent certainement d'un Milanais; de plus, les comptes
+pas l'oeuvre de Cicco, elles ont du moins été tracées de sa main. En
+effet, elles sont de la même écriture que le soi-disant _diario_, et
+l'écriture de ces notes présente de telles analogies avec celle des
+lettres ou morceaux autographes de Simonetta, conservés dans l'_Archivio
+Sforzesco_[4], et avec celle du manuscrit dit de Simonetta[5], regardé
+ordinairement comme autographe, qu'on doit les attribuer au même
+personnage. Il est vrai que le catalogue de manuscrits, non daté, qui,
+sous forme de lettre à Philippe Sacramoro, orateur milanais à Florence,
+termine le prétendu _diario_ (fol. 445 v^o et fol. 446 r^o) est signé
+_Ja. Poggius_[6]; mais cette signature ne peut être autographe; en
+effet, l'écriture de ce catalogue est la même que celle des autres
+pièces du _diario_[7]; or, toutes ces pièces sont datées de Pavie ou de
+Gallerate et émanent certainement d'un Milanais; de plus, les comptes
 qui en font partie (fol. 438, 439 et 440) et qui sont tous relatifs aux
-revenus et aux dï¿½penses du royaume de Naples dï¿½notent une connaissance
-intime des dï¿½tails de l'administration et du gouvernement napolitain,
-connaissance qui eï¿½t pu difficilement ï¿½tre le lot de Jacques Pogge,
+revenus et aux dépenses du royaume de Naples dénotent une connaissance
+intime des détails de l'administration et du gouvernement napolitain,
+connaissance qui eût pu difficilement être le lot de Jacques Pogge,
 tandis qu'elle serait parfaitement celui de Simonetta, ancien serviteur
-du roi de Naples. Somme toute, l'attribution ï¿½ ce dernier du _diario_ et
+du roi de Naples. Somme toute, l'attribution à ce dernier du _diario_ et
 par suite des _regule_, exception faite toutefois pour le catalogue de
-manuscrits signï¿½ de Pogge, nous paraï¿½t devoir ï¿½tre provisoirement admise
-ï¿½ dï¿½faut d'une meilleure ï¿½ proposer.
+manuscrits signé de Pogge, nous paraît devoir être provisoirement admise
+à défaut d'une meilleure à proposer.
 
     [Note 1: Ce ms. forme le t. XIII de la collection connue sous le nom
-    d'_Archivio Sforzesco_ (ms. ital. 1583-1615), cï¿½dï¿½e en 1867 par M.
-    Costa de Beauregard ï¿½ la Bibl. nat. (Delisle, _le Cabinet des
-    manuscrits de la Bibliothï¿½que nationale_, t. II, p. 313). M.
-    Mazzatinti a donnï¿½ un dï¿½pouillement sommaire, mais presque complet,
+    d'_Archivio Sforzesco_ (ms. ital. 1583-1615), cédée en 1867 par M.
+    Costa de Beauregard à la Bibl. nat. (Delisle, _le Cabinet des
+    manuscrits de la Bibliothèque nationale_, t. II, p. 313). M.
+    Mazzatinti a donné un dépouillement sommaire, mais presque complet,
     de l'_Archivio Sforzesco_, dans l'_Archivio storico lombardo_,
     Milano, 1883, p. 222 et ss., et 1885, p. 657 et ss.]
 
-    [Note 2: Sur cet ï¿½minent personnage, qui fut disgraciï¿½ en 1479 et
-    mis ï¿½ mort le 30 octobre 1480, voir Argelati, _Bibliotheca
+    [Note 2: Sur cet éminent personnage, qui fut disgracié en 1479 et
+    mis à mort le 30 octobre 1480, voir Argelati, _Bibliotheca
     scriptorum mediolanensium_, Milan, 1745, t. II, col. 2166-168, et la
-    biographie qui lui a ï¿½tï¿½ consacrï¿½e par Carlo Belgiojoso en tï¿½te de
-    l'ï¿½dition de son drame intitulï¿½: _Cicco Simonetta_, Milano, 1858,
-    in-8^o. De nombreuses lettres adressï¿½es ï¿½ Cicco Simonetta par
-    diffï¿½rentes personnes sont conservï¿½es ï¿½ la Bibl. nat., ms. ital.
+    biographie qui lui a été consacrée par Carlo Belgiojoso en tête de
+    l'édition de son drame intitulé: _Cicco Simonetta_, Milano, 1858,
+    in-8^o. De nombreuses lettres adressées à Cicco Simonetta par
+    différentes personnes sont conservées à la Bibl. nat., ms. ital.
     1590. Voir aussi _Diarium Parmense_, dans Muratori. _Rerum
-    italicarum scriptores_, t. XXII, col. 249 et ss.; _Mï¿½moires de
-    Commynes_, ï¿½d. Dupont, t. II, p. 302 et 303; Litta, _Fam. Simonetta
+    italicarum scriptores_, t. XXII, col. 249 et ss.; _Mémoires de
+    Commynes_, éd. Dupont, t. II, p. 302 et 303; Litta, _Fam. Simonetta
     di Calabria_, etc.]
 
-    [Note 3: Ce traitï¿½, intitulï¿½: _Constitutiones et ordines cancellariï¿½
+    [Note 3: Ce traité, intitulé: _Constitutiones et ordines cancellariæ
     secretioris illustrissimi principis et excellentissimi d. d.
-    Francisci Sfortiï¿½ Vicecomitis ducis Mediolani_, etc., appartenait,
-    au temps d'Argelati (_op. cit._, II, col. 2167), ï¿½ l'avocat Sitone:
+    Francisci Sfortiæ Vicecomitis ducis Mediolani_, etc., appartenait,
+    au temps d'Argelati (_op. cit._, II, col. 2167), à l'avocat Sitone:
     nous ne savons pas ce qu'il est devenu.]
 
-    [Note 4: Lodi, 18 dï¿½cembre 1449. Cicco Simonetta au duc de Milan
+    [Note 4: Lodi, 18 décembre 1449. Cicco Simonetta au duc de Milan
     (Bibl. nat., ms. ital. 1585, fol. 106).--Milan, 2 octobre 1455. Le
-    mï¿½me ï¿½ frï¿½re Jacques de Pesaro ï¿½ Naples (Bibl. nat., ms. ital.,
+    même à frère Jacques de Pesaro à Naples (Bibl. nat., ms. ital.,
     1587, fol. 76).--4 mars 1456. Relatio facta per me Cicchum
     magnificis dominis de consilio secreto parte Ill^mi domini domini
     nostri (_ibid._, fol. 109). Voy. aussi les lettres ducales
-    contresignï¿½es par Simonetta, par exemple Bibl. nat., ms. ital. 1595,
-    fol. 296.--Milan, 14 juillet 1462. Le duc de Milan ï¿½ Laurent de
-    Pesaro, conseiller ï¿½ Parme; _ibid._, fol. 30.--Milan, 11 fï¿½vrier
-    1463. Le mï¿½me aux maï¿½tres des entrï¿½es, etc.]
+    contresignées par Simonetta, par exemple Bibl. nat., ms. ital. 1595,
+    fol. 296.--Milan, 14 juillet 1462. Le duc de Milan à Laurent de
+    Pesaro, conseiller à Parme; _ibid._, fol. 30.--Milan, 11 février
+    1463. Le même aux maîtres des entrées, etc.]
 
     [Note 5: Bibl. nat., ms. lat. 10133. Une copie de ce manuscrit, qui
     n'est autre qu'un recueil des documents relatifs aux rapports des
     ducs de Milan avec la France depuis 1461, appartenait, suivant
     Argelati (_op. cit._, II, col. 2167), au comte Antoine Simonetta,
-    descendant d'un frï¿½re de Cicco: nous ignorons le sort de cette
-    transcription. Nous prï¿½parons une notice sur le ms. lat. 10133.]
+    descendant d'un frère de Cicco: nous ignorons le sort de cette
+    transcription. Nous préparons une notice sur le ms. lat. 10133.]
 
     [Note 6: Il s'agit sans doute de Jacques Pogge (1441-1478),
-    secrï¿½taire du cardinal Riario; compromis dans la conjuration des
-    Pazzi, il fut exï¿½cutï¿½. Il ï¿½tait fils de Pogge, le grand humaniste.]
+    secrétaire du cardinal Riario; compromis dans la conjuration des
+    Pazzi, il fut exécuté. Il était fils de Pogge, le grand humaniste.]
 
     [Note 7: L'examen d'un autographe de Pogge confirmerait probablement
     notre assertion: mais nous n'avons pu en trouver un dans les
-    bibliothï¿½ques de Paris. Quant au fac-similï¿½ insï¿½rï¿½ par M. de Nolhac
-    dans son bel ouvrage: _la Bibliothï¿½que de Fulvio Orsini_, Paris,
+    bibliothèques de Paris. Quant au fac-similé inséré par M. de Nolhac
+    dans son bel ouvrage: _la Bibliothèque de Fulvio Orsini_, Paris,
     1887, c'est celui d'un autographe de Jacques Pogge l'ancien.]
 
-D'ailleurs cette discussion n'a, suivant nous, qu'un intï¿½rï¿½t secondaire;
-ce qu'il importe, c'est d'ï¿½tudier les rï¿½gles de Simonetta elles-mï¿½mes de
-faï¿½on ï¿½ dï¿½finir leur nature et ï¿½ dï¿½terminer leur but et leur utilitï¿½.
+D'ailleurs cette discussion n'a, suivant nous, qu'un intérêt secondaire;
+ce qu'il importe, c'est d'étudier les règles de Simonetta elles-mêmes de
+façon à définir leur nature et à déterminer leur but et leur utilité.
 
-Elles ont ï¿½tï¿½ rï¿½digï¿½es ï¿½ Pavie le lundi 4 juillet 1474. Cette date est
-digne de remarque, car c'est le moment oï¿½ les correspondances chiffrï¿½es
-commencï¿½rent ï¿½ prendre de l'extension en Italie. En effet, l'usage de la
-cryptographie, qui remonterait ï¿½ l'antiquitï¿½ la plus reculï¿½e, qui aurait
-ï¿½tï¿½ commun chez les Grecs[8] et les Romains[9], dont les documents
-wisigothiques offrent de nombreux spï¿½cimens[10], dont on rencontre aux
-archives de Venise deux ou trois exemples du XIIIe siï¿½cle[11] et
-plusieurs du XIVe[12], ne devint pas gï¿½nï¿½ral en Italie avant le courant
-du XVe[13]; mais alors les ï¿½critures secrï¿½tes se multiplient. Toutefois
-ï¿½ cette ï¿½poque, qui est comme l'enfance de l'art cryptographique, tous
-les systï¿½mes d'ï¿½criture secrï¿½te dï¿½rivent du mï¿½me principe; les noms
-propres de personnes, de lieux ou de pays sont reprï¿½sentï¿½s par des mots
+Elles ont été rédigées à Pavie le lundi 4 juillet 1474. Cette date est
+digne de remarque, car c'est le moment où les correspondances chiffrées
+commencèrent à prendre de l'extension en Italie. En effet, l'usage de la
+cryptographie, qui remonterait à l'antiquité la plus reculée, qui aurait
+été commun chez les Grecs[8] et les Romains[9], dont les documents
+wisigothiques offrent de nombreux spécimens[10], dont on rencontre aux
+archives de Venise deux ou trois exemples du XIIIe siècle[11] et
+plusieurs du XIVe[12], ne devint pas général en Italie avant le courant
+du XVe[13]; mais alors les écritures secrètes se multiplient. Toutefois
+à cette époque, qui est comme l'enfance de l'art cryptographique, tous
+les systèmes d'écriture secrète dérivent du même principe; les noms
+propres de personnes, de lieux ou de pays sont représentés par des mots
 ou des signes particuliers; pour les noms communs, chaque lettre de
-l'alphabet rï¿½pond ï¿½ un signe ou deux; ces signes sont tantï¿½t des
-lettres, isolï¿½es ou accouplï¿½es, dont l'ordre est interverti ou la valeur
-changï¿½e, tantï¿½t des chiffres isolï¿½s ou accouplï¿½s, tantï¿½t des caractï¿½res
+l'alphabet répond à un signe ou deux; ces signes sont tantôt des
+lettres, isolées ou accouplées, dont l'ordre est interverti ou la valeur
+changée, tantôt des chiffres isolés ou accouplés, tantôt des caractères
 bizarres et de pure fantaisie au choix desquels l'imagination des
-correspondants a seule prï¿½sidï¿½; enfin ces lettres, ces chiffres ou ces
-caractï¿½res sont accompagnï¿½s de ce qu'on nomme en cryptographie des
-_non-valeurs_, c'est-ï¿½-dire de signes nuls, qui n'ont pas de sens et ne
-sont introduits dans le texte qu'en vue de dï¿½pister les curieux[14].
-Dï¿½jï¿½, cependant, les accents, les points, les virgules, les
-apostrophes, tous les signes qui pourraient aider au dï¿½chiffrement sont
-supprimï¿½s[15]; le plus souvent les mots ne sont pas sï¿½parï¿½s[16].
+correspondants a seule présidé; enfin ces lettres, ces chiffres ou ces
+caractères sont accompagnés de ce qu'on nomme en cryptographie des
+_non-valeurs_, c'est-à-dire de signes nuls, qui n'ont pas de sens et ne
+sont introduits dans le texte qu'en vue de dépister les curieux[14].
+Déjà, cependant, les accents, les points, les virgules, les
+apostrophes, tous les signes qui pourraient aider au déchiffrement sont
+supprimés[15]; le plus souvent les mots ne sont pas séparés[16].
 
     [Note 8: Bibliophile Jacob, _la Cryptographie_, Paris, 1858, p. 6 et
     ss.]
 
     [Note 9: Paoli, _Programma scolastico di paleografia latina e di
     diplomatica. 1. Paleografia latina_, Firenze, 1888, p. 40. Il ne
-    faut pas confondre la tachygraphie ou stï¿½nographie des Romains avec
-    la cryptographie: la tachygraphie est ï¿½ peu prï¿½s ï¿½ la cryptographie
-    ce que la stï¿½nographie est ï¿½ l'ï¿½criture ordinaire. (Voy. Kopp,
+    faut pas confondre la tachygraphie ou sténographie des Romains avec
+    la cryptographie: la tachygraphie est à peu près à la cryptographie
+    ce que la sténographie est à l'écriture ordinaire. (Voy. Kopp,
     _Paleographia critica_, Mannheim, 1817, 2 vol. in-4^o; Wailly,
-    _ï¿½lï¿½ments de palï¿½ographie_, I, 425; et surtout le mï¿½moire de M.
-    Julien Havet sur l'_ï¿½criture secrï¿½te de Gerbert_, lu ï¿½ l'Acadï¿½mie
-    des inscriptions et belles-lettres, le 11 mars 1887, et publiï¿½ dans
-    le t. XV, 4e sï¿½rie, des _Comptes-rendus_ de ce corps.)]
+    _Éléments de paléographie_, I, 425; et surtout le mémoire de M.
+    Julien Havet sur l'_Écriture secrète de Gerbert_, lu à l'Académie
+    des inscriptions et belles-lettres, le 11 mars 1887, et publié dans
+    le t. XV, 4e série, des _Comptes-rendus_ de ce corps.)]
 
-    [Note 10: Paoli, _op. cit._, p. 41, d'aprï¿½s Muï¿½os y Rivero,
+    [Note 10: Paoli, _op. cit._, p. 41, d'après Muños y Rivero,
     _Paleographia visigoda_, Madrid, 1881, p. 77.]
 
     [Note 11: Pasini, _Delle scritture in cifra usate dalla republica
@@ -169,44 +169,44 @@ supprimï¿½s[15]; le plus souvent les mots ne sont pas sï¿½parï¿½s[16].
 
     [Note 12: _Ibid._, p. 292 et 293.]
 
-    [Note 13: Le plus vieux document vï¿½ritablement cryptographique que
-    possï¿½dent les archives de Venise est du 28 juin 1411 (Senato,
+    [Note 13: Le plus vieux document véritablement cryptographique que
+    possèdent les archives de Venise est du 28 juin 1411 (Senato,
     Deliberazione secrete, t. IV, fol. 184 v^o): sur 36 lignes
-    d'ï¿½criture, 29 sont en chiffres (Pasini, _op. cit._, p. 300). L'acte
-    le plus ancien en ï¿½criture secrï¿½te conservï¿½ ï¿½ Florence est de 1414
+    d'écriture, 29 sont en chiffres (Pasini, _op. cit._, p. 300). L'acte
+    le plus ancien en écriture secrète conservé à Florence est de 1414
     (_Dispacci in cifre del R. archivio di stato di Firenze_, dans
-    _Archivio storico italiano_, 3e sï¿½rie, t. XIV, p. 473, Firenze,
-    1871). ï¿½ Milan, le plus ancien paraï¿½t ï¿½tre de 1454 et ï¿½ Gï¿½nes de
+    _Archivio storico italiano_, 3e série, t. XIV, p. 473, Firenze,
+    1871). À Milan, le plus ancien paraît être de 1454 et à Gênes de
     1481 (R. Sovrintendenza agli archivi veneti, _L'Archivio di stato in
     Venezia negli anni 1876-1880_, Venezia, 1881, p. 64-67. Voir aussi
     Cecchetti, _Le scritture occulte nella diplomazia veneziana_, dans
     _Memorie del R. istituto veneto di scienze, lettere ed arti_, 3e
-    sï¿½rie, t. IV, Venezia, 1869, p. 1185-1211).]
+    série, t. IV, Venezia, 1869, p. 1185-1211).]
 
     [Note 14: _Dispacci in cifre_, etc., dans _Arch. stor. ital._, _loc.
     cit._, p. 475; Pasini, _op. cit._, p. 300. On trouvera les clefs de
-    chiffres de ce genre et de l'annï¿½e 1465 ï¿½ la Bibl. nat. (ms. ital.
+    chiffres de ce genre et de l'année 1465 à la Bibl. nat. (ms. ital.
     1591, fol. 132, 133, 134, et 1592, fol. 29). Un chiffre analogue,
-    mais du XVIe siï¿½cle, a ï¿½tï¿½ reproduit par M. L. Paris dans les
-    _Nï¿½gociations, lettres et piï¿½ces diverses relatives au rï¿½gne de
-    Franï¿½ois II_, Paris, 1841 (Collection de documents inï¿½dits), en
+    mais du XVIe siècle, a été reproduit par M. L. Paris dans les
+    _Négociations, lettres et pièces diverses relatives au règne de
+    François II_, Paris, 1841 (Collection de documents inédits), en
     regard de la page XVI. Nous n'insistons pas sur ces clefs, dont le
-    but est tout diffï¿½rent des rï¿½gles que nous ï¿½tudions: ces clefs ont
-    ï¿½tï¿½ dressï¿½es afin de dï¿½chiffrer une lettre secrï¿½te dï¿½terminï¿½e ou un
-    alphabet dï¿½terminï¿½, tandis que les rï¿½gles de Simonetta visent ï¿½
-    indiquer une mï¿½thode pour dï¿½couvrir ces clefs elles-mï¿½mes. Les clefs
-    pareilles ï¿½ celles que nous avons citï¿½es, mais de temps postï¿½rieurs,
+    but est tout différent des règles que nous étudions: ces clefs ont
+    été dressées afin de déchiffrer une lettre secrète déterminée ou un
+    alphabet déterminé, tandis que les règles de Simonetta visent à
+    indiquer une méthode pour découvrir ces clefs elles-mêmes. Les clefs
+    pareilles à celles que nous avons citées, mais de temps postérieurs,
     ne sont pas rares. Les archives de Venise en conservent plus de 400
-    des XVIe, XVIIe et XVIIIe siï¿½cles (Pasini, _op. cit._, p. 291). De
-    plus, quelques cryptographes exercï¿½s en ont restituï¿½ un certain
-    nombre; ainsi l'abbï¿½ Gabrielli, ï¿½ Florence, en a rï¿½tabli plus de
-    1,300 (voy. l'article dï¿½jï¿½ signalï¿½ de l'_Arch. stor. ital._).
-    Pasini, ï¿½ Venise, a dï¿½chiffrï¿½ prï¿½s de 800 dï¿½pï¿½ches (R.
+    des XVIe, XVIIe et XVIIIe siècles (Pasini, _op. cit._, p. 291). De
+    plus, quelques cryptographes exercés en ont restitué un certain
+    nombre; ainsi l'abbé Gabrielli, à Florence, en a rétabli plus de
+    1,300 (voy. l'article déjà signalé de l'_Arch. stor. ital._).
+    Pasini, à Venise, a déchiffré près de 800 dépêches (R.
     Sovrintendenza agli archivi veneti, _op. cit._, p. 64 et 202, et
     _id._, _Gli archivii della regione veneta_, Venezia, 1881, t. II, p.
-    195). Cf. les cinq clefs publiï¿½es ï¿½ l'appendice de ce volume. Ces
-    dï¿½chiffrements ne vont pas sans donner lieu ï¿½ des interprï¿½tations
-    diverses. Voir ï¿½ ce sujet la curieuse dissertation de Pasini, _I
+    195). Cf. les cinq clefs publiées à l'appendice de ce volume. Ces
+    déchiffrements ne vont pas sans donner lieu à des interprétations
+    diverses. Voir à ce sujet la curieuse dissertation de Pasini, _I
     dispacci di Giovanni Michiel ambasciatore veneto in Inghilterra
     (1554-1557), deciferati da Paolo Friedmann, rettificazioni ed
     aggiunte_, Venezia, 1869.]
@@ -214,133 +214,133 @@ supprimï¿½s[15]; le plus souvent les mots ne sont pas sï¿½parï¿½s[16].
     [Note 15: Pasini, _Delle scritture in cifra_, etc., _loc. cit._, p.
     291.]
 
-    [Note 16: _Ibid._, voy. la table qui fait suite au mï¿½moire de Pasini
-    et qui n'est que le fac-similï¿½ d'une partie de la piï¿½ce de 1411
-    mentionnï¿½e plus haut.]
+    [Note 16: _Ibid._, voy. la table qui fait suite au mémoire de Pasini
+    et qui n'est que le fac-similé d'une partie de la pièce de 1411
+    mentionnée plus haut.]
 
-C'est ï¿½ cet ï¿½tat arriï¿½rï¿½ de la science cryptographique que s'appliquent
-les rï¿½gles ou mieux les instructions de Simonetta; elles sont au nombre
+C'est à cet état arriéré de la science cryptographique que s'appliquent
+les règles ou mieux les instructions de Simonetta; elles sont au nombre
 de treize et, bien entendu, ainsi que l'atteste le titre que l'auteur
-leur a donnï¿½, elles ne prï¿½tendent qu'ï¿½ fournir des procï¿½dï¿½s pratiques,
-fruit sans doute de son expï¿½rience personnelle et dont il voulait faire
-profiter les secrï¿½taires de la chancellerie milanaise, propres ï¿½
-dï¿½voiler l'alphabet ou la clef d'une dï¿½pï¿½che ï¿½crite en lettres
-interverties, en chiffres ou en caractï¿½res conventionnels.
+leur a donné, elles ne prétendent qu'à fournir des procédés pratiques,
+fruit sans doute de son expérience personnelle et dont il voulait faire
+profiter les secrétaires de la chancellerie milanaise, propres à
+dévoiler l'alphabet ou la clef d'une dépêche écrite en lettres
+interverties, en chiffres ou en caractères conventionnels.
 
-Bien que Simonetta semble avoir eu quelque notion des chiffres ï¿½
-alphabet double, il ne se prï¿½occupe que des chiffres ï¿½ alphabet simple,
-c'est-ï¿½-dire de ceux oï¿½ le mï¿½me signe reprï¿½sente toujours la mï¿½me
-lettre, mï¿½thode rudimentaire oï¿½ la lettre la plus rï¿½pï¿½tï¿½e dans l'idiome
+Bien que Simonetta semble avoir eu quelque notion des chiffres à
+alphabet double, il ne se préoccupe que des chiffres à alphabet simple,
+c'est-à-dire de ceux où le même signe représente toujours la même
+lettre, méthode rudimentaire où la lettre la plus répétée dans l'idiome
 du texte cryptographique ou cryptogramme ne peut rester longtemps
-dissimulï¿½e[17]. Presque tout son systï¿½me repose sur la recherche des
+dissimulée[17]. Presque tout son système repose sur la recherche des
 voyelles[18].
 
-    [Note 17: Pour le franï¿½ais, c'est la lettre _e_. Voir:
-    _Cryptographie_, ï¿½tude publiï¿½e dans le journal _le Gï¿½nie civil_
-    (mai-juin 1888), par le marquis de Viaris (p. 6). Nous devons ï¿½
+    [Note 17: Pour le français, c'est la lettre _e_. Voir:
+    _Cryptographie_, étude publiée dans le journal _le Génie civil_
+    (mai-juin 1888), par le marquis de Viaris (p. 6). Nous devons à
     l'obligeance de l'auteur la communication de cet excellent ouvrage,
-    auquel nous empruntons la plupart des dï¿½tails qui prï¿½cï¿½dent, entre
-    autres la dï¿½finition des alphabets simples et des alphabets
-    multiples. Ce tirage ï¿½ part n'est malheureusement pas livrï¿½ au
+    auquel nous empruntons la plupart des détails qui précèdent, entre
+    autres la définition des alphabets simples et des alphabets
+    multiples. Ce tirage à part n'est malheureusement pas livré au
     commerce. Voir aussi: Kerckhoffs (Aug.), _la Cryptographie militaire
-    ou des chiffres usitï¿½s en temps de guerre, avec un nouveau procï¿½dï¿½
-    de dï¿½chiffrement applicable aux systï¿½mes ï¿½ double clef_, Paris,
+    ou des chiffres usités en temps de guerre, avec un nouveau procédé
+    de déchiffrement applicable aux systèmes à double clef_, Paris,
     1883, p. 19.]
 
-    [Note 18: Cette recherche fut plus tard le fondement du systï¿½me de
-    dï¿½chiffrement de Porta (_De furtivis litterarum notis_, Naples,
-    1563), dont le bibliophile Jacob (_op. cit._, p. 56 et ss.) a donnï¿½
-    une analyse circonstanciï¿½e. De nos jours, un cryptographe distinguï¿½
-    et original, M. Vesin de Romanini, a repris cette idï¿½e en la
-    dï¿½veloppant et en a fait la base de son traitï¿½ de cryptographie
-    intitulï¿½: _la Cryptographie dï¿½voilï¿½e, ou Art de traduire ou de
-    dï¿½chiffrer toutes les ï¿½critures en quelque caractï¿½re et en quelque
-    langue que ce soit, quoiqu'on ne connaisse ni ce caractï¿½re ni cette
-    langue, appliquï¿½e aux langues franï¿½aise, allemande, anglaise,
+    [Note 18: Cette recherche fut plus tard le fondement du système de
+    déchiffrement de Porta (_De furtivis litterarum notis_, Naples,
+    1563), dont le bibliophile Jacob (_op. cit._, p. 56 et ss.) a donné
+    une analyse circonstanciée. De nos jours, un cryptographe distingué
+    et original, M. Vesin de Romanini, a repris cette idée en la
+    développant et en a fait la base de son traité de cryptographie
+    intitulé: _la Cryptographie dévoilée, ou Art de traduire ou de
+    déchiffrer toutes les écritures en quelque caractère et en quelque
+    langue que ce soit, quoiqu'on ne connaisse ni ce caractère ni cette
+    langue, appliquée aux langues française, allemande, anglaise,
     latine, italienne, espagnole_, etc. Paris, 1857. Pour la langue
     italienne, voir p. 163 et ss.]
 
-Les trois premiers prï¿½ceptes, par l'examen de la lettre finale de chaque
+Les trois premiers préceptes, par l'examen de la lettre finale de chaque
 mot, par celui des monogrammes, des digrammes et des trigrammes, roulent
-sur les moyens de distinguer si le texte ï¿½ dï¿½chiffrer est en latin ou en
-langue vulgaire, c'est-ï¿½-dire en italien. La dï¿½couverte en cette
-derniï¿½re langue de la voyelle _e_, de la labiale _l_ dans les digrammes
+sur les moyens de distinguer si le texte à déchiffrer est en latin ou en
+langue vulgaire, c'est-à-dire en italien. La découverte en cette
+dernière langue de la voyelle _e_, de la labiale _l_ dans les digrammes
 et du relatif _che_ dans les trigrammes forme l'objet du 4e, du 5e et du
-6e conseil. Passant ensuite au latin, auquel il consacre les rï¿½gles 7,
+6e conseil. Passant ensuite au latin, auquel il consacre les règles 7,
 8, 9, 10, 11 et 12, Simonetta observe que les mots de cette langue sont
-terminï¿½s le plus communï¿½ment par _s_, _m_ ou _t_, ou _a_, _e_, _i_ et
-_o_. Si un signe est employï¿½ seul, on peut ï¿½tre sï¿½r que c'est une
-voyelle, et, selon toute vraisemblance, la prï¿½position _a_, qui est le
-monogramme le plus usitï¿½. Quant aux digrammes, il transcrit la liste des
-plus usuels; ce sera ï¿½ la sagacitï¿½ du lecteur ï¿½ les interprï¿½ter. Les
-trigrammes dont la premiï¿½re lettre est la mï¿½me que la troisiï¿½me
-correspondront ï¿½ _non_, _sis_, etc., mais plutï¿½t ï¿½ _non_, le trigramme
-le plus frï¿½quent. Un signe rï¿½pï¿½tï¿½ trois fois sans intervalle doit ï¿½tre
-un _u_. Dans les mots de quatre lettres, un chiffre redoublï¿½ ï¿½quivaudra,
-selon toute probabilitï¿½, ï¿½ _l_ ou ï¿½ _s_, comme dans _ille_, _esse_, etc.
+terminés le plus communément par _s_, _m_ ou _t_, ou _a_, _e_, _i_ et
+_o_. Si un signe est employé seul, on peut être sûr que c'est une
+voyelle, et, selon toute vraisemblance, la préposition _a_, qui est le
+monogramme le plus usité. Quant aux digrammes, il transcrit la liste des
+plus usuels; ce sera à la sagacité du lecteur à les interpréter. Les
+trigrammes dont la première lettre est la même que la troisième
+correspondront à _non_, _sis_, etc., mais plutôt à _non_, le trigramme
+le plus fréquent. Un signe répété trois fois sans intervalle doit être
+un _u_. Dans les mots de quatre lettres, un chiffre redoublé équivaudra,
+selon toute probabilité, à _l_ ou à _s_, comme dans _ille_, _esse_, etc.
 
-La derniï¿½re observation est commune au latin et ï¿½ l'italien: un chiffre
-ou un signe toujours suivi du mï¿½me chiffre ou du mï¿½me signe figurera
+La dernière observation est commune au latin et à l'italien: un chiffre
+ou un signe toujours suivi du même chiffre ou du même signe figurera
 _q_; le second sera _u_, et le suivant une autre voyelle.
 
-En finissant, Simonetta remarque, toutefois, que ces rï¿½gles peuvent
-facilement ï¿½tre mises en dï¿½faut, pour peu que l'auteur de la dï¿½pï¿½che ait
-soin de varier et de compliquer les chiffres de diverses maniï¿½res, soit
-en intercalant au milieu d'eux, comme nous l'avons dit, des caractï¿½res,
+En finissant, Simonetta remarque, toutefois, que ces règles peuvent
+facilement être mises en défaut, pour peu que l'auteur de la dépêche ait
+soin de varier et de compliquer les chiffres de diverses manières, soit
+en intercalant au milieu d'eux, comme nous l'avons dit, des caractères,
 des monogrammes, des digrammes ou des trigrammes nuls, soit en se
-servant de deux alphabets ï¿½ la fois, etc.
+servant de deux alphabets à la fois, etc.
 
-L'intention de Simonetta en recueillant ces rï¿½gles n'a pas ï¿½tï¿½, on s'en
-aperï¿½oit, de composer un traitï¿½ thï¿½orique et complet de cryptographie.
+L'intention de Simonetta en recueillant ces règles n'a pas été, on s'en
+aperçoit, de composer un traité théorique et complet de cryptographie.
 Son but est plus modeste; les destinant, comme nous le disions plus
-haut, ï¿½ satisfaire aux exigences courantes des chancelleries, il les a
-basï¿½es sur l'expï¿½rience seule; c'ï¿½tait du reste inï¿½vitable; au XVe
-siï¿½cle, cette science ou cet art n'avait pas encore fait de progrï¿½s
-considï¿½rables; les combinaisons, ï¿½ peu prï¿½s inextricables[19], qui
-devaient le transformer sous l'impulsion de Trithï¿½me[20], de Porta[21],
-de Blaise de Vigenï¿½re[22], le crï¿½ateur des alphabets multiples[23], et
-des cryptographes du XIXe siï¿½cle[24], n'ï¿½taient pas encore inventï¿½es.
-Notre auteur ne suppose pas de plus grande difficultï¿½ que l'alphabet
-double et ne soupï¿½onne pas les mï¿½thodes ï¿½ alphabets multiples[25], ï¿½
-anagramme ou ï¿½ interversion[26] et ï¿½ rï¿½pertoire[27]. Cependant, quelque
-ï¿½lï¿½mentaires et imparfaites que soient ces rï¿½gles, quoique tout esprit
-attentif et rï¿½flï¿½chi puisse les dï¿½duire sans aucun secours ï¿½tranger,
-elles nous ont paru mï¿½riter d'ï¿½tre publiï¿½es; on y trouve en effet rï¿½unis
-et coordonnï¿½s les prï¿½ceptes les plus indispensables et les plus
-commodes, en raison de leur empirisme mï¿½me, pour le dï¿½chiffrement des
-dï¿½pï¿½ches italiennes du XVe siï¿½cle dont les clefs sont perdues ou n'ont
-pas ï¿½tï¿½ rï¿½tablies, et ï¿½ ce titre leur publication pourra peut-ï¿½tre
-rendre quelques services aux personnes qui ont ï¿½ lire ou ï¿½ copier des
+haut, à satisfaire aux exigences courantes des chancelleries, il les a
+basées sur l'expérience seule; c'était du reste inévitable; au XVe
+siècle, cette science ou cet art n'avait pas encore fait de progrès
+considérables; les combinaisons, à peu près inextricables[19], qui
+devaient le transformer sous l'impulsion de Trithème[20], de Porta[21],
+de Blaise de Vigenère[22], le créateur des alphabets multiples[23], et
+des cryptographes du XIXe siècle[24], n'étaient pas encore inventées.
+Notre auteur ne suppose pas de plus grande difficulté que l'alphabet
+double et ne soupçonne pas les méthodes à alphabets multiples[25], à
+anagramme ou à interversion[26] et à répertoire[27]. Cependant, quelque
+élémentaires et imparfaites que soient ces règles, quoique tout esprit
+attentif et réfléchi puisse les déduire sans aucun secours étranger,
+elles nous ont paru mériter d'être publiées; on y trouve en effet réunis
+et coordonnés les préceptes les plus indispensables et les plus
+commodes, en raison de leur empirisme même, pour le déchiffrement des
+dépêches italiennes du XVe siècle dont les clefs sont perdues ou n'ont
+pas été rétablies, et à ce titre leur publication pourra peut-être
+rendre quelques services aux personnes qui ont à lire ou à copier des
 documents de ce genre.
 
                                              P.-M. PERRET.
 
-    [Note 19: Sur les traits caractï¿½ristiques des dï¿½pï¿½ches chiffrï¿½es du
-    XVIIe et du XVIIIe siï¿½cle, voir l'article dï¿½jï¿½ mentionnï¿½ de l'_Arch.
-    stor. ital._, t. XIV, 3e sï¿½rie, p. 473.]
+    [Note 19: Sur les traits caractéristiques des dépêches chiffrées du
+    XVIIe et du XVIIIe siècle, voir l'article déjà mentionné de l'_Arch.
+    stor. ital._, t. XIV, 3e série, p. 473.]
 
     [Note 20: _Steganographia_, Francfort, 1606. Le bibliophile Jacob
-    (_op. cit._, p. 38 et ss.) a consacrï¿½ ï¿½ cet ouvrage une analyse
-    dï¿½taillï¿½e.]
+    (_op. cit._, p. 38 et ss.) a consacré à cet ouvrage une analyse
+    détaillée.]
 
     [Note 21: Voy. plus haut, p. 520, note 4.]
 
-    [Note 22: _Traitï¿½ des chiffres ou secrettes manieres d'ï¿½crire_,
+    [Note 22: _Traité des chiffres ou secrettes manieres d'écrire_,
     Paris, 1587.]
 
     [Note 23: M. de Viaris (_op. cit._, p. 7) a reproduit des types de
     ces alphabets multiples. Voy. aussi le Bibliophile Jacob, _op.
     cit._, p. 71, et Kerckhoffs, _op. cit._, p. 30.]
 
-    [Note 24: Leurs traitï¿½s sont trï¿½s nombreux. Nous nous contenterons
+    [Note 24: Leurs traités sont très nombreux. Nous nous contenterons
     d'indiquer quelques-uns des principaux: Mamert Gallien,
-    _Dictionnaire tï¿½lï¿½graphique, ï¿½conomique et secret_, Paris,
-    1874.--Simonot (Edme), _l'Art de dï¿½chiffrer les ï¿½critures secrï¿½tes_,
+    _Dictionnaire télégraphique, économique et secret_, Paris,
+    1874.--Simonot (Edme), _l'Art de déchiffrer les écritures secrètes_,
     Paris, 1881.--Kerckhoffs, _op. cit._--Sittler, _Dictionnaire
-    abrï¿½viatif chiffrï¿½_, Paris, 1889 (10e ï¿½dition), etc., etc.--Pour les
-    ouvrages relatifs ï¿½ la cryptographie et antï¿½rieurs ï¿½ 1858, on
+    abréviatif chiffré_, Paris, 1889 (10e édition), etc., etc.--Pour les
+    ouvrages relatifs à la cryptographie et antérieurs à 1858, on
     consultera avec profit la bibliographie que le bibliophile Jacob a
-    mise en appendice a son livre dï¿½jï¿½ citï¿½ (p. 242-251).]
+    mise en appendice a son livre déjà cité (p. 242-251).]
 
     [Note 25: Viaris, _op. cit._, p. 6.]
 
@@ -468,7 +468,7 @@ representantes et maxime dictionibus unius vel duarum aut trium zifrarum
 vel litterarum; item scribendo cum duobus alphabetis zifrarum omnino
 diversis; item ponendo unam zifram solam loco _q_ et _u_.
 
-(Extrait de la _Bibliothï¿½que de l'ï¿½cole des chartes_, tome LI, 1890.)
+(Extrait de la _Bibliothèque de l'École des chartes_, tome LI, 1890.)
 
 Nogent-le-Rotrou, imprimerie DAUPELEY-GOUVERNEUR.
 

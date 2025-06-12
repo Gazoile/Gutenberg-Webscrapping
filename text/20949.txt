@@ -1,4 +1,4 @@
-images generously made available by the Bibliothï¿½que
+images generously made available by the Bibliothèque
 nationale de France (BnF/Gallica) at http://gallica.bnf.fr)
 
 
@@ -23,13 +23,13 @@ simplex de une / de deux / de trois de .iiii. et de cinq sillabes /
 rondeaulx jumeaulx et rondeaulx doubles / simples virlais / doubles
 virlais et responce / fatras simples et fatras doubles / ballades
 communes / ballades balladante / ballade fatrisee / simple lay / lay
-renforcï¿½ / champt royal / servantois / ricquerac & baguenaude. De
+renforcé / champt royal / servantois / ricquerac & baguenaude. De
 laquelle rhethorique ensuivent les exemples.
 
 Exemple
 
 Rhethorique vulgaire est une espece de musique appellee regna musique
-laquelle contient certain nombre de sillabes avecques aucune suavitï¿½ en
+laquelle contient certain nombre de sillabes avecques aucune suavité en
 forme de doulceur et de equisonance. Et ne se peut sans diction / ne
 diction sans sillabe ne sillabe sans lettre. La lettre est sillabe qui
 ne se peut diviser / comme A B C d E &c. desquelles lettres les unes
@@ -53,12 +53,12 @@ Item toutes et quanteffois que la sillabe imparfaicte finissant en .E
 rencontre en mettre une desdictes voielles aiant vray son de voielles
 ladicte sillabe se boute avecques ladicte voielle et ne font ensemble
 que une sillabe / comme se on disoit. Ma dame aime ung autre que moy.
-Ceste sillabe me qui est la moitiï¿½ de dame s'en treboute avecques ceste
-autre sillabe da / qui aussi est la moitiï¿½ de dame. Et le residu de aime
+Ceste sillabe me qui est la moitié de dame s'en treboute avecques ceste
+autre sillabe da / qui aussi est la moitié de dame. Et le residu de aime
 qui est me sillabe imparfaicte se compte avecques ceste diction ung et
-n'est comptï¿½ le dessusdit mettre que pour huit sillabes. Et est assavoir
+n'est compté le dessusdit mettre que pour huit sillabes. Et est assavoir
 que tous mettres dont la derreniere sillabe est imparfaicte de quelque
-quantitï¿½ qu'il soit excede le mettre parfait d'une sillabe.
+quantité qu'il soit excede le mettre parfait d'une sillabe.
 
 Comme par cest exemple
 
@@ -69,9 +69,9 @@ Comme par cest exemple
 
 
 Autre taille de rigme qui se nomme doublette la plus facile & commune
-que l'on puist faire: Et se peut faire en toutes quantitï¿½s de sillabes
+que l'on puist faire: Et se peut faire en toutes quantités de sillabes
 et le plus souvent en huit ou en neuf sillabes. De ceste maniere de
-rigme est composï¿½ le rommant de la rose. Et plusieurs histoires et
+rigme est composé le rommant de la rose. Et plusieurs histoires et
 farces en sont composees.
 
 Exemple
@@ -132,13 +132,13 @@ Exemple
     Quelque esleut / n'a voulut
     Voler d'ung orguilleux loire
     Tout solut / tout concludt
-    Povretï¿½ met gens en gloire
+    Povreté met gens en gloire
 
 
-Autre taille de vers huitains appellez vers franï¿½ois sont assez communs
+Autre taille de vers huitains appellez vers françois sont assez communs
 en plusieurs livres et traictiez comme en la belle dame sans mercy /
 l'ospital d'amours et le champion des dames. Desquelz la croisure des
-mettres ensemble la quantitï¿½ des sillabes est notoire par cest exemple.
+mettres ensemble la quantité des sillabes est notoire par cest exemple.
 
 Exemple
 
@@ -147,7 +147,7 @@ Exemple
     Barons en point       Prosperons     Besongnons
     Souffrons apoint      Soyons bons    Compaignons
     Vuidons son point     Conquerons     Gentilesse
-    Franï¿½ois loyaulx      Soions seurs   Son nous blesse
+    François loyaulx      Soions seurs   Son nous blesse
     Souffrons apoint      Soyons bons    Compaignons
     Bourgois loyaulx      Serviteurs     De noblesse
 
@@ -163,26 +163,26 @@ cinq lignes.
 
 Exemple
 
-    Quant vous aurï¿½s assï¿½s musï¿½
-    Autant que j'ay pour vous usï¿½
-    Et la veritï¿½ bien sï¿½aurï¿½s
-    Espoir que pitiï¿½ vous aurï¿½s
-    D'ung simple innocent pou rusï¿½
-    Jamais ne seray refusï¿½
-    Ne de mal servir accusï¿½
+    Quant vous aurés assés musé
+    Autant que j'ay pour vous usé
+    Et la verité bien sçaurés
+    Espoir que pitié vous aurés
+    D'ung simple innocent pou rusé
+    Jamais ne seray refusé
+    Ne de mal servir accusé
     Se mes pas sont bien mesurez
     Quant vous aurez assez musez
 
-    Se trouve me suis si osï¿½
-    D'avoir vostre bruit alosï¿½
+    Se trouve me suis si osé
+    D'avoir vostre bruit alosé
     Dont je suis beacop honorez
     Le don de mercy me donnez
-    Affin que ne soye abusï¿½
-    Quant vous aurez assez musï¿½
+    Affin que ne soye abusé
+    Quant vous aurez assez musé
 
 
 Autre taille de rondeaulx doubles qui se nomment simples virlais pour ce
-que gens lais les mettent en leurs chanï¿½ons rurales comme gente de corps
+que gens lais les mettent en leurs chançons rurales comme gente de corps
 et se font en ceste maniere
 
 Exemple
@@ -204,7 +204,7 @@ Exemple
 
 
 Doubles virlais se font comme le premier couplet dessusdit. Et puis ung
-autre vert sisain ou croisï¿½ de differente termination au premier.
+autre vert sisain ou croisé de differente termination au premier.
 
 Exemple
 
@@ -220,7 +220,7 @@ Exemple
     Qui n'est plain de science et d'art
     ja ne fera beau vacelage
     mais pource que je suis volage
-    et que je sï¿½ay lancer le dart
+    et que je sçay lancer le dart
     Amours me tient pour son soudard
 
 
@@ -230,30 +230,30 @@ principal
 
 Exemple
 
-    A la fleur de virginitï¿½
-    en qui dieu print humanitï¿½
+    A la fleur de virginité
+    en qui dieu print humanité
     suivons le cours
-    Et prions par humilitï¿½
-    que humaine fragilitï¿½
+    Et prions par humilité
+    que humaine fragilité
     baille secours
     Car les delis mondains sont cours
-    et c'est le terme limitï¿½
+    et c'est le terme limité
     a chascun du jour de sa fin
-    dont nous est necessitï¿½
+    dont nous est necessité
     d'abreger tost nostre chemin
-    pour avoir secours en pitï¿½
-    a la fleur de virginitï¿½
-    Tropt avons suivi vanitï¿½
-    et c'est le terme limittï¿½
+    pour avoir secours en pité
+    a la fleur de virginité
+    Tropt avons suivi vanité
+    et c'est le terme limitté
     a chascun du jour de sa fin
     quoy ou nous allons a declin
-    et si n'avons riens prouffitï¿½
-    A la fleur de virginitï¿½
-    Dont nous estoit necessitï¿½
+    et si n'avons riens prouffité
+    A la fleur de virginité
+    Dont nous estoit necessité
     d'abreger tost nostre chemin
-    monstrons nostre divinitï¿½
+    monstrons nostre divinité
     pour avoir secours au parfin
-    A la fleur de virginitï¿½
+    A la fleur de virginité
 
 
 Autre espece de rhetorique nommee fatras Et sont convenables en matiere
@@ -284,7 +284,7 @@ Exemple
     L'ung escorche l'autre tondt
     L'autre qui la fille baise
     taste se l'anette pont
-    et l'oste reï¿½oit le bont
+    et l'oste reçoit le bont
     d'ung baston ne lui desplaise
     si l'ostesse est trop mauvaise
     On lui fait passer le pont
@@ -343,7 +343,7 @@ Exemple de balade commune
     dont qui se sent en ses lats detenus
     Il fait assez qui son salut procure
 
-    Promotheus nous a formï¿½ de cendre
+    Promotheus nous a formé de cendre
     craindre devons d'atropos le dur pas
     quant jupiter des cieulx vouldra descendre
     pour nous juger plato n'y fauldra pas
@@ -356,7 +356,7 @@ Exemple de balade commune
     Il fait assez qui son salut procure
 
     Prince du puis le grant dieu saturnus
-    demogorgon pheton phebï¿½ phebus
+    demogorgon pheton phebé phebus
     ne demandent grant labeur ne grant cure
     mais que le corps soit bien entretenus
     Il fait assez qui son salut procure
@@ -368,7 +368,7 @@ Aucuns dient que elles sont de vi. de x. et de xi. sillabes. Et est
 batellee a la .iiii. sillabe en certaines lignes. Car en toutes les
 lignes de x. ou de xi. sillabes soit en balades ou en autres tailles
 tousjours la iiii. sillabe ou pied doit estre de mot complect. Et doit
-on illecques reposer en la prononï¿½ant.
+on illecques reposer en la prononçant.
 
 Exemple de balade baladant
 
@@ -382,9 +382,9 @@ Exemple de balade baladant
     Il fut enfant du pere triumphant
     soleil luisant sente ou ne desvie
     Fleur florissant vray messias naissant
-    dieu tout puissant veritï¿½ voye & vie
+    dieu tout puissant verité voye & vie
 
-    Seul fut creant increï¿½ createur
+    Seul fut creant increé createur
     Gubernateur de l'eternel fabrique
     Fabricateur supernel salvateur
     Operateur du hault trosne angelique
@@ -394,9 +394,9 @@ Exemple de balade baladant
     Regarissant maint mesel pourrissant
     En relevant d'enfer l'ame ravye
     Par ce faisant se monstra florissant
-    dieu tout puissant veritï¿½ voye et vie
+    dieu tout puissant verité voye et vie
 
-    de veritï¿½ fut administrateur
+    de verité fut administrateur
     & constructeur de la foy catholique
     Reparateur certain resusciteur
     & fondateur de texte evangelique
@@ -406,24 +406,24 @@ Exemple de balade baladant
     Son chemin grant il nous fut demonstrant
     Puis fut montant a sa gloire assouvie
     si dy pourtant permanable durant
-    Dieu tout puissant veritï¿½ voye et vie
+    Dieu tout puissant verité voye et vie
 
     Prince du puis se estes obeissant
     nous commandant gaigner gloire infinie
-    Lassus regnant le verrï¿½s dominant
-    Dieu tout puissant veritï¿½ voye et vie
+    Lassus regnant le verrés dominant
+    Dieu tout puissant verité voye et vie
 
 
 Balade fatrisee ou jumelle sont deux balades communes tellement annexees
 ensemble que le commencement de l'une donne refrain a l'autre. Ceste
 couleur de rhethorique descend a faire regret comme il appert de saint
-quentin ou l'escuier trouva saint maurice mutilï¿½ sur les champs.
+quentin ou l'escuier trouva saint maurice mutilé sur les champs.
 
     Maurice le beau chevalier
     Tu es mort helas que ferai ge
     je ne te puis vie batillier
     Ne susciter ne conseillier
-    Tu as payï¿½ mortel truage
+    Tu as payé mortel truage
     quel perte quel deul quel dommage
     Quelle cruelle occision
     O terrible prodiction
@@ -474,15 +474,15 @@ quentin ou l'escuier trouva saint maurice mutilï¿½ sur les champs.
     Maurice le bon chevalier
 
     Prince vous avez par envie
-    Assommï¿½ et fait traveillier
+    Assommé et fait traveillier
     Maurice le bon chevalier
 
 
-Les simples doubles lignes / formï¿½s de demies lignes en contradictions
+Les simples doubles lignes / formés de demies lignes en contradictions
 
 Exemple
 
-    Fleur de beaultï¿½ gracieuse
+    Fleur de beaulté gracieuse
     Precieuse
     Gemme d'onneur excellente
     vive ymage sumptueuse
@@ -498,10 +498,10 @@ Exemple
 
 
 Quant une longue ligne est enlacee entre la longue et la courte adonc
-est lay renforcï¿½. La forme en est clere en l'oroison de la glorieuse
+est lay renforcé. La forme en est clere en l'oroison de la glorieuse
 vierge marie qui se commence. En protestant. Et avecques ce que ledit
-lay est renforcï¿½ a la fois est il fatrisï¿½ par la reprinse des deux
-premieres lignes comme cy apres est declarï¿½
+lay est renforcé a la fois est il fatrisé par la reprinse des deux
+premieres lignes comme cy apres est declaré
 
 Exemple
 
@@ -525,7 +525,7 @@ Exemple
 
 
 Champt royal se recorde es puis ou se donnent couronnes & chapeaulx a
-ceulx qui mieulx le sï¿½avent faire. Et se fait a refrain comme ballade /
+ceulx qui mieulx le sçavent faire. Et se fait a refrain comme ballade /
 mais il y a cinq couplets et renvoy.
 
 Exemple
@@ -545,12 +545,12 @@ Exemple
     Ceste herpe qui si belle forme a
     Puisse figurer par vives raisons nettes
     A marie vierge que dieu si bien forma
-    Du tronc jessï¿½ et de ses racinettes
+    Du tronc jessé et de ses racinettes
     La seche anne dont on faisoit refus
     Porta le bois royal et le bel fus
     Dont ceste herpe eut humaine facture
     Prudence / force / attrempance / droicture
-    Foy / esperance et charitï¿½ unie
+    Foy / esperance et charité unie
     Sept cordes sont qui la font sans facture
     Herpe rendant souveraine armonie
 
@@ -572,7 +572,7 @@ Exemple
     Qu'elle endormist serpenteaux et ranettes
     Ces tresdoulx mots sont de la bouche yssus
     Que les haulx cieulx de dieu fais & tissus
-    Jadis formï¿½s lui ont fait ouverture
+    Jadis formés lui ont fait ouverture
     Et ont prise infernale cloture
     Pour retirer humaine progenie
     Si dis qu'elle est plus que dessus nature
@@ -584,7 +584,7 @@ Exemple
     dyapante de si doulces busettes
     Par ung accord que sont les sept vertus
     Sept planettes dont sept cieulx sont vestus
-    A surmontï¿½ sans vilaine morsure
+    A surmonté sans vilaine morsure
     Devant son filz qui endura mort sure
     Est anoncee & en gloire infinie
     Le bien formant par compas et mesure
@@ -593,7 +593,7 @@ Exemple
     Prince du puis qui chantez d'avanture
     donnez acord plain champt et floriture
     A l'umble fleur des vierges espanie
-    Et vous orrï¿½s a la gloire future
+    Et vous orrés a la gloire future
     Herpe rendant souveraine armonie
 
 
@@ -604,7 +604,7 @@ mouvement lequel prent laict et terminations es premieres lignes / l'une
 amoureuse laquelle traicte de matiere d'amours Et contient cinq couplets
 et l'envoy sans refrain. Mais lesdis couplets de pareille consonante
 sont Et lesdis servantois le plus souvent sont fais en l'onneur de la
-vierge marie et pour l'onneur de sa tresglorieuse naissance / sainctetï¿½
+vierge marie et pour l'onneur de sa tresglorieuse naissance / saincteté
 et tresparfaicte vie.
 
 Exemple
@@ -614,16 +614,16 @@ Exemple
     Car l'escripture ou nous devons credence
     Nous recite demonstrant plainement
     Comment de la lignee prefiguree
-    De jessï¿½ dont une vieille adoree
+    De jessé dont une vieille adoree
     D'excellens dons qui porta sans amer
     La belle fleur que dieu voult tant amer
     Que l'esprit saint par treshaulte puissance
     Vint reposer dessus sans entamer
-    Integritï¿½ par aucune nuysance
+    Integrité par aucune nuysance
 
     Le bien descend de l'amant par science
     Voulant la lettre exposer haultement
-    Prendre jessï¿½ fondï¿½ en pacience
+    Prendre jessé fondé en pacience
     Pour dieu puissant regnant triumphamment
     Qui produisit par euvre decretee
     Ceste vierge par saincte anne notee
@@ -640,7 +640,7 @@ Exemple
     Car elle fut de si bonne heure nee
     Que la grace de dieu lui fut donnee
     Pour son enfant concevoir et porter
-    Lors incarnï¿½ pour nos maulx supporter
+    Lors incarné pour nos maulx supporter
     Se fut euvre d'admirable substance
     Quant vierge fut devant son enfanter
     Vierge enfantant et apres sans doubtance
@@ -648,7 +648,7 @@ Exemple
     Or avons dont tout par benivolence
     La noble fleur prouffitant grandement
     Aux malades car par sa soustenance
-    Leur rent sanctï¿½ de corps et sauvement
+    Leur rent sancté de corps et sauvement
     O vierge saincte et bien moriginee
     Vostre liesse en doleur fut tournee
     Quant vostre filz voult en la croix monter
@@ -662,8 +662,8 @@ Exemple
     En mer / en terre & en circunference
     Du haultain ciel et divin firmament
     Ou ciel lassus dignement couronnee
-    La pouez vous trinitï¿½ contempler
-    En unitï¿½ et en graces impetrer
+    La pouez vous trinité contempler
+    En unité et en graces impetrer
     Pour departir en louable ordonnance
     Pour nous servir quant nous devrons finer
     Puissons de dieu obtenir indulgence
@@ -684,7 +684,7 @@ ceste taille couloura messire georges chastellain ses croniques abregees
 
 Exemple
 
-    Vous orrï¿½s choses estrange
+    Vous orrés choses estrange
     D'ung folastre bien fait
     Qui se disoit estre ange
     Mais quant se vint au fait
@@ -694,7 +694,7 @@ Exemple
     Si cheut en ung vivier
 
 
-Bagnenaudes sont couplets fais a voulentï¿½ contenant certaines quantitï¿½s
+Bagnenaudes sont couplets fais a voulenté contenant certaines quantités
 de sillabes sans rime et sans raison pou recommandee ymo repulsee de
 bons ouvriers et fort auctorisee du temps maistre jehan de virtoc
 
@@ -715,7 +715,7 @@ Exemple
     Boutez sa teste en ung souflet
     Sans lui bailler point de souflet
     Si en faictes mailles de faulx
-    Jamï¿½s plus ne seras mehaulx
+    Jamés plus ne seras mehaulx
 
 
 De rigmes en goret et plusieurs autres menues tailles ne font les
@@ -821,7 +821,7 @@ dicte batelee pour ce qu'elle a sa volee de resonance en la finable
 sillabe comme dessus elle a ung autre son et raison en la .iiii. sillabe
 en maniere de batellage. de ceste nouvelle mode sont coulourez la
 complainte de gresse : le trosne d'onneur / le temple de mars / les
-ouvrages de la pucelle : et la resource du petit peuple. Et en a estï¿½
+ouvrages de la pucelle : et la resource du petit peuple. Et en a esté
 inventeur maistre jehan molinet de valenciennes.
 
 Exemple
@@ -838,7 +838,7 @@ Exemple
 
 Autre taille de rime nommee vers douzains ou deux estaz. Et en sont
 plusieurs histoires & oroisons richement decorees comme O digne
-preciositï¿½ et autres : dont le formulaire & croisure se demonstre par
+preciosité et autres : dont le formulaire & croisure se demonstre par
 cest exemple
 
 
@@ -847,7 +847,7 @@ Exemple
     Dame ne vous sonvient il pas
     du tresgrant labeur et despas
     Que pour vous j'ay fait et passez
-    Comme desriglï¿½ sans compas
+    Comme desriglé sans compas
     J'ay perdu repos et repas
     A pou que n'en suis trespassez
     Si tous voz dons ne sont passez
@@ -860,10 +860,10 @@ Exemple
 
 
 Vers alexandrains sont de xii. ou de xiii. sillabes pour mettre. Et n'a
-que une seule termination le nombre des lignes et est a la voulentï¿½ de
+que une seule termination le nombre des lignes et est a la voulenté de
 l'acteur. Ilz sont nommez alexandrains pource que les histoires de
 alixandre sont faictes en ceste forme. Et plusieurs autres rommans des
-batailles anciennes tiennent ceste taille mesme l'abregï¿½ de troyes
+batailles anciennes tiennent ceste taille mesme l'abregé de troyes
 ensuit ce train
 
 Exemple.
@@ -871,7 +871,7 @@ Exemple.
     Puis que le duc perdit de nanci la journee
     Justice trespassa forte guerre fut nee
     L'eglise en a perdu ses rentes ceste annee
-    noblesse en a estï¿½ durement fortunee
+    noblesse en a esté durement fortunee
     Et povres gens en ont tresdure destinee
 
 
@@ -927,23 +927,23 @@ Exemple
     vostre gent et gracieulx vis
     j'aime mieulx estre mort que vifz
     neantmoins que voulentiers que envis
-    je me soubmï¿½s
-    Au dieu d'amours qui desormï¿½s
-    me fait servir d'estrange mï¿½s
+    je me soubmés
+    Au dieu d'amours qui desormés
+    me fait servir d'estrange més
     de danger et de refus mais
     c'est par amer
-    vostre beaultï¿½ plainier d'amer
+    vostre beaulté plainier d'amer
     qui a fait mon cueur entamer
     sy que je vouldroie en la mer
     estre perilz
-    Estre noiï¿½ mors et pourris
+    Estre noié mors et pourris
     mis avecques les sains esperis
     l'ame dont les yeulx ont pou ris
     fusist sauvee
 
 
-De toutes quantitï¿½s de sillabes et dictions se font rondeaulx simples et
-dictiers communs de chanï¿½ons et autres
+De toutes quantités de sillabes et dictions se font rondeaulx simples et
+dictiers communs de chançons et autres
 
 Exemple
 
@@ -1028,19 +1028,19 @@ Tant les plates redictes que les redictes finies en goret & ricquerac
 sont contees en termes de rhetorique et condamnees en rigoreux examen il
 les fault eviter de toute puissance & querir termes plus riches & mieulx
 recommandez come dictions aucunement pareilles sans estre equivoquees &
-contraires en signification. Et est de necessitï¿½ prendre ces termes cy
+contraires en signification. Et est de necessité prendre ces termes cy
 dessoubz transcripz.
 
 Exemple
 
-  fureur   severitï¿½   paresse   vaillance   felicitï¿½   utilitï¿½
-  faveur   serenitï¿½   proesse   vengence    ferocitï¿½   transquilitï¿½
+  fureur   severité   paresse   vaillance   felicité   utilité
+  faveur   serenité   proesse   vengence    ferocité   transquilité
 
-  vertueux   humilitï¿½    honneur   devotion   pleur   famine
-  vicieux    hostilitï¿½   horreur   derision   fleur   ferme mine
+  vertueux   humilité    honneur   devotion   pleur   famine
+  vicieux    hostilité   horreur   derision   fleur   ferme mine
 
-  vigeur   honnestetï¿½   puretï¿½    predication   charitï¿½   commande
-  Rigeur   honteusetï¿½   povretï¿½   prodition     cheritï¿½   gourmande
+  vigeur   honnesteté   pureté    predication   charité   commande
+  Rigeur   honteuseté   povreté   prodition     cherité   gourmande
 
   purification   invite   langueur   testue
   putrefaction   devite   longueur   teste nue
@@ -1075,15 +1075,15 @@ Exemple de equivoques a quatre
   vouloye     de vouloir
   vol oye     oye volant
 
-  sï¿½avoye   sï¿½avoir
+  sçavoye   sçavoir
   savoie    pays
   sa voie   cheminant
-  savoye    de sï¿½avoir
+  savoye    de sçavoir
 
   sansonet        oysel
   sans son nect   ung sonnet
   sans sonnest    sans son d'instrument
-  sanson est      sanson le fort a estï¿½
+  sanson est      sanson le fort a esté
 
   l'avoye   je l'avoye
   La voye   chemin
@@ -1156,7 +1156,7 @@ Exemple de equivoques a quatre
 
 
 
-Cy finist l'art et rhetorique de faire rimes et balades imprimï¿½ a paris
+Cy finist l'art et rhetorique de faire rimes et balades imprimé a paris
 le dixieme jour de may l'an mil quatre cens quatre vings et treize par
 anthoine verard libraire demourant a paris sur le pont nostre dame a
 l'image sainct jehan l'evangeliste ou au palais au premier pillier
@@ -1175,21 +1175,21 @@ DE TOUS PECHEURS FAIRE GRACE ET PARDON]
 ----------------------
 NOTES DU TRANSCRIPTEUR
 
-Pour faciliter la lecture, on a distinguï¿½ les lettres i/j, u/v,
-et introduit cï¿½dilles, apostrophes et accents selon l'usage habituel.
-On a conservï¿½ ï¿½ l'identique la ponctuation et l'usage des majuscules.
-Les symboles d'abrï¿½viation conventionnels ont ï¿½tï¿½ remplacï¿½s par les
-lettres correspondantes (exemple: Comme au lieu de Cï¿½me).
+Pour faciliter la lecture, on a distingué les lettres i/j, u/v,
+et introduit cédilles, apostrophes et accents selon l'usage habituel.
+On a conservé à l'identique la ponctuation et l'usage des majuscules.
+Les symboles d'abréviation conventionnels ont été remplacés par les
+lettres correspondantes (exemple: Comme au lieu de Cõme).
 
-On a effectuï¿½ les corrections suivantes:
+On a effectué les corrections suivantes:
 
   anne en aime (Ma dame aime ung autre que moy)
   sonstient en soustient (Espoir me soustient le menton)
   hanlt en hault (desir me donne a hault vouloir)
   scienc en science (Qui n'est plain de science et d'art)
   palus en palas (pour impugner les ars dame palas)
-  de morgogon en demogorgon (demogorgon pheton phebï¿½ phebus)
-  adminstrateur en administrateur (de veritï¿½ fut administrateur)
+  de morgogon en demogorgon (demogorgon pheton phebé phebus)
+  adminstrateur en administrateur (de verité fut administrateur)
   traictes en traitres (Mais les traitres remplis de rage)
   lon en ton (que dira ton hault parentaige)
   du en duc (du sang du bon duc familier)
@@ -1198,10 +1198,10 @@ On a effectuï¿½ les corrections suivantes:
   bourgongue en bourgongne (philippe de bourgongne)
   sonstenir en soustenir
 
-Dans l'exemple de ballade fatrisï¿½e (Maurice le beau cheualier...)
-La prï¿½sentation des couplets en deux colonnes dans l'original est
-contrariï¿½e par un saut de page: les couplets (numï¿½rotï¿½s selon
-l'ordre prï¿½sentï¿½ ici) apparaissent ainsi dans l'original:
+Dans l'exemple de ballade fatrisée (Maurice le beau cheualier...)
+La présentation des couplets en deux colonnes dans l'original est
+contrariée par un saut de page: les couplets (numérotés selon
+l'ordre présenté ici) apparaissent ainsi dans l'original:
 
   1  5
   ---- saut de page

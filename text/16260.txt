@@ -1,5 +1,5 @@
 Online Distributed Proofreading Team. This file was produced
-from images generously made available by the Bibliothï¿½que
+from images generously made available by the Bibliothèque
 nationale de France (BnF/Gallica)
 
 
@@ -9,8 +9,8 @@ nationale de France (BnF/Gallica)
 
 NOUVEAU MOYEN
 DE
-PRï¿½PARER LA COUCHE SENSIBLE DES PLAQUES
-DESTINï¿½ES A RECEVOIR LES
+PRÉPARER LA COUCHE SENSIBLE DES PLAQUES
+DESTINÉES A RECEVOIR LES
 IMAGES PHOTOGRAPHIQUES,
 PAR M. DAGUERRE.
 
@@ -19,7 +19,7 @@ LETTRE A M. ARAGO.
 
 PARIS,
 BACHELIER, IMPRIMEUR-LIBRAIRE
-DU BUREAU DES LONGITUDES, DE L'ï¿½COLE POLYTECHNIQUE, ETC.,
+DU BUREAU DES LONGITUDES, DE L'ÉCOLE POLYTECHNIQUE, ETC.,
 QUAI DES AUGUSTINS, 55.
 
 1844.
@@ -29,8 +29,8 @@ QUAI DES AUGUSTINS, 55.
 
 NOUVEAU MOYEN
 DE
-PRï¿½PARER LA COUCHE SENSIBLE DES PLAQUES
-DESTINï¿½ES A RECEVOIR
+PRÉPARER LA COUCHE SENSIBLE DES PLAQUES
+DESTINÉES A RECEVOIR
 LES IMAGES PHOTOGRAPHIQUES.
 
 
@@ -39,353 +39,353 @@ LES IMAGES PHOTOGRAPHIQUES.
 LETTRE A M. ARAGO.
 
 
-Vous avez bien voulu annoncer ï¿½ l'Acadï¿½mie que j'ï¿½tais arrivï¿½, par une
-suite d'expï¿½riences, ï¿½ reconnaï¿½tre d'une maniï¿½re certaine que, dans
-l'ï¿½tat actuel de mon procï¿½dï¿½, la couche sensible ï¿½ la lumiï¿½re ï¿½tant trop
-mince, elle ne pouvait fournir toute la dï¿½gradation de teintes
-nï¿½cessaire pour reproduire la nature avec relief et fermetï¿½; en effet,
-quoique les ï¿½preuves obtenues jusqu'ï¿½ ce jour ne manquent pas de puretï¿½,
-elles laissent, ï¿½ quelques exceptions prï¿½s, beaucoup ï¿½ dï¿½sirer sous le
-rapport de l'effet gï¿½nï¿½ral et du modelï¿½[1].
+Vous avez bien voulu annoncer à l'Académie que j'étais arrivé, par une
+suite d'expériences, à reconnaître d'une manière certaine que, dans
+l'état actuel de mon procédé, la couche sensible à la lumière étant trop
+mince, elle ne pouvait fournir toute la dégradation de teintes
+nécessaire pour reproduire la nature avec relief et fermeté; en effet,
+quoique les épreuves obtenues jusqu'à ce jour ne manquent pas de pureté,
+elles laissent, à quelques exceptions près, beaucoup à désirer sous le
+rapport de l'effet général et du modelé[1].
 
-C'est en superposant sur la plaque plusieurs mï¿½taux, en les y rï¿½duisant
-en poussiï¿½re par le frottement et en acidulant les espaces vides que
-laissent leurs molï¿½cules, que je suis parvenu ï¿½ dï¿½velopper des actions
+C'est en superposant sur la plaque plusieurs métaux, en les y réduisant
+en poussière par le frottement et en acidulant les espaces vides que
+laissent leurs molécules, que je suis parvenu à développer des actions
 galvaniques qui permettent l'emploi d'une couche d'iodure beaucoup plus
-ï¿½paisse sans avoir ï¿½ redouter, pendant l'opï¿½ration de la lumiï¿½re dans la
+épaisse sans avoir à redouter, pendant l'opération de la lumière dans la
 chambre noire, l'influence de l'iode devenu libre.
 
 La nouvelle combinaison que j'emploie, et qui se compose de plusieurs
-iodures mï¿½talliques, a l'avantage de donner une couche sensible qui se
-laisse impressionner simultanï¿½ment par toutes les valeurs de ton, et
-j'obtiens ainsi, dans un trï¿½s-court espace de temps, la reprï¿½sentation
-d'objets vivement ï¿½clairï¿½s avec des demi-teintes qui conservent toutes,
+iodures métalliques, a l'avantage de donner une couche sensible qui se
+laisse impressionner simultanément par toutes les valeurs de ton, et
+j'obtiens ainsi, dans un très-court espace de temps, la représentation
+d'objets vivement éclairés avec des demi-teintes qui conservent toutes,
 comme dans la nature, leur transparence et leur valeur relative.
 
-En ajoutant l'or aux mï¿½taux dont je me servais d'abord, je suis parvenu
-ï¿½ aplanir la grande difficultï¿½ que prï¿½sentait l'usage du brome comme
-substance accï¿½lï¿½ratrice. On sait que les personnes trï¿½s-exercï¿½es
-pouvaient seules employer le brome avec succï¿½s et qu'elles n'arrivaient
-ï¿½ obtenir le maximum de sensibilitï¿½ que par hasard, puisque ce point est
-impossible ï¿½ dï¿½terminer trï¿½s-prï¿½cisï¿½ment, et qu'immï¿½diatement au delï¿½ le
-brome attaque l'argent et s'oppose ï¿½ la formation de l'image[2].
+En ajoutant l'or aux métaux dont je me servais d'abord, je suis parvenu
+à aplanir la grande difficulté que présentait l'usage du brome comme
+substance accélératrice. On sait que les personnes très-exercées
+pouvaient seules employer le brome avec succès et qu'elles n'arrivaient
+à obtenir le maximum de sensibilité que par hasard, puisque ce point est
+impossible à déterminer très-précisément, et qu'immédiatement au delà le
+brome attaque l'argent et s'oppose à la formation de l'image[2].
 
-Avec mon nouveau moyen, la couche d'iodure est toujours saturï¿½e de
-brome, puisqu'on peut laisser sans inconvï¿½nient la plaque exposï¿½e ï¿½ la
-vapeur de cette substance la moitiï¿½ au moins du temps nï¿½cessaire; car
-l'application de la couche d'or s'oppose ï¿½ la formation de ce qu'on
+Avec mon nouveau moyen, la couche d'iodure est toujours saturée de
+brome, puisqu'on peut laisser sans inconvénient la plaque exposée à la
+vapeur de cette substance la moitié au moins du temps nécessaire; car
+l'application de la couche d'or s'oppose à la formation de ce qu'on
 appelle _le voile de brome_. Il ne faut cependant pas abuser de cette
-facilitï¿½, car la couche d'or, ï¿½tant trï¿½s-mince, pourrait ï¿½tre attaquï¿½e,
-surtout si on l'avait trop usï¿½e par le polissage[3]. On trouvera
-peut-ï¿½tre le procï¿½dï¿½ que je vais donner un peu compliquï¿½; mais, malgrï¿½
-le dï¿½sir que j'avais de le simplifier autant que possible, j'ai ï¿½tï¿½ au
-contraire conduit, par les rï¿½sultats de mes expï¿½riences, ï¿½ multiplier
-les substances employï¿½es qui, toutes, jouent un rï¿½le important dans
-l'ensemble du procï¿½dï¿½. Je les regarde comme ï¿½tant toutes nï¿½cessaires
-pour obtenir un rï¿½sultat complet, et cela doit ï¿½tre, puisque ce n'est
-que graduellement que je suis arrivï¿½ ï¿½ dï¿½couvrir les propriï¿½tï¿½s de ces
-diffï¿½rents mï¿½taux, dont l'un aide ï¿½ la promptitude, l'autre ï¿½ la vigueur
-de l'ï¿½preuve, etc.[4].
+facilité, car la couche d'or, étant très-mince, pourrait être attaquée,
+surtout si on l'avait trop usée par le polissage[3]. On trouvera
+peut-être le procédé que je vais donner un peu compliqué; mais, malgré
+le désir que j'avais de le simplifier autant que possible, j'ai été au
+contraire conduit, par les résultats de mes expériences, à multiplier
+les substances employées qui, toutes, jouent un rôle important dans
+l'ensemble du procédé. Je les regarde comme étant toutes nécessaires
+pour obtenir un résultat complet, et cela doit être, puisque ce n'est
+que graduellement que je suis arrivé à découvrir les propriétés de ces
+différents métaux, dont l'un aide à la promptitude, l'autre à la vigueur
+de l'épreuve, etc.[4].
 
-Il naï¿½t du concours de ces substances une puissance qui neutralise tous
-les effets inconnus qui venaient si souvent s'opposer ï¿½ la formation de
+Il naît du concours de ces substances une puissance qui neutralise tous
+les effets inconnus qui venaient si souvent s'opposer à la formation de
 l'image[5].
 
-Je crois d'ailleurs que la science et l'art ne doivent pas ï¿½tre arrï¿½tï¿½s
-par la considï¿½ration d'une manipulation plus ou moins longue; on doit se
-croire heureux d'obtenir ï¿½ ce prix de beaux rï¿½sultats, surtout lorsque
-les moyens d'exï¿½cution sont faciles.
+Je crois d'ailleurs que la science et l'art ne doivent pas être arrêtés
+par la considération d'une manipulation plus ou moins longue; on doit se
+croire heureux d'obtenir à ce prix de beaux résultats, surtout lorsque
+les moyens d'exécution sont faciles.
 
-Car la prï¿½paration galvanique de la plaque ne prï¿½sente aucune
-difficultï¿½. L'opï¿½ration se divise en deux parties principales: la
-premiï¿½re, qui est la plus longue, peut ï¿½tre faite trï¿½s-longtemps ï¿½
-l'avance, et peut ï¿½tre considï¿½rï¿½e comme le complï¿½ment de la fabrication
-de la plaque. Cette opï¿½ration une fois faite, sert indï¿½finiment, et l'on
-peut, sans la recommencer, faire un grand nombre d'ï¿½preuves sur la mï¿½me
+Car la préparation galvanique de la plaque ne présente aucune
+difficulté. L'opération se divise en deux parties principales: la
+première, qui est la plus longue, peut être faite très-longtemps à
+l'avance, et peut être considérée comme le complément de la fabrication
+de la plaque. Cette opération une fois faite, sert indéfiniment, et l'on
+peut, sans la recommencer, faire un grand nombre d'épreuves sur la même
 plaque.
 
 
-_Dï¿½signation des nouvelles substances._
+_Désignation des nouvelles substances._
 
-Solution aqueuse de bichlorure de mercure (sublimï¿½ corrosif);
+Solution aqueuse de bichlorure de mercure (sublimé corrosif);
 
 Solution de cyanure de mercure;
 
-Huile de pï¿½trole blanche acidulï¿½e avec de l'acide nitrique;
+Huile de pétrole blanche acidulée avec de l'acide nitrique;
 
 Dissolution de chlorure d'or et de platine.
 
 
-_Prï¿½paration des substances._
+_Préparation des substances._
 
-_Solution aqueuse de bichlorure de mercure (sublimï¿½ corrosif)._--5
-dï¿½cigrammes de bichlorure de mercure dans 700 grammes d'eau distillï¿½e.
+_Solution aqueuse de bichlorure de mercure (sublimé corrosif)._--5
+décigrammes de bichlorure de mercure dans 700 grammes d'eau distillée.
 
-_Solution de cyanure de mercure_.--On sature un flacon d'eau distillï¿½e
-de cyanure de mercure, et l'on en dï¿½cante un volume quelconque, que l'on
-allonge d'une ï¿½gale quantitï¿½ d'eau distillï¿½e.
+_Solution de cyanure de mercure_.--On sature un flacon d'eau distillée
+de cyanure de mercure, et l'on en décante un volume quelconque, que l'on
+allonge d'une égale quantité d'eau distillée.
 
-_Huile de pï¿½trole blanche acidulï¿½e_[6].--On acidule cette huile en y
-mï¿½lant un dixiï¿½me d'acide nitrique pur, qu'on y laisse au moins
+_Huile de pétrole blanche acidulée_[6].--On acidule cette huile en y
+mêlant un dixième d'acide nitrique pur, qu'on y laisse au moins
 quarante-huit heures, en ayant soin d'agiter le flacon de temps en
-temps. On dï¿½cante l'huile qui s'est acidulï¿½e, et qui rougit alors
-fortement le papier de tournesol. Elle s'est aussi un peu colorï¿½e, tout
-en restant trï¿½s-limpide.
+temps. On décante l'huile qui s'est acidulée, et qui rougit alors
+fortement le papier de tournesol. Elle s'est aussi un peu colorée, tout
+en restant très-limpide.
 
 _Dissolution de chlorure d'or et de platine._--Pour ne pas multiplier
-les dissolutions, j'ai pris pour point de dï¿½part le chlorure d'or
-ordinaire, qui sert ï¿½ fixer les ï¿½preuves. On sait qu'il est composï¿½ de
+les dissolutions, j'ai pris pour point de départ le chlorure d'or
+ordinaire, qui sert à fixer les épreuves. On sait qu'il est composé de
 _1 gramme de chlorure d'or et de 4 grammes d'hyposulfite de soude pour 1
-litre d'eau distillï¿½e_.
+litre d'eau distillée_.
 
 Quant au chlorure de platine, il faut en faire dissoudre 2-1/2
-dï¿½cigrammes dans 3 litres d'eau distillï¿½e; on mï¿½le ensuite ces deux
-dissolutions en ï¿½gales quantitï¿½s.
+décigrammes dans 3 litres d'eau distillée; on mêle ensuite ces deux
+dissolutions en égales quantités.
 
 
-MANIï¿½RE D'OPï¿½RER.
+MANIÈRE D'OPÉRER.
 
-_Premiï¿½re prï¿½paration de la plaque._
+_Première préparation de la plaque._
 
-_Nota._--Pour ï¿½tre plus court dans la description qui va suivre,
-j'indiquerai chaque substance en abrï¿½gï¿½. Ainsi je dirai, pour dï¿½signer
-la _solution aqueuse de bichlorure de mercure_, sublimï¿½; pour la
-_solution de cyanure de mercure_, cyanure; pour l'_huile de pï¿½trole
-acidulï¿½e_, huile; pour la _dissolution de chlorure d'or et de platine_,
+_Nota._--Pour être plus court dans la description qui va suivre,
+j'indiquerai chaque substance en abrégé. Ainsi je dirai, pour désigner
+la _solution aqueuse de bichlorure de mercure_, sublimé; pour la
+_solution de cyanure de mercure_, cyanure; pour l'_huile de pétrole
+acidulée_, huile; pour la _dissolution de chlorure d'or et de platine_,
 or et platine; et pour l'_oxyde de fer_, rouge seulement.
 
-On polit la plaque avec du sublimï¿½ et du tripoli d'abord, et ensuite
-avec du rouge[7], jusqu'ï¿½ ce qu'on arrive ï¿½ un beau noir. Puis, on pose
+On polit la plaque avec du sublimé et du tripoli d'abord, et ensuite
+avec du rouge[7], jusqu'à ce qu'on arrive à un beau noir. Puis, on pose
 la plaque sur le plan horizontal et on y verse la solution de cyanure
 que l'on chauffe avec la lampe, absolument comme si l'on fixait une
-ï¿½preuve au chlorure d'or. Le mercure se dï¿½pose et forme une couche
-blanchï¿½tre. On laisse un peu refroidir la plaque, et aprï¿½s avoir
-renversï¿½ le liquide, on la sï¿½che en la frottant avec du coton et en la
+épreuve au chlorure d'or. Le mercure se dépose et forme une couche
+blanchâtre. On laisse un peu refroidir la plaque, et après avoir
+renversé le liquide, on la sèche en la frottant avec du coton et en la
 saupoudrant de rouge.
 
-Il s'agit maintenant de polir la couche blanchï¿½tre dï¿½posï¿½e par le
-mercure. Avec un tampon de coton imbibï¿½ d'huile et de rouge, on frotte
+Il s'agit maintenant de polir la couche blanchâtre déposée par le
+mercure. Avec un tampon de coton imbibé d'huile et de rouge, on frotte
 cette couche juste assez pour qu'elle devienne d'un beau noir. Ou
 pourra, en dernier lieu, frotter assez fortement, mais avec du coton
-seul, pour amincir le plus possible la couche acidulï¿½e.
+seul, pour amincir le plus possible la couche acidulée.
 
 Ensuite on place la plaque sur le plan horizontal et on y verse la
-dissolution d'or et de platine. On chauffe comme ï¿½ l'ordinaire; on
-laisse refroidir et puis on renverse le liquide que l'on sï¿½che, en
-frottant lï¿½gï¿½rement avec du coton et du rouge.
+dissolution d'or et de platine. On chauffe comme à l'ordinaire; on
+laisse refroidir et puis on renverse le liquide que l'on sèche, en
+frottant légèrement avec du coton et du rouge.
 
-Il faut faire cette opï¿½ration avec soin, surtout lorsqu'on ne doit pas
-continuer immï¿½diatement l'ï¿½preuve; car autrement, on laisserait sur la
+Il faut faire cette opération avec soin, surtout lorsqu'on ne doit pas
+continuer immédiatement l'épreuve; car autrement, on laisserait sur la
 plaque des lignes de liquide, qu'il est toujours difficile de faire
-disparaï¿½tre. Par ce dernier frottage la plaque ne doit ï¿½tre que sï¿½chï¿½e
+disparaître. Par ce dernier frottage la plaque ne doit être que séchée
 et non pas polie.
 
-Ici se borne la premiï¿½re prï¿½paration de la plaque, celle qui peut ï¿½tre
-faite longtemps ï¿½ l'avance.
+Ici se borne la première préparation de la plaque, celle qui peut être
+faite longtemps à l'avance.
 
 
-_Seconde prï¿½paration._
+_Seconde préparation._
 
-_Nota._ Je ne crois pas convenable de mettre entre cette opï¿½ration et
+_Nota._ Je ne crois pas convenable de mettre entre cette opération et
 l'iodage de la plaque un intervalle de plus de douze heures.
 
-Nous avons laissï¿½ la plaque avec un dï¿½pï¿½t d'or et de platine. Pour polir
-cette couche mï¿½tallique, il faut prendre avec un tampon de coton de
-l'huile et du rouge, et frotter jusqu'ï¿½ ce que la plaque redevienne
-noire; et puis avec de l'alcool et du coton seulement, on enlï¿½ve le plus
+Nous avons laissé la plaque avec un dépôt d'or et de platine. Pour polir
+cette couche métallique, il faut prendre avec un tampon de coton de
+l'huile et du rouge, et frotter jusqu'à ce que la plaque redevienne
+noire; et puis avec de l'alcool et du coton seulement, on enlève le plus
 possible cette couche d'huile et de rouge.
 
 Alors on frotte assez fortement, et en repassant plusieurs fois aux
-mï¿½mes endroits, la plaque avec du coton imprï¿½gnï¿½ de cyanure. Comme cette
-couche sï¿½che trï¿½s-promptement, elle pourrait laisser sur la plaque des
-traces d'inï¿½galitï¿½; pour ï¿½viter cela, il faut repasser le cyanure, et
-pendant que la plaque est encore humide, avec un tampon imbibï¿½ d'un peu
+mêmes endroits, la plaque avec du coton imprégné de cyanure. Comme cette
+couche sèche très-promptement, elle pourrait laisser sur la plaque des
+traces d'inégalité; pour éviter cela, il faut repasser le cyanure, et
+pendant que la plaque est encore humide, avec un tampon imbibé d'un peu
 d'huile on s'empresse de frotter sur toute la surface de la plaque, et
-de mï¿½ler ainsi ces deux substances; puis, avec un tampon de coton sec,
-on frotte pour unir et en mï¿½me temps pour dessï¿½cher la plaque, en ayant
+de mêler ainsi ces deux substances; puis, avec un tampon de coton sec,
+on frotte pour unir et en même temps pour dessécher la plaque, en ayant
 soin d'enlever du tampon de coton les parties qui s'humectent de cyanure
 et d'huile. Enfin, comme le coton laisse encore des traces, on saupoudre
-ï¿½galement la plaque d'un peu de rouge que l'on fait tomber en frottant
-lï¿½gï¿½rement et en rond.
+également la plaque d'un peu de rouge que l'on fait tomber en frottant
+légèrement et en rond.
 
-Ensuite, avec un tampon imprï¿½gnï¿½ d'huile seulement, on frotte la plaque
-ï¿½galement, et de maniï¿½re ï¿½ faire revenir le bruni du mï¿½tal; et puis on
-saupoudre avec du rouge, et l'on frotte trï¿½s-lï¿½gï¿½rement en rond, de
-maniï¿½re ï¿½ faire tomber tout le rouge qui entraï¿½ne avec lui la
-surabondance de la couche acidulï¿½e[8].
+Ensuite, avec un tampon imprégné d'huile seulement, on frotte la plaque
+également, et de manière à faire revenir le bruni du métal; et puis on
+saupoudre avec du rouge, et l'on frotte très-légèrement en rond, de
+manière à faire tomber tout le rouge qui entraîne avec lui la
+surabondance de la couche acidulée[8].
 
 Enfin, avec un tampon de coton un peu ferme, on frotte fortement pour
 donner le dernier poli[9].
 
-Il n'est pas nï¿½cessaire de renouveler souvent les tampons imbibï¿½s
-d'huile et de rouge; il faut seulement les garantir de la poussiï¿½re.
+Il n'est pas nécessaire de renouveler souvent les tampons imbibés
+d'huile et de rouge; il faut seulement les garantir de la poussière.
 
-J'ai dit plus haut que la premiï¿½re prï¿½paration de la plaque peut servir
-indï¿½finiment; mais on comprend que la seconde doit ï¿½tre modifiï¿½e selon
-qu'on opï¿½re sur une plaque qui a reï¿½u une ï¿½preuve fixï¿½e ou une non
-fixï¿½e.
+J'ai dit plus haut que la première préparation de la plaque peut servir
+indéfiniment; mais on comprend que la seconde doit être modifiée selon
+qu'on opère sur une plaque qui a reçu une épreuve fixée ou une non
+fixée.
 
 
-_Sur l'ï¿½preuve fixï¿½e._
+_Sur l'épreuve fixée._
 
-Il faut enlever les taches laissï¿½es par l'eau du lavage, avec l'oxyde
-rouge et de l'eau faiblement acidulï¿½e d'acide nitrique (ï¿½ 2 degrï¿½s dans
-cette saison, et moins dans l'ï¿½tï¿½).
+Il faut enlever les taches laissées par l'eau du lavage, avec l'oxyde
+rouge et de l'eau faiblement acidulée d'acide nitrique (à 2 degrés dans
+cette saison, et moins dans l'été).
 
 Ensuite, il faut polir la plaque avec de l'huile et du rouge pour
 enlever toutes les traces de l'image qu'on efface.
 
-On continue alors l'opï¿½ration comme je viens de le dire plus haut pour
-la seconde prï¿½paration de la plaque neuve et ï¿½ partir de l'emploi de
+On continue alors l'opération comme je viens de le dire plus haut pour
+la seconde préparation de la plaque neuve et à partir de l'emploi de
 l'alcool.
 
 
-_Sur l'ï¿½preuve non fixï¿½e (mais dont la couche sensible a ï¿½tï¿½ enlevï¿½e
-comme ï¿½ l'ordinaire, dans l'hyposulfite de soude)._
+_Sur l'épreuve non fixée (mais dont la couche sensible a été enlevée
+comme à l'ordinaire, dans l'hyposulfite de soude)._
 
 D'abord, il faut frotter la plaque avec de l'alcool et du rouge pour
-enlever les traces de l'huile qui a servi ï¿½ faire l'ï¿½preuve prï¿½cï¿½dente.
+enlever les traces de l'huile qui a servi à faire l'épreuve précédente.
 
-On continue ensuite comme il est indiquï¿½ plus haut pour la plaque
-neuve, et ï¿½ partir de l'emploi de l'alcool.
+On continue ensuite comme il est indiqué plus haut pour la plaque
+neuve, et à partir de l'emploi de l'alcool.
 
 
-TABLEAU Rï¿½SUMï¿½ DES OPï¿½RATIONS.
+TABLEAU RÉSUMÉ DES OPÉRATIONS.
 
-_Premiï¿½re prï¿½paration._
+_Première préparation._
 
-1ï¿½. _Sublimï¿½ corrosif_ avec _tripoli_ d'abord, et _rouge_ ensuite, pour
+1°. _Sublimé corrosif_ avec _tripoli_ d'abord, et _rouge_ ensuite, pour
 polir la plaque;
 
-2ï¿½. _Cyanure de mercure chauffï¿½_ et _sï¿½chï¿½_ avec du _coton_ et du
+2°. _Cyanure de mercure chauffé_ et _séché_ avec du _coton_ et du
 _rouge_;
 
-3ï¿½. _Huile acidulï¿½e_ avec _rouge_ pour polir la couche de mercure;
+3°. _Huile acidulée_ avec _rouge_ pour polir la couche de mercure;
 
-4ï¿½. _Or et platine chauffï¿½_ et _sï¿½chï¿½_ avec du _coton_ et du _rouge_.
+4°. _Or et platine chauffé_ et _séché_ avec du _coton_ et du _rouge_.
 
 
-_Seconde prï¿½paration._
+_Seconde préparation._
 
-5ï¿½. _Huile acidulï¿½e_ avec _rouge_ pour polir la couche d'or et de
+5°. _Huile acidulée_ avec _rouge_ pour polir la couche d'or et de
 platine;
 
-6ï¿½. _Alcool absolu_ pour enlever le plus possible l'huile et le rouge;
+6°. _Alcool absolu_ pour enlever le plus possible l'huile et le rouge;
 
-7ï¿½. _Cyanure de mercure employï¿½ ï¿½ froid_ et _frottï¿½ seulement_ avec du
+7°. _Cyanure de mercure employé à froid_ et _frotté seulement_ avec du
 _coton_;
 
-8ï¿½. _Huile frottï¿½e assez fortement_ et _ï¿½galisï¿½e_ en dernier lieu avec
-du _rouge saupoudrï¿½_.
+8°. _Huile frottée assez fortement_ et _égalisée_ en dernier lieu avec
+du _rouge saupoudré_.
 
 
-_Sur l'ï¿½preuve fixï¿½e._
+_Sur l'épreuve fixée._
 
-1ï¿½. _Acide nitrique_ ï¿½ 2 degrï¿½s avec _rouge_ pour enlever les taches;
+1°. _Acide nitrique_ à 2 degrés avec _rouge_ pour enlever les taches;
 
-2ï¿½. _Huile_ avec _rouge_ pour enlever les traces d'image et pour polir.
+2°. _Huile_ avec _rouge_ pour enlever les traces d'image et pour polir.
 
-Continuer ensuite comme plus haut, ï¿½ partir du nï¿½6, alcool, etc.
+Continuer ensuite comme plus haut, à partir du n°6, alcool, etc.
 
 
-_Sur l'ï¿½preuve non fixï¿½e (dont la couche sensible a ï¿½tï¿½ enlevï¿½e avec
+_Sur l'épreuve non fixée (dont la couche sensible a été enlevée avec
 l'hyposulfite de soude)._
 
 _Alcool_ avec _rouge_ pour enlever les traces d'huile, et continuer
-comme plus haut, ï¿½ partir du nï¿½6, alcool, etc.
+comme plus haut, à partir du n°6, alcool, etc.
 
 
 OBSERVATIONS.
 
 _De l'iodage._
 
-La couleur de l'ï¿½preuve dï¿½pend de la teinte que l'on donne ï¿½ l'iodure
-mï¿½tallique. On peut donc la varier ï¿½ volontï¿½; cependant la couleur _rose
-violï¿½tre_ m'a paru la plus convenable.
+La couleur de l'épreuve dépend de la teinte que l'on donne à l'iodure
+métallique. On peut donc la varier à volonté; cependant la couleur _rose
+violâtre_ m'a paru la plus convenable.
 
-Pour transmettre l'iode ï¿½ la plaque, on peut remplacer la feuille de
-carton par un plateau de faï¿½ence dont on aura usï¿½ l'ï¿½mail. L'iode
-transmis par ce moyen n'est pas dï¿½composï¿½.
+Pour transmettre l'iode à la plaque, on peut remplacer la feuille de
+carton par un plateau de faïence dont on aura usé l'émail. L'iode
+transmis par ce moyen n'est pas décomposé.
 
-Il est inutile, je dirai mï¿½me nuisible, de chauffer la plaque avant de
-l'exposer ï¿½ la vapeur de l'iode.
+Il est inutile, je dirai même nuisible, de chauffer la plaque avant de
+l'exposer à la vapeur de l'iode.
 
 
-_Du lavage ï¿½ l'hyposulfite de soude._
+_Du lavage à l'hyposulfite de soude._
 
 Pour enlever la couche sensible, il ne faut pas que la dissolution
 d'hyposulfite de soude soit trop forte, parce qu'alors elle voile les
 vigueurs. 60 grammes d'hyposulfite suffisent pour 1 litre d'eau
-distillï¿½e.
+distillée.
 
 
 NOTES:
 
-[1] Sur la plaque dï¿½capï¿½e au moyen de la couche d'eau, comme je l'ai
-indiquï¿½, on obtient trï¿½s-rapidement des ï¿½preuves d'une grande finesse,
-mais qui manquent aussi de modelï¿½, ï¿½ cause du peu d'ï¿½paisseur de la
+[1] Sur la plaque décapée au moyen de la couche d'eau, comme je l'ai
+indiqué, on obtient très-rapidement des épreuves d'une grande finesse,
+mais qui manquent aussi de modelé, à cause du peu d'épaisseur de la
 couche sensible.
 
-[2] Tout le monde sait que la vapeur sï¿½che du brome est plus favorable
-que celle qu'on obtient au moyen de l'eau bromï¿½e, car cette derniï¿½re a
-l'inconvï¿½nient d'entraï¿½ner avec elle de l'humiditï¿½ qui se condense ï¿½ la
+[2] Tout le monde sait que la vapeur sèche du brome est plus favorable
+que celle qu'on obtient au moyen de l'eau bromée, car cette dernière a
+l'inconvénient d'entraîner avec elle de l'humidité qui se condense à la
 surface de la plaque. L'emploi de l'huile que j'indique plus loin
-neutralise cet effet et donne ï¿½ la vapeur du brome ï¿½tendu d'eau la mï¿½me
-propriï¿½tï¿½ qu'ï¿½ celle du brome sec.
+neutralise cet effet et donne à la vapeur du brome étendu d'eau la même
+propriété qu'à celle du brome sec.
 
-[3] Cela est tellement vrai que, si l'on fait une ï¿½preuve sur une plaque
-qui a ï¿½tï¿½ fixï¿½e plusieurs fois, on peut la laisser ï¿½ l'exposition de la
-vapeur du brome autant de fois en plus du temps nï¿½cessaire qu'elle a
-reï¿½u de diffï¿½rentes couches d'or.
+[3] Cela est tellement vrai que, si l'on fait une épreuve sur une plaque
+qui a été fixée plusieurs fois, on peut la laisser à l'exposition de la
+vapeur du brome autant de fois en plus du temps nécessaire qu'elle a
+reçu de différentes couches d'or.
 
-[4] Je veux dire seulement que l'emploi de tous les mï¿½taux que j'indique
-plus loin est indispensable; mais la maniï¿½re de les appliquer peut
+[4] Je veux dire seulement que l'emploi de tous les métaux que j'indique
+plus loin est indispensable; mais la manière de les appliquer peut
 varier.
 
-[5] Car, en multipliant ces ï¿½lï¿½ments comme dans une pile, on augmente
-cette puissance, et l'on parvient ainsi ï¿½ faire agir dans le mï¿½me temps
+[5] Car, en multipliant ces éléments comme dans une pile, on augmente
+cette puissance, et l'on parvient ainsi à faire agir dans le même temps
 les radiations les plus paresseuses, telles que celles du rouge et du
 vert.
 
-[6] L'huile de pï¿½trole la plus convenable est d'un ton jaune-verdï¿½tre,
-et prend, sous diffï¿½rents angles, des reflets azurï¿½s.
+[6] L'huile de pétrole la plus convenable est d'un ton jaune-verdâtre,
+et prend, sous différents angles, des reflets azurés.
 
-J'ai donnï¿½ la prï¿½fï¿½rence ï¿½ cette huile sur les huiles fixes, parce
-qu'elle reste toujours limpide, quoique fortement acidulï¿½e. Le but que
-je me propose en employant une huile acidulï¿½e est de rï¿½duire les mï¿½taux
-en poussiï¿½re et de retenir cette poussiï¿½re ï¿½ la surface de la plaque, en
-mï¿½me temps de donner plus d'ï¿½paisseur ï¿½ la couche par ses propriï¿½tï¿½s
-onctueuses; car le naphte qui rï¿½sulte de la distillation de cette huile
-ne produit pas le mï¿½me effet, parce qu'ï¿½tant trop fluide, il entraï¿½ne la
-poussiï¿½re des mï¿½taux. C'est par cette mï¿½me raison que j'ai conseillï¿½
-derniï¿½rement l'emploi de l'_essence de lavande_, plutï¿½t que celui de
-l'essence de tï¿½rï¿½benthine.
+J'ai donné la préférence à cette huile sur les huiles fixes, parce
+qu'elle reste toujours limpide, quoique fortement acidulée. Le but que
+je me propose en employant une huile acidulée est de réduire les métaux
+en poussière et de retenir cette poussière à la surface de la plaque, en
+même temps de donner plus d'épaisseur à la couche par ses propriétés
+onctueuses; car le naphte qui résulte de la distillation de cette huile
+ne produit pas le même effet, parce qu'étant trop fluide, il entraîne la
+poussière des métaux. C'est par cette même raison que j'ai conseillé
+dernièrement l'emploi de l'_essence de lavande_, plutôt que celui de
+l'essence de térébenthine.
 
-[7] Si je prï¿½fï¿½re, pour polir, le rouge aux autres substances, ce n'est
-pas que je lui reconnaisse une propriï¿½tï¿½ photogï¿½nique, mais bien parce
-qu'il brunit mieux et qu'il aide ï¿½ fixer la couche d'or qui n'est plus
-si susceptible de s'enlever par ï¿½cailles lorsqu'on la chauffe trop.
+[7] Si je préfère, pour polir, le rouge aux autres substances, ce n'est
+pas que je lui reconnaisse une propriété photogénique, mais bien parce
+qu'il brunit mieux et qu'il aide à fixer la couche d'or qui n'est plus
+si susceptible de s'enlever par écailles lorsqu'on la chauffe trop.
 
 Les plaques galvaniques, lorsqu'elles n'ont ni marbrures ni taches
-noires (ce qui arrivait quelquefois dans l'origine), reï¿½oivent mieux que
-les autres l'application des mï¿½taux, et par consï¿½quent le chlorure d'or
-y adhï¿½rant plus fortement ne s'enlï¿½ve pas par ï¿½cailles.
+noires (ce qui arrivait quelquefois dans l'origine), reçoivent mieux que
+les autres l'application des métaux, et par conséquent le chlorure d'or
+y adhérant plus fortement ne s'enlève pas par écailles.
 
 [8] Il faut avoir soin d'appuyer le moins possible, car autrement le
-rouge adhï¿½rerait ï¿½ la plaque et formerait un voile gï¿½nï¿½ral.
+rouge adhérerait à la plaque et formerait un voile général.
 
-[9] Lorsque l'on opï¿½rera sur une plaque qui aura reï¿½u longtemps ï¿½
-l'avance la premiï¿½re prï¿½paration, il faudra, avant d'employer l'huile
-acidulï¿½e et l'oxyde rouge, opï¿½rer comme je l'indique plus loin pour la
-plaque qui a reï¿½u une ï¿½preuve fixï¿½e. Cette prï¿½caution est nï¿½cessaire
-pour dï¿½truire les taches que le temps pourrait avoir dï¿½veloppï¿½es.
+[9] Lorsque l'on opérera sur une plaque qui aura reçu longtemps à
+l'avance la première préparation, il faudra, avant d'employer l'huile
+acidulée et l'oxyde rouge, opérer comme je l'indique plus loin pour la
+plaque qui a reçu une épreuve fixée. Cette précaution est nécessaire
+pour détruire les taches que le temps pourrait avoir développées.
 
 
 
 
 IMPRIMERIE DE BACHELIER,
 
-RUE DU JARDINET, Nï¿½ 12.
+RUE DU JARDINET, N° 12.
 
 
 

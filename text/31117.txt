@@ -1,6 +1,6 @@
 Online Distributed Proofreading Team at http://www.pgdp.net
 (This file was produced from images generously made
-available by the Bibliothï¿½que nationale de France
+available by the Bibliothèque nationale de France
 (BnF/Gallica) at http://gallica.bnf.fr)
 
 
@@ -9,9 +9,9 @@ available by the Bibliothï¿½que nationale de France
 
 
   Note de transcription:
-  Les erreurs clairement introduites par le typographe ont ï¿½tï¿½
-  corrigï¿½es. L'orthographe d'origine a ï¿½tï¿½ conservï¿½e et n'a pas ï¿½tï¿½
-  harmonisï¿½e.
+  Les erreurs clairement introduites par le typographe ont été
+  corrigées. L'orthographe d'origine a été conservée et n'a pas été
+  harmonisée.
 
 
   LE
@@ -24,12 +24,12 @@ available by the Bibliothï¿½que nationale de France
 
   AVEC
 
-     Un Almanach-Tablette des grands ï¿½vï¿½nements depuis 1787 jusqu'ï¿½
-     1808, chaque fait placï¿½ ï¿½ son rang de date et de jour, ou
-     Calendrier ï¿½phï¿½mï¿½ride pour l'annï¿½e 1808;
+     Un Almanach-Tablette des grands Évènements depuis 1787 jusqu'à
+     1808, chaque fait placé à son rang de date et de jour, ou
+     Calendrier Éphéméride pour l'année 1808;
 
   PAR LOUIS-ANGE PITOU,
-  dit _le Chanteur_, auteur du Voyage ï¿½ Cayenne.
+  dit _le Chanteur_, auteur du Voyage à Cayenne.
 
      Jadis j'ai vendu des chansons
      et d'excellentes aventures.
@@ -38,256 +38,256 @@ available by the Bibliothï¿½que nationale de France
   PARIS,
 
   Chez L. A. PITOU, libraire, rue Croix-des-Petits-Champs,
-  nï¿½. 21, prï¿½s celle du Bouloy.
+  nº. 21, près celle du Bouloy.
 
 
 
 
-  DE L'IMPRIMERIE DES FRï¿½RES MAME,
-  rue du Pot-de-Fer, nï¿½. 14.
+  DE L'IMPRIMERIE DES FRÈRES MAME,
+  rue du Pot-de-Fer, nº. 14.
 
   1808.
 
 
 
 
-ON TROUVE A LA Mï¿½ME ADRESSE:
+ON TROUVE A LA MÊME ADRESSE:
 
 
-     Voyage ï¿½ Cayenne, dans les deux Amï¿½riques et chez les
-     Antropophages; ouvrage ornï¿½ de gravures, contenant le tableau
-     gï¿½nï¿½ral des dï¿½portï¿½s, la vie et les causes de l'exil de
+     Voyage à Cayenne, dans les deux Amériques et chez les
+     Antropophages; ouvrage orné de gravures, contenant le tableau
+     général des déportés, la vie et les causes de l'exil de
      l'auteur, des notions sur Collot-d'Herbois et
-     Billaud-de-Varennes, sur les ï¿½les Sï¿½chelles, etc., 2 volumes
-     in-8. de 400 pages chacun, seconde ï¿½dition. Prix, 7 fr. 50
+     Billaud-de-Varennes, sur les îles Séchelles, etc., 2 volumes
+     in-8. de 400 pages chacun, seconde édition. Prix, 7 fr. 50
      cent. pour Paris.
 
 
 
 
-PRï¿½FACE.
+PRÉFACE.
 
-COMMENT JE M'ï¿½TAIS FAIT CHANTEUR.
+COMMENT JE M'ÉTAIS FAIT CHANTEUR.
 
 
-Je me souviens toujours avec plaisir d'avoir chantï¿½ ï¿½ Paris, depuis
-1795 jusqu'en 1797, pour chasser la misï¿½re et gagner ma vie, et je
-remercie le public d'avoir dï¿½posï¿½ en ma faveur le prï¿½jugï¿½ qu'il a
-contre tous ceux qui exercent la mï¿½me profession que moi. Jadis les
-troubadours inspirï¿½rent aux Franï¿½ais cette gaietï¿½ qui fera toujours
-notre caractï¿½re distinctif: mais, depuis notre civilisation, tout le
-monde a voulu chanter, et la paresse, la misï¿½re, l'ignorance et la
-mauvaise conduite ont bientï¿½t fait pulluler les chanteurs. C'ï¿½tait
-autrefois un ï¿½tat considï¿½rï¿½, et mï¿½me lucratif; car les premiers
-troubadours ï¿½taient instruits, gais et probes. Ils ne chantaient que
-par dï¿½lassement leurs maï¿½tresses, leurs infortunes, et les exploits
-des sires, des damoisels et des chï¿½telains. Ils voyageaient pour
+Je me souviens toujours avec plaisir d'avoir chanté à Paris, depuis
+1795 jusqu'en 1797, pour chasser la misère et gagner ma vie, et je
+remercie le public d'avoir déposé en ma faveur le préjugé qu'il a
+contre tous ceux qui exercent la même profession que moi. Jadis les
+troubadours inspirèrent aux Français cette gaieté qui fera toujours
+notre caractère distinctif: mais, depuis notre civilisation, tout le
+monde a voulu chanter, et la paresse, la misère, l'ignorance et la
+mauvaise conduite ont bientôt fait pulluler les chanteurs. C'était
+autrefois un état considéré, et même lucratif; car les premiers
+troubadours étaient instruits, gais et probes. Ils ne chantaient que
+par délassement leurs maîtresses, leurs infortunes, et les exploits
+des sires, des damoisels et des châtelains. Ils voyageaient pour
 s'instruire; ils trouvaient un asile chez les grands dont ils
 composaient l'histoire en vers gothiques.
 
-Un grain de vanitï¿½ est le partage de tous les hommes: le nain prend
-des ï¿½chasses, pour s'ï¿½galer au gï¿½ant; ainsi je me crus historien en me
+Un grain de vanité est le partage de tous les hommes: le nain prend
+des échasses, pour s'égaler au géant; ainsi je me crus historien en me
 faisant chanteur.
 
-Dans le premier volume de mon Voyage ï¿½ Cayenne[1] j'ai parlï¿½ des
-motifs qui me forcï¿½rent ï¿½ chanter en public; beaucoup de personnes me
-croient mort, d'autres viennent me demander si rï¿½ellement c'est bien
-moi? Oui, oui, leur dis-je, j'ai traversï¿½ gaiement une fournaise
-ardente; j'ai ï¿½crit mon voyage, j'ai chantï¿½ au milieu des tourments:
-ï¿½ ma voix, le Tï¿½nare a souri.... Aujourd'hui, je joins au rï¿½cit de mes
+Dans le premier volume de mon Voyage à Cayenne[1] j'ai parlé des
+motifs qui me forcèrent à chanter en public; beaucoup de personnes me
+croient mort, d'autres viennent me demander si réellement c'est bien
+moi? Oui, oui, leur dis-je, j'ai traversé gaiement une fournaise
+ardente; j'ai écrit mon voyage, j'ai chanté au milieu des tourments:
+à ma voix, le Ténare a souri.... Aujourd'hui, je joins au récit de mes
 traverses, et les chansons qui m'ont fait exiler, et les airs qui
-m'ont prï¿½servï¿½ des influences malignes du climat dï¿½vastateur que j'ai
-foulï¿½ pendant trente mois.
+m'ont préservé des influences malignes du climat dévastateur que j'ai
+foulé pendant trente mois.
 
-    [1] Voyage ï¿½ Cayenne, 2 volumes in-8., avec figures; chez L. A.
-    Pitou, libraire, rue Croix-des-Petits-Champs, nï¿½. 21. Prix, 7 fr.
+    [1] Voyage à Cayenne, 2 volumes in-8., avec figures; chez L. A.
+    Pitou, libraire, rue Croix-des-Petits-Champs, nº. 21. Prix, 7 fr.
     50 cent.
 
 Si mon retour fait croire aux revenants, c'est que je suis revenu d'un
-autre monde avec la mï¿½me gaietï¿½ que j'avais avant mon dï¿½part.
+autre monde avec la même gaieté que j'avais avant mon départ.
 
-Comme l'originalitï¿½ est mon lot, je me suis ï¿½tabli libraire dans la
-rue Croix-des-Petits-Champs, numï¿½ro 21, prï¿½s la place des Victoires.
-Du seuil de ma porte, je vois l'ancien thï¿½ï¿½tre en plein air, oï¿½ j'ai
-chantï¿½ les _mandats_, les _patentes_, le _pï¿½re Hilarion_, les
+Comme l'originalité est mon lot, je me suis établi libraire dans la
+rue Croix-des-Petits-Champs, numéro 21, près la place des Victoires.
+Du seuil de ma porte, je vois l'ancien théâtre en plein air, où j'ai
+chanté les _mandats_, les _patentes_, le _père Hilarion_, les
 _incroyables_, les _collets noirs_, les _contradictions_, les
-_lunettes_, la _bï¿½quilles_ et autres vaudevilles, accompagnï¿½s de
-commentaires qui m'ont valu la dï¿½portation.
+_lunettes_, la _béquilles_ et autres vaudevilles, accompagnés de
+commentaires qui m'ont valu la déportation.
 
-Toutes les fois que je passe dans la rue Saint-Denis, je m'arrï¿½te ï¿½
-considï¿½rer la maison de l'Homme Armï¿½, oï¿½ je dï¿½butai en 1795, le
-premier juillet, ï¿½ cinq heures du matin. Une marchande de la halle,
-qui s'aperï¿½ut que je m'enrouais ï¿½ force de chanter contre l'agiotage,
-me dit en style ï¿½nergique, qu'un chanteur sans violon sonnait comme un
-pot cassï¿½. J'avais fait ma journï¿½e, et j'allai compter ma recette dans
-un petit cabaret borgne, oï¿½ je trouvai des gens attablï¿½s, qui me
-donnï¿½rent un gros morceau de pain!.... Dans ce moment de disette, ce
+Toutes les fois que je passe dans la rue Saint-Denis, je m'arrête à
+considérer la maison de l'Homme Armé, où je débutai en 1795, le
+premier juillet, à cinq heures du matin. Une marchande de la halle,
+qui s'aperçut que je m'enrouais à force de chanter contre l'agiotage,
+me dit en style énergique, qu'un chanteur sans violon sonnait comme un
+pot cassé. J'avais fait ma journée, et j'allai compter ma recette dans
+un petit cabaret borgne, où je trouvai des gens attablés, qui me
+donnèrent un gros morceau de pain!.... Dans ce moment de disette, ce
 fut pour moi un gros morceau d'or: je donnai en retour quelques
 cahiers de chansons.
 
-A six heures et demie, je m'en retournai chez moi, persuadï¿½ qu'en me
-retirant tous les jours ï¿½ la mï¿½me heure je ne serais reconnu de
-personne, le jour ne venant ordinairement qu'ï¿½ dix heures du matin
+A six heures et demie, je m'en retournai chez moi, persuadé qu'en me
+retirant tous les jours à la même heure je ne serais reconnu de
+personne, le jour ne venant ordinairement qu'à dix heures du matin
 chez les gens du bon ton; mais la faim, qui chasse le loup du bois,
-rï¿½veilloit alors tout le monde avant l'aurore, et je me trouvai cachï¿½
-au milieu des halles, comme la perdrix qui met sa tï¿½te sous l'aile
-pour se dï¿½rober au chasseur.
+réveilloit alors tout le monde avant l'aurore, et je me trouvai caché
+au milieu des halles, comme la perdrix qui met sa tête sous l'aile
+pour se dérober au chasseur.
 
-A dix heures j'allai ï¿½ mon ordinaire rï¿½diger la sï¿½ance de la
-Convention, pour les Annales patriotiques et littï¿½raires. En revenant
-je trouvai au coin de la place Dauphine un opï¿½rateur (le marchand de
-vulnï¿½raire suisse) entourï¿½ de toute sa musique, qui, suivant l'argot
-du mï¿½tier, _postigeait ï¿½ faire quimper le trepe_, s'arrï¿½tait, et
+A dix heures j'allai à mon ordinaire rédiger la séance de la
+Convention, pour les Annales patriotiques et littéraires. En revenant
+je trouvai au coin de la place Dauphine un opérateur (le marchand de
+vulnéraire suisse) entouré de toute sa musique, qui, suivant l'argot
+du métier, _postigeait à faire quimper le trepe_, s'arrêtait, et
 faisait jouer pour attirer les passants.
 
-L'observation de la dame de la halle m'avait frappï¿½. J'avais besoin de
-musique. Je parlai ï¿½ l'oreille d'un membre de l'orchestre du marchand
-de vulnï¿½raire. Convention faite ï¿½ partage ï¿½gal, nous nous donnons
-rendez-vous, pour le lendemain ï¿½ cinq heures du matin, dans un petit
-cabaret de la rue du Puits, prï¿½s des halles. Comme l'opï¿½rateur ne
-sortait de chez lui qu'ï¿½ sept heures du matin, son musicien trouvait
-son compte ï¿½ nous servir tous deux. Nous nous attablons; un verre de
-cassie met de la colophane ï¿½ l'archet et dï¿½rouille le gosier: nous
-rï¿½pï¿½tons notre cahier, et nous allons _posticher_. J'ï¿½tais plus hardi;
-le _trepe quimpe_, et ï¿½ six heures et demie nous avons fait quatre
+L'observation de la dame de la halle m'avait frappé. J'avais besoin de
+musique. Je parlai à l'oreille d'un membre de l'orchestre du marchand
+de vulnéraire. Convention faite à partage égal, nous nous donnons
+rendez-vous, pour le lendemain à cinq heures du matin, dans un petit
+cabaret de la rue du Puits, près des halles. Comme l'opérateur ne
+sortait de chez lui qu'à sept heures du matin, son musicien trouvait
+son compte à nous servir tous deux. Nous nous attablons; un verre de
+cassie met de la colophane à l'archet et dérouille le gosier: nous
+répétons notre cahier, et nous allons _posticher_. J'étais plus hardi;
+le _trepe quimpe_, et à six heures et demie nous avons fait quatre
 cents francs.
 
-Nous allons compter notre recette, et dï¿½jeï¿½ner ï¿½ un petit cabaret;
-c'ï¿½tait la galerie de mon musicien et le rendez-vous des autres
-chanteurs. Je payai mon entrï¿½e. Bientï¿½t les accords discordants des
+Nous allons compter notre recette, et déjeûner à un petit cabaret;
+c'était la galerie de mon musicien et le rendez-vous des autres
+chanteurs. Je payai mon entrée. Bientôt les accords discordants des
 chanteurs et chanteuses font une cacophonie risible. Les savants
 composent en un clin d'oeil de la prose, et des vers outre mesure. Les
-censeurs et les admirateurs sont des commï¿½res du marchï¿½ aux poirï¿½es,
-qui viennent avec leurs amoureux affublï¿½s d'un large chapeau blanc et
-la pipe en gueule, juger l'impromptu fait ï¿½ coup de verres. Comme je
-figure dans cette tabagie, au milieu d'un nuage de fumï¿½e, les coudes
-appuyï¿½s sur une table couverte d'une serpilliï¿½re humide, grise, rouge,
+censeurs et les admirateurs sont des commères du marché aux poirées,
+qui viennent avec leurs amoureux affublés d'un large chapeau blanc et
+la pipe en gueule, juger l'impromptu fait à coup de verres. Comme je
+figure dans cette tabagie, au milieu d'un nuage de fumée, les coudes
+appuyés sur une table couverte d'une serpillière humide, grise, rouge,
 brune et violette!
 
-L'homme qui se trouve lï¿½ dans sa sphï¿½re, gagnant de l'argent sans
-beaucoup de peine, le dï¿½pense de mï¿½me, et ne compte jamais pour
+L'homme qui se trouve là dans sa sphère, gagnant de l'argent sans
+beaucoup de peine, le dépense de même, et ne compte jamais pour
 l'avenir.
 
-Ici, commence la dï¿½marcation entre l'ï¿½tre oisif et tarï¿½, et l'honnï¿½te
-indigent qui s'accroche ï¿½ une branche, se secoue sur le rivage au
-milieu des nageurs, et sait faire de nï¿½cessitï¿½ vertu.
+Ici, commence la démarcation entre l'être oisif et taré, et l'honnête
+indigent qui s'accroche à une branche, se secoue sur le rivage au
+milieu des nageurs, et sait faire de nécessité vertu.
 
-Une jolie femme disait un jour ï¿½ une dï¿½vote qui rï¿½pondait de sa vertu,
-que l'amour ï¿½tait par-tout le mï¿½me et qu'il n'y a que maniï¿½re de le
-faire. Que d'actions sont susceptibles du mï¿½me proverbe! Quand je
-commenï¿½ai ï¿½ paraï¿½tre en public, j'avais contre moi-mï¿½me le prï¿½jugï¿½ que
-je reconnaissais aux autres; et ce prï¿½jugï¿½ ï¿½tait une mauvaise honte
+Une jolie femme disait un jour à une dévote qui répondait de sa vertu,
+que l'amour était par-tout le même et qu'il n'y a que manière de le
+faire. Que d'actions sont susceptibles du même proverbe! Quand je
+commençai à paraître en public, j'avais contre moi-même le préjugé que
+je reconnaissais aux autres; et ce préjugé était une mauvaise honte
 qui me faisait rougir de ma profession. En m'interrogeant par ma
-dï¿½tresse, je me rï¿½pondais que cet acte de courage ï¿½tait louable, puis
-tout ï¿½ coup je me rendais aux clameurs du prï¿½jugï¿½: cette dispute de
-moi-mï¿½me contre moi-mï¿½me ne dura pas long-temps: l'accueil et la
+détresse, je me répondais que cet acte de courage était louable, puis
+tout à coup je me rendais aux clameurs du préjugé: cette dispute de
+moi-même contre moi-même ne dura pas long-temps: l'accueil et la
 bienveillance du public m'auraient presque fait tomber dans un autre
-excï¿½s. Je prie le lecteur de faire attention ï¿½ cet instant. Il est
-dï¿½cisif, et tous les hommes se trouvent plus ou moins souvent dans la
-mï¿½me passe. De la coupe de cette jointure des circonstances dï¿½pend
-toujours la prï¿½tendue fatalitï¿½ de malheur ou de bonheur attachï¿½e ï¿½ nos
-pas ou plutï¿½t ï¿½ nos dï¿½terminations: ce moment est aussi prompt qu'un
-ï¿½clair.
+excès. Je prie le lecteur de faire attention à cet instant. Il est
+décisif, et tous les hommes se trouvent plus ou moins souvent dans la
+même passe. De la coupe de cette jointure des circonstances dépend
+toujours la prétendue fatalité de malheur ou de bonheur attachée à nos
+pas ou plutôt à nos déterminations: ce moment est aussi prompt qu'un
+éclair.
 
-En chantant sur les places, je me trouvai associï¿½ ï¿½ la plupart des
-gens sans ï¿½tat et sans considï¿½ration; le public, qui devina les motifs
-qui m'avaient rï¿½duit lï¿½, vint me voir avec autant de curiositï¿½ que
-d'intï¿½rï¿½t et de plaisir. L'argent ne me manqua plus: je faisais
-jusqu'ï¿½ cinquante francs de recette par jour. En 1796, moment oï¿½ le
-numï¿½raire ne commenï¿½ait qu'ï¿½ reparaï¿½tre, je nageais dans l'abondance
-au milieu de la disette. Cette abondance me donna le goï¿½t du plaisir
+En chantant sur les places, je me trouvai associé à la plupart des
+gens sans état et sans considération; le public, qui devina les motifs
+qui m'avaient réduit là, vint me voir avec autant de curiosité que
+d'intérêt et de plaisir. L'argent ne me manqua plus: je faisais
+jusqu'à cinquante francs de recette par jour. En 1796, moment où le
+numéraire ne commençait qu'à reparaître, je nageais dans l'abondance
+au milieu de la disette. Cette abondance me donna le goût du plaisir
 et de la dissipation. On ne se doute pas des rencontres que trouve un
 acteur et un chanteur; sa physionomie, que tout le monde regarde sans
-contrainte, s'imprime plus ou moins dans la mï¿½moire et dans le coeur
-de ceux qui l'entourent. De lï¿½ ces prï¿½venances, ces visites, ces
-avances qu'on lui fait sans consï¿½quence et sans crainte. S'il
+contrainte, s'imprime plus ou moins dans la mémoire et dans le coeur
+de ceux qui l'entourent. De là ces prévenances, ces visites, ces
+avances qu'on lui fait sans conséquence et sans crainte. S'il
 assaisonne ses vaudevilles de quelques lazzis ou quolibets, la petite
-fille qui ne dï¿½sire qu'un amant entreprenant les prend pour elle, et
-le chanteur remplace l'amant timide qui se gï¿½ne en sa prï¿½sence.
+fille qui ne désire qu'un amant entreprenant les prend pour elle, et
+le chanteur remplace l'amant timide qui se gêne en sa présence.
 
-Deux hommes aimables se prï¿½sentent dans un cercle; l'un est libre,
-l'autre a fait un choix; le premier sera assidu et galant auprï¿½s de
-toutes les femmes, le second sera poli; le premier aura dix maï¿½tresses
-sans y songer, sans excepter mï¿½me celle de son ami. La vanitï¿½ de
+Deux hommes aimables se présentent dans un cercle; l'un est libre,
+l'autre a fait un choix; le premier sera assidu et galant auprès de
+toutes les femmes, le second sera poli; le premier aura dix maîtresses
+sans y songer, sans excepter même celle de son ami. La vanité de
 plaire est souvent plus puissante que l'amour, elle se prend pour lui:
-plus un homme est exposï¿½ aux regards, s'il est goï¿½tï¿½ du public ou de
-la sociï¿½tï¿½, plus on s'oublie pour lui faire des avances. On ne rougit
-mï¿½me pas d'acheter ses faveurs.
+plus un homme est exposé aux regards, s'il est goûté du public ou de
+la société, plus on s'oublie pour lui faire des avances. On ne rougit
+même pas d'acheter ses faveurs.
 
-Les marchands de la place Saint-Germain-l'Auxerrois, oï¿½ j'avais ï¿½tabli
-mon thï¿½ï¿½tre ambulant, m'ont vu plus d'une fois refuser diffï¿½rents
+Les marchands de la place Saint-Germain-l'Auxerrois, où j'avais établi
+mon théâtre ambulant, m'ont vu plus d'une fois refuser différents
 cadeaux; les commissionnaires insister, au point qu'un jour je remis
-sur la borne trois paires de bas de soie qu'on venait de me prï¿½senter
+sur la borne trois paires de bas de soie qu'on venait de me présenter
 en plein jour. Et je ne me rappelle jamais sans rire la ruse d'une
-jeune femme qui, se trouvant un jour ï¿½ mon cercle avec son vieux mari,
-vint le lendemain chez moi me gronder de l'avoir regardï¿½e en public,
+jeune femme qui, se trouvant un jour à mon cercle avec son vieux mari,
+vint le lendemain chez moi me gronder de l'avoir regardée en public,
 et pour appuyer sa plainte, me montrer une contusion qu'il lui avait
-faite au cou, en la menaï¿½ant du divorce si jamais elle revenait
-m'entendre: je la voyais pour la premiï¿½re fois. Un jour, au sortir de
-plaider ma cause pour mes chansons, je fus accostï¿½ par une autre qui
+faite au cou, en la menaçant du divorce si jamais elle revenait
+m'entendre: je la voyais pour la première fois. Un jour, au sortir de
+plaider ma cause pour mes chansons, je fus accosté par une autre qui
 me pria de lui montrer la musique.--Madame, je ne la sais
 pas.--N'importe, dit-elle, mon mari est vieux et aveugle, nous lui
 ferons compagnie, et vous serez musicien.--Mais, madame, on le
-prï¿½viendra.--Je me charge de tout.--Je vous tromperais, madame, j'ai
-une amie.--Et moi un mari. Ainsi l'amour ou le caprice sautent ï¿½ pieds
-joints sur toutes les biensï¿½ances; et les femmes sont plus entï¿½tï¿½es
-que nous dans leurs rï¿½solutions, et plus habiles ï¿½ en venir ï¿½ leurs
-fins. Ce vertige passï¿½ il ne reste pas une ï¿½tincelle d'amour, et
+préviendra.--Je me charge de tout.--Je vous tromperais, madame, j'ai
+une amie.--Et moi un mari. Ainsi l'amour ou le caprice sautent à pieds
+joints sur toutes les bienséances; et les femmes sont plus entêtées
+que nous dans leurs résolutions, et plus habiles à en venir à leurs
+fins. Ce vertige passé il ne reste pas une étincelle d'amour, et
 l'homme est souvent dupe de l'illusion.
 
 Je ne connais pas de moyens plus dangereux que ces chances de bonne
-fortune pour plonger l'homme dans l'oubli de son ï¿½tre, de son ï¿½tat, de
-son coeur et de ses facultï¿½s morales et physiques. Les anciens nous
-ont dï¿½peint cette vï¿½ritï¿½ dans la fable de Circï¿½: tous les chanteurs,
-comme les compagnons d'Ulysse, sont entourï¿½s de femmes plus ou moins
-dignes de respect, qui les plongent dans l'ivrognerie, l'oisivetï¿½ et
-la stupeur: les libï¿½ralitï¿½s de ces femmes font perdre ï¿½ leurs amants
-cette dï¿½licatesse qui distingue l'honnï¿½te homme en amour du traitant
-dï¿½hontï¿½: souvent elles volent ce qu'elles donnent au favori receleur,
+fortune pour plonger l'homme dans l'oubli de son être, de son état, de
+son coeur et de ses facultés morales et physiques. Les anciens nous
+ont dépeint cette vérité dans la fable de Circé: tous les chanteurs,
+comme les compagnons d'Ulysse, sont entourés de femmes plus ou moins
+dignes de respect, qui les plongent dans l'ivrognerie, l'oisiveté et
+la stupeur: les libéralités de ces femmes font perdre à leurs amants
+cette délicatesse qui distingue l'honnête homme en amour du traitant
+déhonté: souvent elles volent ce qu'elles donnent au favori receleur,
 et le tout se termine quelquefois par une association qui finit d'une
-maniï¿½re aussi honteuse que dï¿½plorable.
+manière aussi honteuse que déplorable.
 
-Sous ce point de vue, mon prï¿½jugï¿½ contre moi-mï¿½me ï¿½tait raisonnable de
+Sous ce point de vue, mon préjugé contre moi-même était raisonnable de
 ma part comme de celle du public; mais ma conduite me permet d'avouer
-que j'ai ï¿½tï¿½ chanteur sans que personne ait ï¿½ rougir de me donner
-cette qualification. Si j'ai vaincu le prï¿½jugï¿½ et la mauvaise honte,
-je ne l'ai pas dï¿½racinï¿½ dans tous les esprits; car l'ï¿½pithï¿½te de
+que j'ai été chanteur sans que personne ait à rougir de me donner
+cette qualification. Si j'ai vaincu le préjugé et la mauvaise honte,
+je ne l'ai pas déraciné dans tous les esprits; car l'épithète de
 chanteur m'a fait juger incapable d'occuper certaines places, et j'ai
-admirï¿½ plus d'une fois l'inconsï¿½quence de certaines gens qui, me
-trouvant propre ï¿½ tout autre emploi, m'ï¿½liminaient directement
-parce que je professais celui-lï¿½: c'ï¿½tait me dire de n'en prendre aucun
-ou d'en choisir un moins honnï¿½te, et de le faire adroitement. Le monde
-est plein de ces donneurs de conseils qui vous trouvent du mï¿½rite pour
-tous les emplois dont ils ne disposent pas, et l'eau bï¿½nite de cour se
-rï¿½pand par-tout.
+admiré plus d'une fois l'inconséquence de certaines gens qui, me
+trouvant propre à tout autre emploi, m'éliminaient directement
+parce que je professais celui-là: c'était me dire de n'en prendre aucun
+ou d'en choisir un moins honnête, et de le faire adroitement. Le monde
+est plein de ces donneurs de conseils qui vous trouvent du mérite pour
+tous les emplois dont ils ne disposent pas, et l'eau bénite de cour se
+répand par-tout.
 
-Du reste, mes malheurs et l'estime publique sont ma meilleure rï¿½ponse
-contre le prï¿½jugï¿½ attachï¿½ ï¿½ la profession de chanteur. C'est dans cet
-ï¿½tat, comme dans les prisons, que j'ai appris ce qu'il en coï¿½te pour
-ï¿½tre honnï¿½te homme. Si l'appï¿½t de l'or eï¿½t pu me sï¿½duire, je serais
-riche et considï¿½rï¿½; mais j'aurais perdu le seul titre qui me console
-dans ma mï¿½diocritï¿½. J'ai luttï¿½ dix ans contre l'adversitï¿½; la fortune
-qui m'a trouvï¿½ inï¿½branlable ï¿½ mon dï¿½part comme ï¿½ mon retour, m'a
-conduit au port lorsque je me prï¿½parais encore ï¿½ une tourmente. On
-m'a demandï¿½ les vaudevilles qui me firent voir les bords de la Guyane.
-Comme on rit du mal passï¿½ et que le voyageur, dans un temps calme,
-revoit avec plaisir les lieux affligï¿½s par l'orage, ce petit mï¿½morial,
-que personne ne sera tentï¿½ de rï¿½diger ï¿½ aussi cher gage que moi, nous
-paraï¿½t aujourd'hui dans le calme du rï¿½veil un songe affreux dont le
-souvenir nous plaï¿½t et nous corrigerait pour l'avenir.
+Du reste, mes malheurs et l'estime publique sont ma meilleure réponse
+contre le préjugé attaché à la profession de chanteur. C'est dans cet
+état, comme dans les prisons, que j'ai appris ce qu'il en coûte pour
+être honnête homme. Si l'appât de l'or eût pu me séduire, je serais
+riche et considéré; mais j'aurais perdu le seul titre qui me console
+dans ma médiocrité. J'ai lutté dix ans contre l'adversité; la fortune
+qui m'a trouvé inébranlable à mon départ comme à mon retour, m'a
+conduit au port lorsque je me préparais encore à une tourmente. On
+m'a demandé les vaudevilles qui me firent voir les bords de la Guyane.
+Comme on rit du mal passé et que le voyageur, dans un temps calme,
+revoit avec plaisir les lieux affligés par l'orage, ce petit mémorial,
+que personne ne sera tenté de rédiger à aussi cher gage que moi, nous
+paraît aujourd'hui dans le calme du réveil un songe affreux dont le
+souvenir nous plaît et nous corrigerait pour l'avenir.
 
 Je composerai ce recueil,
 
-1ï¿½ Des vaudevilles faits avant mon dï¿½part;
+1º Des vaudevilles faits avant mon départ;
 
-2ï¿½ Des romances et des loisirs de mon exil;
+2º Des romances et des loisirs de mon exil;
 
-3ï¿½ Des chansons ï¿½rotiques et critiques des anciens et des modernes;
+3º Des chansons érotiques et critiques des anciens et des modernes;
 
-4ï¿½ D'un choix de piï¿½ces analogues au temps et aux moeurs;
+4º D'un choix de pièces analogues au temps et aux moeurs;
 
-5ï¿½ D'un tableau gï¿½nï¿½ral et variï¿½ de prose et de vers pour tous les
-goï¿½ts.
+5º D'un tableau général et varié de prose et de vers pour tous les
+goûts.
 
 
 
@@ -299,113 +299,113 @@ PARISIEN.
 
 
 
-LE PRï¿½JUGï¿½ VAINCU.
+LE PRÉJUGÉ VAINCU.
 
 
     Air: _Avec les jeux dans le village_.
 
   L'amour inventa l'art de plaire,
   Celui de peindre et de chanter.
-  Daphnis, auprï¿½s de sa bergï¿½re,
+  Daphnis, auprès de sa bergère,
   Chanta le premier l'art d'aimer.
-  Homï¿½re, aprï¿½s lui dans la Grï¿½ce
+  Homère, après lui dans la Grèce
   Chantant ses vers harmonieux,
   Sut apprivoiser la rudesse
   De ce peuple de demi-dieux.
 
   Des tyrans les projets superbes
   Ont tout mis en combustion;
-  Soudain je vois relever Thï¿½bes,
+  Soudain je vois relever Thèbes,
   Par les doux accords d'Amphion.
-  En Thrace le sensible Orphï¿½e
+  En Thrace le sensible Orphée
   Chante l'amour et ses malheurs;
-  Sa lyre lui fraye une entrï¿½e
+  Sa lyre lui fraye une entrée
   Dans le sombre manoir des pleurs.
 
   Le sort, qui d'un cardeur de laine
-  Avait fait un lï¿½gislateur,
+  Avait fait un législateur,
   Me donna la force et l'haleine,
-  Et le talent d'ï¿½tre chanteur.
-  Modeste au lit tout comme ï¿½ table,
+  Et le talent d'être chanteur.
+  Modeste au lit tout comme à table,
   Je ne cherche point le haut bout,
-  Croyant qu'il faut pour ï¿½tre aimable
-  Rester plus couchï¿½ que debout.
+  Croyant qu'il faut pour être aimable
+  Rester plus couché que debout.
 
 
 
 
-LES MANDATS DE CYTHï¿½RE.
+LES MANDATS DE CYTHÈRE.
 
 
-Au mois de mai 1796, on donna au thï¿½ï¿½tre de la Citï¿½ les Mandats de
-Cythï¿½re. Je fis les couplets suivants qui me firent condamner ï¿½ une
+Au mois de mai 1796, on donna au théâtre de la Cité les Mandats de
+Cythère. Je fis les couplets suivants qui me firent condamner à une
 amende de 1000 liv. en mandats, somme que j'acquittai pour 2 liv, 10
-s. en argent, au mois de septembre de la mï¿½me annï¿½e.
+s. en argent, au mois de septembre de la même année.
 
 
     Air: _Un jour la petite Lisette_.
 
-  En France, en Europe, ï¿½ Cythï¿½re,
+  En France, en Europe, à Cythère,
   On veut fabriquer des mandats.
-  L'amour, en prenant ses ï¿½bats,
-  Disait l'autre jour ï¿½ sa mï¿½re.
+  L'amour, en prenant ses ébats,
+  Disait l'autre jour à sa mère.
   Prendront-ils, ne prendront-ils pas?
   C'est ce que nous ne savons pas.
 
-  A l'entreprise je prï¿½side,
-  Dit Vï¿½nus montrant ses ï¿½tats;
-  J'hypothï¿½querai nos mandats
+  A l'entreprise je préside,
+  Dit Vénus montrant ses états;
+  J'hypothèquerai nos mandats
   Sur le double monde de Guide.
   Prendront-ils, ne prendront-ils pas?
   Oh, ma foi, nous n'en doutons pas.
 
   Deux beaux yeux, une belle bouche,
-  Deux globes taillï¿½s pour l'amour;
-  L'ï¿½lysï¿½e ou le dieu du jour
+  Deux globes taillés pour l'amour;
+  L'Élysée ou le dieu du jour
   N'entre que quand Priape y couche,
-  Sont les secrets de nos ï¿½tats
-  Pour hypothï¿½quer nos mandats.
+  Sont les secrets de nos états
+  Pour hypothéquer nos mandats.
 
-  Si les lï¿½gislateurs de France
-  Avaient d'aussi jolis ï¿½tats,
+  Si les législateurs de France
+  Avaient d'aussi jolis états,
   Ils seraient moins dans l'embarras
-  Pour dï¿½brouiller notre finance:
+  Pour débrouiller notre finance:
   Car chez nous toujours les mandats
   Sont au pair avec les ducats.
 
-  Dans notre aimable rï¿½publique
-  On bï¿½nit le contrefacteur,
-  Et sur le front du dï¿½lateur
+  Dans notre aimable république
+  On bénit le contrefacteur,
+  Et sur le front du délateur
   Croissent les cornes du tropique.
   En tous temps nos jolis mandats
   Sont au pair avec les ducats.
 
-  L'amour voyant venir Glycï¿½re,
-  Pour ï¿½changer ses assignats,
+  L'amour voyant venir Glycère,
+  Pour échanger ses assignats,
   Lui donne un rouleau de mandats
-  Qu'il avait reï¿½us de sa mï¿½re.
+  Qu'il avait reçus de sa mère.
   La friponne disait tout bas....
   Que ce rouleau vaut de ducats!
 
   Une vieille en perruque blonde,
   Dont le temps ride les appas,
   Veut captiver le beau Lucas
-  Et renaï¿½tre dans le grand monde.
+  Et renaître dans le grand monde.
   Pour certain rouleau de mandats,
   Elle offrira mille ducats.
 
-  Un vieux Mondor de l'assemblï¿½e
-  De Lise veut voir les ï¿½tats;
+  Un vieux Mondor de l'assemblée
+  De Lise veut voir les états;
   Il offre un rouleau de mandats,
-  Timbrï¿½ par une planche usï¿½e;
+  Timbré par une planche usée;
   Mais Lise lui dit: vos mandats
   Perdent, cent contre mes ducats.
 
-Les mandats ï¿½taient un papier-monnaie, dï¿½crï¿½tï¿½ en avril 1796, en
-remplacement des assignats. En aoï¿½t il perdait autant que l'assignat,
-c'est-ï¿½-dire, neuf mille neuf cent quatre-vingt-dix-huit trois quarts
+Les mandats étaient un papier-monnaie, décrété en avril 1796, en
+remplacement des assignats. En août il perdait autant que l'assignat,
+c'est-à-dire, neuf mille neuf cent quatre-vingt-dix-huit trois quarts
 pour cent.... Ce qui les fit appeler, dans le temps, enfants
-mort-nï¿½s.
+mort-nés.
 
 
 
@@ -413,98 +413,98 @@ mort-nï¿½s.
 LES PATENTES.
 
 
-Ce vaudeville, composï¿½ au mois d'octobre 1796, a ï¿½tï¿½ une des causes
-principales de ma dï¿½portation. Comme il m'arrivait de porter souvent
-ma main ï¿½ ma poche, on prï¿½tendit que je faisais des gestes indï¿½cents
-et contre-rï¿½volutionnaires, dï¿½lit prï¿½vu par la loi du 27 germinal,
-emportant peine de mort. L'application m'en fut rï¿½ellement faite le
-premier novembre 1797. La peine de mort fut commuï¿½e en dï¿½portation
-perpï¿½tuelle, et, le 8 septembre 1803, je reï¿½us ma grace et ma libertï¿½
-de sa majestï¿½ l'Empereur et Roi.
+Ce vaudeville, composé au mois d'octobre 1796, a été une des causes
+principales de ma déportation. Comme il m'arrivait de porter souvent
+ma main à ma poche, on prétendit que je faisais des gestes indécents
+et contre-révolutionnaires, délit prévu par la loi du 27 germinal,
+emportant peine de mort. L'application m'en fut réellement faite le
+premier novembre 1797. La peine de mort fut commuée en déportation
+perpétuelle, et, le 8 septembre 1803, je reçus ma grace et ma liberté
+de sa majesté l'Empereur et Roi.
 
 
     Air: _Un jour Guillot trouva Lisette_.
 
-  Rï¿½publicains, aristocrates,
+  Républicains, aristocrates,
   Terroristes, buveurs de sang,
-  Vous serez parfaits dï¿½mocrates,
+  Vous serez parfaits démocrates,
   Si vous nous comptez votre argent.
   Et comme la crise est urgente,
   Il faut vous conformer au temps,
   Et prendre tous une patente,
-  Pour devenir honnï¿½tes gens.
+  Pour devenir honnêtes gens.
 
-  Mon dieu, que la patrie est chï¿½re
+  Mon dieu, que la patrie est chère
   A qui la porte au fond du coeur!
-  Tous les ï¿½tats sont ï¿½ l'enchï¿½re,
-  Hors celui de lï¿½gislateur.
-  La raison en est ï¿½vidente,
-  C'est qu'aucun des reprï¿½sentants
+  Tous les états sont à l'enchère,
+  Hors celui de législateur.
+  La raison en est évidente,
+  C'est qu'aucun des représentants
   Ne pourrait payer la patente
-  Qu'il doit ï¿½ tous ses commettants.
+  Qu'il doit à tous ses commettants.
 
-  Un jacobin, nommï¿½ Scrupule,
+  Un jacobin, nommé Scrupule,
   En s'approchant du receveur,
-  Retourne sa poche et spï¿½cule,
+  Retourne sa poche et spécule,
   Qu'il n'a plus rien que son honneur.
   Oh! que cela ne te tourmente,
-  Dit le receveur avisï¿½,
+  Dit le receveur avisé,
   Ton dos a le droit de patente,
-  Commerce donc en libertï¿½.
+  Commerce donc en liberté.
 
   Une vierge du haut parage,
-  Imposï¿½e ï¿½ quatre cents francs,
-  Dit en descendant d'ï¿½quipage,
+  Imposée à quatre cents francs,
+  Dit en descendant d'équipage,
   Bon dieu! vous moquez-vous des gens?
   Mais, monsieur, je vis d'industrie;
   Le financier, le directeur,
   Vous diront que pour ma patrie
-  J'ai vendu jusqu'ï¿½ mon honneur.
+  J'ai vendu jusqu'à mon honneur.
 
-  Un gros procureur, honnï¿½te homme,
+  Un gros procureur, honnête homme,
   Cousin de tous les fins Normands,
   Murmure de payer tout comme
-  Les malheureux honnï¿½tes gens.
+  Les malheureux honnêtes gens.
   Oh! cette injustice est criante,
   On se pendrait d'un pareil coup!
   Faire payer une patente
-  A ce grand maï¿½tre grippe-sou.
+  A ce grand maître grippe-sou.
 
-  Sous ce dï¿½guisement cynique,
+  Sous ce déguisement cynique,
   Remets-tu ce fameux voleur?
-  Fournisseur de la rï¿½publique,
-  Autrefois simple dï¿½crotteur.
+  Fournisseur de la république,
+  Autrefois simple décrotteur.
   Depuis qu'on parle de patentes,
-  Monsieur dit qu'il n'a plus d'ï¿½tats,
-  Que la rï¿½publique indulgente
-  Le classe parmi les forï¿½ats.
+  Monsieur dit qu'il n'a plus d'états,
+  Que la république indulgente
+  Le classe parmi les forçats.
 
   Combien paierai-je de patente,
   Dit certain faiseur de journal?
   Si tu devais un sou de rente
   A tous ceux dont tu dis du mal,
-  Je crois bien qu'au bout de l'annï¿½e,
+  Je crois bien qu'au bout de l'année,
   Sans compter tous tes revenus,
-  Ta dette serait augmentï¿½e
-  De trois ou quatre mille ï¿½cus.
+  Ta dette serait augmentée
+  De trois ou quatre mille écus.
 
-  Un vieux mï¿½decin se prï¿½sente,
-  Hï¿½ quoi! dit un des assistants,
+  Un vieux médecin se présente,
+  Hé quoi! dit un des assistants,
   Peut-on payer une patente
   Pour avoir droit de tuer les gens?
   Non, dit un auteur dramatique,
-  Il vaut bien mieux les ï¿½gayer;
-  Et mais, rï¿½pond certain critique,
-  Nous vous payons bien pour bï¿½iller.
+  Il vaut bien mieux les égayer;
+  Et mais, répond certain critique,
+  Nous vous payons bien pour bâiller.
 
   En fredonnant un air gothique,
-  Arrive un chanteur ï¿½cloppï¿½.
-  Si pour chanter la rï¿½publique
-  Il faut que je sois patentï¿½,
+  Arrive un chanteur écloppé.
+  Si pour chanter la république
+  Il faut que je sois patenté,
   Je ferai, dit-il, sans contrainte,
-  Cette offrande ï¿½ la libertï¿½,
-  Si dï¿½sormais je puis sans crainte
-  Chanter par-tout la vï¿½ritï¿½.
+  Cette offrande à la liberté,
+  Si désormais je puis sans crainte
+  Chanter par-tout la vérité.
 
 
 
@@ -512,66 +512,66 @@ de sa majestï¿½ l'Empereur et Roi.
 LES CONTRADICTIONS.
 
 
-    Air: _Pour attendrir Junon rebelle_ (d'Anacrï¿½on chez Polycrate.)
+    Air: _Pour attendrir Junon rebelle_ (d'Anacréon chez Polycrate.)
 
   Ah! qu'on a bien raison de dire
-  Qu'amour est un ï¿½trange enfant;
+  Qu'amour est un étrange enfant;
   Plus il nous cause de martyre,
-  Et plus il nous paraï¿½t charmant.
+  Et plus il nous paraît charmant.
   Dans son inconcevable empire,
-  Tout comme en rï¿½volution,
+  Tout comme en révolution,
   Chacun de nous veut se conduire
   Toujours par contradiction.
 
   Quand Fanchette fut moins cruelle
-  Je songeais ï¿½ peine ï¿½ l'aimer;
-  Aujourd'hui qu'elle est infidï¿½le,
+  Je songeais à peine à l'aimer;
+  Aujourd'hui qu'elle est infidèle,
   Fanchette a tout pour me charmer.
-  Et dans mon aveugle dï¿½lire,
-  Tout comme en rï¿½volution,
+  Et dans mon aveugle délire,
+  Tout comme en révolution,
   Fanchette, tu vas me conduire
   Toujours par contradiction.
 
-  On se recherche, l'on s'ï¿½vite,
-  On s'ennuie de rï¿½sister;
-  Pour ï¿½tre pris, l'un court moins vï¿½te;
-  L'autre aussitï¿½t va s'arrï¿½ter.
-  A Cythï¿½re on fait comme en France,
+  On se recherche, l'on s'évite,
+  On s'ennuie de résister;
+  Pour être pris, l'un court moins vîte;
+  L'autre aussitôt va s'arrêter.
+  A Cythère on fait comme en France,
   Pour l'amour ou pour la raison,
   Quand l'un recule, l'autre avance,
   Toujours par contradiction.
 
   Aux pieds de la reine de Gnide,
-  Tous les dieux se sont rï¿½unis;
-  Elle vole oï¿½ son coeur la guide,
+  Tous les dieux se sont réunis;
+  Elle vole où son coeur la guide,
   Et c'est dans les bras d'Adonis.
   De ce choix qu'elle vient de faire,
   L'amour murmure avec raison;
-  Mais en France, comme ï¿½ Cythï¿½re,
+  Mais en France, comme à Cythère,
   Tout va par contradiction.
 
   Quand Lucas aime sa voisine,
   Avec sa peau de maroquin[2],
-  Pluton ï¿½pouse Proserpine,
-  Et Vï¿½nus ï¿½pouse Vulcain;
-  Mais dans leur aveugle dï¿½lire,
-  Tout comme en rï¿½volution,
-  Les objets peuvent les sï¿½duire,
+  Pluton épouse Proserpine,
+  Et Vénus épouse Vulcain;
+  Mais dans leur aveugle délire,
+  Tout comme en révolution,
+  Les objets peuvent les séduire,
   Toujours par contradiction.
 
   Quand nous pourrons couper les ailes
   De ce petit fripon d'amour,
-  Nos dames seront plus fidï¿½les,
+  Nos dames seront plus fidèles,
   Et nous les paierons de retour;
   Quand les trois pouvoirs en cadence
-  Peuvent chanter ï¿½ l'unisson,
+  Peuvent chanter à l'unisson,
   Nous voyons que tout dans la France;
   Marche sans contradiction.
 
-    [2] Si on crie ï¿½ l'invraisemblance sur ce goï¿½t dï¿½pravï¿½, on se
+    [2] Si on crie à l'invraisemblance sur ce goût dépravé, on se
     souviendra qu'Horace est mon garant. Il dit que l'amour est si
     bizarre qu'il a vu un galant baiser avec transport le polype de
-    sa maï¿½tresse.
+    sa maîtresse.
 
 
 
@@ -579,15 +579,15 @@ LES CONTRADICTIONS.
 LES COLLETS NOIRS.
 
 
-Je composai ce vaudeville au mois de juillet 1797, au moment oï¿½ l'on
-se faisait la guerre ï¿½ Paris pour un ruban, un collet rouge ou noir;
-pour des souliers pointus ou carrï¿½s, et sur-tout pour les nattes. J.
-J. Rousseau, en ï¿½crivant sa lettre contre la musique franï¿½aise, dit
-que la querelle qui s'anima au sujet de cette futilitï¿½ fut si grande,
-qu'on oublia de grands intï¿½rï¿½ts et des dï¿½mï¿½lï¿½s plus sï¿½rieux pour
-celui-lï¿½. Pour moi, je voulais voir les deux partis s'amuser de leurs
-ridicules, et on m'arrï¿½ta lorsque je chantai cette chanson pour la
-quatriï¿½me fois.
+Je composai ce vaudeville au mois de juillet 1797, au moment où l'on
+se faisait la guerre à Paris pour un ruban, un collet rouge ou noir;
+pour des souliers pointus ou carrés, et sur-tout pour les nattes. J.
+J. Rousseau, en écrivant sa lettre contre la musique française, dit
+que la querelle qui s'anima au sujet de cette futilité fut si grande,
+qu'on oublia de grands intérêts et des démêlés plus sérieux pour
+celui-là. Pour moi, je voulais voir les deux partis s'amuser de leurs
+ridicules, et on m'arrêta lorsque je chantai cette chanson pour la
+quatrième fois.
 
 
     Air: _Il y a cinquante ans et plus_ (de la Caverne).
@@ -599,161 +599,161 @@ quatriï¿½me fois.
   Les frondeurs de cette mode,
   Comme moi dans un boudoir,
   N'ont rien vu de plus commode,
-  Qu'un collet bordï¿½ de noir.
+  Qu'un collet bordé de noir.
 
   Dans l'olympe radieux,
-  Quand Vï¿½nus sortant de l'onde,
+  Quand Vénus sortant de l'onde,
   Fut admise au rang des dieux
-  On dira qu'elle ï¿½tait blonde.
+  On dira qu'elle était blonde.
   Pour lui donner l'art de plaire,
   L'amour fit apercevoir,
-  Prï¿½s du temple du mystï¿½re,
-  Son collet bordï¿½ de noir.
+  Près du temple du mystère,
+  Son collet bordé de noir.
 
-  A la mï¿½re de l'amour
+  A la mère de l'amour
   Chaque dieu fit son offrande;
   Mais Mars eut, avant son tour,
-  Le premier droit de prï¿½bende.
+  Le premier droit de prébende.
   Oh! ma plus belle parure,
   Lui dit-elle, c'est d'avoir
   Au-dessous de ma ceinture,
-  Ton collet bordï¿½ de noir.
+  Ton collet bordé de noir.
 
-  D'un dï¿½chireur de collet,
-  Pour punir l'audace extrï¿½me,
-  L'amour juge du mï¿½fait,
-  Sut s'en venger par lui-mï¿½me.
+  D'un déchireur de collet,
+  Pour punir l'audace extrême,
+  L'amour juge du méfait,
+  Sut s'en venger par lui-même.
   Le galant, par aventure,
-  Chez Thisbï¿½ montant le soir,
+  Chez Thisbé montant le soir,
   Trouve au bas de sa ceinture,
   Collet rouge, et blanc, et noir.
 
   Si d'un pantalon crasseux,
   D'une robe rouge ou grise,
   Aristide est amoureux,
-  Qu'il se vï¿½tisse ï¿½ sa guise;
+  Qu'il se vêtisse à sa guise;
   Si le bonnet et la pique
   Peuvent flatter son espoir,
-  Qu'il les prenne sans rï¿½plique,
+  Qu'il les prenne sans réplique,
   Moi je veux un collet noir.
 
-  On peut, sans ï¿½tre malin,
+  On peut, sans être malin,
   Vous dire avec assurance
   Que c'est l'habit d'Arlequin
-  Qui sied le mieux ï¿½ la France.
-  Car le dï¿½mon de la mode,
+  Qui sied le mieux à la France.
+  Car le démon de la mode,
   Chez nous du matin au soir,
-  Fait, dï¿½fait et raccommode,
+  Fait, défait et raccommode,
   Collet rouge, et blanc et noir.
 
 
 
 
-LE Pï¿½RE HILARION
+LE PÈRE HILARION
 
-AUX FRANï¿½AIS.
+AUX FRANÇAIS.
 
 _Fait au premier janvier 1797._
 
-Parallï¿½le des abus du cloï¿½tre avec les abus de 1793, 94, 95 et 96.
+Parallèle des abus du cloître avec les abus de 1793, 94, 95 et 96.
 
 
-    Air: _A moins que dans ce monastï¿½re_.
+    Air: _A moins que dans ce monastère_.
 
-  Peuple franï¿½ais, peuple de frï¿½res,
-  Souffrez que pï¿½re Hilarion,
-  Turlupinï¿½ dans vos parterres,
+  Peuple français, peuple de frères,
+  Souffrez que père Hilarion,
+  Turlupiné dans vos parterres,
   Vous fasse ici sa motion      (_bis_).
   Il vient sans fiel et sans critique,
   Et sans fanatiques desseins,
   Comparer tous les capucins
-  Aux frï¿½res de la rï¿½publique.
+  Aux frères de la république.
 
-  Nous renonï¿½ons ï¿½ la richesse
+  Nous renonçons à la richesse
   Par la loi de notre couvent,
   Votre code, plein de sagesse,
   Vous en fait faire tout autant.
-  Comme dans l'ordre sï¿½raphique,
-  Ne faut-il pas, en vï¿½ritï¿½,
-  Faire le voeu de pauvretï¿½,
-  Pour vivre dans la rï¿½publique.
+  Comme dans l'ordre séraphique,
+  Ne faut-il pas, en vérité,
+  Faire le voeu de pauvreté,
+  Pour vivre dans la république.
 
-  On nous dï¿½fend luxe et parure,
-  Et vos frï¿½res les jacobins
+  On nous défend luxe et parure,
+  Et vos frères les jacobins
   Avaient la crasseuse figure
   De nos plus sales capucins.
   Notre chaussure est sympathique;
   Souvent sans bas et sans souliers,
   On voit par-tout des va-nu-pieds,
-  Capucins de la rï¿½publique.
+  Capucins de la république.
 
-  Tout comme dans nos monastï¿½res,
-  Vous aviez vos frï¿½res quï¿½teurs,
-  C'ï¿½taient vos braves commissaires
-  Et vos benins rï¿½quisiteurs.
-  Par leur douceur ï¿½vangï¿½lique
-  Et par leur sainte humanitï¿½,
-  Comme ils faisaient la charitï¿½
-  Aux pauvres de la rï¿½publique!
+  Tout comme dans nos monastères,
+  Vous aviez vos frères quêteurs,
+  C'étaient vos braves commissaires
+  Et vos benins réquisiteurs.
+  Par leur douceur évangélique
+  Et par leur sainte humanité,
+  Comme ils faisaient la charité
+  Aux pauvres de la république!
 
   On nous ordonne l'abstinence,
   Dedans notre institut pieux:
   N'observait-on pas dans la France
-  Le jeï¿½ne le plus rigoureux?
-  Dans votre carï¿½me civique[3],
+  Le jeûne le plus rigoureux?
+  Dans votre carême civique[3],
   Vous surpassiez le capucin;
   En vivant d'une once de pain,
-  Vous jeï¿½niez pour la rï¿½publique.
+  Vous jeûniez pour la république.
 
-  Par un vieux rï¿½glement d'usage
-  Nous faisons voeu de chastetï¿½;
+  Par un vieux règlement d'usage
+  Nous faisons voeu de chasteté;
   Le sacrement de mariage
-  Par vos frï¿½res est rejetï¿½[4].
+  Par vos frères est rejeté[4].
   Dans cette gaillarde pratique,
-  Qu'il est beau de voir ï¿½ prï¿½sent,
+  Qu'il est beau de voir à présent,
   Pour une femme seulement,
-  Vingt filles de la rï¿½publique!
+  Vingt filles de la république!
 
   Nous avons notre discipline,
   Instrument de punition.
   Vous avez votre guillotine,
   Fraternelle correction.
-  Ce chï¿½timent patriotique
-  Est bien sï¿½r de tous ses effets;
+  Ce châtiment patriotique
+  Est bien sûr de tous ses effets;
   Il n'en faut qu'un coup pour jamais
-  Ne manquer ï¿½ la rï¿½publique.
+  Ne manquer à la république.
 
-  Demandant toujours des rï¿½formes,
-  Vous avez fait tout rï¿½former;
+  Demandant toujours des réformes,
+  Vous avez fait tout réformer;
   De toutes vos nouvelles formes,
   Quand je vous entends murmurer,
-  Je vous dis, trï¿½ve de critique,
-  Puisque vous l'avez fait crï¿½er,
+  Je vous dis, trève de critique,
+  Puisque vous l'avez fait créer,
   Il faut bien vous accoutumer,
-  A supporter la rï¿½publique.
+  A supporter la république.
 
-  Rien ne vous plaï¿½t, tout vous ennuie,
+  Rien ne vous plaît, tout vous ennuie,
   Vous voulez toujours innover;
   En abhorrant la monarchie,
   Vous ne pourrez vous en passer.
   Pour jouer nos capucinades,
-  Notre cloï¿½tre ï¿½tait excellent;
-  Faudrait qu'il fï¿½t cent fois plus grand,
+  Notre cloître était excellent;
+  Faudrait qu'il fût cent fois plus grand,
   Pour jouer vos arlequinades.
 
-  Agrï¿½ez, mes chers camarades,
-  Le salut de l'ï¿½galitï¿½,
+  Agréez, mes chers camarades,
+  Le salut de l'égalité,
   Et recevez mes accolades,
-  En signe de fraternitï¿½;
+  En signe de fraternité;
   Mais respectez ma barbe antique,
   Lorsque je viens vous embrasser,
   Et ne la faites point passer
-  Au rasoir de la rï¿½publique.
+  Au rasoir de la république.
 
-    [3] Disette du pain, depuis le mois de dï¿½cembre 1791, jusqu'en
+    [3] Disette du pain, depuis le mois de décembre 1791, jusqu'en
     avril 1796.
 
-    [4] Le mariage ï¿½ l'ï¿½glise fut dï¿½fendu ï¿½ l'ï¿½poque de leur
+    [4] Le mariage à l'église fut défendu à l'époque de leur
     fermeture, en octobre 1793, jusqu'au mois de septembre 1795.
 
 
@@ -762,41 +762,41 @@ Parallï¿½le des abus du cloï¿½tre avec les abus de 1793, 94, 95 et 96.
 LA CHARENTE.
 
 
-Ce vaudeville poissard est la relation fidï¿½le du combat que nous
-soutï¿½nmes depuis minuit jusqu'ï¿½ six heures du matin, le 21 mars 1797,
-sur la frï¿½gate la Charente, qui sortit de la rade de Rochefort dans la
-nuit du 20 mars, pour nous dï¿½porter ï¿½ Cayenne. Le lendemain, en
-avanï¿½ant en haute mer, nous vï¿½mes ï¿½ notre poursuite trois bï¿½timents
-anglais, le Vieux Canada, de 74 canons, escortï¿½ des frï¿½gates la Pomone
-et la Flore, toutes deux de 42 piï¿½ces. Toute la journï¿½e nous tentï¿½mes
-de gagner les cï¿½tes de Mï¿½doc; mais la Flore nous rasait la terre: la
+Ce vaudeville poissard est la relation fidèle du combat que nous
+soutînmes depuis minuit jusqu'à six heures du matin, le 21 mars 1797,
+sur la frégate la Charente, qui sortit de la rade de Rochefort dans la
+nuit du 20 mars, pour nous déporter à Cayenne. Le lendemain, en
+avançant en haute mer, nous vîmes à notre poursuite trois bâtiments
+anglais, le Vieux Canada, de 74 canons, escorté des frégates la Pomone
+et la Flore, toutes deux de 42 pièces. Toute la journée nous tentâmes
+de gagner les côtes de Médoc; mais la Flore nous rasait la terre: la
 Pomone gagnait au large, et le Vieux Canada fermait la marche. Dans la
-journï¿½e on jeta ï¿½ la mer toute la cargaison et une partie de nos
-effets pour dï¿½lester le bï¿½timent. La nuit vint, et nous nous perdï¿½mes
-de vue; ï¿½ minuit la lune nous trahit et nous nous trouvï¿½mes prï¿½s de
-l'ï¿½cueil du phare Cordouan. Les Anglais nous dï¿½bouquï¿½rent; la marï¿½e
-montait; le combat s'engagea. On dï¿½lesta de nouveau le bï¿½timent, qui,
-dï¿½mï¿½tï¿½ par le canon, le gouvernail brisï¿½, nous fit ï¿½chouer sur les
-ruines de l'ancienne ville des Olives, prï¿½s la rade de Royan, ï¿½
+journée on jeta à la mer toute la cargaison et une partie de nos
+effets pour délester le bâtiment. La nuit vint, et nous nous perdîmes
+de vue; à minuit la lune nous trahit et nous nous trouvâmes près de
+l'écueil du phare Cordouan. Les Anglais nous débouquèrent; la marée
+montait; le combat s'engagea. On délesta de nouveau le bâtiment, qui,
+démâté par le canon, le gouvernail brisé, nous fit échouer sur les
+ruines de l'ancienne ville des Olives, près la rade de Royan, à
 dix-huit lieues de Bordeaux.
 
 
-    Air: _Stuila qu'a pincï¿½ Berg-op-Zoom_.
+    Air: _Stuila qu'a pincé Berg-op-Zoom_.
 
   Ventrebleu qu'il est donc brutal,      (_bis._)
   Ce carillon de germinal;
   J'crayons ma foi que c'te Charente,
-  Au diable f.... l'ï¿½pouvante.
+  Au diable f.... l'épouvante.
 
-  Voyant ces trois chï¿½tiaux flottants,
-  J'avions larguï¿½ la voile aux vents;
-  Avec tout nout ï¿½chapatoire,
-  Fallut nous casser la mï¿½choire.
+  Voyant ces trois châtiaux flottants,
+  J'avions largué la voile aux vents;
+  Avec tout nout échapatoire,
+  Fallut nous casser la mâchoire.
 
-  Par lï¿½ corbleu, monsieu Breuillac,
+  Par là corbleu, monsieu Breuillac,
   N'est ma foi point un monsieu d'Crac,
   C'est f.... ben un pinc' sans rire,
-  Que malgrï¿½ lui l'Anglais admire.
+  Que malgré lui l'Anglais admire.
 
   Not maison quand brutal ronflait,
   Sur le rocher se reposait.
@@ -805,116 +805,116 @@ dix-huit lieues de Bordeaux.
 
   Au milieu de tout c't'embarras,
   Le grand marin qu'je n'voyons pas,
-  Qui ben mieux qu'nous connaï¿½t l'parage,
-  A lui seul sauva l'ï¿½quipage.
+  Qui ben mieux qu'nous connaît l'parage,
+  A lui seul sauva l'équipage.
 
 
 
 
 LES LUNETTES
 
-ET LA NOUVELLE Bï¿½QUILLE.
+ET LA NOUVELLE BÉQUILLE.
 
 
-    Air: _De la bï¿½quille_.
+    Air: _De la béquille_.
 
   Tous nos messieurs du jour,
   Pour lorgner les brunettes,
-  Font porter ï¿½ l'amour
+  Font porter à l'amour
   Cent sortes de lunettes;
   Mais fillette gentille
   Bien mieux s'amusera,
-  D'une grosse bï¿½quille
-  Du pï¿½re Barnaba.
+  D'une grosse béquille
+  Du père Barnaba.
 
   Hortense est dans son lit,
   Hortense est bien malade;
   N'amenez point ici
   D'Hippocrate maussade.
   De cette jeune fille
-  Le bobo guï¿½rira
-  Par un coup de bï¿½quille
-  Du pï¿½re Barnaba.
+  Le bobo guérira
+  Par un coup de béquille
+  Du père Barnaba.
 
-  Hï¿½las! depuis long-temps
+  Hélas! depuis long-temps
   Comme tout change en France!
-  Dï¿½s nos plus jeunes ans
+  Dès nos plus jeunes ans
   Le malheur nous devance;
-  Garï¿½on et jeune fille,
+  Garçon et jeune fille,
   En sortant du berceau,
-  Prennent tous la bï¿½quille
+  Prennent tous la béquille
   Pour aller au tombeau.
 
   C'est en se chamaillant
   Pour la chose publique,
   Qu'on fit clopin clopan,
-  Boiter la rï¿½publique.
+  Boiter la république.
   Moins leste que nos filles,
-  La jeune libertï¿½
-  Court avec des bï¿½quilles
-  A la caducitï¿½.
+  La jeune liberté
+  Court avec des béquilles
+  A la caducité.
 
-  Pour rï¿½concilier
+  Pour réconcilier
   Tous les aristocrates,
   Il faut les marier
-  Avec les dï¿½mocrates.
+  Avec les démocrates.
   A la grande famille
-  Tout se rï¿½unira,
-  Par un coup de bï¿½quille
-  Du pï¿½re Barnaba.
+  Tout se réunira,
+  Par un coup de béquille
+  Du père Barnaba.
 
 
 
 
 LE COUP DU LOUP.
 
-Vaudeville-proverbe, composï¿½ en brumaire, octobre 1799.
+Vaudeville-proverbe, composé en brumaire, octobre 1799.
 
 
     Air: _Lise voyait deux pigeons se becquer_.
 
   Vous qui n'aimez que les dons de Plutus,
-  Le bruit de Mars, les myrtes de Vï¿½nus,
+  Le bruit de Mars, les myrtes de Vénus,
   Votre bonheur est sur l'aile d'Eole;
-  Le char se brise et tombe tout ï¿½ coup;
-  Appliquez-vous ce proverbe d'ï¿½cole,
+  Le char se brise et tombe tout à coup;
+  Appliquez-vous ce proverbe d'école,
             Y n'faut qu'un coup
             Pour assommer un loup.
 
   J'ai vu le loup, disait la jeune Iris,
   Il m'a pris hier mes deux jolis cabrits;
   Pour m'en venger, je tiens cette houlette;
-  C'ï¿½tait le bien du beau berger Pï¿½ris.
-  Pï¿½ris lui dit, la jetant sur l'herbette,
+  C'était le bien du beau berger Pâris.
+  Pâris lui dit, la jetant sur l'herbette,
             N'en faut qu'un coup
             Pour assommer le loup.
 
-  Par intï¿½rï¿½t, ou pour tout autre cas,
-  Sa vieille mï¿½re avait suivi ses pas;
+  Par intérêt, ou pour tout autre cas,
+  Sa vieille mère avait suivi ses pas;
   En la voyant tomber sous la coudrette,
   Bon dieu, bon dieu, qu'elle fit de fracas!
-  Elle disait ï¿½ la pauvre fillette:
-            Voilï¿½ le coup
+  Elle disait à la pauvre fillette:
+            Voilà le coup
             Pour assommer le loup.
 
   Par son voisin, Guyot voit ses enfants;
-  Mais au voisin ils sont trï¿½s ressemblants.
-  Un vieil ami que Laure rï¿½pudie,
+  Mais au voisin ils sont très ressemblants.
+  Un vieil ami que Laure répudie,
   Rend du mari les yeux trop clairvoyants:
-  Au bois d'amour quand naï¿½t la jalousie,
+  Au bois d'amour quand naît la jalousie,
             I' n'faut qu'un coup
             Pour assommer un loup.
 
   Guyot annonce un voyage important:
-  Laure a dï¿½jï¿½ prï¿½venu son amant.
-  Madame, il faut voyager ï¿½ ma place,
-  Lui dit l'ï¿½poux au beau milieu du champ;
+  Laure a déjà prévenu son amant.
+  Madame, il faut voyager à ma place,
+  Lui dit l'époux au beau milieu du champ;
   Guyot revient, Laure fait la grimace.
             I' n'faut qu'un coup
             Pour assommer un loup.
 
   Pour mieux tromper les yeux de ses voisins,
-  Pour enchaï¿½ner leurs caquets assassins,
+  Pour enchaîner leurs caquets assassins,
   A son amant Laure avait, par prudence,
   Fait fabriquer un bon passe-partout.
   Guyot absent, il venait en silence.
@@ -923,9 +923,9 @@ Vaudeville-proverbe, composï¿½ en brumaire, octobre 1799.
 
   Sur le minuit il entra doucement;
   Le gars savait toiser l'appartement:
-  En tï¿½tonnant sur le lit de la dame,
-  Il le pressait.... Guyot dit tout ï¿½ coup:
-  Rï¿½servez donc vos baisers pour ma femme.
+  En tâtonnant sur le lit de la dame,
+  Il le pressait.... Guyot dit tout à coup:
+  Réservez donc vos baisers pour ma femme.
             I' n'faut qu'un coup
             Pour assommer un loup.
 
@@ -938,15 +938,15 @@ LES INCONCEVABLES,
 
 ET LES MERVEILLEUSES.
 
-Tableau des aimables du jour, et du costume des plus ï¿½lï¿½gants de la
-rï¿½volution de 1796 et 1797.
+Tableau des aimables du jour, et du costume des plus élégants de la
+révolution de 1796 et 1797.
 
 
     Air: _Dans nos bois, dans nos campagnes_.
 
   Tout est incroyable en France
-  Dans la rï¿½volution:
-  La sagesse est la dï¿½mence,
+  Dans la révolution:
+  La sagesse est la démence,
   La folie est la raison.
   Faisant la guerre aux coutumes
   Pour rappeler les vertus,
@@ -955,115 +955,115 @@ rï¿½volution de 1796 et 1797.
 
   Nous n'avons plus de comtesses,
   Nous n'avons plus de barons;
-  Nos merveilleuses dï¿½esses
-  Leur ont pris leurs phaï¿½tons:
-  Et Margot dans l'ï¿½quipage
+  Nos merveilleuses déesses
+  Leur ont pris leurs phaétons:
+  Et Margot dans l'équipage
   Vient d'oublier son talent;
   Se voyant dans l'apanage,
-  Ne connaï¿½t plus ses parents.
+  Ne connaît plus ses parents.
 
   Son incroyable Narcisse
   Lui dit du haut de son char:
-  Vï¿½nus, ou que je pï¿½risse!
+  Vénus, ou que je périsse!
   A moins de graces et moins d'art.
   Pa'ol' d'honneur, dit-elle,
-  Sous ce costume ï¿½lï¿½gant,
-  Je voudrais ï¿½tre aussi belle
+  Sous ce costume élégant,
+  Je voudrais être aussi belle
   Que vous paraissez galant.
 
 
-_La merveilleuse ï¿½ l'incroyable._
+_La merveilleuse à l'incroyable._
 
   En vous tout est incroyable,
-  De la tï¿½te jusqu'aux pieds;
+  De la tête jusqu'aux pieds;
   Chapeau de forme effroyable,
   Gros pieds dans petits souliers;
-  Si pour se mettre ï¿½ la mode
+  Si pour se mettre à la mode
   Gargantua venait ici,
   Rien ne serait plus commode
   Que d'emprunter votre habit.
 
-  Bottï¿½ tout comme un saint George,
-  Culottï¿½ comme un Malbrouk,
+  Botté tout comme un saint George,
+  Culotté comme un Malbrouk,
   Gilet croisant sur la gorge,
-  ï¿½pinglette d'or au cou;
+  Épinglette d'or au cou;
   Trois merveilleuses cravattes
-  Ont bloquï¿½ votre menton,
+  Ont bloqué votre menton,
   Et la pointe de vos nattes
   Fait cornes sur votre front.
 
   Je vois un autre incroyable
-  Chaussï¿½ comme une catin,
+  Chaussé comme une catin,
   A la belle inconcevable
-  Prï¿½senter sa blanche main;
+  Présenter sa blanche main;
   Cette incroyable coiffure
   A, dit-elle, tant d'appas,
   Qu'en voyant votre figure
   Je ne vous remettais pas.
 
   De vos boucles de culottes
-  Mï¿½nageant les ardillons,
-  Nous dï¿½borderons nos cottes,
+  Ménageant les ardillons,
+  Nous déborderons nos cottes,
   Pour vous faire des cordons;
   Mais venez en diligence,
   O merveilleux chevaliers!
   Chez nous par reconnaissance
-  Chercher chaussure ï¿½ vos pieds.
+  Chercher chaussure à vos pieds.
 
 
-_Rï¿½ponse des incroyables aux merveilleuses._
+_Réponse des incroyables aux merveilleuses._
 
   O charmante merveilleuse!
-  Mï¿½re du divin amour,
+  Mère du divin amour,
   De votre taille amoureuse
-  Rien ne gï¿½ne le contour;
-  De votre robe ï¿½ coulisse
-  Les plis sont trï¿½s peu serrï¿½s;
+  Rien ne gêne le contour;
+  De votre robe à coulisse
+  Les plis sont très peu serrés;
   C'est pour faire un sacrifice
-  Que vos bras sont retroussï¿½s.
+  Que vos bras sont retroussés.
 
-  Vous avez dï¿½jï¿½ l'ï¿½tole
-  Des prï¿½tresses de Vï¿½nus,
-  Et je vois ï¿½ votre ï¿½cole
+  Vous avez déjà l'étole
+  Des prêtresses de Vénus,
+  Et je vois à votre école
   Un essaim de parvenus:
-  Cythï¿½rï¿½e ï¿½ sa toilette,
-  Voulant enchaï¿½ner l'espoir,
-  Tous cï¿½derait son aigrette
+  Cythérée à sa toilette,
+  Voulant enchaîner l'espoir,
+  Tous cèderait son aigrette
   Pour votre immense mouchoir.
 
-  De votre robe traï¿½nante
+  De votre robe traînante
   Quand les replis ondulants
   Avaient interdit l'attente
-  A nos dï¿½sirs renaissants,
-  Je vois votre main lï¿½gï¿½re,
+  A nos désirs renaissants,
+  Je vois votre main légère,
   Conduite par les amours,
-  De l'asile du mystï¿½re.
-  Nous dï¿½couvrir les dï¿½tours.
+  De l'asile du mystère.
+  Nous découvrir les détours.
 
-  Talons ï¿½ la cavaliï¿½re,
-  Boucles et souliers brodï¿½s,
-  Bottines ï¿½ l'ï¿½cuyï¿½re,
-  Ou bas ï¿½ coins rapportï¿½s;
+  Talons à la cavalière,
+  Boucles et souliers brodés,
+  Bottines à l'écuyère,
+  Ou bas à coins rapportés;
   Ridiculement mondaines
   Dans tous vos ajustements,
   Des reines et des Romaines
-  Vous quï¿½tez les agrï¿½ments.
+  Vous quêtez les agréments.
 
-  Mais vos perruques frisï¿½es
+  Mais vos perruques frisées
   Tout comme un poil de barbet
-  Ne sont donc plus couronnï¿½es
-  Par des chapeaux ï¿½ plumet;
-  Et vos toques prolongï¿½es
-  Disent aux maris franï¿½ois,
-  Que leurs femmes corrigï¿½es
-  Portent la moitiï¿½ du bois.
+  Ne sont donc plus couronnées
+  Par des chapeaux à plumet;
+  Et vos toques prolongées
+  Disent aux maris françois,
+  Que leurs femmes corrigées
+  Portent la moitié du bois.
 
-  Mais ces autres dï¿½daigneuses
+  Mais ces autres dédaigneuses
   Ont un bonnet plus galant;
-  Leurs tï¿½tes impï¿½rieuses
-  Sont un vrai moulin ï¿½ vent:
+  Leurs têtes impérieuses
+  Sont un vrai moulin à vent:
   Celles-ci plus souveraines
-  Vous disent ï¿½loquemment,
+  Vous disent éloquemment,
   En France nous sommes reines,
   Et nous portons un turban.
 
@@ -1072,101 +1072,101 @@ _Rï¿½ponse des incroyables aux merveilleuses._
 
 REGRETS DE DAVID
 
-A LA MORT DE BETHSABï¿½E.
+A LA MORT DE BETHSABÉE.
 
 
-David, surnommï¿½ le prophï¿½te-roi, ï¿½tait le plus jeune des fils d'Isaï¿½e,
-bethlï¿½ï¿½mite, et, suivant certaines versions, le moins aimï¿½ de son
-pï¿½re, qui l'avait relï¿½guï¿½ dans la campagne pour garder ses troupeaux.
-Dieu le tira de ce nï¿½ant pour le placer sur le trï¿½ne d'Israï¿½l. David,
-au milieu de la prospï¿½ritï¿½, oublia une si grande faveur. Dans un
-moment d'oisivetï¿½, en se promenant, il vit au bain Bethsabï¿½e femme
-d'Urie, un des capitaines de ses troupes. Urie ï¿½tait absent pour le
-service de son prince. David s'enflamma pour Bethsabï¿½e, qui devint
+David, surnommé le prophète-roi, était le plus jeune des fils d'Isaïe,
+bethléémite, et, suivant certaines versions, le moins aimé de son
+père, qui l'avait relégué dans la campagne pour garder ses troupeaux.
+Dieu le tira de ce néant pour le placer sur le trône d'Israël. David,
+au milieu de la prospérité, oublia une si grande faveur. Dans un
+moment d'oisiveté, en se promenant, il vit au bain Bethsabée femme
+d'Urie, un des capitaines de ses troupes. Urie était absent pour le
+service de son prince. David s'enflamma pour Bethsabée, qui devint
 enceinte en l'absence de son mari. Le roi rappela Urie pour que son
-adultï¿½re ne fï¿½t point connu; mais ce guerrier se rendit au palais du
-roi sans vouloir rentrer chez lui, et rï¿½pondit ï¿½ David qui l'y
-engageait: Comment ne jeï¿½nerais-je pas et rentrerais-je dans ma
+adultère ne fût point connu; mais ce guerrier se rendit au palais du
+roi sans vouloir rentrer chez lui, et répondit à David qui l'y
+engageait: Comment ne jeûnerais-je pas et rentrerais-je dans ma
 maison, quand l'arche du seigneur couche dans les camps et qu'elle est
-peut-ï¿½tre au pouvoir des infidï¿½les?.... Le roi, loin d'ï¿½tre touchï¿½ de
-ces paroles, fit marcher Urie dans un dï¿½filï¿½, d'oï¿½, il ne put ï¿½chapper
-ï¿½ la mort. Bethsabï¿½e ï¿½pousa David, donna le jour ï¿½ Salomon, et mourut
-subitement ï¿½ la fleur de son ï¿½ge, au moment oï¿½ David l'idolï¿½trait....
+peut-être au pouvoir des infidèles?.... Le roi, loin d'être touché de
+ces paroles, fit marcher Urie dans un défilé, d'où, il ne put échapper
+à la mort. Bethsabée épousa David, donna le jour à Salomon, et mourut
+subitement à la fleur de son âge, au moment où David l'idolâtrait....
 
-L'auteur de ce chef-d'oeuvre peint David debout, les bras ï¿½tendus sur
-les tristes restes de son amante, dont le visage ï¿½ dï¿½couvert dans le
+L'auteur de ce chef-d'oeuvre peint David debout, les bras étendus sur
+les tristes restes de son amante, dont le visage à découvert dans le
 cercueil, en lui laissant le souvenir de ses charmes, lui rappelle son
-ingratitude envers Dieu et son crime envers Urie. David, en proie ï¿½
-l'amour, au remords, ï¿½ la reconnaissance, cï¿½de tour ï¿½ tour ï¿½ sa
-passion, ï¿½ son dï¿½sespoir et ï¿½ son repentir. Cette hï¿½roï¿½de arrachait
+ingratitude envers Dieu et son crime envers Urie. David, en proie à
+l'amour, au remords, à la reconnaissance, cède tour à tour à sa
+passion, à son désespoir et à son repentir. Cette héroïde arrachait
 des larmes aux sauvages de la Guyane, quand nous la chantions sur les
-bords de la mer: l'ï¿½cho des forï¿½ts et des montagnes lui donnait
-quelque chose de mï¿½lodieux, et les cultivateurs quittaient leurs
-travaux pour nous ï¿½couter. Je me croirais poï¿½te si j'eusse fait ces
+bords de la mer: l'écho des forêts et des montagnes lui donnait
+quelque chose de mélodieux, et les cultivateurs quittaient leurs
+travaux pour nous écouter. Je me croirais poëte si j'eusse fait ces
 couplets.
 
   Je suis puni, je perds ce que j'adore,
   Ce cher auteur de mes forfaits.
-  C'est malgrï¿½ moi que je t'offense encore,
+  C'est malgré moi que je t'offense encore,
   Seigneur, par mes tristes regrets.
-  Mon coeur est dï¿½chirï¿½ sans cesse
-  Par le remords et le dï¿½sir.
+  Mon coeur est déchiré sans cesse
+  Par le remords et le désir.
   Ah! j'en mourrais de repentir
   Si je n'expirais de tendresse.      (_bis._)
 
-  De mon amour, dï¿½plorable victime,
-  Je n'ai long-temps fait que gï¿½mir.
-  J'ai succombï¿½, j'ai vï¿½cu dans le crime....
+  De mon amour, déplorable victime,
+  Je n'ai long-temps fait que gémir.
+  J'ai succombé, j'ai vécu dans le crime....
   Tu ne pouvais mieux m'en punir....
-  Grand Dieu! ta puissance suprï¿½me
-  N'a plus de coups ï¿½ me porter.
-  On n'a plus rien ï¿½ redouter
+  Grand Dieu! ta puissance suprême
+  N'a plus de coups à me porter.
+  On n'a plus rien à redouter
   Quand on a perdu ce qu'on aime.      (_bis._)
 
   Elle n'est plus; la mort impitoyable
-  A moissonnï¿½ ses jeunes ans;
-  Et c'est du fond d'un sï¿½pulcre effroyable
+  A moissonné ses jeunes ans;
+  Et c'est du fond d'un sépulcre effroyable
   Qu'elle ravit encor mes sens.
   En t'implorant mon coeur t'outrage,
   Seigneur; mes voeux sont criminels,
-  Puisque j'apporte ï¿½ tes autels
+  Puisque j'apporte à tes autels
   Un coeur rempli de son image.
 
   Si je l'aimai cette amante adorable,
   Si j'oubliai tant de bienfaits,
   C'est toi, mon Dieu, qui me rendis coupable
   En la formant de tes attraits.
-  A mes devoirs toujours fidï¿½le,
-  Et toujours soumis ï¿½ ta loi,
-  Hï¿½las! je n'eusse aimï¿½ que toi,
-  Si je n'avais brï¿½lï¿½ pour elle.
+  A mes devoirs toujours fidèle,
+  Et toujours soumis à ta loi,
+  Hélas! je n'eusse aimé que toi,
+  Si je n'avais brûlé pour elle.
 
 
 
 
-LE Dï¿½PORTï¿½
+LE DÉPORTÉ
 
-DANS LA GUYANE FRANï¿½AISE.
+DANS LA GUYANE FRANÇAISE.
 
-Romance composï¿½e ï¿½ la Franchise, en frimaire an huitiï¿½me (24 novembre
+Romance composée à la Franchise, en frimaire an huitième (24 novembre
 1799).
 
 
-    Air de l'opï¿½ra de Tom-Jones; _Vous voulez que je vous oublie_.
+    Air de l'opéra de Tom-Jones; _Vous voulez que je vous oublie_.
 
-  _Reprise._ O ma maï¿½tresse! ï¿½ ma patrie!
-      Oui, je chï¿½ris jusqu'ï¿½ vos coups.
-  Vos arrï¿½ts font le destin de ma vie;
-  Vous m'exilez quand je brï¿½le pour vous....
+  _Reprise._ O ma maîtresse! ô ma patrie!
+      Oui, je chéris jusqu'à vos coups.
+  Vos arrêts font le destin de ma vie;
+  Vous m'exilez quand je brûle pour vous....
 
-  Dï¿½portï¿½ dans le nouveau monde,
+  Déporté dans le nouveau monde,
   Un troubadour, au bord de l'onde,
   Soupirait ainsi ses revers!
-  Sombres forï¿½ts, affreux rivage,
-  Faut-il qu'au printemps de mon ï¿½ge
-  J'expire ici chargï¿½ de fers?....
+  Sombres forêts, affreux rivage,
+  Faut-il qu'au printemps de mon âge
+  J'expire ici chargé de fers?....
 
-  O ma maï¿½tresse! ï¿½ ma patrie! etc.
+  O ma maîtresse! ô ma patrie! etc.
 
   Oh! je ne suis pourtant coupable
   Que d'aimer un objet aimable,
@@ -1175,99 +1175,99 @@ Romance composï¿½e ï¿½ la Franchise, en frimaire an huitiï¿½me (24 novembre
   De l'amour sensible victime,
   J'expire en adorant ta loi.
 
-  O ma maï¿½tresse! ï¿½ ma patrie! etc.
+  O ma maîtresse! ô ma patrie! etc.
 
-  Dï¿½s que l'orient se colore,
-  Je dis ï¿½ la naissante aurore:
-  Mï¿½le tes larmes ï¿½ mes pleurs;
+  Dès que l'orient se colore,
+  Je dis à la naissante aurore:
+  Mêle tes larmes à mes pleurs;
   Mais conserve pour ma patrie,
   Et pour l'ingrate qui m'oublie,
   Tes dons et tes riches couleurs.
 
-  O ma maï¿½tresse! ï¿½ ma patrie! etc.
+  O ma maîtresse! ô ma patrie! etc.
 
   Quand de cette zone torride
   Mon pied foule le sable aride,
   Je porte la main sur mon coeur.
   Zulma, pour toi comme il palpite!
-  Vers toi comme il se prï¿½cipite,
-  Beau climat oï¿½ naï¿½t le bonheur!....
+  Vers toi comme il se précipite,
+  Beau climat où naît le bonheur!....
 
-  O ma maï¿½tresse! ï¿½ ma patrie! etc.
+  O ma maîtresse! ô ma patrie! etc.
 
-  Le nouveau siï¿½cle qui commence
-  Rendra l'ï¿½ge d'or ï¿½ la France;
+  Le nouveau siècle qui commence
+  Rendra l'âge d'or à la France;
   Sur les lis l'aigle volera.
-  Soit qu'ici je vï¿½gï¿½te encore,
-  Ou soit qu'un tigre m'y dï¿½vore,
-  Ma langue en se glaï¿½ant dira:
+  Soit qu'ici je végète encore,
+  Ou soit qu'un tigre m'y dévore,
+  Ma langue en se glaçant dira:
 
-  O ma maï¿½tresse! ï¿½ ma patrie! etc.
+  O ma maîtresse! ô ma patrie! etc.
 
   O Dieu! je reverrais la France!
-  Je jouirais de ta prï¿½sence!
+  Je jouirais de ta présence!
   Zulma! tu m'as ravi ton coeur!....
   Non.... Laissez-moi sur cette rive,
   Et qu'en mourant, ma voix plaintive
   Nomme Zulma pour mon malheur.
 
-  O ma maï¿½tresse! ï¿½ ma patrie!
-  Oui, je chï¿½ris jusqu'ï¿½ vos coups:
-  Vos arrï¿½ts font le destin de ma vie;
-  Vous m'exilez quand je brï¿½le pour vous.
+  O ma maîtresse! ô ma patrie!
+  Oui, je chéris jusqu'à vos coups:
+  Vos arrêts font le destin de ma vie;
+  Vous m'exilez quand je brûle pour vous.
 
-Un de nos compagnons d'exil fut dï¿½portï¿½, en 1797, pour avoir ramenï¿½ en
-France, dans sa famille, une jeune ï¿½migrï¿½e comme lui dont il venait
-demander la main. Pendant que nous ï¿½tions dans la Guyane, il apprit
-qu'elle avait ï¿½pousï¿½ un autre jeune homme qui lui avait fait obtenir
+Un de nos compagnons d'exil fut déporté, en 1797, pour avoir ramené en
+France, dans sa famille, une jeune émigrée comme lui dont il venait
+demander la main. Pendant que nous étions dans la Guyane, il apprit
+qu'elle avait épousé un autre jeune homme qui lui avait fait obtenir
 sa radiation: il en mourut de douleur. C'est le sujet de cette
 romance.
 
 
 
 
-LE TOMBEAU D'ISMï¿½NE.
+LE TOMBEAU D'ISMÈNE.
 
 
-Un jeune homme dont les parents avaient ï¿½prouvï¿½ de grands revers
-parvint, par amour et par sï¿½duction, ï¿½ obtenir les faveurs d'Ismï¿½ne
-d'Orv.... que ses parents lui destinaient, avant que la fortune eï¿½t
-allumï¿½ entre les deux maisons une haine irrï¿½conciliable. Ismï¿½ne
-d'Orv.... devint enceinte. Cette nouvelle ï¿½clata un jour au milieu
-d'une fï¿½te que toute la famille donnait au grand-papa. M. d'Orv....,
-plaint par les gens sensï¿½s, et ridiculisï¿½ par les jeunes ï¿½tourdis,
-concentra sa colï¿½re durant le repas: mais le soir, en rentrant chez sa
-fille, il la traï¿½ne aux cheveux, lui donne des coups de pied dans le
-ventre, et assassine la mï¿½re et l'enfant, qui moururent au bout de
-huit jours. Le premier auteur de cette catastrophe ï¿½tait un de nos
-compagnons d'exil. L'amour et la douleur le traï¿½nï¿½rent au sanctuaire.
+Un jeune homme dont les parents avaient éprouvé de grands revers
+parvint, par amour et par séduction, à obtenir les faveurs d'Ismène
+d'Orv.... que ses parents lui destinaient, avant que la fortune eût
+allumé entre les deux maisons une haine irréconciliable. Ismène
+d'Orv.... devint enceinte. Cette nouvelle éclata un jour au milieu
+d'une fête que toute la famille donnait au grand-papa. M. d'Orv....,
+plaint par les gens sensés, et ridiculisé par les jeunes étourdis,
+concentra sa colère durant le repas: mais le soir, en rentrant chez sa
+fille, il la traîne aux cheveux, lui donne des coups de pied dans le
+ventre, et assassine la mère et l'enfant, qui moururent au bout de
+huit jours. Le premier auteur de cette catastrophe était un de nos
+compagnons d'exil. L'amour et la douleur le traînèrent au sanctuaire.
 Il me demanda les couplets suivants; me permit de les publier, et me
-pria de taire son nom par ï¿½gard pour la famille de son amie, dont le
-chef expie sa faute dans un deuil ï¿½ternel.
+pria de taire son nom par égard pour la famille de son amie, dont le
+chef expie sa faute dans un deuil éternel.
 
 
-   Air de la nouvelle Clï¿½mentine: _Une jeune bergï¿½re, les yeux baignï¿½s
+   Air de la nouvelle Clémentine: _Une jeune bergère, les yeux baignés
    de pleurs_.
 
-  J'ai perdu mon Ismï¿½ne,
+  J'ai perdu mon Ismène,
   J'ai perdu mon bonheur;
-  ï¿½chos, forï¿½ts, fontaines,
-  Rï¿½pï¿½tez ma douleur.
+  Échos, forêts, fontaines,
+  Répétez ma douleur.
   Pour moi, belle nature,
   Tes dons sont superflus;
-  Dï¿½pouille-toi de ta verdure,
-  Mon Ismï¿½ne n'est plus.
+  Dépouille-toi de ta verdure,
+  Mon Ismène n'est plus.
 
   Claire et pure fontaine,
   Sur tes bords enchanteurs,
-  Chaque jour, pour Ismï¿½ne,
-  Tu t'ï¿½maillais de fleurs;
+  Chaque jour, pour Ismène,
+  Tu t'émaillais de fleurs;
   Je vais grossir ton onde
   De mes pleurs superflus;
-  Je reste isolï¿½ dans le monde,
-  Mon Ismï¿½ne n'est plus!
+  Je reste isolé dans le monde,
+  Mon Ismène n'est plus!
 
-  Si l'or me rend Ismï¿½ne[5],
+  Si l'or me rend Ismène[5],
   Si l'or me rend mon fils,
   Je veux m'ouvrir la veine
   Pour en doubler le prix:
@@ -1277,24 +1277,24 @@ chef expie sa faute dans un deuil ï¿½ternel.
   Payent de leurs vertus.
 
   Coudrier dont l'ombrage
-  Protï¿½geait nos plaisirs,
+  Protégeait nos plaisirs,
   Assis sous ton feuillage,
   Je pousse des soupirs.
-  Au rï¿½cit de ma peine,
-  Ces rochers sont ï¿½mus;
-  ï¿½cho rï¿½pï¿½te encore Ismï¿½ne,
-  Mais Ismï¿½ne n'est plus!
+  Au récit de ma peine,
+  Ces rochers sont émus;
+  Écho répète encore Ismène,
+  Mais Ismène n'est plus!
 
-  Prï¿½s de cette hï¿½catombe,
+  Près de cette hécatombe,
   Venez en sanglotant;
   Ce marbre sert de tombe
-  A la mï¿½re, ï¿½ l'enfant.
-  Son bourreau fut son pï¿½re,
+  A la mère, à l'enfant.
+  Son bourreau fut son père,
   L'amour fit ses malheurs,
-  Et son amant se dï¿½sespï¿½re:
+  Et son amant se désespère:
   Vous leur devez des pleurs.
 
-    [5] M. d'Orv...., aprï¿½s la mort de sa fille, offrit sa dot ï¿½ son
+    [5] M. d'Orv...., après la mort de sa fille, offrit sa dot à son
     amant. On devine ses motifs.
 
 
@@ -1302,132 +1302,132 @@ chef expie sa faute dans un deuil ï¿½ternel.
 
 MES LOISIRS
 
-DANS LA GUYANE FRANï¿½AISE
+DANS LA GUYANE FRANÇAISE
 
 en 1801.
 
-_Loyautï¿½, Commerce, et Usure._
+_Loyauté, Commerce, et Usure._
 
 
-Durant le fameux hiver de 1784 une femme, chargï¿½e d'un poï¿½lon de
-cuivre, se prï¿½senta chez le sieur Crugeon, chaudronnier sur le pont
-Marie, ï¿½ Paris. ï¿½Il y a sept mois, lui dit-elle, que vous m'avez vendu
-cet ustensile; je le payai huit livres dix sous, et vous me promï¿½tes
-de le reprendre ï¿½ sept livres dix sous, si je voulais m'en dï¿½faire
-dans l'annï¿½e. Mais ne pouvant prï¿½voir que nous eussions un hiver si
-rigoureux, je suis obligï¿½e de m'en dï¿½faire; reprenez votre poï¿½lon et
-donnez-moi ce qu'il vous plaira. Je loge maintenant ï¿½ l'autre bout de
-la ville. Je l'ai offert ï¿½ cinq ou six personnes, aucun n'a passï¿½ le
+Durant le fameux hiver de 1784 une femme, chargée d'un poêlon de
+cuivre, se présenta chez le sieur Crugeon, chaudronnier sur le pont
+Marie, à Paris. «Il y a sept mois, lui dit-elle, que vous m'avez vendu
+cet ustensile; je le payai huit livres dix sous, et vous me promîtes
+de le reprendre à sept livres dix sous, si je voulais m'en défaire
+dans l'année. Mais ne pouvant prévoir que nous eussions un hiver si
+rigoureux, je suis obligée de m'en défaire; reprenez votre poêlon et
+donnez-moi ce qu'il vous plaira. Je loge maintenant à l'autre bout de
+la ville. Je l'ai offert à cinq ou six personnes, aucun n'a passé le
 prix de trois livres dix sols. Je vous reconnais et je reconnais le
-poï¿½lon, rï¿½pondit l'artisan. Vous avez eu tort de l'offrir ï¿½ cinq ou
-six personnes, il fallait venir droit ï¿½ moi: je suis homme de parole
-en hiver comme en ï¿½tï¿½; voilï¿½ vos sept livres dix sous.ï¿½
+poêlon, répondit l'artisan. Vous avez eu tort de l'offrir à cinq ou
+six personnes, il fallait venir droit à moi: je suis homme de parole
+en hiver comme en été; voilà vos sept livres dix sous.»
 
-_Beau modï¿½le de franchise et de probitï¿½ de l'artisan: voilï¿½ la vraie
+_Beau modèle de franchise et de probité de l'artisan: voilà la vraie
 justice. Voici l'usure._
 
-Durant le mï¿½me hiver, un homme de lettres malade entra chez un riche
-bijoutier dont on rougit de dire le nom, et lui dit: ï¿½Vous m'avez
+Durant le même hiver, un homme de lettres malade entra chez un riche
+bijoutier dont on rougit de dire le nom, et lui dit: «Vous m'avez
 vendu il y a six mois, avec garantie, une pendule que je vous payai
-cinq cents livres. Je suis forcï¿½ de m'en dï¿½faire; voyez pour quelle
-somme vous voulez la reprendre. Mon cher monsieur, rï¿½pondit le
-trafiquant, il faut aller suivant la saison: l'hiver est trï¿½s rude: je
-vous donne deux louis et demi de votre pendule. Le marchï¿½ se conclut ï¿½
-quatre-vingts livres....ï¿½
+cinq cents livres. Je suis forcé de m'en défaire; voyez pour quelle
+somme vous voulez la reprendre. Mon cher monsieur, répondit le
+trafiquant, il faut aller suivant la saison: l'hiver est très rude: je
+vous donne deux louis et demi de votre pendule. Le marché se conclut à
+quatre-vingts livres....»
 
 
 
 
-PHï¿½NOMï¿½NE. _Anecdote de 1788._
+PHÉNOMÈNE. _Anecdote de 1788._
 
 
-Pierre Noï¿½l Le Cauchois avait servi long-temps dans un rï¿½giment de
-dragons oï¿½ il avait mï¿½ritï¿½ et obtenu des distinctions et des grades;
-mais son bon coeur l'ayant portï¿½ ï¿½ dï¿½fendre les opprimï¿½s, il embrassa
-la profession d'avocat. Cet homme gï¿½nï¿½reux et infatigable, qui s'ï¿½tait
-ruinï¿½ pour faire ï¿½clater dans tout son jour l'innocence de la fille
-Salmon, est mort ï¿½ Paris, le 16 fï¿½vrier 1788, dans l'indigence la plus
-dï¿½plorable. Ses amis seuls suivirent son convoi en fondant en larmes,
+Pierre Noël Le Cauchois avait servi long-temps dans un régiment de
+dragons où il avait mérité et obtenu des distinctions et des grades;
+mais son bon coeur l'ayant porté à défendre les opprimés, il embrassa
+la profession d'avocat. Cet homme généreux et infatigable, qui s'était
+ruiné pour faire éclater dans tout son jour l'innocence de la fille
+Salmon, est mort à Paris, le 16 février 1788, dans l'indigence la plus
+déplorable. Ses amis seuls suivirent son convoi en fondant en larmes,
 et ce fut monsieur Cosson qui, ne voulant point qu'un homme si
-estimable fï¿½t enterrï¿½ par charitï¿½, paya les frais de son enterrement ï¿½
-Saint-Sulpice. Voici ce que le propriï¿½taire de la maison qu'occupait
-le vertueux Le Cauchois ï¿½crivit le jour de sa mort ï¿½ monsieur Cosson.
+estimable fût enterré par charité, paya les frais de son enterrement à
+Saint-Sulpice. Voici ce que le propriétaire de la maison qu'occupait
+le vertueux Le Cauchois écrivit le jour de sa mort à monsieur Cosson.
 
-ï¿½Monsieur, je vous donne avis que le pauvre monsieur Le Cauchois vient
-de mourir dans la plus affreuse misï¿½re, n'ayant pas laissï¿½ un sou pour
-se faire enterrer; vous ï¿½tiez son ami, monsieur, voyez ï¿½ rï¿½gler la
-maniï¿½re dont nous lui ferons rendre les derniers devoirs.ï¿½
+«Monsieur, je vous donne avis que le pauvre monsieur Le Cauchois vient
+de mourir dans la plus affreuse misère, n'ayant pas laissé un sou pour
+se faire enterrer; vous étiez son ami, monsieur, voyez à régler la
+manière dont nous lui ferons rendre les derniers devoirs.»
 
-Voilï¿½ la fin d'un citoyen qui venait d'arracher un ï¿½tre innocent du
-bï¿½cher. Il ne faisait que du bien. Il est mort indigent, sans
-ostentation; donnez ï¿½ ses mï¿½nes des larmes de repentir et de
-reconnaissance pour le siï¿½cle qui a ressuscitï¿½ un Aristide au milieu
+Voilà la fin d'un citoyen qui venait d'arracher un être innocent du
+bûcher. Il ne faisait que du bien. Il est mort indigent, sans
+ostentation; donnez à ses mânes des larmes de repentir et de
+reconnaissance pour le siècle qui a ressuscité un Aristide au milieu
 de tant d'Alcibiades.
 
-M. Jame de Saint-Lï¿½ger lui a payï¿½ son tribut dans l'ï¿½pitaphe suivante:
+M. Jame de Saint-Léger lui a payé son tribut dans l'épitaphe suivante:
 
-  De Mars et de Thï¿½mis noble et sage soutien,
+  De Mars et de Thémis noble et sage soutien,
   Il servit son pays, il sauva l'innocence;
-  Il mourut sans regrets, hï¿½las! quand l'indigence
+  Il mourut sans regrets, hélas! quand l'indigence
   Lui ravit le pouvoir de faire encor du bien.
-  Vous voilï¿½ consolï¿½s, dï¿½tracteurs mï¿½prisables,
-  Par qui de ses succï¿½s l'honneur fut enviï¿½!
-  Mais la vertu le pleure au sein de l'amitiï¿½,
-  Et sa mort, ï¿½ jamais, les laisse inconsolables.
+  Vous voilà consolés, détracteurs méprisables,
+  Par qui de ses succès l'honneur fut envié!
+  Mais la vertu le pleure au sein de l'amitié,
+  Et sa mort, à jamais, les laisse inconsolables.
 
 
 
 
-CONTRE LA TOILETTE TROP RECHERCHï¿½E.
+CONTRE LA TOILETTE TROP RECHERCHÉE.
 
 
-    Air: _Et ï¿½a ne se peut pas_, ou de l'Officier de Fortune: _Fidï¿½le
-    ï¿½poux, franc militaire_.
+    Air: _Et ça ne se peut pas_, ou de l'Officier de Fortune: _Fidèle
+    époux, franc militaire_.
 
-  Pourquoi, d'une main indiscrï¿½te,
+  Pourquoi, d'une main indiscrète,
   Vouloir orner vos doux appas?
-  On montre, ï¿½ force de toilette,
-  Des dï¿½fauts que l'oeil ne voit pas.
-  Loin d'ajouter ï¿½ la nature,
-  Cet art enlaidirait Vï¿½nus:
-  Sur un front qui plaï¿½t sans parure
+  On montre, à force de toilette,
+  Des défauts que l'oeil ne voit pas.
+  Loin d'ajouter à la nature,
+  Cet art enlaidirait Vénus:
+  Sur un front qui plaît sans parure
   Tous les pompons sont superflus.
 
   Parmi les plaisirs de la table,
   Au sein des ris et des amours,
-  Est-il objet moins agrï¿½able
+  Est-il objet moins agréable
   Qu'une pompe de vains atours?
   Si ma voisine a quelques charmes,
   Bacchus me promet des larcins;
   Mais la coquette sous les armes
-  Fait ï¿½chouer tous mes desseins.
+  Fait échouer tous mes desseins.
 
-  David, ce roi dï¿½vot et sage,
-  Aimait Bethsabï¿½ sans habit;
-  Holopherne en mï¿½me ï¿½quipage
+  David, ce roi dévot et sage,
+  Aimait Bethsabé sans habit;
+  Holopherne en même équipage
   Voulut voir la chaste Judith.
-  A tort on croirait que Lucrï¿½ce
+  A tort on croirait que Lucrèce
   Pour la vertu trancha ses jours;
   C'est que Tarquin, par maladresse,
-  Avait chiffonnï¿½ ses atours.
+  Avait chiffonné ses atours.
 
   Le berger qu'au Pinde on renomme
-  Pour un arrï¿½t digne des dieux,
-  A Vï¿½nus adjugea la pomme:
-  ï¿½tait-ce donc pour ses beaux yeux?
-  Non, non; Junon, nous dit Homï¿½re,
+  Pour un arrêt digne des dieux,
+  A Vénus adjugea la pomme:
+  Était-ce donc pour ses beaux yeux?
+  Non, non; Junon, nous dit Homère,
   Les avait plus beaux et plus grands;
-  Mais en femme orgueilleuse et fiï¿½re,
+  Mais en femme orgueilleuse et fière,
   Elle avait mis trop d'ornements.
 
   Minerve, par trop de sagesse,
-  Avait trop voilï¿½ ses appas;
-  Vï¿½nus, par un trait de finesse,
+  Avait trop voilé ses appas;
+  Vénus, par un trait de finesse,
   Prudemment ne les cacha pas:
   Sous ces habits de la nature
   Elle parut coquettement,
-  Et sa beautï¿½ touchante et pure
-  Reï¿½ut deux prix au mï¿½me instant.
+  Et sa beauté touchante et pure
+  Reçut deux prix au même instant.
 
 
 
@@ -1437,7 +1437,7 @@ SUR UN RENDEZ-VOUS.
 
       Demain, dans le palais de Flore,
       Je dois rencontrer mon berger.
-  Amour, ouvre mes yeux ï¿½ la naissante aurore,
+  Amour, ouvre mes yeux à la naissante aurore,
       Et ferme-les sur le danger.
 
 
@@ -1445,71 +1445,71 @@ SUR UN RENDEZ-VOUS.
 
 MES QUATRE AGES.
 
-STANCES ANACRï¿½ONTIQUES.
+STANCES ANACRÉONTIQUES.
 
 
   Dans mon ame douce et paisible
-  A quinze ans il n'ï¿½tait pas jour.
+  A quinze ans il n'était pas jour.
   A vingt ans mon coeur insensible
-  ï¿½moussa les traits de l'amour.
+  Émoussa les traits de l'amour.
 
   A vingt-cinq ans, moins intraitable,
-  Je sus distinguer la beautï¿½,
+  Je sus distinguer la beauté,
   Et, de raison toujours capable,
-  Je conservai ma libertï¿½....
+  Je conservai ma liberté....
 
   Mais j'ai vu la jeune Amaranthe;
   Elle compte quinze printemps,
-  Et moi, qui dï¿½jï¿½ vise ï¿½ trente,
-  Je suis moins sage qu'ï¿½ quinze ans.
+  Et moi, qui déjà vise à trente,
+  Je suis moins sage qu'à quinze ans.
 
   Amour, enfant doux et barbare,
   Cher ennemi qu'enfin je sers,
   Sont-ce des fleurs, sont-ce des fers
-  Que ton caprice me prï¿½pare?
+  Que ton caprice me prépare?
 
-  Loin de ma premiï¿½re saison,
-  J'aime une belle ï¿½ son aurore;
-  Dans son coeur trompï¿½ fais ï¿½clore
-  Le dï¿½sir avec la raison.
+  Loin de ma première saison,
+  J'aime une belle à son aurore;
+  Dans son coeur trompé fais éclore
+  Le désir avec la raison.
 
-  Inspire-lui des goï¿½ts plus sages
+  Inspire-lui des goûts plus sages
   Que ceux du plus fou des amants:
-  Amour, en opposant nos ï¿½ges,
+  Amour, en opposant nos âges,
   Accorde au moins nos sentiments.
 
 
 
 
-LA BONNE AMITIï¿½
+LA BONNE AMITIÉ
 
-Nï¿½E DE L'AMOUR.
+NÉE DE L'AMOUR.
 
 
   Je l'attendais avec impatience,
-  Cet ami si cher ï¿½ mon coeur;
-  Je me disais que sa prï¿½sence
+  Cet ami si cher à mon coeur;
+  Je me disais que sa présence
   Serait pour moi l'aurore du bonheur.
-  Je l'attendais sans espï¿½rance
+  Je l'attendais sans espérance
   Qu'il partagerait mon ardeur;
   Mais je me contentai d'avance
   D'un sourire plein de douceur.
   Je l'attendais avec sagesse,
-  L'amitiï¿½ seule eï¿½t donnï¿½ mon baiser,
-  Et rien n'eï¿½t trahi ma tendresse
+  L'amitié seule eût donné mon baiser,
+  Et rien n'eût trahi ma tendresse
   Que la douleur de le voir refuser.
   Je l'attendais dans ma retraite,
-  Oï¿½ les amours ne logent plus;
+  Où les amours ne logent plus;
   Un seul encor, mais en cachette,
   Vit dans mon coeur en vrai reclus.
   Je l'attendais sans art et sans parure.
-  Ah! le plaisir eï¿½t animï¿½ mes traits:
+  Ah! le plaisir eût animé mes traits:
   Le sentiment embellit la nature,
   Elle lui doit ses plus touchants attraits.
   Il ne vient point. Je ne veux plus l'attendre,
   L'ingrat ami qui me fait soupirer;
-  Mais sans le voir, mï¿½me sans y prï¿½tendre,
-  Je puis au moins le dï¿½sirer.
+  Mais sans le voir, même sans y prétendre,
+  Je puis au moins le désirer.
 
   Par Madame DE MONTANCLOS.
 
@@ -1522,22 +1522,22 @@ LA LANTERNE MAGIQUE.
 Un chanteur tire ordinairement le diable par la queue; ce diable est
 une des merveilles de la lanterne magique. Un joueur de gobelets, un
 promeneur de vielle et un chanteur, se disputent souvent le terrain
-sur la mï¿½me place. Si ces trois hommes sont au niveau de leur ï¿½tat,
+sur la même place. Si ces trois hommes sont au niveau de leur état,
 ils doivent amuser en instruisant. Le premier peint l'adresse des
-filous, le second les ridicules des sots, et le troisiï¿½me prï¿½sente un
-miroir ï¿½ la sociï¿½tï¿½; il est vrai que le spectateur voit sans ï¿½tre vu;
-mais un ï¿½mule du pï¿½re Ducerceau les a pourtant assez bien attrapï¿½s
+filous, le second les ridicules des sots, et le troisième présente un
+miroir à la société; il est vrai que le spectateur voit sans être vu;
+mais un émule du père Ducerceau les a pourtant assez bien attrapés
 dans la lanterne magique suivante. Le vaudeville entrait dans notre
-recueil de la Guyane, et je ne le rï¿½pï¿½te jamais sans un doux souvenir
-du convive qui me l'apprit. Il me rappelle les bois et les cases oï¿½
-nous passions quelques heures de bonheur; et celui-ci ï¿½tait bien vif,
-car il ï¿½tait payï¿½ bien cher.
+recueil de la Guyane, et je ne le répète jamais sans un doux souvenir
+du convive qui me l'apprit. Il me rappelle les bois et les cases où
+nous passions quelques heures de bonheur; et celui-ci était bien vif,
+car il était payé bien cher.
 
 
-  L'on voit dans ma boï¿½te magique
-  La raretï¿½! la raretï¿½!
+  L'on voit dans ma boîte magique
+  La rareté! la rareté!
   Rien qui ne flatte et qui ne pique
-      La curiositï¿½.
+      La curiosité.
   Le monde en peinture mouvante,
   Par mon verre se montre aux yeux,
   Et la figure est si parlante,
@@ -1546,101 +1546,101 @@ car il ï¿½tait payï¿½ bien cher.
   Oh la merveille sans pareille!
 
   Je fais voir un grand sans caprice;
-  La raretï¿½! la raretï¿½!
+  La rareté! la rareté!
   Un courtisan sans artifice;
-      La curiositï¿½!
-  Une cour oï¿½ dame fortune
+      La curiosité!
+  Une cour où dame fortune
   Ne trouble point les plus beaux jours,
   Et n'a pas, ainsi que la lune,
-  Et son croissant et son dï¿½cours.
+  Et son croissant et son décours.
         Oh la merveille!
   Oh la merveille sans pareille!
 
   Un seigneur sans faste et sans dettes;
-  La raretï¿½! la raretï¿½!
+  La rareté! la rareté!
   Un commis riche et les mains nettes;
-      La curiositï¿½!
-  Un Crï¿½sus chez qui l'industrie
-  Enfante la prospï¿½ritï¿½,
-  Sans que dans l'ï¿½clat il oublie
-  Ce que ses parents ont ï¿½tï¿½:
+      La curiosité!
+  Un Crésus chez qui l'industrie
+  Enfante la prospérité,
+  Sans que dans l'éclat il oublie
+  Ce que ses parents ont été:
         Oh la merveille!
   Oh la merveille sans pareille!
 
   Un bel esprit sans suffisance;
-  La raretï¿½! la raretï¿½!
+  La rareté! la rareté!
   Un joueur parmi l'abondance;
-      La curiositï¿½!
+      La curiosité!
   Un ami qui, dans ma disgrace,
   M'aime autant que dans mon bonheur;
-  Qui, quand le sort m'ï¿½te ma place,
+  Qui, quand le sort m'ôte ma place,
   M'en conserve une dans son coeur:
         Oh la merveille!
   Oh la merveille sans pareille!
 
   Un conteur qui jamais n'ennuie;
-  La raretï¿½! la raretï¿½!
+  La rareté! la rareté!
   Un breteur qui jamais ne fuie;
-      La curiositï¿½!
-  Un tartuffe ï¿½ lui-mï¿½me austï¿½re,
+      La curiosité!
+  Un tartuffe à lui-même austère,
   Qui, sous la douceur du miel,
-  Ne dï¿½guise point le mystï¿½re
+  Ne déguise point le mystère
   D'un coeur amer et plein de fiel:
         Oh la merveille!
   Oh la merveille sans pareille!
 
   Mari d'accord avec sa femme;
-  La raretï¿½! la raretï¿½!
-  Deux coeurs qui ne fassent qu'une ï¿½me;
-      La curiositï¿½!
-  Paisible et vertueux mï¿½nage,
-  Oï¿½ sans cesse d'heureux enfants
+  La rareté! la rareté!
+  Deux coeurs qui ne fassent qu'une âme;
+      La curiosité!
+  Paisible et vertueux ménage,
+  Où sans cesse d'heureux enfants
   Trouvent, d'une conduite sage,
-  Le modï¿½le dans leurs parents:
+  Le modèle dans leurs parents:
         Oh la merveille!
   Oh la merveille sans pareille!
 
-  Un petit maï¿½tre raisonnable;
-  La raretï¿½! la raretï¿½!
-  Un plaideur qui soit ï¿½quitable;
-      La curiositï¿½!
+  Un petit maître raisonnable;
+  La rareté! la rareté!
+  Un plaideur qui soit équitable;
+      La curiosité!
   Un modeste et sage critique
-  Qui, sans mï¿½lange d'ï¿½pretï¿½,
+  Qui, sans mélange d'âpreté,
   Assaisonne d'un sel attique
-  Ce que la raison a dictï¿½:
+  Ce que la raison a dicté:
         Oh la merveille!
   Oh la merveille sans pareille!
 
-  Mï¿½rite ï¿½ l'abri de l'envie;
-  La raretï¿½! la raretï¿½!
+  Mérite à l'abri de l'envie;
+  La rareté! la rareté!
   Plaisir sans trouble dans la vie;
-      La curiositï¿½!
-  Un coeur oï¿½ n'eut jamais d'empire
-  Le souci contraire ï¿½ ses voeux,
+      La curiosité!
+  Un coeur où n'eut jamais d'empire
+  Le souci contraire à ses voeux,
   Et qui toujours se puisse dire:
   Je suis content, je suis heureux!
         Oh la merveille!
   Oh la merveille sans pareille!
 
   Un grand coeur exempt de foiblesse;
-  La raretï¿½! la raretï¿½!
+  La rareté! la rareté!
   Un coeur fier exempt de bassesse;
-      La curiositï¿½!
+      La curiosité!
   Politique sans tromperie,
-  Courage sans tï¿½mï¿½ritï¿½,
-  Prudence sans pï¿½danterie,
-  Jeunes appas sans vanitï¿½:
+  Courage sans témérité,
+  Prudence sans pédanterie,
+  Jeunes appas sans vanité:
         Oh la merveille!
   Oh la merveille sans pareille!
 
-  Grand spectacle oï¿½ l'on divertisse;
-  La raretï¿½! la raretï¿½!
-  Fï¿½te oï¿½ tout le monde applaudisse;
-      La curiositï¿½!
+  Grand spectacle où l'on divertisse;
+  La rareté! la rareté!
+  Fête où tout le monde applaudisse;
+      La curiosité!
   Chanson badine ou satirique,
-  Oï¿½ les couplets soient d'un goï¿½t fin,
+  Où les couplets soient d'un goût fin,
   Dont chaque mot sans blesser pique,
-  Et prï¿½pare un heureux refrain:
+  Et prépare un heureux refrain:
         Oh la merveille!
   Oh la merveille sans pareille!
 
@@ -1657,28 +1657,28 @@ L'AMI DE TOUT LE MONDE.
 
   L'amour-propre des grands seigneurs
   Fait le revenu des flatteurs;
-  C'est oï¿½ leur fortune se fonde.
-  En parlant trop sincï¿½rement,
+  C'est où leur fortune se fonde.
+  En parlant trop sincèrement,
   On n'est pas ordinairement
       Ami de tout le monde.
 
   Quand j'aime, j'aime uniquement;
   Je parle toujours franchement;
   Comme le corps j'ai l'ame ronde,
-  Il ne faut rien faire ï¿½ demi:
+  Il ne faut rien faire à demi:
   Je compte pour rien un ami
       Ami de tout le monde.
 
-  Prï¿½tez argent sans intï¿½rï¿½ts,
+  Prêtez argent sans intérêts,
   Ne le redemandez jamais;
   Qu'en bon vin votre cave abonde;
-  Ouvrez la porte ï¿½ tous venants,
+  Ouvrez la porte à tous venants,
   Et vous serez en peu de temps
       Ami de tout le monde.
 
   Aux badauds donnez de l'encens,
   Aux Gascons des repas friands,
-  Aux Bretons, buvez ï¿½ la ronde,
+  Aux Bretons, buvez à la ronde,
   Ne demandez rien aux Normands,
   Et vous serez, avec le temps,
       Ami de tout le monde.
@@ -1692,64 +1692,64 @@ QUE DEVIENDRAIT LE MONDE.
     Air: _Ma femme le sait_.
 
   Suivons l'amour et la folie
-  Pour goï¿½ter un plaisir charmant;
+  Pour goûter un plaisir charmant;
   L'amour est l'ame de la vie,
-  La folie en fait l'agrï¿½ment:
+  La folie en fait l'agrément:
   La raison jalouse en vain gronde,
-  Fermons l'oreille ï¿½ ses discours,
+  Fermons l'oreille à ses discours,
   Sans la folie et les amours,
   Que deviendrait le monde?
 
-  A jeune fillette, une mï¿½re
-  Dï¿½fend toujours d'aller au bois;
-  Mais on se rit de sa colï¿½re,
-  Et l'on s'ï¿½chappe en tapinois:
-  L'Amour fait le guet ï¿½ la ronde,
+  A jeune fillette, une mère
+  Défend toujours d'aller au bois;
+  Mais on se rit de sa colère,
+  Et l'on s'échappe en tapinois:
+  L'Amour fait le guet à la ronde,
   Les Sylvains sont vifs et charmants....
-  Si l'on ï¿½coutait les mamans,
+  Si l'on écoutait les mamans,
   Que deviendrait le monde?
 
-  On ne me veut voir occupï¿½e
+  On ne me veut voir occupée
   Que de joujoux ou de pompons;
-  On me renvoie ï¿½ ma poupï¿½e,
+  On me renvoie à ma poupée,
   Lorsque je fais des questions:
   Oh! c'est alors que l'on me gronde....
-  Si certain dï¿½sir curieux,
+  Si certain désir curieux,
   Aux fillettes n'ouvrait les yeux,
   Que deviendrait le monde?
 
   Sous le joug de la continence
-  Un abbï¿½ gï¿½mit nuit et jour;
-  Des rigueurs de la pï¿½nitence,
+  Un abbé gémit nuit et jour;
+  Des rigueurs de la pénitence,
   Il vole aux plaisirs de l'amour;
   Et c'est alors que l'on en gronde.
   Mais si ceux qui portent rabat
-  Observaient tous le cï¿½libat,
+  Observaient tous le célibat,
   Que deviendrait le monde?
 
-  A dï¿½peupler la terre entiï¿½re,
-  Travaillent tous les mï¿½decins:
-  Vous les voyez dans leur carriï¿½re
+  A dépeupler la terre entière,
+  Travaillent tous les médecins:
+  Vous les voyez dans leur carrière
   Livrer bataille au genre humain.
   Mais si, pendant qu'ils font leur ronde,
-  Leur sage et prudente moitiï¿½
-  Des maux d'autrui n'avait pitiï¿½,
+  Leur sage et prudente moitié
+  Des maux d'autrui n'avait pitié,
   Que deviendrait le monde?
 
   Pauvres maris que l'on offense,
-  Et dont toujours on rit aprï¿½s,
+  Et dont toujours on rit après,
   Chez les autres prenez vengeance,
   Et n'en vivez pas moins en paix:
   Qu'on vous raille ou que l'on vous fronde,
   Ne vous mettez pas en courroux;
-  Messieurs, si vous vous fï¿½chiez tous,
+  Messieurs, si vous vous fâchiez tous,
   Que deviendrait le monde?
 
-  Que ce repas est dï¿½lectable!
+  Que ce repas est délectable!
   Ah! qu'on y voit briller d'attraits!
-  Vï¿½nus, que nous vante la fable,
+  Vénus, que nous vante la fable,
   N'en eut jamais d'aussi parfaits!
-  Embrassons-nous tous ï¿½ la ronde,
+  Embrassons-nous tous à la ronde,
   Trinquons ensemble et buvons plein;
   Sans le beau sexe et le bon vin
   Que deviendrait le monde?
@@ -1764,48 +1764,48 @@ L'EMPIRE.
 
     Air: _Amusez-vous, jeunes fillettes_.
 
-  L'homme prï¿½tend avoir l'empire;
-  L'homme s'abuse: il est ï¿½ nous.
-  Joli minois n'a qu'ï¿½ sourire,
-  Notre maï¿½tre est ï¿½ nos genoux.
+  L'homme prétend avoir l'empire;
+  L'homme s'abuse: il est à nous.
+  Joli minois n'a qu'à sourire,
+  Notre maître est à nos genoux.
   Nous commandons par la tendresse,
   C'est un droit qu'Amour nous donna:
-  Le premier qui dit ma maï¿½tresse,
+  Le premier qui dit ma maîtresse,
   Fut celui qui nous couronna.          (_bis._)
 
   L'homme regretta son hommage
-  Aussitï¿½t qu'il nous l'eut rendu:
-  Il nous en a laissï¿½ l'image;
+  Aussitôt qu'il nous l'eut rendu:
+  Il nous en a laissé l'image;
   Mais son orgueil n'a rien perdu;
   Il nous cajole, il nous caresse;
-  Il a toujours l'air de cï¿½der;
-  Il nous appelle sa maï¿½tresse;
+  Il a toujours l'air de céder;
+  Il nous appelle sa maîtresse;
   Mais c'est pour mieux nous commander. (_bis._)
 
 
 
 
-LE Dï¿½PIT
+LE DÉPIT
 
 CONTRE LA SAGESSE.
 
 
-    Air: _Du rï¿½servoir d'amour_.
+    Air: _Du réservoir d'amour_.
 
-  Corinne, ta beautï¿½ n'est pas
+  Corinne, ta beauté n'est pas
     Ce qui cause ma flamme;
-  Oui, je rï¿½siste ï¿½ tes appas,
-    Mais je cï¿½de ï¿½ ton ame:
-  Je cï¿½de ï¿½ l'esprit d'Apollon,
+  Oui, je résiste à tes appas,
+    Mais je cède à ton ame:
+  Je cède à l'esprit d'Apollon,
     Aux talents d'Uranie;
-  Et c'est mï¿½me un peu ta raison
+  Et c'est même un peu ta raison
     Qui cause ma folie.           (_bis._)
 
   En toi, ce qu'on aime le plus,
-    Fait qu'on se dï¿½sespï¿½re:
+    Fait qu'on se désespère:
   En nous montrant moins de vertus,
     Tu saurais moins nous plaire.
-  De toi j'ai reï¿½u le poison,
+  De toi j'ai reçu le poison,
     De toi j'attends la vie:
   Corinne, rends-moi ma raison,
     Ou bien prends ma folie.      (_bis._)
@@ -1813,22 +1813,22 @@ CONTRE LA SAGESSE.
 
 
 
-L'AMANT PRï¿½SOMPTUEUX.
+L'AMANT PRÉSOMPTUEUX.
 
 
-    Air: _C'est la fille ï¿½ ma tante_.
+    Air: _C'est la fille à ma tante_.
 
   La simple violette,
   Tendre dans ses couleurs,
   Sur la naissante herbette
-  Rï¿½gne parmi les fleurs.
-  La jeune ï¿½glï¿½, comme elle,
+  Règne parmi les fleurs.
+  La jeune Églé, comme elle,
   Simple dans ses atours,
-  Craint de paraï¿½tre belle,
+  Craint de paraître belle,
   Mais triomphe toujours.
 
   Le plus beau du village
-  Lui peint tous ses dï¿½sirs;
+  Lui peint tous ses désirs;
   On entend sous l'ombrage
   Ses amoureux soupirs;
   Mais elle a ma tendresse,
@@ -1836,42 +1836,42 @@ L'AMANT PRï¿½SOMPTUEUX.
   Elle m'a dit sans cesse
   Qu'elle n'aimait que moi.
 
-  En vain elle est sï¿½vï¿½re;
-  Mais qu'importe ï¿½ mon coeur?
+  En vain elle est sévère;
+  Mais qu'importe à mon coeur?
   Le seul bien de lui plaire
-  Suffit ï¿½ mon bonheur.
+  Suffit à mon bonheur.
   Sa tendresse m'assure
-  De sa fidï¿½litï¿½
+  De sa fidélité
   Quel bien dans la nature
-  Vaut un souris d'ï¿½glï¿½?
+  Vaut un souris d'Églé?
 
 
 
 
 ROMANCE
 
-DE MADAME DE LA VALLIï¿½RE.
+DE MADAME DE LA VALLIÈRE.
 
 
-En 1806, le chef-d'oeuvre des miniatures de l'exposition du Musï¿½um
-ï¿½tait un tableau reprï¿½sentant madame de La Valliï¿½re dans sa cellule de
-carmï¿½lite. Un livre de priï¿½res ï¿½ la main: le sermon de Bourdaloue sur
-la Madeleine. Sur sa fenï¿½tre est un lis, emblï¿½me de Louis XIV et de la
+En 1806, le chef-d'oeuvre des miniatures de l'exposition du Muséum
+était un tableau représentant madame de La Vallière dans sa cellule de
+carmélite. Un livre de prières à la main: le sermon de Bourdaloue sur
+la Madeleine. Sur sa fenêtre est un lis, emblème de Louis XIV et de la
 France: elle le fixe; son livre lui tombe des mains, ses yeux se
-mouillent de douces larmes, la bontï¿½ de son ame se peint dans la
+mouillent de douces larmes, la bonté de son ame se peint dans la
 douceur de ses traits avec l'amour, le sentiment, la franchise et
-l'amitiï¿½. Ce morceau achevï¿½ m'inspira ces couplets.
+l'amitié. Ce morceau achevé m'inspira ces couplets.
 
 
-    Air: _C'est ï¿½ mon maï¿½tre en l'art de plaire_.
+    Air: _C'est à mon maître en l'art de plaire_.
 
   Un grand roi captiva mon ame,
-  J'osais espï¿½rer du retour;
+  J'osais espérer du retour;
   J'eus pour lui la plus tendre flamme,
-  Il ne la devait qu'ï¿½ l'amour:
-  A tout l'ï¿½clat qui l'environne
+  Il ne la devait qu'à l'amour:
+  A tout l'éclat qui l'environne
   Mon coeur ne trouvait point d'attraits;
-  Ce n'ï¿½tait pas une couronne,
+  Ce n'était pas une couronne,
   C'est un amant que je voulais.
 
   Sa grandeur faisait mon martyre;
@@ -1879,7 +1879,7 @@ l'amitiï¿½. Ce morceau achevï¿½ m'inspira ces couplets.
   Que, des sentiments qu'il inspire,
   Rien ne peut assurer un roi.
   J'aurais voulu, dans mon ivresse,
-  Rï¿½unir tout pour le charmer;
+  Réunir tout pour le charmer;
   Mais je n'avais que ma tendresse,
   Et tout mon art fut de l'aimer.
 
@@ -1887,20 +1887,20 @@ l'amitiï¿½. Ce morceau achevï¿½ m'inspira ces couplets.
   Car j'oubliai l'amour pour lui.
   L'amour punit ma perfidie
   Par le plus insensible oubli;
-  Un autre ï¿½ prï¿½sent sait lui plaire....
+  Un autre à présent sait lui plaire....
   Plus que moi je plains mon amant;
-  Il perd une amante sincï¿½re:
+  Il perd une amante sincère:
   Les rois n'en trouvent pas souvent.
 
 
 _A madame de Montespan, sa rivale, en regardant le lis._
 
   Et toi, qui me sembles si vaine
-  De la douleur oï¿½ tu me voi,
+  De la douleur où tu me voi,
   Je te pardonnerai sans peine
   Si tu sais l'aimer mieux que moi.
   Dans une retraite profonde
-  Je ne forme plus qu'un dï¿½sir:
+  Je ne forme plus qu'un désir:
   Qu'il existe heureux dans ce monde;
   Moi, j'attends un autre avenir.
 
@@ -1916,30 +1916,30 @@ SUR LE TRICTRAC.
 
   Galants, je veux vous apprendre,
   Sans livre et sans almanach,
-  Un jeu facile ï¿½ comprendre,
+  Un jeu facile à comprendre,
   Un nouveau jeu de trictrac.
   Il faut, en suivant la chance,
   Mettre les dames en bas;
-  C'est par-lï¿½ que l'on commence,
+  C'est par-là que l'on commence,
   Sans quoi l'on ne case pas.
 
   Quand on a su les abattre,
   On les pousse encore un peu
   Pour avoir de quoi combattre,
-  Il faut ï¿½tendre son jeu.
+  Il faut étendre son jeu.
   Si votre partie adverse
   Craint, et ne s'avance point,
   Que votre savoir s'exerce
   A battre vite son coin.
 
   C'est par le coin que l'on s'ouvre
-  L'entrï¿½e aux coups importants:
+  L'entrée aux coups importants:
   On passe une dame, on couvre,
   On avance, on met dedans;
-  Mais ne faites point d'ï¿½cole,
-  N'oubliez point ï¿½ marquer:
+  Mais ne faites point d'école,
+  N'oubliez point à marquer:
   Jamais on ne se console
-  D'ï¿½tre assez sot pour manquer.
+  D'être assez sot pour manquer.
 
   Pour faire de grands vacarmes,
   N'avoir jamais le dessous,
@@ -1951,7 +1951,7 @@ SUR LE TRICTRAC.
   Cinq ou six trous sans bouger.
 
   Une fille jeune et vive
-  Ne peut modï¿½rer son jeu,
+  Ne peut modérer son jeu,
   Ni, quand un beau coup arrive,
   Garder un juste milieu:
   Elle pousse un peu trop vite,
@@ -1960,10 +1960,10 @@ SUR LE TRICTRAC.
   Et l'on va le grand galop.
 
   Si par heureuse fortune,
-  En l'absence d'un ï¿½poux,
+  En l'absence d'un époux,
   Vous jouez contre une brune,
-  Soyez bien sï¿½r de vos coups:
-  Sur-tout point d'ï¿½tourderie,
+  Soyez bien sûr de vos coups:
+  Sur-tout point d'étourderie,
   Et prenez bien votre jour;
   Car on manque la partie
   Souvent par jan de retour.
@@ -1976,32 +1976,32 @@ VOILA COMME ILS SONT TOUS.
 
     Air: _Si des galants de la ville_.
 
-  Je conï¿½ois bien qu'un novice
+  Je conçois bien qu'un novice
   En amour perde son temps;
   Qu'il soit dupe du caprice,
   Qu'il prend pour du sentiment.
   Pour moi, satisfait de plaire,
   Je ne crois pas aux serments
-  Qu'une femme peu sincï¿½re
-  Fait toujours ï¿½ ses amants.
+  Qu'une femme peu sincère
+  Fait toujours à ses amants.
 
-  Je dï¿½teste l'esclavage,
+  Je déteste l'esclavage,
   Le plaisir seul est ma loi;
   Je me plais au badinage,
   Sans jamais donner ma foi;
   Et, de peur qu'une volage
-  Ne me donne mon congï¿½,
+  Ne me donne mon congé,
   Le matin si je m'engage,
-  Le soir je suis dï¿½gagï¿½.
+  Le soir je suis dégagé.
 
-  ï¿½glï¿½, Corinne, Julie,
-  Ont eu mes voeux tour ï¿½ tour:
-  Je suis nï¿½ sans jalousie,
-  Et mon coeur est sans dï¿½tour.
+  Églé, Corinne, Julie,
+  Ont eu mes voeux tour à tour:
+  Je suis né sans jalousie,
+  Et mon coeur est sans détour.
   J'offre aux belles mon hommage,
-  Fruit de ma sincï¿½ritï¿½;
+  Fruit de ma sincérité;
   C'est comme un droit de passage
-  Que l'on doit ï¿½ la beautï¿½.
+  Que l'on doit à la beauté.
 
 
 
@@ -2011,43 +2011,43 @@ LE VIEILLARD JEUNE HOMME.
 
     Air: _Si de tous les maux de l'absence_.
 
-  Permets, Hï¿½bï¿½, que la vieillesse
+  Permets, Hébé, que la vieillesse
   Chante la saison des amours,
-  Ou calme, auprï¿½s de la jeunesse,
+  Ou calme, auprès de la jeunesse,
   L'ennui cruel de ses vieux jours:
-  L'hiver goï¿½te un plaisir cï¿½leste
+  L'hiver goûte un plaisir céleste
   En se rapprochant du printemps;
   Laisse-moi savourer un reste,
   Un vieux reste de mon bon temps.
 
-  Quand dans nos champs une bergï¿½re
+  Quand dans nos champs une bergère
   Couronne son heureux berger;
-  Quand la molle et verte fougï¿½re
-  Obï¿½it sous son pas lï¿½ger;
+  Quand la molle et verte fougère
+  Obéit sous son pas léger;
   Quand de ses pleurs la jeune aurore
   Arrose les fleurs du printemps;
   Quand dans le monde tout s'adore,
-  C'est l'ï¿½ge d'or, c'est le bon temps.
+  C'est l'âge d'or, c'est le bon temps.
 
-  Jeune Hï¿½bï¿½, je commence ï¿½ croire,
-  Aux feux que je sens prï¿½s de toi,
+  Jeune Hébé, je commence à croire,
+  Aux feux que je sens près de toi,
   Que les dieux veulent pour ta gloire
   Faire un nouveau Titan de moi:
-  Quand sur ton teint je vois ï¿½clore
+  Quand sur ton teint je vois éclore
   Toutes les roses du printemps;
   Ce tableau me rappelle encore
   Ce que je fis dans mon bon temps.
 
   Si jamais de quelque puissance
-  Je suis revï¿½tu dans les cieux,
-  Je rends le monde ï¿½ son enfance;
+  Je suis revêtu dans les cieux,
+  Je rends le monde à son enfance;
   Et quant au dieu d'amour, je veux
   Qu'il immortalise les belles,
-  Qu'il ï¿½ternise leur printemps;
-  Et qu'il coupe, en brï¿½lant ses ailes,
+  Qu'il éternise leur printemps;
+  Et qu'il coupe, en brûlant ses ailes,
   Les ongles et la barbe au temps.
 
-  _Attribuï¿½e au duc de Nivernois._
+  _Attribuée au duc de Nivernois._
 
 
 
@@ -2056,188 +2056,188 @@ LE JEUNE HOMME VIEILLARD.
 
 
   Souffrez, amis, que je vous dise
-  Le triste ï¿½tat de mes amours;
+  Le triste état de mes amours;
   Je vais le faire avec franchise,
   Ne vous y fiez pas toujours:
-  Dï¿½plorez tous mon sort funeste,
-  L'hiver succï¿½de ï¿½ mon printemps.
+  Déplorez tous mon sort funeste,
+  L'hiver succède à mon printemps.
   Ah! quand on y va de son reste,
-  Hï¿½las! c'est bien le pauvre temps!
+  Hélas! c'est bien le pauvre temps!
 
-  Quand j'aperï¿½ois cette bergï¿½re
-  Auprï¿½s de son heureux berger;
-  Quand je songe ï¿½ ce qu'il doit faire,
-  Oui, je suis prï¿½t d'en enrager:
-  Auprï¿½s d'un objet qu'il adore,
+  Quand j'aperçois cette bergère
+  Auprès de son heureux berger;
+  Quand je songe à ce qu'il doit faire,
+  Oui, je suis prêt d'en enrager:
+  Auprès d'un objet qu'il adore,
   Ses feux sont toujours renaissants....
   Vainement je l'appelle encore
   La vigueur de mon ancien temps!
 
-  A cinquante ans, nos joyeux pï¿½res
-  Brï¿½laient jadis de nouveaux feux!
+  A cinquante ans, nos joyeux pères
+  Brûlaient jadis de nouveaux feux!
   Aujourd'hui, quels effets contraires!
-  A trente ans je suis dï¿½jï¿½ vieux.
-  Comme ï¿½ Titan, l'Aurore aimable
+  A trente ans je suis déjà vieux.
+  Comme à Titan, l'Aurore aimable
   Devrait ressusciter mes sens;
-  Mais, hï¿½las! ce n'est qu'une fable
+  Mais, hélas! ce n'est qu'une fable
   Des annales du bon vieux temps.
 
-Pour m'en consoler, reprit le chanteur, buvons du vin de Palme jusqu'ï¿½
-ce que l'air de France me rajeunisse, et disons en dï¿½pit du sort:
+Pour m'en consoler, reprit le chanteur, buvons du vin de Palme jusqu'à
+ce que l'air de France me rajeunisse, et disons en dépit du sort:
 
   Amis, jusqu'en notre vieillesse
-  Mï¿½nageons-nous d'heureux moments;
+  Ménageons-nous d'heureux moments;
   C'est un songe que la vieillesse
-  Aprï¿½s la saison des amants.
+  Après la saison des amants.
   Vivent les plaisirs de la table;
   L'automne vaut bien le printemps:
-  Savourons ce jus dï¿½lectable,
-  Croyez-moi, c'est-lï¿½ le bon temps.
+  Savourons ce jus délectable,
+  Croyez-moi, c'est-là le bon temps.
 
 
 
 
-CHANSON CRï¿½OLE.
+CHANSON CRÉOLE.
 
 
-_Musique Crï¿½ole._
+_Musique Créole._
 
   Moi las de tant souffrir,
-    Moi v'lï¿½ mourir.
+    Moi v'lè mourir.
     Zizi trop cruelle,
   Moi las de tant souffrir,
-    Moi v'lï¿½ mourir,
+    Moi v'lè mourir,
     Pour mal moi finir.
   Moi bandi en yeux li qui belle;
-  Moi jurï¿½ li, et moi fidï¿½le,
+  Moi jurè li, et moi fidèle,
       Zizi ny l'air ben doux,
           Mais coeur cailloux,
-        Ly cache lï¿½-z-ous.
+        Ly cache là-z-ous.
 
   Z'autre qui toujours heureux,
       Ben amoureux;
   La sou-z-un feuillage,
-  Zozo n'a pas chantï¿½....
-      Yo moment, pï¿½t!....
+  Zozo n'a pas chantè....
+      Yo moment, pèt!....
     Zo moi trop mauvais;
-  Malgrï¿½ moi, ben content, ben sage,
-  Pas zottï¿½, Zizi, li volage,
-    Zozo n'a pas chantï¿½!....
-      Yo moment pï¿½t,
+  Malgré moi, ben content, ben sage,
+  Pas zottè, Zizi, li volage,
+    Zozo n'a pas chantè!....
+      Yo moment pèt,
   Sont moi trop mauvais.
 
   Zizi, pas save aimer,
-      Ayant charmï¿½,
-  ï¿½ï¿½ tout ï¿½a li scave,
-  Coeur moi tant dï¿½sirï¿½,
-        Tant soupirï¿½
-      Li sont dï¿½chirï¿½,
+      Ayant charmé,
+  Çà tout ça li scave,
+  Coeur moi tant désiré,
+        Tant soupiré
+      Li sont déchiré,
   Moi vinit plat comme youm casave,
-  Moi semblï¿½ un viel pauvre esclave;
+  Moi semblè un viel pauvre esclave;
       Zizi pas save aimer,
-          Ayant charmï¿½,
-        Li tout dï¿½chirï¿½.
+          Ayant charmé,
+        Li tout déchiré.
 
   Premier jour, moi voi li
-      ï¿½a moi sentir
-  Parlï¿½ petit'chose,
+      Ça moi sentir
+  Parlé petit'chose,
       Premier jour moi voir ly
-          ï¿½a moi sentir
+          Ça moi sentir
         Yous trop grand plaisir;
   Couler lis et couler la rose,
-  Si moi fou, ï¿½a li qui la cause,
+  Si moi fou, ça li qui la cause,
       Ly dit: ay l'air ben doux;
           Mais coeur cailloux
-        Li cache lï¿½-zous.
+        Li cache là-zous.
 
 
 
 
-DESTINï¿½E
+DESTINÉE
 
 DE LA FEMME COQUETTE.
 
 
-    Air: _Tï¿½t tï¿½t tï¿½t, battez chaud, etc._
+    Air: _Tôt tôt tôt, battez chaud, etc._
 
-  La jeune Elvire ï¿½ quatorze ans,
-  Livrï¿½e ï¿½ des goï¿½ts innocents,
+  La jeune Elvire à quatorze ans,
+  Livrée à des goûts innocents,
   Voit, sans en deviner l'usage,
-  ï¿½clore ses charmes naissants;
+  Éclore ses charmes naissants;
   Mais l'amour, effleurant ses sens,
-  Lui dï¿½robe un premier hommage:
+  Lui dérobe un premier hommage:
               Un soupir
               Vient d'ouvrir
               Au plaisir
               Le passage,
-  Un songe a percï¿½ le nuage.
+  Un songe a percé le nuage.
 
-  Lindor, ï¿½pris de sa beautï¿½,
-  Se dï¿½clare: il est ï¿½coutï¿½:
+  Lindor, épris de sa beauté,
+  Se déclare: il est écouté:
   D'un songe, d'une vive image,
-  Lindor est la rï¿½alitï¿½.
-  Le sein d'Elvire est agitï¿½,
+  Lindor est la réalité.
+  Le sein d'Elvire est agité,
   Le trouble a couvert son visage;
               Quel moment,
               Si l'amant
               Plus ardent
-              A cet ï¿½ge
-  Avait hasardï¿½ davantage!
+              A cet âge
+  Avait hasardé davantage!
 
   Mais quel trouble vient la saisir
-  Cet objet d'un premier dï¿½sir,
+  Cet objet d'un premier désir,
   Qu'avec rougeur elle envisage,
-  Est l'ï¿½poux qu'on doit lui choisir.
+  Est l'époux qu'on doit lui choisir.
   On les unit; dieux! quel plaisir!
   Elvire en fournit plus d'un gage;
               Les ardeurs,
               Les langueurs,
               Les fureurs,
-              Tout prï¿½sage
-  Qu'on veut un ï¿½poux sans partage.
+              Tout présage
+  Qu'on veut un époux sans partage.
 
   Dans le monde, un essaim flatteur
   Vivement agite son coeur.
   Lindor est devenu volage,
-  Il a mï¿½connu son bonheur.
+  Il a méconnu son bonheur.
   Elvire a fait choix d'un vengeur
-  Qui la prï¿½vient, qui l'encourage;
+  Qui la prévient, qui l'encourage;
               Vengez-vous,
               Il est doux,
-              Quand l'ï¿½poux
-              Se dï¿½gage,
-  Qu'un amant rï¿½pare l'outrage.
+              Quand l'époux
+              Se dégage,
+  Qu'un amant répare l'outrage.
 
-  Voilï¿½ l'outrage rï¿½parï¿½,
-  Son coeur n'est que plus altï¿½rï¿½.
-  Des plaisirs le frï¿½quent usage
-  Rend le dï¿½sir immodï¿½rï¿½.
-  Son regard fixe et dï¿½clarï¿½
+  Voilà l'outrage réparé,
+  Son coeur n'est que plus altéré.
+  Des plaisirs le fréquent usage
+  Rend le désir immodéré.
+  Son regard fixe et déclaré
   A tout amant tient ce langage:
-              Dï¿½s ce soir,
+              Dès ce soir,
               Si l'espoir
               De me voir
               Vous engage,
-  Venez, je reï¿½ois votre hommage.
+  Venez, je reçois votre hommage.
 
-  Elle ï¿½puise tous les excï¿½s;
-  Mais au milieu de ses succï¿½s,
-  L'ï¿½poux meurt, et pour hï¿½ritage
-  Laisse des dettes, des procï¿½s.
-  Un vieux traitant demande accï¿½s,
+  Elle épuise tous les excès;
+  Mais au milieu de ses succès,
+  L'époux meurt, et pour héritage
+  Laisse des dettes, des procès.
+  Un vieux traitant demande accès,
   L'or accompagne son message:
               Un coup d'oeil
-              Est l'ï¿½cueil
-              Oï¿½ l'orgueil
+              Est l'écueil
+              Où l'orgueil
               Fait naufrage;
-  Un ï¿½crin couronne l'ouvrage.
+  Un écrin couronne l'ouvrage.
 
   Dans ces laborieux passe-temps,
-  Elvire a passï¿½ son printemps:
-  La coquette d'un certain ï¿½ge
+  Elvire a passé son printemps:
+  La coquette d'un certain âge
   N'a plus d'ami, n'a plus d'amants.
   En vain de quelques jeunes gens
-  Elle ï¿½bauche l'apprentissage;
+  Elle ébauche l'apprentissage;
               Tout est dit,
               L'amour fuit
               On en rit,
@@ -2254,18 +2254,18 @@ LES GANTS.
 
   L'hiver, mes amis, sera rude,
   Et de pester j'aurai le droit;
-  Car ma singuliï¿½re habitude
+  Car ma singulière habitude
   Va me reprendre avec le froid.
   J'ai beau m'en faire le reproche,
-  Mï¿½me sottise tous les ans;
+  Même sottise tous les ans;
   Pour avoir chaud, c'est dans ma poche
-  Que j'ai toujours portï¿½ mes gants.
+  Que j'ai toujours porté mes gants.
 
   Pourtant la lecture rend sage;
-  J'ai beaucoup lu, sans vanitï¿½.
+  J'ai beaucoup lu, sans vanité.
   Ganter ses mains est un usage
-  Consacrï¿½ par l'antiquitï¿½.
-  Nos paladins ï¿½ l'humeur fiï¿½re,
+  Consacré par l'antiquité.
+  Nos paladins à l'humeur fière,
   Que faisaient-ils au bon vieux temps,
   Pour rendre plus chaude une affaire,
   Au nez ils se jetaient leurs gants.
@@ -2274,12 +2274,12 @@ LES GANTS.
   De tous les vices suit la loi;
   Est-ce en lui faisant la grimace
   Que nous obtiendrons un emploi?
-  Quoique son mï¿½chant caractï¿½re
-  Agite et rï¿½volte nos sens;
+  Quoique son méchant caractère
+  Agite et révolte nos sens;
   Voulons-nous gagner notre affaire?
   Pour lui parler prenons des gants.
 
-  Au thï¿½ï¿½tre, si mon ouvrage
+  Au théâtre, si mon ouvrage
   Satisfait peu les assistants;
   S'il est suivi, non d'un orage,
   Mais de sourds applaudissements,
@@ -2289,58 +2289,58 @@ LES GANTS.
   Tout le monde avait mis des gants.
 
   Jeunes fillettes qu'on marie,
-  Le gant blanc vous est prï¿½sentï¿½;
+  Le gant blanc vous est présenté;
   A votre main, il signifie
-  Innocence et fidï¿½litï¿½.
+  Innocence et fidélité.
   Faut-il qu'un seul point m'importune!
   Faut-il, au bout de quelque temps,
-  Qu'ï¿½ chaque doigt, sans crainte aucune,
-  Vous dï¿½chiriez ainsi vos gants!
+  Qu'à chaque doigt, sans crainte aucune,
+  Vous déchiriez ainsi vos gants!
 
-  Si, dï¿½s la premiï¿½re journï¿½e,
-  Parfois l'ï¿½poux a du souci,
-  N'accusons point la destinï¿½e;
+  Si, dès la première journée,
+  Parfois l'époux a du souci,
+  N'accusons point la destinée;
   Il n'en est pas toujours ainsi.
   Voyez celui qu'amour invite
   A cueillir rose du printemps;
   Pour peu que l'arbuste s'agite,
-  Il s'ï¿½criera: j'en ai les gants.
+  Il s'écriera: j'en ai les gants.
 
-  GRï¿½TRY neveu.
+  GRÉTRY neveu.
 
 
 
 
 LE MOT ET LA CHOSE.
 
-Adressï¿½ ï¿½ une femme susceptible par d'autres femmes.
+Adressé à une femme susceptible par d'autres femmes.
 
 
-    Air: _Dans ce salon oï¿½ du Poussin_.
+    Air: _Dans ce salon où du Poussin_.
 
   Avec un maintien aussi doux,
   Avec autant de modestie,
-  Pourquoi tous fï¿½cher contre nous
+  Pourquoi tous fâcher contre nous
   A la moindre plaisanterie?
   Pour tous, un aussi mauvais lot
-  Fait dire ï¿½ chacun dans sa glose,
+  Fait dire à chacun dans sa glose,
   Que vous vous offensez du mot,
   Et que vous aimez mieux la chose.
 
   Si tel est votre bon plaisir,
-  Votre goï¿½t est vraiment louable;
+  Votre goût est vraiment louable;
   Il est toujours bon de choisir
-  L'utile au lieu de l'agrï¿½able.
+  L'utile au lieu de l'agréable.
   Quand l'hymen sera votre lot,
   Je vois que votre seule clause
   Sera de tous priver du mot,
   Et d'aimer plus souvent la chose.
 
-  Ne disputons plus dï¿½sormais,
-  Chacun a son goï¿½t dans ce monde;
+  Ne disputons plus désormais,
+  Chacun a son goût dans ce monde;
   Qu'il soit bon, ou qu'il soit mauvais,
-  C'est bien ï¿½ tort que l'on en gronde.
-  Mais pour rï¿½tablir au plutï¿½t
+  C'est bien à tort que l'on en gronde.
+  Mais pour rétablir au plutôt
   Une paix que je vous propose,
   De grace, laissez-nous le mot,
   Nous vous abandonnons la chose.
@@ -2352,21 +2352,21 @@ Adressï¿½ ï¿½ une femme susceptible par d'autres femmes.
 
 COUPLET
 
-Adressï¿½ avec une rose ï¿½ Mademoiselle ***.
+Adressé avec une rose à Mademoiselle ***.
 
 
     Air: _J'ai vu par-tout dans mes voyages_.
 
   De toutes parts on se dispose
-  A vous fï¿½ter, ï¿½ vous fleurir;
+  A vous fêter, à vous fleurir;
   L'amour m'a fourni cette rose,
   Permettez-moi de vous l'offrir.
-  Une rose pour votre fï¿½te....
+  Une rose pour votre fête....
   L'hommage n'est point indiscret,
-  Et c'est un moyen fort honnï¿½te
+  Et c'est un moyen fort honnête
   De vous donner votre portrait.
 
-  ARMAND-GOUFFï¿½.
+  ARMAND-GOUFFÉ.
 
 
 
@@ -2377,17 +2377,17 @@ LE DEVIN.
     Air: _De la Fanfare de Saint-Cloud_.
 
   Je suis d'un fort bon augure,
-  Approchez gens de cï¿½ans;
+  Approchez gens de céans;
   Je lis sur chaque figure
-  Avec des yeux pï¿½nï¿½trants.
-  Plus d'une vieille commï¿½re
+  Avec des yeux pénétrants.
+  Plus d'une vieille commère
   Me traitera de sorcier;
   C'est ce qu'on dit d'ordinaire
-  A qui sait bien son mï¿½tier.
+  A qui sait bien son métier.
 
-  Commenï¿½ons par vous, Thï¿½rï¿½se:
+  Commençons par vous, Thérèse:
   Vous soupirez nuit et jour;
-  Vous ï¿½prouvez un malaise
+  Vous éprouvez un malaise
   Qu'on appelle mal d'amour;
   Votre maman trop cruelle
   Long-temps vous fera languir;
@@ -2398,27 +2398,27 @@ LE DEVIN.
   Vous avez ce qu'il vous faut;
   Mais cependant au plus vite,
   Qu'un mari soit votre lot;
-  Jacques, Pierre, ou Nicodï¿½me,
+  Jacques, Pierre, ou Nicodême,
   Eh! n'importe qui vraiment,
-  Pourvu qu'avant le carï¿½me
-  Vous puissiez ï¿½tre maman.
+  Pourvu qu'avant le carême
+  Vous puissiez être maman.
 
-  Qu'avez-vous, gros maï¿½tre Blaise?
+  Qu'avez-vous, gros maître Blaise?
   Vous marchez d'un pas bien lourd;
-  Pour voir vos pieds ï¿½ votre aise,
+  Pour voir vos pieds à votre aise,
   Comment ferez-vous un jour?
   Votre amour pour le beau sexe
   Vous menace d'un affront;
   Car un accent circonflexe
-  Orne dï¿½jï¿½ votre front.
+  Orne déjà votre front.
 
   Vous, Thomas, sans retenue,
   A chaque instant vous criez
   Que votre vin diminue;
-  Quoique vous le mï¿½nagiez.
+  Quoique vous le ménagiez.
   Votre femme feint de croire
   Aux esprits, aux loups-garoux.
-  Mais votre voisin Grï¿½goire
+  Mais votre voisin Grégoire
   Est ivrogne comme vous.
 
   De moi, vous voulez apprendre
@@ -2428,14 +2428,14 @@ LE DEVIN.
   Il est certain que j'ignore
   Si dans six mois vous vivrez;
   Mais si vous vivez encore,
-  Il est sï¿½r que vous boirez.
+  Il est sûr que vous boirez.
 
-  GRï¿½TRY neveu.
-
-
+  GRÉTRY neveu.
 
 
-LES AINï¿½S ET LES CADETS.
+
+
+LES AINÉS ET LES CADETS.
 
 
     Air: _Du ballet des Pierrots_.
@@ -2443,113 +2443,113 @@ LES AINï¿½S ET LES CADETS.
   Le plus heureux en toutes choses
   Est celui qui vient le premier.
   Le premier venu prend les roses,
-  Et l'ï¿½pine reste au dernier.
+  Et l'épine reste au dernier.
   Il en est ainsi chez Thalie,
-  Trop tard, hï¿½las! nous sommes nï¿½s;
+  Trop tard, hélas! nous sommes nés;
   Il nous faut glaner pour la vie,
-  La moisson fut pour nos aï¿½nï¿½s.
+  La moisson fut pour nos aînés.
 
-  L'Hymen de l'Amour est le frï¿½re,
+  L'Hymen de l'Amour est le frère,
   Mais l'Amour naquit le premier;
-  Et dans les jardins de Cythï¿½re
+  Et dans les jardins de Cythère
   L'Hymen ne vint que le dernier.
-  Tous deux ont part ï¿½ l'hï¿½ritage,
-  Mais l'Hymen, souvent chagrinï¿½,
+  Tous deux ont part à l'héritage,
+  Mais l'Hymen, souvent chagriné,
   N'a que les fruits pour son partage,
-  Les fleurs sont toujours pour l'aï¿½nï¿½.
+  Les fleurs sont toujours pour l'aîné.
 
   On sait assez que la nature
-  Donne encore un frï¿½re ï¿½ l'Amour:
+  Donne encore un frère à l'Amour:
   C'est l'Amour-propre; et l'on assure
-  Qu'avant l'autre il reï¿½ut le jour.
-  A perdre, en naissant, la lumiï¿½re,
-  Le jeune Amour fut condamnï¿½;
+  Qu'avant l'autre il reçut le jour.
+  A perdre, en naissant, la lumière,
+  Le jeune Amour fut condamné;
   Aussi le voit-on sur la terre,
-  Souvent conduit par son aï¿½nï¿½.
+  Souvent conduit par son aîné.
 
   DUPATY.
 
 
 
 
-LE TOMBEAU DE Cï¿½CILE.
+LE TOMBEAU DE CÉCILE.
 
 
-    Air: _C'est ï¿½ mon maï¿½tre en l'art de plaire_.
+    Air: _C'est à mon maître en l'art de plaire_.
 
   Tout reposait dans la nature,
-  Phoebï¿½e seule ï¿½clairait les cieux,
-  Et sa lumiï¿½re douce et pure
-  Rï¿½pandait le calme en tous lieux;
-  Le berger, prï¿½s de sa compagne,
-  Du sommeil goï¿½tait la douceur;
+  Phoebée seule éclairait les cieux,
+  Et sa lumière douce et pure
+  Répandait le calme en tous lieux;
+  Le berger, près de sa compagne,
+  Du sommeil goûtait la douceur;
   Victor, parcourant la campagne,
   Veillait seul avec sa douleur.
 
-  Victor, au printemps de son ï¿½ge,
+  Victor, au printemps de son âge,
   Avait connu les coups du sort;
   Le tendre objet de son hommage
   Dormait dans les bras de la mort.
-  Prï¿½t ï¿½ fixer sa destinï¿½e,
+  Prêt à fixer sa destinée,
   Victor voyait combler ses voeux;
-  Et le flambeau de l'hymï¿½nï¿½e
-  S'allume et s'ï¿½teint ï¿½ ses yeux.
+  Et le flambeau de l'hyménée
+  S'allume et s'éteint à ses yeux.
 
-  Chaque nuit, cet amant fidï¿½le,
-  Le coeur navrï¿½, versant des pleurs,
+  Chaque nuit, cet amant fidèle,
+  Le coeur navré, versant des pleurs,
   Au pied du tombeau de sa belle,
   A veiller trouvait des douceurs.
-  Placï¿½ dans un champï¿½tre asile,
+  Placé dans un champêtre asile,
   Et loin des regards curieux,
-  Ce tombeau renfermait Cï¿½cile,
-  Oï¿½ Victor eï¿½t-il ï¿½tï¿½ mieux?
+  Ce tombeau renfermait Cécile,
+  Où Victor eût-il été mieux?
 
-  C'est lï¿½, disait-il, que repose
+  C'est là, disait-il, que repose
   Celle que m'accordait l'amour;
-  Semblable ï¿½ la naissante rose,
-  Son ï¿½clat n'a durï¿½ qu'un jour!
-  Cï¿½cile ï¿½tait faite pour plaire,
+  Semblable à la naissante rose,
+  Son éclat n'a duré qu'un jour!
+  Cécile était faite pour plaire,
   L'amour la forma de ses traits;
-  Hï¿½las! faut-il donc que la terre
+  Hélas! faut-il donc que la terre
   Ensevelisse tant d'attraits?
 
-  Son front, trï¿½ne de l'innocence,
+  Son front, trône de l'innocence,
   Brillait d'une aimable pudeur;
   Les vains plaisirs de l'inconstance
   N'avaient point corrompu son coeur;
-  Ses yeux, oï¿½ se peignait son ame,
+  Ses yeux, où se peignait son ame,
   Ne s'ouvraient que pour mon bonheur;
-  Ses yeux, oï¿½ j'allumais ma flamme,
-  Sont fermï¿½s mï¿½me ï¿½ ma douleur.
+  Ses yeux, où j'allumais ma flamme,
+  Sont fermés même à ma douleur.
 
-  Ombre chï¿½re, tendre victime,
+  Ombre chère, tendre victime,
   Accours, vient recevoir ma foi;
   Sors du froid cercueil qui t'opprime
   Pour voltiger autour de moi.
-  Que de l'hymen la chaï¿½ne heureuse,
-  Malgrï¿½ la mort, double nos feux;
+  Que de l'hymen la chaîne heureuse,
+  Malgré la mort, double nos feux;
   Et que la tombe moins affreuse
   Se ferme ensuite sur tous deux.
 
-  Peut-ï¿½tre tu me dis, Cï¿½cile:
+  Peut-être tu me dis, Cécile:
   Faible ami, pourquoi, quand la mort
   Ouvrit pour moi ce triste asile
-  N'as-tu pas partagï¿½ mon sort?
-  Oui, ton amant voit la lumiï¿½re,
-  Au trï¿½pas il n'eut pas recours;
-  Mais sa peine est bien plus amï¿½re,
+  N'as-tu pas partagé mon sort?
+  Oui, ton amant voit la lumière,
+  Au trépas il n'eut pas recours;
+  Mais sa peine est bien plus amère,
   Il vit pour mourir tous les jours.
 
-  Adieu, tombeau de ma maï¿½tresse,
+  Adieu, tombeau de ma maîtresse,
   Toi que j'arrose de mes pleurs!
   Puissent ces marques de tristesse
-  Sur toi faire ï¿½clore des fleurs!
+  Sur toi faire éclore des fleurs!
   Alors Victor, d'un pas tranquille,
-  Mais le dï¿½sespoir dans le sein,
-  Quittait la tombe de Cï¿½cile,
+  Mais le désespoir dans le sein,
+  Quittait la tombe de Cécile,
   Pour la revoir le lendemain.
 
-  GRï¿½TRY neveu.
+  GRÉTRY neveu.
 
 
 
@@ -2561,15 +2561,15 @@ LA BOUCHE.
 
   Il faut convenir que les cieux
   Ont fait pour nous bien des merveilles;
-  Les cieux nous ont donnï¿½ des yeux,
+  Les cieux nous ont donné des yeux,
   Des mains, des pieds et des oreilles....
   Sans doute, ici, vous devinez
   Pourquoi je tousse et je me mouche?
   C'est qu'avant de parler du nez,
   Je veux commencer par la bouche.
 
-  On a vu des aveugles nï¿½s,
-  Chantant gaï¿½ment leurs chansonnettes;
+  On a vu des aveugles nés,
+  Chantant gaîment leurs chansonnettes;
   On peut bien se passer d'un nez,
   Lorsqu'on sait lire sans lunette.
   On brave les bruits les plus fous
@@ -2578,51 +2578,51 @@ LA BOUCHE.
   Si vous n'aviez pas une bouche?
 
   De comestibles succulents
-  Quand notre hï¿½te garnit sa table,
-  Ortolans, merlans, ï¿½perlans
+  Quand notre hôte garnit sa table,
+  Ortolans, merlans, éperlans
   Composent un groupe admirable:
   Mes yeux convoitent chaque mets;
   Avec plaisir ma main les touche;
   Et mon nez les respire.... mais
   Je n'en mange qu'avec ma bouche!
 
-  L'Amour, cet espiï¿½gle marmot,
+  L'Amour, cet espiègle marmot,
   A, je le sais, plus d'un langage.
   Par un geste, il remplace un mot;
   Souvent c'est un grand avantage:
   Sans rien dire, l'on dit beaucoup
-  A la beautï¿½ la plus farouche;
+  A la beauté la plus farouche;
   Mais le mot j'aime, qui dit tout,
   On ne le dit qu'avec la bouche.
 
   Ce vin dont vous vous enivrez,
-  Qui vous ï¿½chauffe et vous rï¿½veille,
-  Peut-ï¿½tre vous me soutiendrez
+  Qui vous échauffe et vous réveille,
+  Peut-être vous me soutiendrez
   Que vous l'avalez par l'oreille?
   Qu'on apporte ce jus divin;
-  Eh vite! qu'on le dï¿½bouche!....
-  Je suis sï¿½r qu'en parlant du vin,
-  L'eau dï¿½jï¿½ vous vient ï¿½ la bouche.
+  Eh vite! qu'on le débouche!....
+  Je suis sûr qu'en parlant du vin,
+  L'eau déjà vous vient à la bouche.
 
   Sur ma bouche faut-il rester?
   Non, non; dans mon transport bachique,
-  J'aime mieux vingt fois mï¿½riter
-  D'ï¿½tre mordu par la critique.
+  J'aime mieux vingt fois mériter
+  D'être mordu par la critique.
   Jamais, messieurs, je ne m'en plains;
   Et loin que sa fureur me touche,
-  C'est ï¿½ coup de verres bien pleins
+  C'est à coup de verres bien pleins
   Que je veux lui fermer la bouche.
 
   Mesdames, vous qui m'inspirez,
-  En voyant ma bouche paraï¿½tre,
+  En voyant ma bouche paraître,
   Dans ma bouche vous trouverez
-  Mille et mille dï¿½fauts peut-ï¿½tre.
+  Mille et mille défauts peut-être.
   Combien je ferais de jaloux
   Si vous ne preniez pas la mouche,
   Et si ma bouche, parmi vous,
-  Volait gaï¿½ment de bouche en bouche.
+  Volait gaîment de bouche en bouche.
 
-  ARMAND-GOUFFï¿½.
+  ARMAND-GOUFFÉ.
 
 
 
@@ -2632,50 +2632,50 @@ LA VEILLE.
 
     Air: _Vous qui de l'amoureuse ivresse_.
 
-  N'en puis douter, ï¿½ mon Estelle!
+  N'en puis douter, ô mon Estelle!
             C'est donc demain,
-  Que pastoureau tendre et fidï¿½le
-            Reï¿½oit ta main?
+  Que pastoureau tendre et fidèle
+            Reçoit ta main?
   Nuit semblera bien longue encore,
             Vais soupirer:
   Serai surpris par douce aurore
-            A dï¿½sirer.
+            A désirer.
 
   Tendres parents, vous que tant j'aime!
             Vous dis adieu;
-  De fleurs, demain, viendrai moi-mï¿½me
+  De fleurs, demain, viendrai moi-même
             Parer ce lieu:
   Mettrai par-tout rose nouvelle;
             Car, pour se voir,
-  Ne puis donner ï¿½ mon Estelle
+  Ne puis donner à mon Estelle
             Plus doux miroir.
 
-  Chacun s'ï¿½loigne, ï¿½ mon amie!
+  Chacun s'éloigne, ô mon amie!
             Un seul baiser:
   Bouche d'Estelle est trop jolie
             Pour refuser.
   Premier bon soir ne peut suffire,
             Quand par amour
-  Le temps approche oï¿½ l'on peut dire
+  Le temps approche où l'on peut dire
             Premier bon jour.
 
   Pourquoi ce trouble, mon Estelle?
             N'aime que toi;
-  Toujours amant, ï¿½poux fidï¿½le
+  Toujours amant, époux fidèle
             Vivrai pour toi.
-  Nuit est dï¿½jï¿½ bien avancï¿½e,
+  Nuit est déjà bien avancée,
             Repose-toi,
-  Et crois que suis par la pensï¿½e
-            Bien prï¿½s de toi.
+  Et crois que suis par la pensée
+            Bien près de toi.
 
-  GRï¿½TRY neveu.
+  GRÉTRY neveu.
 
 
 
 
 L'AIR.
 
-CHANSON Lï¿½Gï¿½RE.
+CHANSON LÉGÈRE.
 
 
     Air: _Du ballet des Pierrots_.
@@ -2691,38 +2691,38 @@ CHANSON Lï¿½Gï¿½RE.
 
   Travailler est notre habitude;
   Sans le travail, adieu nos jours;
-  Le besoin et l'inquiï¿½tude
-  Viendront en abrï¿½ger le cours.
+  Le besoin et l'inquiétude
+  Viendront en abréger le cours.
   Aussi, j'ai la preuve certaine
   Que l'on jouirait plus long-temps,
   Et que l'on prendrait moins de peine
   Si l'on vivait de l'air du temps.
 
-  Jugeant du ton par la dï¿½pense,
+  Jugeant du ton par la dépense,
   Dans un repas de cent couverts,
   Voyez avec quelle insolence
   Mondor se donne de grands airs:
-  Oui; mais dans sa mï¿½tamorphose,
+  Oui; mais dans sa métamorphose,
   Quand Mondor, avec tout son bien,
   Veut avoir l'air de quelque chose,
-  Hï¿½las! il n'a plus l'air de rien.
+  Hélas! il n'a plus l'air de rien.
 
   Lise a seize ans, Lise est jolie
-  Avec son air embarrassï¿½;
-  Jusqu'ï¿½ prï¿½sent, par modestie,
-  Elle marcha le nez baissï¿½.
-  Depuis que sa mï¿½re lui nomme
-  L'ï¿½poux qui viendra cet hiver,
-  Dï¿½s qu'elle voit le nez d'un homme,
+  Avec son air embarrassé;
+  Jusqu'à présent, par modestie,
+  Elle marcha le nez baissé.
+  Depuis que sa mère lui nomme
+  L'époux qui viendra cet hiver,
+  Dès qu'elle voit le nez d'un homme,
   La friponne a le nez en l'air.
 
-  De mes couplets sans consï¿½quence
+  De mes couplets sans conséquence
   Jamais je ne me montre fier;
   Mais je suis, dans cette occurrence,
-  Tout gonflï¿½ d'avoir chantï¿½ l'air.
-  Vous dont je brigue la conquï¿½te,
-  Belles, convenez sans faï¿½on,
-  Que dï¿½sormais si j'ai l'air bï¿½te,
+  Tout gonflé d'avoir chanté l'air.
+  Vous dont je brigue la conquête,
+  Belles, convenez sans façon,
+  Que désormais si j'ai l'air bête,
   J'en aurai l'air et la chanson.
 
   BRAZIER fils.
@@ -2733,14 +2733,14 @@ CHANSON Lï¿½Gï¿½RE.
 LES YEUX.
 
 
-    Air: _J'ï¿½tais bon chasseur autrefois_.
+    Air: _J'étais bon chasseur autrefois_.
 
-  Que les yeux sont bien inventï¿½s!
+  Que les yeux sont bien inventés!
   Comme ils parent bien un visage!
-  Qu'ils procurent de voluptï¿½s
+  Qu'ils procurent de voluptés
   Lorsque l'on en peut faire usage!
   Des yeux j'admire le pouvoir;
-  Mais je crois qu'il est nï¿½cessaire,
+  Mais je crois qu'il est nécessaire,
   Quand on fait tant que d'en avoir,
   D'en avoir au moins une paire.
 
@@ -2750,24 +2750,24 @@ LES YEUX.
   Pourrait mettre dans son oreille.
   Le convive laborieux
   Doit savoir, quand il n'est pas louche,
-  Dï¿½vorer tout avec ses yeux,
+  Dévorer tout avec ses yeux,
   S'il ne met pas tout dans sa bouche.
 
-  Au thï¿½ï¿½tre, oï¿½ l'on va souvent
-  Pour voir avec un oeil sï¿½vï¿½re,
+  Au théâtre, où l'on va souvent
+  Pour voir avec un oeil sévère,
   On a presque l'air d'un savant
   Quand on porte des yeux de verre;
-  Mais en dï¿½pit de ce moyen,
+  Mais en dépit de ce moyen,
   Soit par erreur ou maladresse,
   Dans mainte salle on ne voit rien,
-  Et quelquefois rien dans la piï¿½ce.
+  Et quelquefois rien dans la pièce.
 
-  Les yeux sur la terre fixï¿½s
-  Sont ceux de l'homme qui mï¿½dite;
-  Les yeux toujours embarrassï¿½s,
-  Le fripon lorgne et tous ï¿½vite;
+  Les yeux sur la terre fixés
+  Sont ceux de l'homme qui médite;
+  Les yeux toujours embarrassés,
+  Le fripon lorgne et tous évite;
   La coquette a les yeux malins,
-  Avec la tournure agaï¿½ante;
+  Avec la tournure agaçante;
   Mais il faut des yeux un peu fins
   Pour trouver ceux d'une innocente.
 
@@ -2785,8 +2785,8 @@ LES YEUX.
   Avec les yeux purs de la foi
   On est heureux en mariage.
   Sur les yeux j'ai fait ma chanson
-  Avec les yeux de l'espï¿½rance,
-  Et peut-ï¿½tre la lira-t-on
+  Avec les yeux de l'espérance,
+  Et peut-être la lira-t-on
   Avec les yeux de l'indulgence.
 
   ANTIGNAC.
@@ -2794,17 +2794,17 @@ LES YEUX.
 
 
 
-ï¿½PITAPHE.
+ÉPITAPHE.
 
 
-    Air: _Nous sommes prï¿½cepteurs d'amour_.
+    Air: _Nous sommes précepteurs d'amour_.
 
   Exact plus qu'on ne peut penser,
-  Ci-gï¿½t le docteur la Balue:
-  Il est mort exprï¿½s pour passer
+  Ci-gît le docteur la Balue:
+  Il est mort exprès pour passer
   Tous ses malades en revue.
 
-  GRï¿½TRY neveu.
+  GRÉTRY neveu.
 
 
 
@@ -2812,42 +2812,42 @@ LES YEUX.
 UNE CARESSE.
 
 
-    Air: _Avez-vous sous le mï¿½me toit_.
+    Air: _Avez-vous sous le même toit_.
 
   Pour animer le sentiment,
   Rien n'est plus sur qu'une caresse:
   Douce caresse est un aimant
-  Pour l'amitiï¿½, pour la tendresse.
-  Dans l'enfance et dans l'ï¿½ge mï¿½r,
-  Mï¿½me jusque dans la vieillesse,
-  Si le coeur goï¿½te un plaisir pur,
+  Pour l'amitié, pour la tendresse.
+  Dans l'enfance et dans l'âge mûr,
+  Même jusque dans la vieillesse,
+  Si le coeur goûte un plaisir pur,
   Il est l'effet d'une caresse.
 
-  Les frï¿½res caressent leurs soeurs,
-  La fille caresse sa mï¿½re,
-  Le zï¿½phir caresse les fleurs,
-  Dorilas caresse Glicï¿½re.
+  Les frères caressent leurs soeurs,
+  La fille caresse sa mère,
+  Le zéphir caresse les fleurs,
+  Dorilas caresse Glicère.
   Voyez les ramiers dans les bois
   S'aimer, se caresser sans cesse:
   Par-tout l'amour dicte ses lois;
   Dans l'univers tout se caresse.
 
-  Quelquefois des soupï¿½ons jaloux
-  Troublent la paix d'un bon mï¿½nage,
-  Et l'on voit entre deux ï¿½poux
-  S'ï¿½lever un sombre nuage:
+  Quelquefois des soupçons jaloux
+  Troublent la paix d'un bon ménage,
+  Et l'on voit entre deux époux
+  S'élever un sombre nuage:
   L'orage, avant la fin du jour,
-  Est dissipï¿½ par la tendresse;
-  Et la colï¿½re de l'amour
+  Est dissipé par la tendresse;
+  Et la colère de l'amour
   S'apaise par une caresse.
 
   Dans nos plaisirs, dans nos amours,
-  D'Anacrï¿½on suivons les traces;
+  D'Anacréon suivons les traces;
   Comme lui, caressons toujours
   Bacchus, les Muses et les Graces:
   Du temps qui fuit sachons jouir;
   Bonheur d'aimer passe richesse:
-  Jusqu'ï¿½ notre dernier soupir,
+  Jusqu'à notre dernier soupir,
   Rendons caresse pour caresse.
 
   FAVART.
@@ -2858,51 +2858,51 @@ UNE CARESSE.
 A AGLAURE.
 
 
-    Air: _Un soir dans la forï¿½t prochaine_.
+    Air: _Un soir dans la forêt prochaine_.
 
-  Sous la fenï¿½tre de sa belle
+  Sous la fenêtre de sa belle
   Un jeune amant contait ses maux;
-  Sa plainte attendrit les ï¿½chos,
+  Sa plainte attendrit les échos,
   Mais n'attendrit point l'infidelle.
-  Le dï¿½sespoir au fond du coeur,
+  Le désespoir au fond du coeur,
   Sur un luth dont sa main craintive
-  Fait gï¿½mir la corde plaintive,
+  Fait gémir la corde plaintive,
   Il soupire ainsi sa douleur:
 
-  ï¿½Beautï¿½, de mon coeur souveraine,
-  ï¿½Apporte un terme ï¿½ mes tourments;
-  ï¿½Est-ce ï¿½ mon ï¿½ge, est-ce ï¿½ vingt ans
-  ï¿½Qu'on devrait connaï¿½tre la peine?
-  ï¿½Eh quoi! me faut-il sans retour
-  ï¿½Fermer mon coeur ï¿½ l'espï¿½rance?
-  ï¿½Et sans qu'il s'ouvre ï¿½ la souffrance,
-  ï¿½Ne peut-il s'ouvrir ï¿½ l'amour?
+  «Beauté, de mon coeur souveraine,
+  «Apporte un terme à mes tourments;
+  «Est-ce à mon âge, est-ce à vingt ans
+  «Qu'on devrait connaître la peine?
+  «Eh quoi! me faut-il sans retour
+  «Fermer mon coeur à l'espérance?
+  «Et sans qu'il s'ouvre à la souffrance,
+  «Ne peut-il s'ouvrir à l'amour?
 
-  ï¿½Objet de ma constante flamme,
-  ï¿½Je t'ai dï¿½ mon premier dï¿½sir;
-  ï¿½Je t'ai dï¿½ le premier soupir
-  ï¿½Qui soit ï¿½chappï¿½ de mon ame;
-  ï¿½Par un sentiment de plaisir,
-  ï¿½Quand j'ai commencï¿½ ma carriï¿½re,
-  ï¿½Faut-il qu'un sentiment contraire
-  ï¿½Vienne si vite la finir?
+  «Objet de ma constante flamme,
+  «Je t'ai dû mon premier désir;
+  «Je t'ai dû le premier soupir
+  «Qui soit échappé de mon ame;
+  «Par un sentiment de plaisir,
+  «Quand j'ai commencé ma carrière,
+  «Faut-il qu'un sentiment contraire
+  «Vienne si vite la finir?
 
-  ï¿½Tu reposes, et moi je veille!
-  ï¿½Si du moins un songe amoureux,
-  ï¿½Interprï¿½te de tous mes voeux,
-  ï¿½Les murmurait ï¿½ ton oreille!
-  ï¿½Il te dirait qu'un mï¿½me jour
-  ï¿½Je vis, j'adorais mon Aglaure,
-  ï¿½Et qu'un mï¿½me jour doit encore
-  ï¿½Finir ma vie et mon amour.ï¿½
+  «Tu reposes, et moi je veille!
+  «Si du moins un songe amoureux,
+  «Interprète de tous mes voeux,
+  «Les murmurait à ton oreille!
+  «Il te dirait qu'un même jour
+  «Je vis, j'adorais mon Aglaure,
+  «Et qu'un même jour doit encore
+  «Finir ma vie et mon amour.»
 
-  C'ï¿½tait ainsi que sur sa lyre
-  Il contait sa peine aux ï¿½chos,
+  C'était ainsi que sur sa lyre
+  Il contait sa peine aux échos,
   Quand le confident de ses maux,
-  L'ï¿½cho cessa de les redire.
+  L'écho cessa de les redire.
   Soit qu'il fit des voeux superflus,
-  Soit qu'il eï¿½t touchï¿½ l'infidelle,
-  Sous la fenï¿½tre de sa belle
+  Soit qu'il eût touché l'infidelle,
+  Sous la fenêtre de sa belle
   Le jeune amant ne chanta plus.
 
   M. A. M.
@@ -2915,49 +2915,49 @@ LE JE NE SAIS QUOI.
 
     Air: _Avec les jeux dans le village_.
 
-  Un jour je rï¿½vais qu'ï¿½ Cythï¿½re
-  Le dieu du goï¿½t donnait un thï¿½;
-  Il voulait fï¿½ter l'art de plaire,
-  Qu'il chï¿½rit plus que la beautï¿½.
-  Il dit: ï¿½Ceux qui voudront des places,
-  ï¿½Montreront, pour entrer chez moi,
-  ï¿½De l'esprit, du goï¿½t et des graces,
-  ï¿½Le sï¿½duisant je ne sais quoi!ï¿½
+  Un jour je rêvais qu'à Cythère
+  Le dieu du goût donnait un thé;
+  Il voulait fêter l'art de plaire,
+  Qu'il chérit plus que la beauté.
+  Il dit: «Ceux qui voudront des places,
+  «Montreront, pour entrer chez moi,
+  «De l'esprit, du goût et des graces,
+  «Le séduisant je ne sais quoi!»
 
-  N'osant pï¿½nï¿½trer dans le temple,
+  N'osant pénétrer dans le temple,
   A la porte je cherche un coin;
-  Comme un amant, lï¿½, je contemple
+  Comme un amant, là, je contemple
   Toutes les nymphes avec soin.
   Minois charmants, tailles divines,
   Que d'aimables choses je voi!
   Des pieds mignons, des jambes fines,
   M'inspirent le je ne sais quoi!
 
-  Je vis monter au pï¿½ristyle
-  Boufflers, Ovide, Anacrï¿½on,
+  Je vis monter au péristyle
+  Boufflers, Ovide, Anacréon,
   Delille, et son ami Virgile,
   Bernis, Pannard, Chaulieu, Piron;
-  Et ce dieu, les voyant paraï¿½tre,
-  Leur dit: ï¿½Amis, entrez chez moi;
-  ï¿½Vos vers charmants ont fait connaï¿½tre
-  ï¿½De l'esprit le je ne sais quoi!ï¿½
+  Et ce dieu, les voyant paraître,
+  Leur dit: «Amis, entrez chez moi;
+  «Vos vers charmants ont fait connaître
+  «De l'esprit le je ne sais quoi!»
 
   En ce moment entre une file
-  D'acteurs que Moliï¿½re conduit;
-  Le dieu du goï¿½t voyant Prï¿½ville,
+  D'acteurs que Molière conduit;
+  Le dieu du goût voyant Préville,
   En lui serrant la main, lui dit:
-  ï¿½Imitateur inimitable,
-  ï¿½Quel plaisir j'ai quand je vous voi!
-  ï¿½Vous avez, du talent aimable,
-  ï¿½Trouvï¿½ le vrai je ne sais quoi!ï¿½
+  «Imitateur inimitable,
+  «Quel plaisir j'ai quand je vous voi!
+  «Vous avez, du talent aimable,
+  «Trouvé le vrai je ne sais quoi!»
 
   Entre l'Amour et la Folie,
-  J'aperï¿½ois un objet charmant,
+  J'aperçois un objet charmant,
   Je reconnais mon Aspasie;
-  Le plaisir m'ï¿½veille ï¿½ l'instant.
-  Que n'a-t-il durï¿½ ce mensonge!
-  J'ï¿½prouvais un si doux ï¿½moi,
-  Que j'aurais vu, peut-ï¿½tre en songe,
+  Le plaisir m'éveille à l'instant.
+  Que n'a-t-il duré ce mensonge!
+  J'éprouvais un si doux émoi,
+  Que j'aurais vu, peut-être en songe,
   De la belle je ne sais quoi!
 
   P. B.
@@ -2965,66 +2965,66 @@ LE JE NE SAIS QUOI.
 
 
 
-LA Rï¿½SISTANCE,
+LA RÉSISTANCE,
 
 OU LE SECRET DES FEMMES.
 
 
-    Air: _Ah! quelle gï¿½ne et quel tourment_. (Opï¿½ra de Pierre-le-Grand.)
+    Air: _Ah! quelle gêne et quel tourment_. (Opéra de Pierre-le-Grand.)
 
-  Oui, je me livre au dï¿½sespoir,
+  Oui, je me livre au désespoir,
   Disait certain amant novice,
-  ï¿½ï¿½glï¿½, je ne veux plus te voir;
-  ï¿½Car tes charmes font mon supplice!--
-  ï¿½Si je te refuse un baiser,ï¿½
-  Rï¿½pond elle avec innocence,
-  ï¿½Mes yeux toujours t'ont dit d'oser
-  ï¿½Triompher de ma rï¿½sistance.--      (_bis._)
+  «Églé, je ne veux plus te voir;
+  «Car tes charmes font mon supplice!--
+  «Si je te refuse un baiser,»
+  Répond elle avec innocence,
+  «Mes yeux toujours t'ont dit d'oser
+  «Triompher de ma résistance.--      (_bis._)
 
-  ï¿½Pour me rendre plus amoureux,
-  ï¿½Tu m'agaces par un sourire:
-  ï¿½Si nous ne sommes que tous deux,
-  ï¿½Tu n'as jamais rien ï¿½ me dire.--
-  ï¿½Des femmes voilï¿½ le secret,
-  ï¿½Dit-elle, contre l'inconstance;
-  ï¿½Mais nous n'employons qu'ï¿½ regret
-  ï¿½L'appareil de la rï¿½sistance.       (_bis._)
+  «Pour me rendre plus amoureux,
+  «Tu m'agaces par un sourire:
+  «Si nous ne sommes que tous deux,
+  «Tu n'as jamais rien à me dire.--
+  «Des femmes voilà le secret,
+  «Dit-elle, contre l'inconstance;
+  «Mais nous n'employons qu'à regret
+  «L'appareil de la résistance.       (_bis._)
 
-  ï¿½La nature, ï¿½gale pour tous,
-  ï¿½Nous partagea bien ses donnï¿½es;
-  ï¿½Les femmes, plus faibles que vous,
-  ï¿½Doivent ï¿½tre les plus rusï¿½es.
-  ï¿½Si chacune garde pour soi
-  ï¿½Les ruses de la rï¿½sistance,
-  ï¿½C'est pour mieux enfreindre la loi
-  ï¿½Qui la rï¿½duit ï¿½ l'abstinence.      (_bis._)
+  «La nature, égale pour tous,
+  «Nous partagea bien ses données;
+  «Les femmes, plus faibles que vous,
+  «Doivent être les plus rusées.
+  «Si chacune garde pour soi
+  «Les ruses de la résistance,
+  «C'est pour mieux enfreindre la loi
+  «Qui la réduit à l'abstinence.      (_bis._)
 
-  ï¿½Lorsque sous des verrous dorï¿½s
-  ï¿½Un turc ï¿½lï¿½ve notre enfance,
-  ï¿½Nos coeurs alors sont dispensï¿½s
-  ï¿½Des charmes de la rï¿½sistance.
-  ï¿½Du tyran de notre bonheur,
-  ï¿½Comme des bons maris de France,
-  ï¿½L'amour faisant brï¿½che ï¿½ l'honneur,
-  ï¿½Nous guï¿½rit de la continence.      (_bis._)
+  «Lorsque sous des verrous dorés
+  «Un turc élève notre enfance,
+  «Nos coeurs alors sont dispensés
+  «Des charmes de la résistance.
+  «Du tyran de notre bonheur,
+  «Comme des bons maris de France,
+  «L'amour faisant brèche à l'honneur,
+  «Nous guérit de la continence.      (_bis._)
 
-  ï¿½Moins esclaves dans ce climat,
-  ï¿½Il faut que la pudeur nous guide;
-  ï¿½Pour bien garder le cï¿½libat,
-  ï¿½La rï¿½sistance est notre ï¿½gide.
-  ï¿½Car par-tout les hommes sont rois,
-  ï¿½Et nous sommes sous leur puissance;
-  ï¿½En l'enfreignant, ils ont des droits
-  ï¿½De nous rï¿½duire ï¿½ l'abstinence.ï¿½
+  «Moins esclaves dans ce climat,
+  «Il faut que la pudeur nous guide;
+  «Pour bien garder le célibat,
+  «La résistance est notre égide.
+  «Car par-tout les hommes sont rois,
+  «Et nous sommes sous leur puissance;
+  «En l'enfreignant, ils ont des droits
+  «De nous réduire à l'abstinence.»
 
-  Avant, tout comme aprï¿½s l'hymen,
+  Avant, tout comme après l'hymen,
   Le plus doux charme de la vie,
   C'est quand l'amour donne la main
   A quelque tour de tricherie:
-  L'homme doit ï¿½tre l'agresseur;
+  L'homme doit être l'agresseur;
   La femme, toujours par prudence,
-  En cï¿½dant doit couvrir l'honneur
-  Du voile de la rï¿½sistance.          (_bis._)
+  En cédant doit couvrir l'honneur
+  Du voile de la résistance.          (_bis._)
 
 
 
@@ -3034,175 +3034,175 @@ LA SUITE DU SECRET,
 OU DE L'HYMEN.
 
 
-    Air: _Femmes, voulez-vous ï¿½prouver_.
+    Air: _Femmes, voulez-vous éprouver_.
 
   Victimes d'une douce erreur,
-  Si nous en faisons un mystï¿½re;
+  Si nous en faisons un mystère;
   Quand vous attaquez notre coeur,
   Alors nous avons l'art de plaire.
-  Avons-nous comblï¿½ vos dï¿½sirs,
-  Le dï¿½goï¿½t suit la jouissance:
+  Avons-nous comblé vos désirs,
+  Le dégoût suit la jouissance:
   Quand vous variez vos plaisirs,
   Nous imitons votre inconstance.     (_bis._)
 
-  Notre amant, avant d'ï¿½tre ï¿½poux,
-  ï¿½tait un mortel adorable!
+  Notre amant, avant d'être époux,
+  Était un mortel adorable!
   Mais l'hymen l'a rendu jaloux,
   Avare, ivrogne, impitoyable.
-  Nous ï¿½tions l'objet le plus beau;
+  Nous étions l'objet le plus beau;
   Les dieux auraient voulu nous plaire:
-  L'amour a changï¿½ son flambeau
-  Pour une torche funï¿½raire.          (_bis._)
+  L'amour a changé son flambeau
+  Pour une torche funéraire.          (_bis._)
 
-  Pour bien juger ce diffï¿½rent,
-  Il faut ï¿½tre cï¿½libataire;
-  Il faut ï¿½tre Franï¿½ais galant,
+  Pour bien juger ce différent,
+  Il faut être célibataire;
+  Il faut être Français galant,
   Et sentir le besoin de plaire.
-  Pendant l'absence de l'ï¿½poux,
+  Pendant l'absence de l'époux,
   On se dit, sans lui faire injure:
   Vos femmes valent mieux vous,
-  Et je rends grace ï¿½ la nature.      (_bis._)
+  Et je rends grace à la nature.      (_bis._)
 
 
 
 
 RONDES
 
-FAITES A MONTLUï¿½ON,
+FAITES A MONTLUÇON,
 
 CHARMANTE VILLE DU BOURBONNAIS. (EN 1807)
 
 
-Une cause assez cï¿½lï¿½bre, que je me propose de publier bientï¿½t, me
-forï¿½a d'aller ï¿½ Montluï¿½on plaider moi-mï¿½me contre une femme riche, que
-sa famille, ses alliï¿½s et ses gendres faisaient passer pour folle, ï¿½
-l'ï¿½poque oï¿½ elle fit des billets d'un tiers de moins que la somme
-qu'elle devait. Le tribunal et les habitants de Montluï¿½on
-m'accueillirent avec bontï¿½: ma rï¿½putation de chanteur, ï¿½ Paris,
-m'avait devancï¿½ dans cette ville, qui mï¿½rite un rang distinguï¿½ dans
-les fastes de l'empire franï¿½ais. Pendant la terreur, Montluï¿½on ne fut
-troublï¿½ par aucune sï¿½dition; on n'y versa jamais une goutte de sang;
-personne n'y fut dï¿½noncï¿½, malgrï¿½ que cette petite citï¿½ renfermï¿½t plus
+Une cause assez célèbre, que je me propose de publier bientôt, me
+força d'aller à Montluçon plaider moi-même contre une femme riche, que
+sa famille, ses alliés et ses gendres faisaient passer pour folle, à
+l'époque où elle fit des billets d'un tiers de moins que la somme
+qu'elle devait. Le tribunal et les habitants de Montluçon
+m'accueillirent avec bonté: ma réputation de chanteur, à Paris,
+m'avait devancé dans cette ville, qui mérite un rang distingué dans
+les fastes de l'empire français. Pendant la terreur, Montluçon ne fut
+troublé par aucune sédition; on n'y versa jamais une goutte de sang;
+personne n'y fut dénoncé, malgré que cette petite cité renfermât plus
 de nobles qu'aucune autre ville. Elle se chargea elle seule du
-maintien de sa police, et rï¿½pondit avec fermetï¿½ de ses concitoyens aux
+maintien de sa police, et répondit avec fermeté de ses concitoyens aux
 autres communes qui voulaient s'immiscer dans son gouvernement.
 
-Ces prï¿½rogatives m'inspirï¿½rent autant de vï¿½nï¿½ration pour les
-Montluï¿½onnais, que de confiance dans les lumiï¿½res et l'intï¿½gritï¿½ des
+Ces prérogatives m'inspirèrent autant de vénération pour les
+Montluçonnais, que de confiance dans les lumières et l'intégrité des
 magistrats de leur ville. Pendant que j'attendais l'issue de mon
-procï¿½s, des comï¿½diens de village, qui n'avaient ni bas ni souliers,
-arrivent ï¿½ Montluï¿½on, et annoncent une reprï¿½sentation pour restaurer
-leur caisse et leur estomac. Le thï¿½ï¿½tre, le plaisir, la table, le jeu
-et les vierges, sont fï¿½tï¿½s dans ce pays, peuplï¿½ de riches
-propriï¿½taires qui mangent leur fortune sans souci, sans ambition, et
-sans rixe. La troupe ambulante ï¿½tait aussi pitoyable que comique par
-son nombre et son ï¿½quipï¿½e: elle ï¿½tait composï¿½e d'un secrï¿½taire avec
+procès, des comédiens de village, qui n'avaient ni bas ni souliers,
+arrivent à Montluçon, et annoncent une représentation pour restaurer
+leur caisse et leur estomac. Le théâtre, le plaisir, la table, le jeu
+et les vierges, sont fêtés dans ce pays, peuplé de riches
+propriétaires qui mangent leur fortune sans souci, sans ambition, et
+sans rixe. La troupe ambulante était aussi pitoyable que comique par
+son nombre et son équipée: elle était composée d'un secrétaire avec
 ses deux enfants, d'une amoureuse de coulisse, et de trois personnages
-pour jouer la comï¿½die: cependant la premiï¿½re reprï¿½sentation de la
-Jeune Hï¿½tesse remonta les finances, et l'aubergiste de l'ï¿½cu, oï¿½ je
-logeais, leur fit crï¿½dit et bonne mine. Nous soupï¿½mes ï¿½ la mï¿½me table
-d'hï¿½te.... Au dessert on parla de donner pour la clï¿½ture une seconde
-reprï¿½sentation; chacun des convives calcula la recette: le directeur,
-inquiet, rï¿½pondit que s'il faisait deux cents livres dimanche il
-aurait ville gagnï¿½e.... Je lui en fis bon, et, d'un commun accord, je
+pour jouer la comédie: cependant la première représentation de la
+Jeune Hôtesse remonta les finances, et l'aubergiste de l'Écu, où je
+logeais, leur fit crédit et bonne mine. Nous soupâmes à la même table
+d'hôte.... Au dessert on parla de donner pour la clôture une seconde
+représentation; chacun des convives calcula la recette: le directeur,
+inquiet, répondit que s'il faisait deux cents livres dimanche il
+aurait ville gagnée.... Je lui en fis bon, et, d'un commun accord, je
 devins directeur, plaideur, et chanteur. Le lendemain dimanche, car
-nous ï¿½tions au samedi, je fis annoncer la Banqueroute du Savetier, le
-Ventriloque, et un vaudeville sur les habitants de Montluï¿½on; le
-succï¿½s rï¿½pondit ï¿½ l'attente: puisse cet impromptu avoir le mï¿½me
-avantage ï¿½ vos yeux!
+nous étions au samedi, je fis annoncer la Banqueroute du Savetier, le
+Ventriloque, et un vaudeville sur les habitants de Montluçon; le
+succès répondit à l'attente: puisse cet impromptu avoir le même
+avantage à vos yeux!
 
 
     Air: _Du vaudeville du Chaudronnier de St.-Flour_.
 
   Au milieu d'un riant vallon,
-      Prï¿½s d'un coteau fertile,
+      Près d'un coteau fertile,
   On voit un joli petit mont,
-      D'oï¿½ s'ï¿½lï¿½ve une ville.
-    Vos bons aï¿½eux, sans faï¿½on,
-    La nommï¿½rent Montluï¿½on.
+      D'où s'élève une ville.
+    Vos bons aïeux, sans façon,
+    La nommèrent Montluçon.
       Dans ce charmant asile,
-  Caton, Ovide, Anacrï¿½on,
+  Caton, Ovide, Anacréon,
       Contents d'un sort tranquille,
-      Trinquent ï¿½ l'unisson.      (_bis._)
+      Trinquent à l'unisson.      (_bis._)
 
-  (_Ritournelle gï¿½nï¿½rale, en choeur_.)
+  (_Ritournelle générale, en choeur_.)
 
       Des beaux jours de la France,
   Veut-on retrouver l'horizon?
       Le plaisir en cadence
-      Ramï¿½ne ï¿½ Montluï¿½on.      (_bis._)
+      Ramène à Montluçon.      (_bis._)
 
-  Qu'on nomme bien cette citï¿½
+  Qu'on nomme bien cette cité
       Vrai pays de Cocagne.
-  Car on y sable en libertï¿½
+  Car on y sable en liberté
       Le Pouilly, le Champagne.
     Momus, Bacchus et l'Amour
-    Y prï¿½sident tour ï¿½ tour.
+    Y président tour à tour.
       Dans ce charmant asile,
-  Caton, Ovide, Anacrï¿½on,
+  Caton, Ovide, Anacréon,
       Contents d'un sort tranquille,
-      Trinquent ï¿½ l'unisson.      (_bis_.)
+      Trinquent à l'unisson.      (_bis_.)
 
-  (_Refrain gï¿½nï¿½ral, en choeur_.)
+  (_Refrain général, en choeur_.)
 
       Des beaux jours de la France,
   Veut-on retrouver l'horizon, etc.
 
-On ne trouve ï¿½ Montluï¿½on ni libraire, ni bibliothï¿½que, ni cabinet de
-lecture: tous les habitants lisent la gazette, fï¿½tent la table; les
-dames vont ï¿½ l'ï¿½glise et ï¿½ la comï¿½die, et tous ont un esprit naturel
-et une amabilitï¿½ sociable et aussi usagï¿½e que celle des ï¿½rudits; le
+On ne trouve à Montluçon ni libraire, ni bibliothèque, ni cabinet de
+lecture: tous les habitants lisent la gazette, fêtent la table; les
+dames vont à l'église et à la comédie, et tous ont un esprit naturel
+et une amabilité sociable et aussi usagée que celle des érudits; le
 bon coeur fait dans ce pays le meilleur et le plus savant livre
-d'ï¿½ducation.
+d'éducation.
 
-  L'encyclopï¿½die en ces lieux,
-      Sans charger la mï¿½moire,
+  L'encyclopédie en ces lieux,
+      Sans charger la mémoire,
   Vient de Beaune ou de Condrieux,
-      Adressï¿½e ï¿½ Grï¿½goire;
+      Adressée à Grégoire;
     Momus, Bacchus et l'Amour,
-    La rï¿½digent tour ï¿½ tour.
+    La rédigent tour à tour.
       Dans ce charmant asile, etc.
       Des beaux jours de la France, etc.
 
-On voit peu de pays plus galant et plus dï¿½vot que cette petite ville;
-une douzaine de jolies quï¿½teuses parcourent les rues tous les
-dimanches, et vont rendre visite ï¿½ tous les hï¿½tels, tenant la bourse
-paroissiale des pauvres de l'ï¿½glise, de la chapelle ardente de la
-Vierge, etc. Tous les dimanches, chaque fille offre une bougie ï¿½ la
-Sainte Vierge; et toute l'annï¿½e, l'ï¿½glise du lieu est illuminï¿½e, comme
-les nï¿½tres, le jour de la Chandeleur.
+On voit peu de pays plus galant et plus dévot que cette petite ville;
+une douzaine de jolies quêteuses parcourent les rues tous les
+dimanches, et vont rendre visite à tous les hôtels, tenant la bourse
+paroissiale des pauvres de l'Église, de la chapelle ardente de la
+Vierge, etc. Tous les dimanches, chaque fille offre une bougie à la
+Sainte Vierge; et toute l'année, l'Église du lieu est illuminée, comme
+les nôtres, le jour de la Chandeleur.
 
-  C'est ici qu'on voit dï¿½filer
+  C'est ici qu'on voit défiler
       Un bataillon de vierge,
-  Puisque chacune y fait brï¿½ler
+  Puisque chacune y fait brûler
       Chaque dimanche un cierge;
-    Voilï¿½ l'innocent dï¿½tour,
+    Voilà l'innocent détour,
     Pour sanctifier l'amour.
       Dans ce charmant asile, etc.
       Des beaux jours de la France, etc.
 
-  Dans le long siï¿½cle de terreur
-      Oï¿½ rï¿½gnait la discorde,
+  Dans le long siècle de terreur
+      Où régnait la discorde,
   C'est ici qu'on eut le bonheur
       De fixer la concorde;
-    Vos actes de probitï¿½
-    Valent l'immortalitï¿½.
+    Vos actes de probité
+    Valent l'immortalité.
       Dans ce charmant asile,
-  Caton, Ovide, Anacrï¿½on,
+  Caton, Ovide, Anacréon,
       Contents d'un sort tranquille,
-      Trinquent ï¿½ l'unisson.
+      Trinquent à l'unisson.
       Des beaux jours de la France,
   Veut-on retrouver l'horizon,
       Le plaisir en cadence
-      Ramï¿½ne ï¿½ Montluï¿½on.      (_bis._)
+      Ramène à Montluçon.      (_bis._)
 
-Huit jours aprï¿½s, mes dï¿½biteurs vinrent ï¿½ l'audience; la cause fut
-remise jusqu'au mois d'aoï¿½t. Ce vaudeville fut rï¿½pï¿½tï¿½, et le soir nous
-dansï¿½mes ensemble au refrain en attendant le revoir.
+Huit jours après, mes débiteurs vinrent à l'audience; la cause fut
+remise jusqu'au mois d'août. Ce vaudeville fut répété, et le soir nous
+dansâmes ensemble au refrain en attendant le revoir.
 
-Je retournai ï¿½ Montluï¿½on au mois d'aoï¿½t suivant. On me demanda des
-couplets pour le 15, jour de la fï¿½te de Napolï¿½on. Pendant que je les
-faisais, mes dï¿½biteurs vinrent consigner des fonds et me forcer de
+Je retournai à Montluçon au mois d'août suivant. On me demanda des
+couplets pour le 15, jour de la fête de Napoléon. Pendant que je les
+faisais, mes débiteurs vinrent consigner des fonds et me forcer de
 prendre une somme que deux mois auparavant ils ne voulaient pas me
 payer pour un empire.
 
@@ -3210,23 +3210,23 @@ payer pour un empire.
     Air: _Vive Henri Quatre_.
 
       Vive la gloire,
-  Vive Napolï¿½on!
+  Vive Napoléon!
       Paix et victoire
-  Ont couronnï¿½ son nom:
+  Ont couronné son nom:
       Vive la gloire,
-  Vive Napolï¿½on!
+  Vive Napoléon!
 
       A coups de verre
   Cognons une chanson;
       Pour la mieux faire,
   Cognez, de son flacon,
       Remplit mon verre,
-  Et chante ï¿½ l'unisson,
+  Et chante à l'unisson,
 
       Vive la gloire, etc.
 
       A coups de verre,
-  On fait ï¿½ Montluï¿½on
+  On fait à Montluçon
       La paix, la guerre,
   L'amour et l'oraison.
       Les dieux sur terre
@@ -3234,19 +3234,19 @@ payer pour un empire.
 
       Vive la gloire, etc.
 
-      O paix chï¿½rie!
+      O paix chérie!
   Ce lieu fut ton berceau,
       Quand l'anarchie
   Mit la France au tombeau:
-      O paix chï¿½rie!
+      O paix chérie!
   Ce lieu fut ton berceau.
 
       Vive la gloire,
-  Vive Napolï¿½on!
+  Vive Napoléon!
       Paix et victoire
-  Ont couronnï¿½ son nom:
+  Ont couronné son nom:
       Vive la gloire,
-  Vive Napolï¿½on!
+  Vive Napoléon!
 
 
 
@@ -3258,9 +3258,9 @@ payer pour un empire.
   DE L. A. PITOU,
 
 
-  _Le Prï¿½jugï¿½ vaincu._                         page 1
+  _Le Préjugé vaincu._                         page 1
 
-  _Les Mandats de Cythï¿½re._                         2
+  _Les Mandats de Cythère._                         2
 
   _Les Patentes._                                   5
 
@@ -3268,36 +3268,36 @@ payer pour un empire.
 
   _Les Collets noirs._                             10
 
-  _Le Pï¿½re Hilarion._                              13
+  _Le Père Hilarion._                              13
 
   _La Charente._                                   16
 
-  _Les Lunettes et la nouvelle Bï¿½quille._          18
+  _Les Lunettes et la nouvelle Béquille._          18
 
   _Le Coup du Loup._                               20
 
   _Les Incroyables, les Inconcevables et les
   Merveilleuses._                                  22
 
-  _Regrets de David ï¿½ la mort de Bethsabï¿½.
+  _Regrets de David à la mort de Bethsabé.
   (Anonyme.)_                                      28
 
-  _Le Dï¿½portï¿½ dans la Guyane. (L. A. Pitou.)_      29
+  _Le Déporté dans la Guyane. (L. A. Pitou.)_      29
 
-  _Le Tombeau d'Ismï¿½ne. (Idem.)_                   32
+  _Le Tombeau d'Ismène. (Idem.)_                   32
 
   _Mes Loisirs durant mon exil. (Idem.)_           34
 
 
   DES AUTEURS ANCIENS,
 
-  _La Toilette trop recherchï¿½e, Conte._            38
+  _La Toilette trop recherchée, Conte._            38
 
   _Sur un Rendez-vous._                            39
 
   _Mes quatre Ages._                               40
 
-  _La bonne Amitiï¿½ nï¿½e de l'Amour._                41
+  _La bonne Amitié née de l'Amour._                41
 
   _La Lanterne magique._                           42
 
@@ -3307,44 +3307,44 @@ payer pour un empire.
 
   _L'Empire._                                      49
 
-  _L'Amant prï¿½somptueux._                          51
+  _L'Amant présomptueux._                          51
 
-  _Romance de madame de la Valliï¿½re. (L. A. P.)_   52
+  _Romance de madame de la Vallière. (L. A. P.)_   52
 
   _Le Trictrac._                                   54
 
-  _Voilï¿½ comme ils sont tous._                     56
+  _Voilà comme ils sont tous._                     56
 
   _Le Vieillard Jeune-Homme._                      57
 
   _Le Jeune-Homme Vieillard, par un Avocat de
   Moulins en Bourbonnais._                         58
 
-  _Chanson Crï¿½ole._                                59
+  _Chanson Créole._                                59
 
-  _Destinï¿½e de la Femme coquette. (Anonyme.)_      61
+  _Destinée de la Femme coquette. (Anonyme.)_      61
 
-  _Les Gants. (Grï¿½try neveu.)_                     64
+  _Les Gants. (Grétry neveu.)_                     64
 
   _Le Mot et la Chose. (F. D.)_                    66
 
-  _Couplet, joint ï¿½ une Rose. (Armand-Gouffï¿½.)_    67
+  _Couplet, joint à une Rose. (Armand-Gouffé.)_    67
 
-  _Le Devin. (Grï¿½try neveu.)_                      68
+  _Le Devin. (Grétry neveu.)_                      68
 
-  _Les Aï¿½nï¿½s et les Cadets. (Dupaty.)_             70
+  _Les Aînés et les Cadets. (Dupaty.)_             70
 
-  _Le Tombeau de Cï¿½cile. (Grï¿½try neveu.)_          71
+  _Le Tombeau de Cécile. (Grétry neveu.)_          71
 
-  _La Bouche. (Armand-Gouffï¿½.)_                    73
+  _La Bouche. (Armand-Gouffé.)_                    73
 
-  _La Veille. (Grï¿½try neveu.)_                     76
+  _La Veille. (Grétry neveu.)_                     76
 
   _L'air. (Brazier fils.)_                         77
 
   _Les Yeux. (Antignac.)_                          79
 
-  _ï¿½pitaphe. (Grï¿½try neveu.)_                      81
+  _Épitaphe. (Grétry neveu.)_                      81
 
   _Une Caresse. (Favart.)_                      ibid.
 
@@ -3352,16 +3352,16 @@ payer pour un empire.
 
   _Le Je ne sais quoi! (P. B.)_                    84
 
-  _La Rï¿½sistance, ou le Secret des Femmes. (L. A.
+  _La Résistance, ou le Secret des Femmes. (L. A.
   Pitou.)_                                         86
 
   _La suite du Secret. (L. A. Pitou.)_             88
 
-  _Notice sur le caractï¿½re des Habitants de Montluï¿½on.
+  _Notice sur le caractère des Habitants de Montluçon.
   Le Chanteur devenu Directeur de
-  comï¿½die, etc. (L. A. Pitou.)_                    89
+  comédie, etc. (L. A. Pitou.)_                    89
 
-  _Rondes faites ï¿½ Montluï¿½on. (L.A. Pitou.)_       91
+  _Rondes faites à Montluçon. (L.A. Pitou.)_       91
 
 
   Fin de la Table du Chansonnier Parisien.
@@ -3373,16 +3373,16 @@ payer pour un empire.
 
   OU
 
-  CALENDRIER ï¿½PHï¿½Mï¿½RIDE
+  CALENDRIER ÉPHÉMÉRIDE
 
-  POUR L'ANNï¿½E 1808;
+  POUR L'ANNÉE 1808;
 
-  Contenant les grands ï¿½vï¿½nements qui se sont succï¿½dï¿½s
-  depuis 1787 jusqu'ï¿½ 1808, chaque fait classï¿½ par
+  Contenant les grands Évènements qui se sont succédés
+  depuis 1787 jusqu'à 1808, chaque fait classé par
   ordre de date et de jour.
 
   PAR LOUIS-ANGE PITOU,
-  dit _le Chanteur_, auteur du Voyage ï¿½ Cayenne.
+  dit _le Chanteur_, auteur du Voyage à Cayenne.
 
     Jadis j'ai vendu des chansons
     et d'excellentes aventures.
@@ -3394,17 +3394,17 @@ payer pour un empire.
 
   L'Almanach, ou le Chansonnier.        1 fr. chacun.
 
-  Les deux rï¿½unis.                      1 fr. 80 c.
+  Les deux réunis.                      1 fr. 80 c.
 
   PARIS,
 
   Chez L. A. PITOU, libraire, rue Croix-des-Petits-Champs
-  nï¿½. 21, prï¿½s celle du Bouloy.
+  nº. 21, près celle du Bouloy.
 
          *       *       *       *       *
 
-  DE L'IMPRIMERIE DES FRï¿½RES MAME,
-  rue du Pot-de-Fer, nï¿½. 14.
+  DE L'IMPRIMERIE DES FRÈRES MAME,
+  rue du Pot-de-Fer, nº. 14.
 
   1808.
 

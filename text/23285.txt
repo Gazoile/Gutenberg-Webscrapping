@@ -1,6 +1,6 @@
 Online Distributed Proofreading Team at http://www.pgdp.net
 (This file was produced from images generously made
-available by the Bibliothï¿½que nationale de France
+available by the Bibliothèque nationale de France
 (BnF/Gallica) at http://gallica.bnf.fr)
 
 
@@ -9,14 +9,14 @@ available by the Bibliothï¿½que nationale de France
 
 [Notes au lecteur de ce fichier digital:
 
-Seules les erreurs clairement introduites par le typographe ont ï¿½tï¿½
-corrigï¿½es.
+Seules les erreurs clairement introduites par le typographe ont été
+corrigées.
 
 Ce fichier est un extrait du recueil du journal "Le Tour du monde:
-Journal des voyages et des voyageurs" (2ï¿½me semestre 1860).
+Journal des voyages et des voyageurs" (2ème semestre 1860).
 
-Les articles ont ï¿½tï¿½ regroupï¿½s dans des fichiers correspondant aux
-diffï¿½rentes zones gï¿½ographiques, ce fichier contient les articles sur
+Les articles ont été regroupés dans des fichiers correspondant aux
+différentes zones géographiques, ce fichier contient les articles sur
 la Californie.
 
 Chaque fichier contient l'index complet du recueil dont ces
@@ -30,8 +30,8 @@ articles sont originaires.]
 
 
 
-            IMPRIMERIE Gï¿½Nï¿½RALE DE CH. LAHURE
-               Rue de Fleurus, 9, ï¿½ Paris
+            IMPRIMERIE GÉNÉRALE DE CH. LAHURE
+               Rue de Fleurus, 9, à Paris
 
 
 
@@ -40,17 +40,17 @@ articles sont originaires.]
 
                NOUVEAU JOURNAL DES VOYAGES
 
-                PUBLIï¿½ SOUS LA DIRECTION
+                PUBLIÉ SOUS LA DIRECTION
 
-                 DE M. ï¿½DOUARD CHARTON
+                 DE M. ÉDOUARD CHARTON
 
-        ET ILLUSTRï¿½ PAR NOS PLUS Cï¿½Lï¿½BRES ARTISTES
+        ET ILLUSTRÉ PAR NOS PLUS CÉLÈBRES ARTISTES
 
 
 
 
                          1860
-                   DEUXIï¿½ME SEMESTRE
+                   DEUXIÈME SEMESTRE
 
             LIBRAIRIE DE L. HACHETTE ET Cie
          PARIS, BOULEVARD SAINT-GERMAIN, No 77
@@ -63,151 +63,151 @@ articles sont originaires.]
 
 
 
-TABLE DES MATIï¿½RES.
+TABLE DES MATIÈRES.
 
 
-UN MOIS EN SICILE (1843.--Inï¿½dit.), par M. Fï¿½lix BOURQUELOT.
+UN MOIS EN SICILE (1843.--Inédit.), par M. Félix BOURQUELOT.
 
-  Arrivï¿½e en Sicile. -- Palerme et ses habitants. -- Les monuments
-    de Palerme. -- La cathï¿½drale de Monreale. -- De Palerme ï¿½
+  Arrivée en Sicile. -- Palerme et ses habitants. -- Les monuments
+    de Palerme. -- La cathédrale de Monreale. -- De Palerme à
     Trapani. -- Partenico. -- Alcamo. -- Calatafimi. -- Ruines de
-    Sï¿½geste. -- Trapani. -- La sï¿½pulture du couvent des capucins. --
-    Le mont ï¿½ryx. -- De Trapani ï¿½ Girgenti. -- La Lettica. --
-    Castelvetrano. -- Ruines de Sï¿½linonte. -- Sciacca. -- Girgenti
-    (Agrigente). -- De Girgenti ï¿½ Castrogiovanni. -- Caltanizzetta.
-    -- Castrogiovanni. -- Le lac Pergusa et l'enlï¿½vement de
-    Proserpine. -- De Castrogiovanni ï¿½ Syracuse. -- Calatagirone. --
-    Vezzini. -- Syracuse. -- De Syracuse ï¿½ Catane. -- Lentini. --
+    Ségeste. -- Trapani. -- La sépulture du couvent des capucins. --
+    Le mont Éryx. -- De Trapani à Girgenti. -- La Lettica. --
+    Castelvetrano. -- Ruines de Sélinonte. -- Sciacca. -- Girgenti
+    (Agrigente). -- De Girgenti à Castrogiovanni. -- Caltanizzetta.
+    -- Castrogiovanni. -- Le lac Pergusa et l'enlèvement de
+    Proserpine. -- De Castrogiovanni à Syracuse. -- Calatagirone. --
+    Vezzini. -- Syracuse. -- De Syracuse à Catane. -- Lentini. --
     Catane. -- Ascension de l'Etna. -- Taormine. -- Messine. --
-    Retour ï¿½ Naples.                                                 1
+    Retour à Naples.                                                 1
 
 
 VOYAGE EN PERSE, fragments par M. le comte A. de GOBINEAU (1855-1858),
-dessins inï¿½dits de M. Jules LAURENS.
+dessins inédits de M. Jules LAURENS.
 
-  Arrivï¿½e ï¿½ Ispahan. -- Le gouverneur. -- Aspect de la ville. -- Le
-    Tchï¿½har-Bï¿½gh. -- Le collï¿½ge de la Mï¿½re du roi. -- La mosquï¿½e du
-    roi. -- Les quarante colonnes. -- Prï¿½sentations. -- Le pont du
-    Zend-ï¿½-Roub. -- Un dï¿½ner ï¿½ Ispahan. -- La danse et la comï¿½die. --
-    Les habitants d'Ispahan. -- D'Ispahan ï¿½ Kaschan. -- Kaschan. --
+  Arrivée à Ispahan. -- Le gouverneur. -- Aspect de la ville. -- Le
+    Tchéhar-Bâgh. -- Le collége de la Mère du roi. -- La mosquée du
+    roi. -- Les quarante colonnes. -- Présentations. -- Le pont du
+    Zend-è-Roub. -- Un dîner à Ispahan. -- La danse et la comédie. --
+    Les habitants d'Ispahan. -- D'Ispahan à Kaschan. -- Kaschan. --
     Ses fabriques. -- Son imprimerie lithographique. -- Ses
-    scorpions. -- Une lï¿½gende. -- Les bazars. -- Le collï¿½ge. -- De
-    Kaschan ï¿½ la plaine de Tï¿½hï¿½ran. -- Koum. -- Feux d'artifice. --
-    Le pont du Barbier. -- Le dï¿½sert de Khavï¿½r. -- Houzï¿½-Sultan. --
-    La plaine de Tï¿½hï¿½ran. -- Tï¿½hï¿½ran. -- Notre entrï¿½e dans la ville.
+    scorpions. -- Une légende. -- Les bazars. -- Le collége. -- De
+    Kaschan à la plaine de Téhéran. -- Koum. -- Feux d'artifice. --
+    Le pont du Barbier. -- Le désert de Khavèr. -- Houzé-Sultan. --
+    La plaine de Téhéran. -- Téhéran. -- Notre entrée dans la ville.
     -- Notre habitation.                                            16
 
-  Une audience du roi de Perse. -- Nouvelles constructions ï¿½
-    Tï¿½hï¿½ran. -- Tempï¿½rature. -- Longï¿½vitï¿½. -- Les nomades. -- Deux
-    pï¿½lerins. -- Le culte du feu. -- La police. -- Les ponts. -- Le
+  Une audience du roi de Perse. -- Nouvelles constructions à
+    Téhéran. -- Température. -- Longévité. -- Les nomades. -- Deux
+    pèlerins. -- Le culte du feu. -- La police. -- Les ponts. -- Le
     laisser aller administratif. -- Les amusements d'un bazar persan.
-    -- Les fianï¿½ailles. -- Le divorce. -- La journï¿½e d'une Persane.
-    -- La journï¿½e d'un Persan. -- Les visites. -- Formules de
+    -- Les fiançailles. -- Le divorce. -- La journée d'une Persane.
+    -- La journée d'un Persan. -- Les visites. -- Formules de
     politesses. -- La peinture et la calligraphie persanes. -- Les
     chansons royales. -- Les conteurs d'histoires. -- Les spectacles:
-    drames historiques. -- ï¿½pilogue. -- Le Dï¿½mavend. -- L'enfant qui
-    cherche un trï¿½sor.                                              34
+    drames historiques. -- Épilogue. -- Le Démavend. -- L'enfant qui
+    cherche un trésor.                                              34
 
 
 VOYAGES AUX INDES OCCIDENTALES, par M. Anthony TROLLOPE
-(1858-1859); dessins inï¿½dits de M. A. de Bï¿½RARD.
+(1858-1859); dessins inédits de M. A. de BÉRARD.
 
-  L'ï¿½le Saint-Thomas. -- La Jamaï¿½que: Kingston; Spanish-Town; les
-    _rï¿½serves_; la vï¿½gï¿½tation. -- Les planteurs et les nï¿½gres. --
-    Plaintes d'une Ariane noire. -- La toilette des nï¿½gresses. --
-    Avenir des mulï¿½tres. -- Les petites Antilles. -- La Martinique.
+  L'île Saint-Thomas. -- La Jamaïque: Kingston; Spanish-Town; les
+    _réserves_; la végétation. -- Les planteurs et les nègres. --
+    Plaintes d'une Ariane noire. -- La toilette des négresses. --
+    Avenir des mulâtres. -- Les petites Antilles. -- La Martinique.
     -- La Guadeloupe. -- Grenada. -- La Guyane anglaise. -- Une
     sucrerie. -- Barbados. -- La Trinidad. -- La Nouvelle-Grenade. --
-    Sainte-Marthe. -- Carthagï¿½ne. -- Le chemin de fer de Panama. --
-    Costa Rica: San Josï¿½; le Mont-Blanco. -- Le Serapiqui. --
+    Sainte-Marthe. -- Carthagène. -- Le chemin de fer de Panama. --
+    Costa Rica: San José; le Mont-Blanco. -- Le Serapiqui. --
     Greytown.                                                       49
 
 
-VOYAGE DANS LES ï¿½TATS SCANDINAVES, par M. Paul RIANT. (Le
-Tï¿½lï¿½mark et l'ï¿½vï¿½chï¿½ de Bergen.) (1858.--Inï¿½dit.)
+VOYAGE DANS LES ÉTATS SCANDINAVES, par M. Paul RIANT. (Le
+Télémark et l'évêché de Bergen.) (1858.--Inédit.)
 
-  LE Tï¿½Lï¿½MARK. -- Christiania. -- Dï¿½part pour le Tï¿½lï¿½mark. -- Mode
-    de voyager. -- Paysage. -- La vallï¿½e et la ville de Drammen. --
-    De Drammen ï¿½ Kongsberg. -- Le cheval norvï¿½gien. -- Kongsberg et
-    ses gisements mï¿½tallifï¿½res. -- Les montagnes du Tï¿½lï¿½mark. --
-    Leurs habitants. -- Hospitalitï¿½ des _gaards_ et des _sï¿½ters_. --
-    Une sorciï¿½re. -- Les lacs Tinn et Mjï¿½s. -- Le Westfjord. -- La
-    chute du Rjukan. -- Lï¿½gende de la belle Marie. -- Dal. -- Le
-    livre des ï¿½trangers. -- L'ï¿½glise d'Hitterdal. -- L'ivresse en
-    Norvï¿½ge. -- Le chï¿½telain aubergiste. -- Les lacs Sillegjord et
+  LE TÉLÉMARK. -- Christiania. -- Départ pour le Télémark. -- Mode
+    de voyager. -- Paysage. -- La vallée et la ville de Drammen. --
+    De Drammen à Kongsberg. -- Le cheval norvégien. -- Kongsberg et
+    ses gisements métallifères. -- Les montagnes du Télémark. --
+    Leurs habitants. -- Hospitalité des _gaards_ et des _sæters_. --
+    Une sorcière. -- Les lacs Tinn et Mjös. -- Le Westfjord. -- La
+    chute du Rjukan. -- Légende de la belle Marie. -- Dal. -- Le
+    livre des étrangers. -- L'église d'Hitterdal. -- L'ivresse en
+    Norvége. -- Le châtelain aubergiste. -- Les lacs Sillegjord et
     Bandak. -- Le ravin des Corbeaux.                               65
 
-  --_Le Saint-Olaf_ et ses pareils. -- Navigation intï¿½rieure. --
-    Retour ï¿½ Christiania par Skien.                                 82
+  --_Le Saint-Olaf_ et ses pareils. -- Navigation intérieure. --
+    Retour à Christiania par Skien.                                 82
 
-  L'ï¿½Vï¿½CHï¿½ DE BERGEN. -- La presqu'ï¿½le de Bergen. -- Lï¿½rdal. -- Le
-    Sognefjord. -- Vosse-Vangen. -- Le Vï¿½ringfoss. -- Le
-    Hardangerfjord. -- De Vikoï¿½r ï¿½ Sammanger et ï¿½ Bergen.           85
+  L'ÉVÊCHÉ DE BERGEN. -- La presqu'île de Bergen. -- Lærdal. -- Le
+    Sognefjord. -- Vosse-Vangen. -- Le Vöringfoss. -- Le
+    Hardangerfjord. -- De Vikoër à Sammanger et à Bergen.           85
 
 
 VOYAGE DE M. GUILLAUME LEJEAN DANS L'AFRIQUE ORIENTALE
-(1860.--Texte et dessins inï¿½dits.)--Lettre au Directeur du _Tour
+(1860.--Texte et dessins inédits.)--Lettre au Directeur du _Tour
 du monde_ (Khartoum, 10 mai 1860).
 
-  D'ALEXANDRIE ï¿½ SOUAKIN. -- L'ï¿½gypte. -- Le dï¿½sert. -- Le simoun.
-    -- Suez. -- Un danger. -- Le mirage. -- Tor. -- Qossï¿½ir. --
+  D'ALEXANDRIE À SOUAKIN. -- L'Égypte. -- Le désert. -- Le simoun.
+    -- Suez. -- Un danger. -- Le mirage. -- Tor. -- Qosséir. --
     Djambo. -- Djeddah.                                             97
 
 
-VOYAGE AU MONT ATHOS, par M. A. PROUST (1858.--Inï¿½dit.)
+VOYAGE AU MONT ATHOS, par M. A. PROUST (1858.--Inédit.)
 
-  Salonique. -- Juifs, Grecs et Bulgares. -- Les mosquï¿½es. --
-    L'Albanais Rabottas. -- Prï¿½paratifs de dï¿½part. -- Vasilika. --
+  Salonique. -- Juifs, Grecs et Bulgares. -- Les mosquées. --
+    L'Albanais Rabottas. -- Préparatifs de départ. -- Vasilika. --
     Galatz. -- Nedgesalar. -- L'Athos. -- Saint-Nicolas. -- Le P.
-    Gï¿½dï¿½on. -- Le couvent russe. -- La messe chez les Grecs. --
-    Kariï¿½s et la rï¿½publique de l'Athos. -- Le voï¿½vode turc. -- Le
-    peintre Anthimï¿½s et le pappas Manuel. -- M. de Sï¿½vastiannoff.  103
+    Gédéon. -- Le couvent russe. -- La messe chez les Grecs. --
+    Kariès et la république de l'Athos. -- Le voïvode turc. -- Le
+    peintre Anthimès et le pappas Manuel. -- M. de Sévastiannoff.  103
 
-  Ermites indï¿½pendants. -- Le monastï¿½re de Koutloumousis. -- Les
-    bibliothï¿½ques. -- La peinture. -- Manuel Panselinos et les
-    peintres modernes. -- Le monastï¿½re d'Iveron. -- Les carï¿½mes. --
+  Ermites indépendants. -- Le monastère de Koutloumousis. -- Les
+    bibliothèques. -- La peinture. -- Manuel Panselinos et les
+    peintres modernes. -- Le monastère d'Iveron. -- Les carêmes. --
     Peintres et peintures. -- Stavronikitas. -- Miracles. -- Un
-    Vroukolakas. -- Les bibliothï¿½ques. -- Les mulets. -- Philotheos.
-    -- Les moines et la guerre de l'Indï¿½pendance. -- Karacallos. --
-    L'union des deux ï¿½glises. -- Les pï¿½nitences et les fautes.     114
+    Vroukolakas. -- Les bibliothèques. -- Les mulets. -- Philotheos.
+    -- Les moines et la guerre de l'Indépendance. -- Karacallos. --
+    L'union des deux Églises. -- Les pénitences et les fautes.     114
 
-  La lï¿½gende d'Arcadius. -- Le pappas de Smyrne. -- Esphigmenou. --
-    Thï¿½odose le Jeune. -- L'ex-patriarche Anthymos et l'ï¿½glise
-    grecque. -- L'isthme de l'Athos et Xerxï¿½s. -- Les monastï¿½res
-    bulgares: Kiliandari et Zographos. -- La lï¿½gende du peintre. --
-    Beautï¿½ du paysage. -- Castamoniti. -- Une femme au mont Athos. --
-    Dokiarios. -- La secte des Palamites. -- Saint-Xï¿½nophon. -- La
-    pï¿½che aux ï¿½ponges. -- Retour ï¿½ Kariï¿½s. -- Xiropotamos, le couvent
-    du Fleuve Sec. -- Dï¿½part de Daphnï¿½. -- Marino le chanteur.     130
+  La légende d'Arcadius. -- Le pappas de Smyrne. -- Esphigmenou. --
+    Théodose le Jeune. -- L'ex-patriarche Anthymos et l'Église
+    grecque. -- L'isthme de l'Athos et Xerxès. -- Les monastères
+    bulgares: Kiliandari et Zographos. -- La légende du peintre. --
+    Beauté du paysage. -- Castamoniti. -- Une femme au mont Athos. --
+    Dokiarios. -- La secte des Palamites. -- Saint-Xénophon. -- La
+    pêche aux éponges. -- Retour à Kariès. -- Xiropotamos, le couvent
+    du Fleuve Sec. -- Départ de Daphné. -- Marino le chanteur.     130
 
 
 VOYAGE D'UN NATURALISTE (Charles DARWIN).--L'archipel Galapagos
-et les attoles ou ï¿½les de coraux.--(1838).
+et les attoles ou îles de coraux.--(1838).
 
   L'ARCHIPEL GALAPAGOS. -- Groupe volcanique. -- Innombrables
-    cratï¿½res. -- Aspect bizarre de la vï¿½gï¿½tation. -- L'ï¿½le Chatam. --
-    Colonie de l'ï¿½le Charles. -- L'ï¿½le James. -- Lac salï¿½ dans un
-    cratï¿½re. -- Histoire naturelle de ce groupe d'ï¿½les. --
-    Mammifï¿½res; souris indigï¿½ne. -- Ornithologie; familiaritï¿½ des
+    cratères. -- Aspect bizarre de la végétation. -- L'île Chatam. --
+    Colonie de l'île Charles. -- L'île James. -- Lac salé dans un
+    cratère. -- Histoire naturelle de ce groupe d'îles. --
+    Mammifères; souris indigène. -- Ornithologie; familiarité des
     oiseaux; terreur de l'homme; instinct acquis. -- Reptiles;
     tortues de terre; leurs habitudes.                             139
 
-  Encore les tortues de terre; lï¿½zard aquatique se nourrissant de
-    plantes marines; lï¿½zard terrestre herbivore, se creusant un
-    terrier. -- Importance des reptiles dans cet archipel oï¿½ ils
-    remplacent les mammifï¿½res. -- Diffï¿½rences entre les espï¿½ces qui
-    habitent les diverses ï¿½les. -- Aspect gï¿½nï¿½ral amï¿½ricain.       146
+  Encore les tortues de terre; lézard aquatique se nourrissant de
+    plantes marines; lézard terrestre herbivore, se creusant un
+    terrier. -- Importance des reptiles dans cet archipel où ils
+    remplacent les mammifères. -- Différences entre les espèces qui
+    habitent les diverses îles. -- Aspect général américain.       146
 
-  LES ATTOLES OU ï¿½LES DE CORAUX. -- ï¿½le Keeling. -- Aspect
-    merveilleux. -- Flore exiguï¿½. -- Voyage des graines. -- Oiseaux.
-    -- Insectes. -- Sources ï¿½ flux et reflux. -- Chasse aux tortues.
-    -- Champs de coraux morts. -- Pierres transportï¿½es par les
+  LES ATTOLES OU ÎLES DE CORAUX. -- Île Keeling. -- Aspect
+    merveilleux. -- Flore exiguë. -- Voyage des graines. -- Oiseaux.
+    -- Insectes. -- Sources à flux et reflux. -- Chasse aux tortues.
+    -- Champs de coraux morts. -- Pierres transportées par les
     racines des arbres. -- Grand crabe. -- Corail piquant. --
     Poissons se nourrissant de coraux. -- Formation des attoles. --
-    Profondeur ï¿½ laquelle le corail peut vivre. -- Vastes espaces
-    parsemï¿½s d'ï¿½les de corail. -- Abaissement de leurs fondations. --
-    Barriï¿½res. -- Franges de rï¿½cifs. -- Changement des franges en
-    barriï¿½res et des barriï¿½res en attoles.                         151
+    Profondeur à laquelle le corail peut vivre. -- Vastes espaces
+    parsemés d'îles de corail. -- Abaissement de leurs fondations. --
+    Barrières. -- Franges de récifs. -- Changement des franges en
+    barrières et des barrières en attoles.                         151
 
 
 BIOGRAPHIE.--Brun-Rollet.                                          159
@@ -217,214 +217,214 @@ VOYAGE AU PAYS DES YAKOUTES (Russie asiatique), par OUVAROVSKI
 (1830-1839).
 
   Djigansk. -- Mes premiers souvenirs. -- Brigandages. -- Le
-    paysage de Djigansk. -- Les habitants. -- La pï¿½che. -- Si les
-    poissons morts sont bons ï¿½ manger. -- La sorciï¿½re Agrippine. --
-    Mon premier voyage. -- Killï¿½m et ses environs. -- Malheurs. --
-    Les Yakoutes. -- La chasse et la pï¿½che. -- Yakoutsk. -- Mon
-    premier emploi. -- J'avance. -- Derniï¿½res recommandations de ma
-    mï¿½re. -- Irkoutsk. -- Voyage. -- Oudskoï¿½. -- Mes bagages. --
-    Campement. -- Le froid. -- La riviï¿½re Outchour. -- L'Aldan. --
-    Voyage dans la neige et dans la glace. -- L'ï¿½gnï¿½. -- Un Tongouse
+    paysage de Djigansk. -- Les habitants. -- La pêche. -- Si les
+    poissons morts sont bons à manger. -- La sorcière Agrippine. --
+    Mon premier voyage. -- Killæm et ses environs. -- Malheurs. --
+    Les Yakoutes. -- La chasse et la pêche. -- Yakoutsk. -- Mon
+    premier emploi. -- J'avance. -- Dernières recommandations de ma
+    mère. -- Irkoutsk. -- Voyage. -- Oudskoï. -- Mes bagages. --
+    Campement. -- Le froid. -- La rivière Outchour. -- L'Aldan. --
+    Voyage dans la neige et dans la glace. -- L'Ægnæ. -- Un Tongouse
     qui pleure son chien. -- Obstacles et fatigues. -- Les guides. --
-    Ascension du Diougdjour. -- Stratagï¿½me pour prendre un oiseau. --
-    La ville d'Oudskoï¿½. -- La pï¿½che ï¿½ l'embouchure du fleuve Ut. --
-    Navigation pï¿½nible. -- Boroukan. -- Une halte dans la neige. --
-    Les rennes. -- Le mont Byraya. -- Retour ï¿½ Oudskoï¿½ et ï¿½
+    Ascension du Diougdjour. -- Stratagème pour prendre un oiseau. --
+    La ville d'Oudskoï. -- La pêche à l'embouchure du fleuve Ut. --
+    Navigation pénible. -- Boroukan. -- Une halte dans la neige. --
+    Les rennes. -- Le mont Byraya. -- Retour à Oudskoï et à
     Yakoutsk.                                                      161
 
-  Viliouisk. -- Sel tricolore. -- Bois pï¿½trifiï¿½. -- Le Sountar. --
+  Viliouisk. -- Sel tricolore. -- Bois pétrifié. -- Le Sountar. --
     Nouveau voyage. -- Description du pays des Yakoutes. -- Climat.
-    -- Population. -- Caractï¿½res. -- Aptitudes. -- Les femmes
+    -- Population. -- Caractères. -- Aptitudes. -- Les femmes
     yakoutes.                                                      177
 
 
-DE SYDNEY ï¿½ ADï¿½LAï¿½DE (Australie du Sud), notes extraites d'une
-correspondance particuliï¿½re (1860).
+DE SYDNEY À ADÉLAÏDE (Australie du Sud), notes extraites d'une
+correspondance particulière (1860).
 
   Les Alpes australiennes. -- Le bassin du Murray. -- Ce qui reste
-    des anciens maï¿½tres du sol. -- Navigation sur le Murray. --
-    Frontiï¿½res de l'Australie du Sud. -- Le lac Alexandrina. -- Le
-    Kanguroo rouge. -- La colonie de l'Australie du Sud. -- Adï¿½laï¿½de.
+    des anciens maîtres du sol. -- Navigation sur le Murray. --
+    Frontières de l'Australie du Sud. -- Le lac Alexandrina. -- Le
+    Kanguroo rouge. -- La colonie de l'Australie du Sud. -- Adélaïde.
     -- Culture et mines.                                           182
 
 
-VOYAGES ET Dï¿½COUVERTES AU CENTRE DE L'AFRIQUE, journal du docteur
+VOYAGES ET DÉCOUVERTES AU CENTRE DE L'AFRIQUE, journal du docteur
 BARTH (1849-1855).
 
-  Henry Barth. -- But de l'expï¿½dition de Richardson. -- Dï¿½part. --
-    Le Fezzan. -- Mourzouk. -- Le dï¿½sert. -- Le palais des dï¿½mons. --
-    Barth s'ï¿½gare; torture et agonie. -- Oasis. -- Les Touaregs. --
+  Henry Barth. -- But de l'expédition de Richardson. -- Départ. --
+    Le Fezzan. -- Mourzouk. -- Le désert. -- Le palais des démons. --
+    Barth s'égare; torture et agonie. -- Oasis. -- Les Touaregs. --
     Dunes. -- Afalesselez. -- Bubales et moufflons. -- Ouragan. --
-    Frontiï¿½res de l'Asben. -- Extorsions. -- Dï¿½luge ï¿½ une latitude oï¿½
-    il ne doit pas pleuvoir. -- La Suisse du dï¿½sert. -- Sombre vallï¿½e
-    de Taghist. -- Riante vallï¿½e d'Auderas. -- Agadez. -- Sa
-    dï¿½cadence. -- Entrevue de Barth et du sultan. -- Pouvoir
+    Frontières de l'Asben. -- Extorsions. -- Déluge à une latitude où
+    il ne doit pas pleuvoir. -- La Suisse du désert. -- Sombre vallée
+    de Taghist. -- Riante vallée d'Auderas. -- Agadez. -- Sa
+    décadence. -- Entrevue de Barth et du sultan. -- Pouvoir
     despotique. -- Coup d'oeil sur les moeurs. -- Habitat de la
-    girafe. -- Le Soudan; le Damergou. -- Architecture. -- Katchï¿½na;
-    Barth est prisonnier. -- Pï¿½nurie d'argent. -- Kano. -- Son
-    aspect, son industrie, sa population. -- De Kano ï¿½ Kouka. -- Mort
-    de Richardson. -- Arrivï¿½e ï¿½ Kouka. -- Difficultï¿½s croissantes. --
-    L'ï¿½nergie du voyageur en triomphe. -- Ses visiteurs. -- Un vieux
+    girafe. -- Le Soudan; le Damergou. -- Architecture. -- Katchéna;
+    Barth est prisonnier. -- Pénurie d'argent. -- Kano. -- Son
+    aspect, son industrie, sa population. -- De Kano à Kouka. -- Mort
+    de Richardson. -- Arrivée à Kouka. -- Difficultés croissantes. --
+    L'énergie du voyageur en triomphe. -- Ses visiteurs. -- Un vieux
     courtisan. -- Le vizir et ses quatre cents femmes. -- Description
-    de la ville, son marchï¿½, ses habitants. -- Le Dendal. --
+    de la ville, son marché, ses habitants. -- Le Dendal. --
     Excursion. -- Angornou. -- Le lac Tchad.                       193
 
-  Dï¿½part. -- Aspect dï¿½solï¿½ du pays. -- Les Ghouas. -- Mabani. -- Le
-    mont Dï¿½labï¿½da. -- Forgeron en plein vent. -- Dï¿½vastation. --
+  Départ. -- Aspect désolé du pays. -- Les Ghouas. -- Mabani. -- Le
+    mont Délabéda. -- Forgeron en plein vent. -- Dévastation. --
     Orage. -- Baobab. -- Le Mendif. -- Les Marghis. -- L'Adamaoua. --
     Mboutoudi. -- Proposition de mariage. -- Installation de vive
-    force chez le fils du gouverneur de Soulleri. -- Le Bï¿½nouï¿½. --
-    Yola. -- Mauvais accueil. -- Renvoi subit. -- Les Ouï¿½lad-Sliman.
-    -- Situation politique du Bornou. -- La ville de Yo. -- Ngï¿½gimi
-    ou Ingï¿½gimi. -- Chute dans un bourbier. -- Territoire ennemi. --
-    Razzia. -- Nouvelle expï¿½dition. -- Troisiï¿½me dï¿½part de Kouka. --
-    Le chef de la police. -- Aspect de l'armï¿½e. -- Dikoua. -- Marche
-    de l'armï¿½e. -- Le Mosgou. -- Adishen et son escorte. -- Beautï¿½ du
-    pays. -- Chasse ï¿½ l'homme. -- Erreur des Europï¿½ens sur le centre
+    force chez le fils du gouverneur de Soulleri. -- Le Bénoué. --
+    Yola. -- Mauvais accueil. -- Renvoi subit. -- Les Ouélad-Sliman.
+    -- Situation politique du Bornou. -- La ville de Yo. -- Ngégimi
+    ou Ingégimi. -- Chute dans un bourbier. -- Territoire ennemi. --
+    Razzia. -- Nouvelle expédition. -- Troisième départ de Kouka. --
+    Le chef de la police. -- Aspect de l'armée. -- Dikoua. -- Marche
+    de l'armée. -- Le Mosgou. -- Adishen et son escorte. -- Beauté du
+    pays. -- Chasse à l'homme. -- Erreur des Européens sur le centre
     de l'Afrique. -- Incendies. -- Baga. -- Partage du butin. --
-    Entrï¿½e dans le Baghirmi. -- Refus de passage. -- Traversï¿½e du
-    Chari. -- ï¿½ travers champs. -- Dï¿½fense d'aller plus loin. --
-    Hospitalitï¿½ de Bou-Bakr-Sadik. -- Barth est arrï¿½tï¿½. -- On lui met
-    les fers aux pieds. -- Dï¿½livrï¿½ par Sadik. -- Masï¿½na. -- Un
+    Entrée dans le Baghirmi. -- Refus de passage. -- Traversée du
+    Chari. -- À travers champs. -- Défense d'aller plus loin. --
+    Hospitalité de Bou-Bakr-Sadik. -- Barth est arrêté. -- On lui met
+    les fers aux pieds. -- Délivré par Sadik. -- Maséna. -- Un
     savant. -- Les femmes de Baghirmi. -- Combat avec des fourmis. --
-    Cortï¿½ge du sultan. -- Dï¿½pï¿½ches de Londres.                     209
+    Cortége du sultan. -- Dépêches de Londres.                     209
 
-  De Katchï¿½na au Niger. -- Le district de Mouniyo. -- Lacs
-    remarquables. -- Aspect curieux de Zinder. -- Route pï¿½rilleuse.
-    -- Activitï¿½ des fourmis. -- Le Ghaladina de Sokoto. -- Marche
-    forcï¿½e de trente heures. -- L'ï¿½mir Aliyou. -- Vourno. --
-    Situation du pays. -- Cortï¿½ge nuptial. -- Sokoto. -- Caprice
-    d'une boï¿½te ï¿½ musique. -- Gando. -- Khalilou. -- Un chevalier
-    d'industrie. -- Exactions. -- Pluie. -- Dï¿½solation et fï¿½conditï¿½.
-    -- Zogirma. -- La vallï¿½e de Foga. -- Le Niger. -- La ville de
-    Say. -- Rï¿½gion mystï¿½rieuse. -- Orage. -- Passage de la Sirba. --
-    Fin du rhamadan ï¿½ Sebba. -- Bijoux en cuivre. -- De l'eau
-    partout. -- Barth dï¿½guisï¿½ en schï¿½rif. -- Horreur des chiens. --
+  De Katchéna au Niger. -- Le district de Mouniyo. -- Lacs
+    remarquables. -- Aspect curieux de Zinder. -- Route périlleuse.
+    -- Activité des fourmis. -- Le Ghaladina de Sokoto. -- Marche
+    forcée de trente heures. -- L'émir Aliyou. -- Vourno. --
+    Situation du pays. -- Cortége nuptial. -- Sokoto. -- Caprice
+    d'une boîte à musique. -- Gando. -- Khalilou. -- Un chevalier
+    d'industrie. -- Exactions. -- Pluie. -- Désolation et fécondité.
+    -- Zogirma. -- La vallée de Foga. -- Le Niger. -- La ville de
+    Say. -- Région mystérieuse. -- Orage. -- Passage de la Sirba. --
+    Fin du rhamadan à Sebba. -- Bijoux en cuivre. -- De l'eau
+    partout. -- Barth déguisé en schérif. -- Horreur des chiens. --
     Montagnes du Hombori. -- Protection des Touaregs. -- Bambara. --
-    Priï¿½res pour la pluie. -- Sur l'eau. -- Kabara. -- Visites
+    Prières pour la pluie. -- Sur l'eau. -- Kabara. -- Visites
     importunes. -- Dangereux passage. -- Tinboctoue, Tomboctou ou
     Tembouctou. -- El Bakay. -- Menaces. -- Le camp du cheik. --
-    Irritation croissante. -- Sus au chrï¿½tien! -- Les Foullanes
-    veulent assiï¿½ger la ville. -- Dï¿½part. -- Un preux chez les
-    Touaregs. -- Zone rocheuse. -- Lenteurs dï¿½sespï¿½rantes. -- Gogo.
+    Irritation croissante. -- Sus au chrétien! -- Les Foullanes
+    veulent assiéger la ville. -- Départ. -- Un preux chez les
+    Touaregs. -- Zone rocheuse. -- Lenteurs désespérantes. -- Gogo.
     -- Gando. -- Kano. -- Retour.                                  226
 
 
 VOYAGES ET AVENTURES DU BARON DE WOGAN EN CALIFORNIE
-(1850-1852.--Inï¿½dit).
+(1850-1852.--Inédit).
 
-  Arrivï¿½e ï¿½ San-Francisco. -- Description de cette ville. -- Dï¿½part
-    pour les placers. -- Le claim. -- Premiï¿½re dï¿½ception. -- La
-    solitude. -- Mineur et chasseur. -- Dï¿½part pour l'intï¿½rieur. --
-    L'ours gris. -- Reconnaissance des sauvages. -- Captivitï¿½. --
+  Arrivée à San-Francisco. -- Description de cette ville. -- Départ
+    pour les placers. -- Le claim. -- Première déception. -- La
+    solitude. -- Mineur et chasseur. -- Départ pour l'intérieur. --
+    L'ours gris. -- Reconnaissance des sauvages. -- Captivité. --
     Jugement. -- Le poteau de la guerre. -- L'Anglais chef de tribu.
-    -- Dï¿½livrance.                                                 242
+    -- Délivrance.                                                 242
 
 
 VOYAGE DANS LE ROYAUME D'AVA (empire des Birmans), par le
-capitaine Henri YULE, du corps du gï¿½nie bengalais (1855).
+capitaine Henri YULE, du corps du génie bengalais (1855).
 
-  Dï¿½part de Rangoun. -- Frontiï¿½res anglaises et birmanes. -- Aspect
-    du fleuve et de ses bords. -- La ville de Magwï¿½. -- Musique,
+  Départ de Rangoun. -- Frontières anglaises et birmanes. -- Aspect
+    du fleuve et de ses bords. -- La ville de Magwé. -- Musique,
     concert et drames birmans. -- Sources de naphte; leur
-    exploitation. -- Un monastï¿½re et ses habitants. -- La ville de
-    Pagï¿½n. -- Myeen-Kyan. -- Amarapoura. -- Paysage. -- Arrivï¿½e ï¿½
+    exploitation. -- Un monastère et ses habitants. -- La ville de
+    Pagán. -- Myeen-Kyan. -- Amarapoura. -- Paysage. -- Arrivée à
     Amarapoura.                                                    258
 
-  Amarapoura; ses palais, ses temples. -- L'ï¿½lï¿½phant blanc. --
+  Amarapoura; ses palais, ses temples. -- L'éléphant blanc. --
     Population de la ville. -- Recensement suspect. -- Audience du
-    roi. -- Prï¿½sents offerts et reï¿½us. -- Le prince hï¿½ritier
-    prï¿½somptif et la princesse royale. -- Incident diplomatique. --
+    roi. -- Présents offerts et reçus. -- Le prince héritier
+    présomptif et la princesse royale. -- Incident diplomatique. --
     Religion bouddhique. -- Visites aux grands fonctionnaires. -- Les
     dames birmanes.                                                273
 
-  Comment on dompte les ï¿½lï¿½phants en Birmanie. -- Excursions autour
-    d'Amarapoura. -- Gï¿½ologie de la vallï¿½e de l'Irawady. -- Les
+  Comment on dompte les éléphants en Birmanie. -- Excursions autour
+    d'Amarapoura. -- Géologie de la vallée de l'Irawady. -- Les
     poissons familiers. -- Le serpent hamadryade. -- Les Shans et
-    autres peuples indigï¿½nes du royaume d'Ava. -- Les femmes chez les
-    Birmans et chez les Karens. -- Fï¿½tes birmanes. -- Audience de
-    congï¿½. -- Refus de signer un traitï¿½. -- Lettre royale. -- Dï¿½part
-    d'Amarapoura et retour ï¿½ Rangoun. -- Coup d'oeil rï¿½trospectif sur
+    autres peuples indigènes du royaume d'Ava. -- Les femmes chez les
+    Birmans et chez les Karens. -- Fêtes birmanes. -- Audience de
+    congé. -- Refus de signer un traité. -- Lettre royale. -- Départ
+    d'Amarapoura et retour à Rangoun. -- Coup d'oeil rétrospectif sur
     la Birmanie.                                                   280
 
 
 VOYAGE AUX GRANDS LACS DE L'AFRIQUE ORIENTALE, par le capitaine
 BURTON (1857-1859).
 
-  But de l'expï¿½dition. -- Le capitaine Burton. -- Zanzibar. --
-    Aspect de la cï¿½te. -- Un village. -- Les Bï¿½loutchis. -- Ouamrima.
-    -- Fertilitï¿½ du sol. -- Dï¿½goï¿½t inspirï¿½ par le pantalon. -- Vallï¿½e
+  But de l'expédition. -- Le capitaine Burton. -- Zanzibar. --
+    Aspect de la côte. -- Un village. -- Les Béloutchis. -- Ouamrima.
+    -- Fertilité du sol. -- Dégoût inspiré par le pantalon. -- Vallée
     de la mort. -- Supplice de M. Maizan. -- Hallucination de
-    l'assassin. -- Horreur du paysage. -- Humiditï¿½. -- Zoungomï¿½ro. --
-    Effets de la traite. -- Personnel de la caravane. -- Mï¿½tis
+    l'assassin. -- Horreur du paysage. -- Humidité. -- Zoungoméro. --
+    Effets de la traite. -- Personnel de la caravane. -- Métis
     arabes, Hindous, jeunes gens mis en gage par leurs familles. --
-    ï¿½nes de selle et de bï¿½t. -- Chaï¿½ne de l'Ousagara. --
+    Ânes de selle et de bât. -- Chaîne de l'Ousagara. --
     Transformation du climat. -- Nouvelles plaines insalubres. --
-    Contraste. -- Ruine d'un village. -- Fourmis noires. -- Troisiï¿½me
+    Contraste. -- Ruine d'un village. -- Fourmis noires. -- Troisième
     rampe de l'Ousagara. -- La Passe terrible. -- L'Ougogo. --
-    L'Ougogi. -- ï¿½pines. -- Le Zihoua. -- Caravanes. -- Curiositï¿½ des
-    indigï¿½nes. -- Faune. -- Un despote. -- La plaine embrasï¿½e. --
-    Coup d'oeil sur la vallï¿½e d'Ougogo. -- Ariditï¿½. -- Kraals. --
-    Absence de combustible. -- Gï¿½ologie. -- Climat. -- Printemps. --
-    Indigï¿½nes. -- District de Toula. -- Le chef Maoula. -- Forï¿½t
+    L'Ougogi. -- Épines. -- Le Zihoua. -- Caravanes. -- Curiosité des
+    indigènes. -- Faune. -- Un despote. -- La plaine embrasée. --
+    Coup d'oeil sur la vallée d'Ougogo. -- Aridité. -- Kraals. --
+    Absence de combustible. -- Géologie. -- Climat. -- Printemps. --
+    Indigènes. -- District de Toula. -- Le chef Maoula. -- Forêt
     dangereuse.                                                    305
 
-  Arrivï¿½e ï¿½ Kazeh. -- Accueil hospitalier. -- Snay ben Amir. --
-    ï¿½tablissements des Arabes. -- Leur maniï¿½re de vivre. -- Le Tembï¿½.
+  Arrivée à Kazeh. -- Accueil hospitalier. -- Snay ben Amir. --
+    Établissements des Arabes. -- Leur manière de vivre. -- Le Tembé.
     -- Chemins de l'Afrique orientale. -- Caravanes. -- Porteurs. --
-    Une journï¿½e de marche. -- Costume du guide. -- Le Mganga. --
-    Coiffures. -- Halte. -- Danse. -- Sï¿½jour ï¿½ Kazeh. -- Aviditï¿½ des
-    Bï¿½loutchis. -- Saison pluvieuse. -- Yombo. -- Coucher du soleil.
-    -- Jolies fumeuses. -- Le Msï¿½nï¿½. -- Orgies. -- Kajjanjï¿½ri. --
-    Maladie. -- Passage du Malagarazi. -- Tradition. -- Beautï¿½ de la
-    Terre de la Lune. -- Soirï¿½e de printemps. -- Orage. -- Faune. --
-    Cynocï¿½phales, chiens sauvages, oiseaux d'eau. -- Ouakimbou. --
-    Ouanyamouï¿½zi. -- Toilette. -- Naissances. -- ï¿½ducation. --
-    Funï¿½railles. -- Mobilier. -- Lieu public. -- Gouvernement. --
-    Ordalie. -- Rï¿½gion insalubre et fï¿½conde. -- Aspect du Tanganyika.
-    -- Ravissements. -- Kaouï¿½lï¿½.                                   321
+    Une journée de marche. -- Costume du guide. -- Le Mganga. --
+    Coiffures. -- Halte. -- Danse. -- Séjour à Kazeh. -- Avidité des
+    Béloutchis. -- Saison pluvieuse. -- Yombo. -- Coucher du soleil.
+    -- Jolies fumeuses. -- Le Mséné. -- Orgies. -- Kajjanjéri. --
+    Maladie. -- Passage du Malagarazi. -- Tradition. -- Beauté de la
+    Terre de la Lune. -- Soirée de printemps. -- Orage. -- Faune. --
+    Cynocéphales, chiens sauvages, oiseaux d'eau. -- Ouakimbou. --
+    Ouanyamouézi. -- Toilette. -- Naissances. -- Éducation. --
+    Funérailles. -- Mobilier. -- Lieu public. -- Gouvernement. --
+    Ordalie. -- Région insalubre et féconde. -- Aspect du Tanganyika.
+    -- Ravissements. -- Kaouélé.                                   321
 
-    Tatouage. -- Cosmï¿½tiques. -- Maniï¿½re originale de priser. --
-    Caractï¿½re des Ouajiji; leur cï¿½rï¿½monial. -- Autres riverains du
-    lac. -- Ouatata, vie nomade, conquï¿½tes, maniï¿½re de se battre,
-    hospitalitï¿½. -- Installation ï¿½ Kaouï¿½lï¿½. -- Visite de Kannï¿½na. --
+    Tatouage. -- Cosmétiques. -- Manière originale de priser. --
+    Caractère des Ouajiji; leur cérémonial. -- Autres riverains du
+    lac. -- Ouatata, vie nomade, conquêtes, manière de se battre,
+    hospitalité. -- Installation à Kaouélé. -- Visite de Kannéna. --
     Tribulations. -- Maladies. -- Sur le lac. -- Bourgades de
-    pï¿½cheurs. -- Ouafanya. -- Le chef Kanoni. -- Cï¿½te inhospitaliï¿½re.
-    -- L'ï¿½le d'Oubouari. -- Anthropophages. -- Accueil flatteur des
-    Ouavira. -- Pas d'issue au Tanganyika. -- Tempï¿½te. -- Retour.  337
+    pêcheurs. -- Ouafanya. -- Le chef Kanoni. -- Côte inhospitalière.
+    -- L'île d'Oubouari. -- Anthropophages. -- Accueil flatteur des
+    Ouavira. -- Pas d'issue au Tanganyika. -- Tempête. -- Retour.  337
 
 
 FRAGMENT D'UN VOYAGE AU SAUBAT (affluent du Nil Blanc), par M.
 Andrea DEBONO (1855)                                               348
 
 
-VOYAGE ï¿½ L'ï¿½LE DE CUBA, par M. Richard DANA (1859).
+VOYAGE À L'ÎLE DE CUBA, par M. Richard DANA (1859).
 
-  Dï¿½part de New-York. -- Une nuit en mer. -- Premiï¿½re vue de Cuba.
+  Départ de New-York. -- Une nuit en mer. -- Première vue de Cuba.
     -- Le Morro. -- Aspect de la Havane. -- Les rues. -- La volante.
-    -- La place d'Armes. -- La promenade d'Isabelle II. -- L'hï¿½tel Le
+    -- La place d'Armes. -- La promenade d'Isabelle II. -- L'hôtel Le
     Grand. -- Bains dans les rochers. -- Coolies chinois. -- Quartier
-    pauvre ï¿½ la Havane. -- La promenade de Tacon. -- Les surnoms ï¿½ la
-    Havane. -- Matanzas. -- La Plaza. -- Limossar. -- L'intï¿½rieur de
-    l'ï¿½le. -- La vï¿½gï¿½tation. -- Les champs de canne ï¿½ sucre. -- Une
-    plantation. -- Le cafï¿½. -- La vie dans une plantation de sucre.
-    -- Le Cumbre. -- Le passage. -- Retour ï¿½ la Havane. -- La
-    population de Cuba. -- Les noirs libres. -- Les mystï¿½res de
+    pauvre à la Havane. -- La promenade de Tacon. -- Les surnoms à la
+    Havane. -- Matanzas. -- La Plaza. -- Limossar. -- L'intérieur de
+    l'île. -- La végétation. -- Les champs de canne à sucre. -- Une
+    plantation. -- Le café. -- La vie dans une plantation de sucre.
+    -- Le Cumbre. -- Le passage. -- Retour à la Havane. -- La
+    population de Cuba. -- Les noirs libres. -- Les mystères de
     l'esclavage. -- Les productions naturelles. -- Le climat.      353
 
 
-EXCURSIONS DANS LE DAUPHINï¿½, par M. Adolphe JOANNE (1850-1860).
+EXCURSIONS DANS LE DAUPHINÉ, par M. Adolphe JOANNE (1850-1860).
 
-  Le pic de Belledon. -- Le Dauphinï¿½. -- Les Goulets.              369
+  Le pic de Belledon. -- Le Dauphiné. -- Les Goulets.              369
 
-  Les gorges d'Omblï¿½ze. -- Die. -- La vallï¿½e de Roumeyer. -- La
-    forï¿½t de Saou. -- Le col de la Cochette.                       385
+  Les gorges d'Omblèze. -- Die. -- La vallée de Roumeyer. -- La
+    forêt de Saou. -- Le col de la Cochette.                       385
 
 
-EXCURSIONS DANS LE DAUPHINï¿½, par M. ï¿½lisï¿½e RECLUS (1850-1860).
+EXCURSIONS DANS LE DAUPHINÉ, par M. Élisée RECLUS (1850-1860).
 
   La Grave. -- L'Aiguille du midi. -- Le clapier de
-    Saint-Christophe. -- Le pont du Diable. -- La Bï¿½rarde. -- Le col
+    Saint-Christophe. -- Le pont du Diable. -- La Bérarde. -- Le col
     de la Tempe. -- La Vallouise. -- Le Pertuis-Rostan. -- Le village
     des Claux. -- Le mont Pelvoux. -- La Balme-Chapelu. -- Moeurs des
     habitants.                                                     402
@@ -440,1067 +440,1067 @@ ERRATA.                                                            427
 
 
 [Illustration: WOGAN:--Portrait en pied de l'auteur en costume de
-voyage.--Dessin de J. Pelcoq d'aprï¿½s une photographie.]
+voyage.--Dessin de J. Pelcoq d'après une photographie.]
 
 
 
 
 VOYAGES ET AVENTURES DU BARON DE WOGAN EN CALIFORNIE.
 
-1850-1852.--INï¿½DIT.
+1850-1852.--INÉDIT.
 
-     Arrivï¿½e ï¿½ San-Francisco. -- Description de cette ville. --
-     Dï¿½part pour les placers. -- Le claim. -- Premiï¿½re dï¿½ception.
+     Arrivée à San-Francisco. -- Description de cette ville. --
+     Départ pour les placers. -- Le claim. -- Première déception.
 
 
-Dans les derniers jours de 1850, _l'Isthmus_, bateau ï¿½ vapeur de la
-Compagnie Amï¿½ricaine sur l'ocï¿½an Pacifique, dï¿½barquait sur le quai de
+Dans les derniers jours de 1850, _l'Isthmus_, bateau à vapeur de la
+Compagnie Américaine sur l'océan Pacifique, débarquait sur le quai de
 San-Francisco une trentaine de passagers qu'il amenait de Panama.
-Parmi ces voyageurs que le besoin d'aventures, de spï¿½culations du la
-fiï¿½vre de l'or amenait en Californie se trouvaient quatre Franï¿½ais,
-poussï¿½s loin de leur patrie par les contrecoups des convulsions
-politiques. Partis de diffï¿½rents points du sol natal, des rangs
-sociaux ou des partis existants, ils s'ï¿½taient liï¿½s les uns aux autres
+Parmi ces voyageurs que le besoin d'aventures, de spéculations du la
+fièvre de l'or amenait en Californie se trouvaient quatre Français,
+poussés loin de leur patrie par les contrecoups des convulsions
+politiques. Partis de différents points du sol natal, des rangs
+sociaux ou des partis existants, ils s'étaient liés les uns aux autres
 par le contrat d'une de ces associations industrielles que faisaient
-ï¿½clore en ces temps agitï¿½s les bouillonnements de la sociï¿½tï¿½
-europï¿½enne d'une part, et de l'autre, la rï¿½putation exagï¿½rï¿½e des mines
+éclore en ces temps agités les bouillonnements de la société
+européenne d'une part, et de l'autre, la réputation exagérée des mines
 d'or de la Californie; il ne s'agissait de rien moins que de
-l'exploitation d'une machine nouvelle, qui, appliquï¿½e au lavage des
-terres aurifï¿½res, devait donner de merveilleux rï¿½sultats, autant du
-moins que l'avaient annoncï¿½ beaucoup de journaux grands et petits, sur
-la quatriï¿½me page desquels les amateurs de collections pourraient bien
-trouver encore son dessin: coupe, profil et ï¿½lï¿½vation.
+l'exploitation d'une machine nouvelle, qui, appliquée au lavage des
+terres aurifères, devait donner de merveilleux résultats, autant du
+moins que l'avaient annoncé beaucoup de journaux grands et petits, sur
+la quatrième page desquels les amateurs de collections pourraient bien
+trouver encore son dessin: coupe, profil et élévation.
 
-Un des quatre associï¿½s est l'auteur des pages suivantes, extraites
-d'un journal tenu aussi rï¿½guliï¿½rement que les circonstances le lui ont
-permis et qu'il se propose de publier en entier si l'ï¿½chantillon qu'il
-en donne aujourd'hui pouvait ï¿½veiller l'intï¿½rï¿½t des lecteurs!
+Un des quatre associés est l'auteur des pages suivantes, extraites
+d'un journal tenu aussi régulièrement que les circonstances le lui ont
+permis et qu'il se propose de publier en entier si l'échantillon qu'il
+en donne aujourd'hui pouvait éveiller l'intérêt des lecteurs!
 
-ï¿½ cette ï¿½poque, San-Francisco n'ï¿½tait pas encore la grande citï¿½ qui
-s'intitule pompeusement, ï¿½ l'heure prï¿½sente, la _Reine du Pacifique_.
-Sa population, qui dï¿½passe aujourd'hui 100ï¿½000 ï¿½mes, atteignait ï¿½
-peine alors au quart de ce chiffre. Son dï¿½veloppement rapide,
-incessant, est dï¿½ tout entier ï¿½ la rare ï¿½nergie de sa population, qui
-possï¿½de toutes les qualitï¿½s de ses nombreux dï¿½fauts. Rien n'a pu
-l'abattre: ni les plus graves excï¿½s, ni les dï¿½sordres administratifs
-les plus scandaleux, ni les dï¿½sastres effroyables d'immenses
-incendies, ni les secousses monï¿½taires, ni les dï¿½couragements, ni les
-paniques. San-Francisco a triomphï¿½ de tout, et ses immeubles
-recherchï¿½s subissent une hausse progressive qui tï¿½moigne des promesses
+À cette époque, San-Francisco n'était pas encore la grande cité qui
+s'intitule pompeusement, à l'heure présente, la _Reine du Pacifique_.
+Sa population, qui dépasse aujourd'hui 100 000 âmes, atteignait à
+peine alors au quart de ce chiffre. Son développement rapide,
+incessant, est dû tout entier à la rare énergie de sa population, qui
+possède toutes les qualités de ses nombreux défauts. Rien n'a pu
+l'abattre: ni les plus graves excès, ni les désordres administratifs
+les plus scandaleux, ni les désastres effroyables d'immenses
+incendies, ni les secousses monétaires, ni les découragements, ni les
+paniques. San-Francisco a triomphé de tout, et ses immeubles
+recherchés subissent une hausse progressive qui témoigne des promesses
 de l'avenir. Tout y subit l'influence de l'heureuse impulsion de sa
-jeunesse; tout s'y installe et prospï¿½re. On sent que les mï¿½taux
-prï¿½cieux, l'agriculture, le commerce, l'industrie doivent faire, par
+jeunesse; tout s'y installe et prospère. On sent que les métaux
+précieux, l'agriculture, le commerce, l'industrie doivent faire, par
 leur concours intelligent, la grandeur de la Californie.
 
-Aucune des conditions modernes de la civilisation ne manque ï¿½ la
-mï¿½tropole de ce pays. Le gaz et l'eau ont des conduits dans toutes les
-rues, des omnibus circulent partout, d'ï¿½lï¿½gants ï¿½quipages et de
+Aucune des conditions modernes de la civilisation ne manque à la
+métropole de ce pays. Le gaz et l'eau ont des conduits dans toutes les
+rues, des omnibus circulent partout, d'élégants équipages et de
 nombreuses voitures de place sillonnent tous les quartiers.
-Francs-maï¿½ons, sociï¿½tï¿½s de bienfaisance, caisses d'ï¿½pargne,
-congrï¿½gations, sociï¿½tï¿½s bibliophiles, vastes chantiers de
-construction, immenses ateliers de fonderie, scieries mï¿½caniques,
-tï¿½lï¿½graphie, presse, thï¿½ï¿½tres, marchï¿½s regorgeant en tout temps de
-lï¿½gumes, de gibier, de fruits magnifiques, tout est lï¿½ rï¿½uni.
+Francs-maçons, sociétés de bienfaisance, caisses d'épargne,
+congrégations, sociétés bibliophiles, vastes chantiers de
+construction, immenses ateliers de fonderie, scieries mécaniques,
+télégraphie, presse, théâtres, marchés regorgeant en tout temps de
+légumes, de gibier, de fruits magnifiques, tout est là réuni.
 
-L'ï¿½migration arrive de toutes parts, et s'installe ï¿½ demeure dans ce
-pays si dï¿½sert et si dï¿½solï¿½ il n'y a pas vingt ans! Il est devenu une
+L'émigration arrive de toutes parts, et s'installe à demeure dans ce
+pays si désert et si désolé il n'y a pas vingt ans! Il est devenu une
 patrie!
 
-Mais en 1850, la tumultueuse effervescence des ï¿½lï¿½ments discordants
+Mais en 1850, la tumultueuse effervescence des éléments discordants
 venus de tous les points du globe pour fonder cet avenir, faisait
-ressembler San-Francisco ï¿½ un immense creuset en ï¿½bullition, plutï¿½t
-qu'au berceau d'un grand ï¿½tat, et aprï¿½s un sï¿½jour de quelques heures
-nous avions hï¿½te de quitter ce thï¿½ï¿½tre de sanglantes collisions et ce
-foyer de toutes les mauvaises passions. Nous nous embarquï¿½mes ï¿½ bord
+ressembler San-Francisco à un immense creuset en ébullition, plutôt
+qu'au berceau d'un grand État, et après un séjour de quelques heures
+nous avions hâte de quitter ce théâtre de sanglantes collisions et ce
+foyer de toutes les mauvaises passions. Nous nous embarquâmes à bord
 d'un pyroscaphe qui faisait les voyages de la ville aux districts
-aurifï¿½res.
+aurifères.
 
-Aprï¿½s avoir traversï¿½ la rade de San-Francisco en frayant notre route
+Après avoir traversé la rade de San-Francisco en frayant notre route
 au milieu des navires aux couleurs de toutes les nations, nous
-gagnï¿½mes l'embouchure du Sacramento pour remonter le cours de ce
+gagnâmes l'embouchure du Sacramento pour remonter le cours de ce
 fleuve.
 
 Le paysage de ses bords nous offrit les plus riants aspects; de chaque
-cï¿½tï¿½ s'ï¿½tendaient de verdoyantes savanes, ou de jolis bois peuplï¿½s de
+côté s'étendaient de verdoyantes savanes, ou de jolis bois peuplés de
 nombreux troupeaux de cerfs; une suite de collines couvertes de
-bouquets de chï¿½nes ï¿½gayait la perspective; ï¿½ l'horizon une chaï¿½ne de
+bouquets de chênes égayait la perspective; à l'horizon une chaîne de
 hautes montagnes servait de cadre au tableau.
 
-Nous naviguions, suivant de l'oeil ce panorama dï¿½licieux depuis
-quelques heures, lorsque nous aperï¿½ï¿½mes ï¿½ une distance d'environ un
-mille en avant de nous, un brick anglais de commerce qui paraissait ï¿½
-l'ancre; nous hï¿½lï¿½mes pour l'engager ï¿½ nous laisser le passage libre;
-il rï¿½pondit avec son porte-voix en anglais: _I am aground in the
+Nous naviguions, suivant de l'oeil ce panorama délicieux depuis
+quelques heures, lorsque nous aperçûmes à une distance d'environ un
+mille en avant de nous, un brick anglais de commerce qui paraissait à
+l'ancre; nous hélâmes pour l'engager à nous laisser le passage libre;
+il répondit avec son porte-voix en anglais: _I am aground in the
 middle of the passage, the other part of the river being obstructed by
-a sand bank._ (Je suis ï¿½chouï¿½ au milieu du chenal et tout le reste du
-courant est obstruï¿½ de bancs de sable.) Ceci ne faisait pas l'affaire
-de notre capitaine yankee qui prit le parti de passer quand mï¿½me,
-par-dessus le corps de l'Anglais s'il le fallait; effectivement, ï¿½
-peine avait-il ï¿½changï¿½ avec nous un regard d'intelligence, qu'il
-commandait au chef mï¿½canicien d'opï¿½rer un mouvement rï¿½trograde, puis
-imprimant ï¿½ la vapeur toute sa puissance, notre steamer s'ï¿½lanï¿½a dans
-l'espace jugï¿½ libre entre la rive et le bï¿½timent ï¿½chouï¿½. Le choc fut
+a sand bank._ (Je suis échoué au milieu du chenal et tout le reste du
+courant est obstrué de bancs de sable.) Ceci ne faisait pas l'affaire
+de notre capitaine yankee qui prit le parti de passer quand même,
+par-dessus le corps de l'Anglais s'il le fallait; effectivement, à
+peine avait-il échangé avec nous un regard d'intelligence, qu'il
+commandait au chef mécanicien d'opérer un mouvement rétrograde, puis
+imprimant à la vapeur toute sa puissance, notre steamer s'élança dans
+l'espace jugé libre entre la rive et le bâtiment échoué. Le choc fut
 terrible, mais le Yankee passa emportant avec lui une partie du
-bordage de tribord du pauvre bï¿½timent anglais.
+bordage de tribord du pauvre bâtiment anglais.
 
-Quant ï¿½ nous, nous y perdï¿½mes notre bastingage et le tambour de notre
-roue de bï¿½bord, quelques voyageurs peu habituï¿½s ï¿½ la mer y
-perdirent.... leur ï¿½quilibre et roulï¿½rent pï¿½le-mï¿½le parmi les denrï¿½es
-de toute espï¿½ce qui encombraient le pont. Nous arrivï¿½mes sans autres
-accidents ï¿½ San-Sacramento, qui ï¿½tait notre premiï¿½re ï¿½tape en
+Quant à nous, nous y perdîmes notre bastingage et le tambour de notre
+roue de bâbord, quelques voyageurs peu habitués à la mer y
+perdirent.... leur équilibre et roulèrent pêle-mêle parmi les denrées
+de toute espèce qui encombraient le pont. Nous arrivâmes sans autres
+accidents à San-Sacramento, qui était notre première étape en
 Californie.
 
-Sacramento, la seconde ville de cette rï¿½gion, doit, comme
-San-Francisco, son origine aux mines d'or; elle est situï¿½e sur la rive
+Sacramento, la seconde ville de cette région, doit, comme
+San-Francisco, son origine aux mines d'or; elle est située sur la rive
 gauche du fleuve dont elle porte le nom.
 
-Aussitï¿½t aprï¿½s notre dï¿½barquement, nous nous mï¿½mes en quï¿½te d'une
+Aussitôt après notre débarquement, nous nous mîmes en quête d'une
 charrette et d'un attelage pour transporter nos bagages aux
-_placers_[1] de Grass-Valley, oï¿½ nous avions l'intention
-d'expï¿½rimenter notre machine.
+_placers_[1] de Grass-Valley, où nous avions l'intention
+d'expérimenter notre machine.
 
-                   [Note 1: On donne le nom de _placer_ ï¿½ toute
-                   localitï¿½ oï¿½, par suite de la richesse des terrains
-                   aurifï¿½res, il s'est ï¿½tabli des camps ou postes pour
-                   l'exploitation de l'or. Cette dï¿½nomination est
+                   [Note 1: On donne le nom de _placer_ à toute
+                   localité où, par suite de la richesse des terrains
+                   aurifères, il s'est établi des camps ou postes pour
+                   l'exploitation de l'or. Cette dénomination est
                    synonyme d'exploitation.]
 
-Quelques heures aprï¿½s nous suivions, la carabine sur l'ï¿½paule, notre
-vï¿½hicule portant l'avenir de notre association et avanï¿½ant pï¿½niblement
+Quelques heures après nous suivions, la carabine sur l'épaule, notre
+véhicule portant l'avenir de notre association et avançant péniblement
 sous les efforts de quatre mulets.
 
-ï¿½ la fin du jour nous fï¿½mes halte dans un lieu dï¿½couvert pour y passer
-la nuit, et, le lendemain avant l'aube, nous nous remï¿½mes en route. Le
-pays que nous traversions ï¿½tait inhabitï¿½, ce n'ï¿½tait alors que
+À la fin du jour nous fîmes halte dans un lieu découvert pour y passer
+la nuit, et, le lendemain avant l'aube, nous nous remîmes en route. Le
+pays que nous traversions était inhabité, ce n'était alors que
 rarement que nous apercevions le long de quelque cours d'eau une
-habitation isolï¿½e.
+habitation isolée.
 
-Nous suivions quelquefois des portions de route qui jadis avaient dï¿½
-ï¿½tre fort belles. Ces vestiges ï¿½taient encore l'ouvrage des
+Nous suivions quelquefois des portions de route qui jadis avaient dû
+être fort belles. Ces vestiges étaient encore l'ouvrage des
 missionnaires, qui, au temps de leur puissance, avaient voulu relier
 les diverses missions entre elles afin de rendre les communications
-plus faciles. Le pays devenait de plus en plus accidentï¿½ ï¿½ mesure que
+plus faciles. Le pays devenait de plus en plus accidenté à mesure que
 nous avancions, ce qui retardait beaucoup notre marche.
 
-De onze heures ï¿½ une heure nous faisions ordinairement halte pour
+De onze heures à une heure nous faisions ordinairement halte pour
 laisser passer la grande chaleur et reposer nos mules.
 
 Nous apportions la plus grande prudence, le soir, dans le choix du
 lieu de notre campement et le jour dans l'ordre de notre marche, le
-pays ï¿½tant infestï¿½ par des vagabonds, chercheurs d'or occultes, qui au
+pays étant infesté par des vagabonds, chercheurs d'or occultes, qui au
 lieu d'interroger laborieusement le sein de la terre, trouvaient plus
-commode et moins fatigant de se procurer ce prï¿½cieux mï¿½tal en
-dï¿½valisant les voyageurs.
+commode et moins fatigant de se procurer ce précieux métal en
+dévalisant les voyageurs.
 
-Enfin nous parvï¿½nmes au village de _Rough-and-Ready_ (brusque et
-prï¿½t), dans la vallï¿½e oï¿½ s'ï¿½lï¿½ve Nevada-City; lï¿½ nous eï¿½mes pour la
-premiï¿½re fois devant les yeux l'aspect d'un _placer_ de mineurs. Au
-fond d'un ravin qui semblait avoir ï¿½tï¿½ bouleversï¿½ par un ouragan, une
-grande quantitï¿½ d'arbres avaient ï¿½tï¿½ arrachï¿½s du sol; au milieu
-d'excavations profondes, on voyait les mineurs courbï¿½s sur leurs pics
-avec lesquels ils retiraient les couches de terre aurifï¿½re pour aller
-les laver ï¿½ prï¿½s d'un mille de distance; plus loin un autre plus
-heureux, plongï¿½ dans l'eau glacï¿½e jusqu'aux reins, lavait la terre
+Enfin nous parvînmes au village de _Rough-and-Ready_ (brusque et
+prêt), dans la vallée où s'élève Nevada-City; là nous eûmes pour la
+première fois devant les yeux l'aspect d'un _placer_ de mineurs. Au
+fond d'un ravin qui semblait avoir été bouleversé par un ouragan, une
+grande quantité d'arbres avaient été arrachés du sol; au milieu
+d'excavations profondes, on voyait les mineurs courbés sur leurs pics
+avec lesquels ils retiraient les couches de terre aurifère pour aller
+les laver à près d'un mille de distance; plus loin un autre plus
+heureux, plongé dans l'eau glacée jusqu'aux reins, lavait la terre
 dans un plat de fer battu pour en extraire l'or.
 
-De chaque cï¿½tï¿½ du ravin ï¿½taient ï¿½chelonnï¿½es les habitations des
+De chaque côté du ravin étaient échelonnées les habitations des
 mineurs, consistant en tentes de toutes formes et en cabanes de
-planches de cï¿½dre.
+planches de cèdre.
 
-Aprï¿½s avoir contemplï¿½ quelque temps ce spectacle si nouveau pour nous,
-nous continuï¿½mes notre route pour Grass-Valley, oï¿½ nous arrivï¿½mes le
-surlendemain. Quoique plus considï¿½rable, ce placer avait le mï¿½me
-aspect ï¿½ peu de chose prï¿½s que celui de Rough-and-Ready.
+Après avoir contemplé quelque temps ce spectacle si nouveau pour nous,
+nous continuâmes notre route pour Grass-Valley, où nous arrivâmes le
+surlendemain. Quoique plus considérable, ce placer avait le même
+aspect à peu de chose près que celui de Rough-and-Ready.
 
-ï¿½ peine ï¿½tions-nous arrivï¿½s que nous fï¿½mes entourï¿½s par un flot de
-curieux, nous regardant avec ï¿½tonnement dï¿½baller notre prï¿½cieuse
-machine; nous dressï¿½mes aussi notre tente sous un massif de verdure
-qui nous fut indiquï¿½ par des Suisses, avec lesquels nous visitï¿½mes le
-placer dans toute son ï¿½tendue avant de nous livrer au repos dont nous
+À peine étions-nous arrivés que nous fûmes entourés par un flot de
+curieux, nous regardant avec étonnement déballer notre précieuse
+machine; nous dressâmes aussi notre tente sous un massif de verdure
+qui nous fut indiqué par des Suisses, avec lesquels nous visitâmes le
+placer dans toute son étendue avant de nous livrer au repos dont nous
 avions tant besoin.
 
-Vers minuit, nous fï¿½mes tous rï¿½veillï¿½s par la tempï¿½te. La foudre
-grondait avec fracas, et sa voix altiï¿½re se rï¿½percutant dans les ï¿½chos
+Vers minuit, nous fûmes tous réveillés par la tempête. La foudre
+grondait avec fracas, et sa voix altière se répercutant dans les échos
 des trois montagnes qui dominaient le placer, semblait plus terrible
-encore; notre tente rï¿½sista au choc du vent, grï¿½ce ï¿½ ses cordages
-neufs et ï¿½ ses piquets de fer, mais non ï¿½ la pluie qui s'infiltrait,
-fouettï¿½e par le vent, en masses ï¿½paisses, brouillard qui eut bientï¿½t
-traversï¿½ nos couvertures et nos vï¿½tements, et nous trempa jusqu'aux
-os. Le jour arriva enfin, et ayant allumï¿½ un immense feu avec les
-branches sï¿½ches que la tempï¿½te avait brisï¿½es, nous pï¿½mes rï¿½chauffer
-nos membres engourdis; ce n'ï¿½tait pas tout, il fallait monter la
-machine et la faire fonctionner; dans ce but, nous choisï¿½mes un
-_claim_[2], oï¿½ nous fï¿½mes nos premiï¿½res expï¿½riences qui n'amenï¿½rent
-aucun rï¿½sultat satisfaisant. Enfin m'ï¿½tant penchï¿½ sur le rï¿½cipient oï¿½
-ï¿½tait placï¿½ le mercure, je pus constater que l'or passait par-dessus
-sans s'y amalgamer; nous fï¿½mes consternï¿½s ï¿½ cette dï¿½couverte et
-pensï¿½mes, d'un commun accord, que notre mercure, que nous avions eu
-l'obligeance de prï¿½ter au capitaine de _l'Isthmus_ pour remplacer le
-sien perdu pendant une tempï¿½te sur les cï¿½tes du Mexique, avait ï¿½tï¿½
-dï¿½tï¿½riorï¿½; nous recommenï¿½ï¿½mes avec persï¿½vï¿½rance, mais chaque fois que
-nous passions le mercure ï¿½ la peau de chamois, il n'y restait aucune
-parcelle d'or. Aprï¿½s avoir constatï¿½ gï¿½nï¿½ralement que la machine, par
-elle-mï¿½me, ï¿½tait impropre au lavage des terrains aurifï¿½res, nous nous
-sentï¿½mes plus ou moins dï¿½couragï¿½s. Mes trois compagnons proposï¿½rent de
-dissoudre la sociï¿½tï¿½, de partager le matï¿½riel et le reste des fonds
+encore; notre tente résista au choc du vent, grâce à ses cordages
+neufs et à ses piquets de fer, mais non à la pluie qui s'infiltrait,
+fouettée par le vent, en masses épaisses, brouillard qui eut bientôt
+traversé nos couvertures et nos vêtements, et nous trempa jusqu'aux
+os. Le jour arriva enfin, et ayant allumé un immense feu avec les
+branches sèches que la tempête avait brisées, nous pûmes réchauffer
+nos membres engourdis; ce n'était pas tout, il fallait monter la
+machine et la faire fonctionner; dans ce but, nous choisîmes un
+_claim_[2], où nous fîmes nos premières expériences qui n'amenèrent
+aucun résultat satisfaisant. Enfin m'étant penché sur le récipient où
+était placé le mercure, je pus constater que l'or passait par-dessus
+sans s'y amalgamer; nous fûmes consternés à cette découverte et
+pensâmes, d'un commun accord, que notre mercure, que nous avions eu
+l'obligeance de prêter au capitaine de _l'Isthmus_ pour remplacer le
+sien perdu pendant une tempête sur les côtes du Mexique, avait été
+détérioré; nous recommençâmes avec persévérance, mais chaque fois que
+nous passions le mercure à la peau de chamois, il n'y restait aucune
+parcelle d'or. Après avoir constaté généralement que la machine, par
+elle-même, était impropre au lavage des terrains aurifères, nous nous
+sentîmes plus ou moins découragés. Mes trois compagnons proposèrent de
+dissoudre la société, de partager le matériel et le reste des fonds
 qui se trouvaient en caisse; j'acceptai l'offre, heureux de pouvoir
-enfin vivre seul de cette vie d'aventure et de libertï¿½ ï¿½ laquelle
+enfin vivre seul de cette vie d'aventure et de liberté à laquelle
 j'aspirais. Ces messieurs partirent donc pour San-Francisco, et moi je
-restai ï¿½ Grass-Valley le temps nï¿½cessaire pour recueillir assez de
-poudre d'or, et me procurer ainsi les moyens de me livrer ï¿½ la vie
-d'excursions que j'avais projetï¿½e.
+restai à Grass-Valley le temps nécessaire pour recueillir assez de
+poudre d'or, et me procurer ainsi les moyens de me livrer à la vie
+d'excursions que j'avais projetée.
 
-                   [Note 2: Le claim est une ï¿½tendue de terre de dix
-                   pieds carrï¿½s auquel a droit tout mineur d'un
+                   [Note 2: Le claim est une étendue de terre de dix
+                   pieds carrés auquel a droit tout mineur d'un
                    placer.]
 
 
      La solitude. -- Mineur et chasseur.
 
-[Illustration: Grass-Valley.--Dessin de J. Pelcoq d'aprï¿½s un croquis
+[Illustration: Grass-Valley.--Dessin de J. Pelcoq d'après un croquis
 de l'auteur.]
 
-Je me mis donc en quï¿½te des choses les plus nï¿½cessaires pour
-travailler; d'abord j'achetai d'un Amï¿½ricain qui retournait ï¿½
-New-York, une cabane et tous les outils ï¿½ l'usage du mineur. Je
-choisis un claim dans le haut de la vallï¿½e, oï¿½ j'ï¿½tais seul avec mes
-pensï¿½es. Ma cabane n'ï¿½tait ni vaste ni ï¿½lï¿½gante, mais elle ï¿½tait
-commode, ce qui ï¿½tait le principal pour moi; mes lecteurs ne seront
-peut-ï¿½tre pas fï¿½chï¿½s d'en avoir la description. D'abord elle ï¿½tait
-situï¿½e sur le bord gazonnï¿½ et fleuri d'un ruisseau et adossï¿½e ï¿½ un
-cï¿½dre qui n'avait pas moins de vingt pieds de diamï¿½tre ï¿½ sa base; ma
+Je me mis donc en quête des choses les plus nécessaires pour
+travailler; d'abord j'achetai d'un Américain qui retournait à
+New-York, une cabane et tous les outils à l'usage du mineur. Je
+choisis un claim dans le haut de la vallée, où j'étais seul avec mes
+pensées. Ma cabane n'était ni vaste ni élégante, mais elle était
+commode, ce qui était le principal pour moi; mes lecteurs ne seront
+peut-être pas fâchés d'en avoir la description. D'abord elle était
+située sur le bord gazonné et fleuri d'un ruisseau et adossée à un
+cèdre qui n'avait pas moins de vingt pieds de diamètre à sa base; ma
 villa, bien moins large ne mesurait pas huit pieds sur les quatre
-faces; sa maï¿½onnerie consistait en branches de cï¿½dre. Le toit ï¿½tait
-formï¿½ avec des planches du mï¿½me bois, fendues ï¿½ la hache, et qui,
-superposï¿½es les unes sur les autres comme des ardoises, me
-garantissait assez bien des intempï¿½ries de l'air. Au milieu j'avais un
-petit poï¿½le de tï¿½le, et pour batterie de cuisine un unique poï¿½lon qui
-me servait aussi bien pour faire la soupe que pour rï¿½tir mon gibier;
-dans le fond de la cabane ï¿½tait mon lit de camp, formï¿½ de quatre pieux
-enfoncï¿½s en terre, et joints par quatre traverses sur lesquelles ï¿½tait
-clouï¿½e de la toile; quant ï¿½ la literie, elle se composait d'un sac de
-campement rempli de feuilles de chï¿½ne; au-dessus de ma couche, ï¿½ la
-tï¿½te, ï¿½tait placï¿½e, comme une ï¿½gide, une miniature reprï¿½sentant les
-traits d'un ï¿½tre chï¿½ri; de chaque cï¿½tï¿½ ï¿½taient suspendus ma bonne
-carabine et mon revolver. Derriï¿½re ma cabane j'avais dï¿½frichï¿½ un
-jardin que j'avais entourï¿½ d'une palissade de branches, et j'y avais
-semï¿½ des fleurs et des lï¿½gumes de France, qui y poussaient
-merveilleusement; prï¿½s du jardin il y avait un petit four haut d'un
+faces; sa maçonnerie consistait en branches de cèdre. Le toit était
+formé avec des planches du même bois, fendues à la hache, et qui,
+superposées les unes sur les autres comme des ardoises, me
+garantissait assez bien des intempéries de l'air. Au milieu j'avais un
+petit poêle de tôle, et pour batterie de cuisine un unique poêlon qui
+me servait aussi bien pour faire la soupe que pour rôtir mon gibier;
+dans le fond de la cabane était mon lit de camp, formé de quatre pieux
+enfoncés en terre, et joints par quatre traverses sur lesquelles était
+clouée de la toile; quant à la literie, elle se composait d'un sac de
+campement rempli de feuilles de chêne; au-dessus de ma couche, à la
+tête, était placée, comme une égide, une miniature représentant les
+traits d'un être chéri; de chaque côté étaient suspendus ma bonne
+carabine et mon revolver. Derrière ma cabane j'avais défriché un
+jardin que j'avais entouré d'une palissade de branches, et j'y avais
+semé des fleurs et des légumes de France, qui y poussaient
+merveilleusement; près du jardin il y avait un petit four haut d'un
 pied et demi, dans lequel je faisais du pain que je trouvais
-dï¿½licieux. Le mineur auquel j'avais achetï¿½ ma cabane m'avait cï¿½dï¿½
-aussi quelques provisions englobant entre autres denrï¿½es une
-quarantaine de livres de farine avariï¿½e, mais qui n'en ï¿½tait pas moins
-d'une immense valeur pour moi. J'avais dï¿½couvert ï¿½ environ un mille de
-mon habitation une petite sociï¿½tï¿½ de quatre mineurs canadiens
-d'origine franï¿½aise, avec lesquels je me liai bientï¿½t d'amitiï¿½;
-quoique d'une ï¿½ducation infï¿½rieure, c'ï¿½taient d'honnï¿½tes jeunes gens;
-j'ai toujours eu ï¿½ me louer des relations que nous eï¿½mes ensemble et
-j'ai ï¿½tï¿½ assez heureux pour faire leur fortune. Je crois dï¿½jï¿½ avoir
-dit la composition de mon lit; or, un jour, par une belle aprï¿½s-midi
-de soleil, j'ï¿½tais montï¿½ sur la colline, avec mon sac de campement et
-mon fusil sur l'ï¿½paule. Ayant trouvï¿½ une excavation remplie de
-feuilles sï¿½ches, j'y entrai jusqu'ï¿½ la ceinture et me mis avec les
-pieds et les mains ï¿½ en emplir mon sac; je revins ï¿½ mon gï¿½te aprï¿½s
-avoir tuï¿½ sur la montagne quelque menu gibier. Quand j'y arrivai, il
-ï¿½tait nuit close, et aprï¿½s un lï¿½ger repas je me jetai sur mon lit de
-camp. La fatigue amena bientï¿½t le sommeil. Vers les trois heures du
-matin, quand le sommeil fut devenu plus lï¿½ger, je sentis quelque chose
-qui parcourait mon lit de campement et qui remuait d'une maniï¿½re peu
-rassurante; pensant que c'ï¿½tait un rat, je portai la main dessus au
+délicieux. Le mineur auquel j'avais acheté ma cabane m'avait cédé
+aussi quelques provisions englobant entre autres denrées une
+quarantaine de livres de farine avariée, mais qui n'en était pas moins
+d'une immense valeur pour moi. J'avais découvert à environ un mille de
+mon habitation une petite société de quatre mineurs canadiens
+d'origine française, avec lesquels je me liai bientôt d'amitié;
+quoique d'une éducation inférieure, c'étaient d'honnêtes jeunes gens;
+j'ai toujours eu à me louer des relations que nous eûmes ensemble et
+j'ai été assez heureux pour faire leur fortune. Je crois déjà avoir
+dit la composition de mon lit; or, un jour, par une belle après-midi
+de soleil, j'étais monté sur la colline, avec mon sac de campement et
+mon fusil sur l'épaule. Ayant trouvé une excavation remplie de
+feuilles sèches, j'y entrai jusqu'à la ceinture et me mis avec les
+pieds et les mains à en emplir mon sac; je revins à mon gîte après
+avoir tué sur la montagne quelque menu gibier. Quand j'y arrivai, il
+était nuit close, et après un léger repas je me jetai sur mon lit de
+camp. La fatigue amena bientôt le sommeil. Vers les trois heures du
+matin, quand le sommeil fut devenu plus léger, je sentis quelque chose
+qui parcourait mon lit de campement et qui remuait d'une manière peu
+rassurante; pensant que c'était un rat, je portai la main dessus au
 travers du sac, et, frissonnant d'horreur, je sentis la forme d'un
-serpent qui porta la tï¿½te vivement vers ma main; d'un bond je fus hors
+serpent qui porta la tête vivement vers ma main; d'un bond je fus hors
 de ma case et me dirigeai vers celle de mes voisins les Canadiens,
-auxquels je racontai ma mï¿½saventure, et les engageai ï¿½ me suivre ï¿½ ma
-cabane. Rentrï¿½ avec eux, je vidai le contenu de mon sac, d'oï¿½ je vis
-s'ï¿½chapper un serpent ï¿½ sonnettes de la plus belle venue, qui alla se
-cacher sous un tronc d'arbre abattu prï¿½s de mon jardin. Je voulus en
-approcher pour le considï¿½rer ï¿½ mon aise; mais le monstre oubliant que
-je l'avais rï¿½chauffï¿½ dans mon sein, se rua sur ma baï¿½onnette que je
-lui prï¿½sentais, et se mit ï¿½ mordre le canon de mon fusil; craignant
-qu'il ne me mordï¿½t moi-mï¿½me, je mis le doigt sur la dï¿½tente de ma
-carabine, et le coup avant fait balle, il fut littï¿½ralement coupï¿½ en
-deux. Aprï¿½s l'avoir mesurï¿½, nous pï¿½mes constater sa longueur, qui
-dï¿½passait quatre pieds deux pouces. Je lui coupai la queue ï¿½ laquelle
-ï¿½tait adaptï¿½e une douzaine de petits grelots d'ï¿½caille, qui rendaient
-un son sec quand ils ï¿½taient mis en mouvement; c'est ce que l'on
+auxquels je racontai ma mésaventure, et les engageai à me suivre à ma
+cabane. Rentré avec eux, je vidai le contenu de mon sac, d'où je vis
+s'échapper un serpent à sonnettes de la plus belle venue, qui alla se
+cacher sous un tronc d'arbre abattu près de mon jardin. Je voulus en
+approcher pour le considérer à mon aise; mais le monstre oubliant que
+je l'avais réchauffé dans mon sein, se rua sur ma baïonnette que je
+lui présentais, et se mit à mordre le canon de mon fusil; craignant
+qu'il ne me mordît moi-même, je mis le doigt sur la détente de ma
+carabine, et le coup avant fait balle, il fut littéralement coupé en
+deux. Après l'avoir mesuré, nous pûmes constater sa longueur, qui
+dépassait quatre pieds deux pouces. Je lui coupai la queue à laquelle
+était adaptée une douzaine de petits grelots d'écaille, qui rendaient
+un son sec quand ils étaient mis en mouvement; c'est ce que l'on
 appelle vulgairement la sonnette du serpent.
 
 [Illustration: Un claim ou atelier de mineur.--Dessin de J. Pelcoq
-d'aprï¿½s les _Reports of explorations_.]
+d'après les _Reports of explorations_.]
 
-Il paraï¿½trait que, sans y faire attention, j'avais fait entrer ce
-serpent dans mon sac de campement, chose facile ï¿½ cette ï¿½poque de
-l'annï¿½e oï¿½ ils sont engourdis par le froid et roulï¿½s sur eux-mï¿½mes.
+Il paraîtrait que, sans y faire attention, j'avais fait entrer ce
+serpent dans mon sac de campement, chose facile à cette époque de
+l'année où ils sont engourdis par le froid et roulés sur eux-mêmes.
 
-Dans ces contrï¿½es, nous avions encore un autre genre d'ennemi ï¿½
-craindre, qui n'avait pas besoin d'ï¿½tre introduit dans le logis, et
+Dans ces contrées, nous avions encore un autre genre d'ennemi à
+craindre, qui n'avait pas besoin d'être introduit dans le logis, et
 qui savait bien y venir sans invitation, si l'on oubliait de fermer sa
 porte. Un certain soir de dimanche, comme je travaillais dans mon
-jardin, car je ne m'occupais de sa culture que tous les septiï¿½mes
-jours, je vis l'ombre d'une bï¿½te ressemblant ï¿½ notre loup cervier
-d'Europe, et bondissant hors de ma case pour regagner la forï¿½t; ayant
-saisi mon fusil que j'avais prï¿½s de moi, je le dï¿½chargeai sur l'animal
-qui, se sentant piquï¿½ par le plomb, lï¿½cha un dindon sauvage que
-j'avais tuï¿½ la veille tout en travaillant ï¿½ mon claim; c'ï¿½tait un
-coyotte, animal trï¿½s-commun dans ces contrï¿½es; il rï¿½de constamment
-autour des placers pour se nourrir des dï¿½tritus de toute sorte que les
+jardin, car je ne m'occupais de sa culture que tous les septièmes
+jours, je vis l'ombre d'une bête ressemblant à notre loup cervier
+d'Europe, et bondissant hors de ma case pour regagner la forêt; ayant
+saisi mon fusil que j'avais près de moi, je le déchargeai sur l'animal
+qui, se sentant piqué par le plomb, lâcha un dindon sauvage que
+j'avais tué la veille tout en travaillant à mon claim; c'était un
+coyotte, animal très-commun dans ces contrées; il rôde constamment
+autour des placers pour se nourrir des détritus de toute sorte que les
 mineurs jettent sur la voie.
 
-.... On m'avait souvent parlï¿½ d'un marais trï¿½s-giboyeux qui devait se
-trouver ï¿½ six milles au sud de Nevada-City. Je fus tentï¿½ d'aller le
+.... On m'avait souvent parlé d'un marais très-giboyeux qui devait se
+trouver à six milles au sud de Nevada-City. Je fus tenté d'aller le
 visiter, et comme je venais de faire l'acquisition d'un mulet, en
-prï¿½visions des longues excursions que je projetais, je rï¿½solus
-d'emmener avec moi cet animal pour faire l'essai de ses qualitï¿½s....
-ou de ses dï¿½fauts.
+prévisions des longues excursions que je projetais, je résolus
+d'emmener avec moi cet animal pour faire l'essai de ses qualités....
+ou de ses défauts.
 
-Ma peau d'ours ployï¿½e en quatre me fit un bï¿½t des plus confortables,
-que je fixai sur le dos du quadrupï¿½de avec une sangle de la tente que
-mes coassociï¿½s avaient abandonnï¿½e ï¿½ Grass-Valley lors de leur dï¿½part;
-je confectionnai un bridon et des ï¿½triviï¿½res par le mï¿½me moyen. Dans
-cet ï¿½quipage, je pris le chemin du marais, oï¿½ je ne serais certes pas
-arrivï¿½ avant l'aube du jour sans la rencontre d'un mineur qui eut
+Ma peau d'ours ployée en quatre me fit un bât des plus confortables,
+que je fixai sur le dos du quadrupède avec une sangle de la tente que
+mes coassociés avaient abandonnée à Grass-Valley lors de leur départ;
+je confectionnai un bridon et des étrivières par le même moyen. Dans
+cet équipage, je pris le chemin du marais, où je ne serais certes pas
+arrivé avant l'aube du jour sans la rencontre d'un mineur qui eut
 l'obligeance de me mettre dans mon chemin.
 
-ï¿½ cent mï¿½tres environ du bord, on apercevait dans la pï¿½nombre un
+À cent mètres environ du bord, on apercevait dans la pénombre un
 buisson de roseaux sous lequel j'allai m'embusquer.
 
-ï¿½ chaque instant des canards et des sarcelles venaient effleurer mon
-visage de la pointe de leurs ailes; j'en abattis mï¿½me plusieurs avec
-le canon de mon fusil; mais ce n'ï¿½tait point ï¿½ la race emplumï¿½e que
-j'en voulais. Je visais ï¿½ mieux que cela. De temps en temps, j'ï¿½tais
-obligï¿½ de faire changer de place mon mulet, car le fond n'ï¿½tant pas
-trï¿½s-solide, je courais risque de le voir s'embourber, si je n'avais
-eu recours ï¿½ cette prï¿½caution. Il y avait prï¿½s de trois quarts d'heure
-que j'ï¿½tais dans cette position, et le jour commenï¿½ait dï¿½jï¿½ ï¿½
-paraï¿½tre, quand mon attention fut attirï¿½e par un bruit vague venant de
-la montagne ï¿½ laquelle ï¿½tait adossï¿½ le marais; j'avais ï¿½ peine eu le
-temps d'ajouter deux balles ï¿½ celles qui ï¿½taient dï¿½jï¿½ dans mon fusil
-qu'une magnifique troupe de cerfs et de biches apparut sur la lisiï¿½re
-de la forï¿½t; ï¿½ leur tï¿½te, ï¿½ dix pas environ, marchait un superbe cerf
-dix cors, qui, s'arrï¿½tant avec l'air inquiet, leva sa belle tï¿½te en
-l'air en reniflant; je compris ï¿½ son inquiï¿½tude que j'avais ï¿½tï¿½
-ï¿½ventï¿½, et dans la crainte de les voir rentrer sous bois, je fis feu
+À chaque instant des canards et des sarcelles venaient effleurer mon
+visage de la pointe de leurs ailes; j'en abattis même plusieurs avec
+le canon de mon fusil; mais ce n'était point à la race emplumée que
+j'en voulais. Je visais à mieux que cela. De temps en temps, j'étais
+obligé de faire changer de place mon mulet, car le fond n'étant pas
+très-solide, je courais risque de le voir s'embourber, si je n'avais
+eu recours à cette précaution. Il y avait près de trois quarts d'heure
+que j'étais dans cette position, et le jour commençait déjà à
+paraître, quand mon attention fut attirée par un bruit vague venant de
+la montagne à laquelle était adossé le marais; j'avais à peine eu le
+temps d'ajouter deux balles à celles qui étaient déjà dans mon fusil
+qu'une magnifique troupe de cerfs et de biches apparut sur la lisière
+de la forêt; à leur tête, à dix pas environ, marchait un superbe cerf
+dix cors, qui, s'arrêtant avec l'air inquiet, leva sa belle tête en
+l'air en reniflant; je compris à son inquiétude que j'avais été
+éventé, et dans la crainte de les voir rentrer sous bois, je fis feu
 de mes deux coups; je ne pus juger de leur effet, car je me sentis
-lancï¿½ dans l'espace et ne m'arrï¿½tai qu'au fond du marais: c'ï¿½tait mon
-scï¿½lï¿½rat de mulet qui, effrayï¿½ par l'explosion de mon arme ï¿½ feu,
-avait jugï¿½ ï¿½ propos de faire un vigoureux ï¿½cart et de se sï¿½parer de
+lancé dans l'espace et ne m'arrêtai qu'au fond du marais: c'était mon
+scélérat de mulet qui, effrayé par l'explosion de mon arme à feu,
+avait jugé à propos de faire un vigoureux écart et de se séparer de
 moi.
 
-Aussitï¿½t que j'eus pu me mettre sur mes pieds, je l'aperï¿½us qui
-pointait vers la forï¿½t; je me mis immï¿½diatement ï¿½ sa poursuite et pus
-enfin l'atteindre, grï¿½ce ï¿½ son bridon dans lequel il s'ï¿½tait pris une
-jambe, ce qui le forï¿½ait ï¿½ galoper sur les trois qui lui restaient
+Aussitôt que j'eus pu me mettre sur mes pieds, je l'aperçus qui
+pointait vers la forêt; je me mis immédiatement à sa poursuite et pus
+enfin l'atteindre, grâce à son bridon dans lequel il s'était pris une
+jambe, ce qui le forçait à galoper sur les trois qui lui restaient
 libres.
 
-Quoique je fusse couvert de vase et trempï¿½ jusqu'aux os, je me
-dirigeai ï¿½ l'endroit de la forï¿½t oï¿½ m'avait apparu le troupeau et j'y
-trouvai avec une joie extrï¿½me un trï¿½s-beau cerf ï¿½tendu sur le sol, le
-flanc traversï¿½ par une de mes balles. C'ï¿½tait une fiche de consolation
-dans mon malheur; je fus plus vite consolï¿½ que sï¿½chï¿½, car mon amadou
-s'ï¿½tant ressenti du bain forcï¿½ que je venais de prendre, je ne pus
-allumer de feu pour me sï¿½cher et je dus charger le soleil de ce soin.
-ï¿½tant parvenu avec beaucoup de peine ï¿½ charger intact ce cerf sur mon
-mulet, je me dirigeai vers Nevada-City, oï¿½ je me proposais de vendre
+Quoique je fusse couvert de vase et trempé jusqu'aux os, je me
+dirigeai à l'endroit de la forêt où m'avait apparu le troupeau et j'y
+trouvai avec une joie extrême un très-beau cerf étendu sur le sol, le
+flanc traversé par une de mes balles. C'était une fiche de consolation
+dans mon malheur; je fus plus vite consolé que séché, car mon amadou
+s'étant ressenti du bain forcé que je venais de prendre, je ne pus
+allumer de feu pour me sécher et je dus charger le soleil de ce soin.
+Étant parvenu avec beaucoup de peine à charger intact ce cerf sur mon
+mulet, je me dirigeai vers Nevada-City, où je me proposais de vendre
 mon gibier.
 
-J'y arrivai vers le midi, juste au moment oï¿½ les mineurs rentraient de
-leur claim pour dï¿½ner; je m'avanï¿½ai bravement au milieu de l'unique
+J'y arrivai vers le midi, juste au moment où les mineurs rentraient de
+leur claim pour dîner; je m'avançai bravement au milieu de l'unique
 rue du village en criant en anglais: _Venison at one dollar a pound._
-Cette bonne idï¿½e fut couronnï¿½e de succï¿½s, car ï¿½ peine ï¿½tais-je arrivï¿½
-au bout de la rue, qui n'avait pas six cents mï¿½tres de long, que
-j'avais tout vendu ï¿½ raison d'un dollar[3] la livre, et me trouvais
-avoir gagnï¿½ huit cents francs en poudre d'or.
+Cette bonne idée fut couronnée de succès, car à peine étais-je arrivé
+au bout de la rue, qui n'avait pas six cents mètres de long, que
+j'avais tout vendu à raison d'un dollar[3] la livre, et me trouvais
+avoir gagné huit cents francs en poudre d'or.
 
-                   [Note 3: Le dollar est une monnaie des ï¿½tats-Unis
-                   dont le cours ordinaire du commerce est fixï¿½ ï¿½ la
+                   [Note 3: Le dollar est une monnaie des États-Unis
+                   dont le cours ordinaire du commerce est fixé à la
                    valeur de cinq francs, terme moyen.]
 
-Une autre bonne aubaine se prï¿½senta: deux frï¿½res Nantais, MM. Dep...,
+Une autre bonne aubaine se présenta: deux frères Nantais, MM. Dep...,
 qui y tenaient une taverne et auxquels j'avais vendu un des gigots de
-mon cerf, m'invitï¿½rent ï¿½ dï¿½ner et me dirent au dessert que si je
-voulais m'engager ï¿½ leur fournir du gibier pendant toute l'annï¿½e, ils
-s'engageraient eux-mï¿½mes ï¿½ me le prendre tout ï¿½ des prix dï¿½battus
-entre nous; j'acceptai pour tout le temps que je resterais ï¿½
-Grass-Valley, sans me lier cependant pour un temps dï¿½terminï¿½, et notre
-parole de Breton remplaï¿½a l'acte sur papier timbrï¿½.
+mon cerf, m'invitèrent à dîner et me dirent au dessert que si je
+voulais m'engager à leur fournir du gibier pendant toute l'année, ils
+s'engageraient eux-mêmes à me le prendre tout à des prix débattus
+entre nous; j'acceptai pour tout le temps que je resterais à
+Grass-Valley, sans me lier cependant pour un temps déterminé, et notre
+parole de Breton remplaça l'acte sur papier timbré.
 
-Dans ce village comme dans tous les placers, l'or et l'argent monnayï¿½s
-n'ï¿½taient point employï¿½s; dans les transactions commerciales, toute
-denrï¿½e ï¿½tait vendue et payï¿½e en poudre d'or; aussi voyait-on sur le
-comptoir de chaque marchand une balance servant ï¿½ peser la marchandise
-et une autre d'un plus petit modï¿½le pour en peser le prix. Chaque
-mineur ï¿½tait nanti d'une bourse en cuir en guise de porte-monnaie, oï¿½
-ï¿½tait renfermï¿½e la poudre d'or qu'il consacrait ï¿½ ses menus achats.
+Dans ce village comme dans tous les placers, l'or et l'argent monnayés
+n'étaient point employés; dans les transactions commerciales, toute
+denrée était vendue et payée en poudre d'or; aussi voyait-on sur le
+comptoir de chaque marchand une balance servant à peser la marchandise
+et une autre d'un plus petit modèle pour en peser le prix. Chaque
+mineur était nanti d'une bourse en cuir en guise de porte-monnaie, où
+était renfermée la poudre d'or qu'il consacrait à ses menus achats.
 
 Ce ne fut que quelque temps avant le coucher du soleil que je pus me
 mettre en route pour Grass-Valley, porteur d'une somme assez ronde.
 
 
-     Dï¿½part pour l'intï¿½rieur.
+     Départ pour l'intérieur.
 
-Des semaines, des mois s'ï¿½coulï¿½rent ainsi entre les travaux du claim
-et les plaisirs de la chasse; ceux-ci, chose ï¿½trange, me rapportant en
-gï¿½nï¿½ral plus de profit que ceux-lï¿½. Puis vint un moment oï¿½ je ne pus
-plus rï¿½sister au dï¿½sir impï¿½rieux qui me poussait vers les dï¿½serts de
-l'Est; en consï¿½quence, aprï¿½s avoir mis ma cabane sous la surveillance
-des Canadiens et dï¿½posï¿½ ma petite fortune entre leurs mains loyales,
-je fis un beau matin mes derniers prï¿½paratifs de dï¿½part. Ma peau
-d'ours et mon hamac furent ployï¿½s en quatre sur le dos de mon mulet et
-fixï¿½s au moyen d'une sangle; j'y plaï¿½ai mon bissac qui contenait mes
-provisions, et, par-dessus le tout, je m'installai moi-mï¿½me; je donnai
-un dernier regard d'amour ï¿½ mon paisible ermitage, ï¿½ mes fleurs
-chï¿½ries qui allaient peut-ï¿½tre dessï¿½cher sur leurs tiges, privï¿½es de
-mes soins empressï¿½s, un amical serrement de main ï¿½ mes voisins les
-Canadiens, et le coeur heureux et rempli d'ï¿½motions aventureuses, je
-me mis en route. Je m'ï¿½tais confectionnï¿½ une espï¿½ce de caban avec des
+Des semaines, des mois s'écoulèrent ainsi entre les travaux du claim
+et les plaisirs de la chasse; ceux-ci, chose étrange, me rapportant en
+général plus de profit que ceux-là. Puis vint un moment où je ne pus
+plus résister au désir impérieux qui me poussait vers les déserts de
+l'Est; en conséquence, après avoir mis ma cabane sous la surveillance
+des Canadiens et déposé ma petite fortune entre leurs mains loyales,
+je fis un beau matin mes derniers préparatifs de départ. Ma peau
+d'ours et mon hamac furent ployés en quatre sur le dos de mon mulet et
+fixés au moyen d'une sangle; j'y plaçai mon bissac qui contenait mes
+provisions, et, par-dessus le tout, je m'installai moi-même; je donnai
+un dernier regard d'amour à mon paisible ermitage, à mes fleurs
+chéries qui allaient peut-être dessécher sur leurs tiges, privées de
+mes soins empressés, un amical serrement de main à mes voisins les
+Canadiens, et le coeur heureux et rempli d'émotions aventureuses, je
+me mis en route. Je m'étais confectionné une espèce de caban avec des
 peaux de coyottes, car ma pauvre chemise de laine rouge de matelot
-ï¿½tait bien usï¿½e. Dans cet ï¿½quipage, je ressemblais assez ï¿½ Robinson,
-seulement le parapluie de peau me manquait; je l'avais remplacï¿½ par un
-capuchon de la mï¿½me ï¿½toffe que mon vï¿½tement, et le trouvais infiniment
+était bien usée. Dans cet équipage, je ressemblais assez à Robinson,
+seulement le parapluie de peau me manquait; je l'avais remplacé par un
+capuchon de la même étoffe que mon vêtement, et le trouvais infiniment
 plus commode pour la marche ou le repos, la veille ou le sommeil.
 
-Le dï¿½but de mon voyage se passa sans incidents dignes d'ï¿½tre
-rapportï¿½s; la journï¿½e ï¿½tait belle, le soleil resplendissant dorait la
-cime des arbres de la forï¿½t. Je voyageais sous un dï¿½me de verdure
-naturelle, oï¿½ des myriades d'oiseaux voltigeaient en chantant et
-paraissaient peu effrayï¿½s de ma prï¿½sence; je fis environ quarante-cinq
-ï¿½ cinquante milles dans ma journï¿½e sans rencontrer d'Indiens; le calme
-des sombres et profondes forï¿½ts de cï¿½dres gï¿½ants, orgueil de la
-Sierra-Nevada (_Taxodium giganteum_), faisait pï¿½nï¿½trer en moi un
-sentiment de repos et de bonheur que je n'ai rï¿½ellement ï¿½prouvï¿½ que
-lï¿½. Mon ï¿½me semblait s'y reposer avec abandon des peines de la vie.
+Le début de mon voyage se passa sans incidents dignes d'être
+rapportés; la journée était belle, le soleil resplendissant dorait la
+cime des arbres de la forêt. Je voyageais sous un dôme de verdure
+naturelle, où des myriades d'oiseaux voltigeaient en chantant et
+paraissaient peu effrayés de ma présence; je fis environ quarante-cinq
+à cinquante milles dans ma journée sans rencontrer d'Indiens; le calme
+des sombres et profondes forêts de cèdres géants, orgueil de la
+Sierra-Nevada (_Taxodium giganteum_), faisait pénétrer en moi un
+sentiment de repos et de bonheur que je n'ai réellement éprouvé que
+là. Mon âme semblait s'y reposer avec abandon des peines de la vie.
 
-Vers les six heures j'arrivai prï¿½s d'un joli petit ruisseau ombragï¿½ de
-saules et de jeunes chï¿½nes. La position me sembla charmante pour y
-ï¿½tablir mon campement; de chaque cï¿½tï¿½, le ruisseau ï¿½tait bordï¿½ d'un
-beau tapis de gazon ï¿½maillï¿½ de fleurs fraï¿½ches comme l'aurore; aprï¿½s
-avoir dï¿½chargï¿½ mon vieux camarade d'aventures et l'avoir laissï¿½ paï¿½tre
-sur ces bords charmants, je m'ï¿½tendis moi-mï¿½me sur le gazon, humant
-avec dï¿½lices les senteurs embaumï¿½es de la forï¿½t. Quand je fus un peu
-reposï¿½, je pris un bain sous un de ses arceaux naturels de branchages
-et de fleurs, et dans cette baignoire qu'eut enviï¿½e plus d'une jolie
-naï¿½ade, je rï¿½parai mes forces en rendant ï¿½ mes membres la souplesse
-que leur enlï¿½ve toujours une course de la longueur de celle que
-j'avais parcourue; car, pour mï¿½nager mon mulet et plus encore par goï¿½t
-de chasseur, j'avais fait la route ï¿½ pied.
+Vers les six heures j'arrivai près d'un joli petit ruisseau ombragé de
+saules et de jeunes chênes. La position me sembla charmante pour y
+établir mon campement; de chaque côté, le ruisseau était bordé d'un
+beau tapis de gazon émaillé de fleurs fraîches comme l'aurore; après
+avoir déchargé mon vieux camarade d'aventures et l'avoir laissé paître
+sur ces bords charmants, je m'étendis moi-même sur le gazon, humant
+avec délices les senteurs embaumées de la forêt. Quand je fus un peu
+reposé, je pris un bain sous un de ses arceaux naturels de branchages
+et de fleurs, et dans cette baignoire qu'eut enviée plus d'une jolie
+naïade, je réparai mes forces en rendant à mes membres la souplesse
+que leur enlève toujours une course de la longueur de celle que
+j'avais parcourue; car, pour ménager mon mulet et plus encore par goût
+de chasseur, j'avais fait la route à pied.
 
 Mon premier soin fut d'allumer du feu, de plumer deux colins ou
-perdrix californiennes, qui, une fois vidï¿½es, furent embrochï¿½es sur
-une branche de chï¿½ne dï¿½posï¿½e elle-mï¿½me sur deux fourches piquï¿½es en
-terre devant le brasier; comme elles ï¿½taient fort grasses, je mis ma
-poï¿½le dessous pour en recevoir la graisse. J'eusse fait un repas
-dï¿½licieux, si, pour le complï¿½ter, j'avais eu une chopine de cidre de
+perdrix californiennes, qui, une fois vidées, furent embrochées sur
+une branche de chêne déposée elle-même sur deux fourches piquées en
+terre devant le brasier; comme elles étaient fort grasses, je mis ma
+poêle dessous pour en recevoir la graisse. J'eusse fait un repas
+délicieux, si, pour le compléter, j'avais eu une chopine de cidre de
 Bretagne; je dus remplacer ce nectar national des vieux Kimris par
-l'eau du ruisseau, qui ï¿½tait au moins fraï¿½che et limpide, qualitï¿½s
-qu'ont toujours dans ces rï¿½gions les eaux qui descendent des montagnes
+l'eau du ruisseau, qui était au moins fraîche et limpide, qualités
+qu'ont toujours dans ces régions les eaux qui descendent des montagnes
 Rocheuses. Le soir, je disposai mon hamac entre deux branches de
-cï¿½dre, ne voulant pas trop me fier aux dï¿½lices d'une nuit passï¿½e sur
+cèdre, ne voulant pas trop me fier aux délices d'une nuit passée sur
 le gazon, au bord d'un ruisseau dont le doux murmure devait bercer
-dï¿½licieusement. Je coupai avec ma hache une bonne quantitï¿½ de branches
-de la mï¿½me essence, qui entretinrent pendant toute la nuit un
-magnifique foyer, sauvegarde contre les visites indiscrï¿½tes des bï¿½tes
-fï¿½roces.
+délicieusement. Je coupai avec ma hache une bonne quantité de branches
+de la même essence, qui entretinrent pendant toute la nuit un
+magnifique foyer, sauvegarde contre les visites indiscrètes des bêtes
+féroces.
 
-Je me rï¿½veillai avec l'aurore; les oiseaux chantaient dans les
-bosquets et donnaient ï¿½ mon coeur, par leurs doux accords, cette
-quiï¿½tude, ce courage si nï¿½cessaires ï¿½ l'homme perdu dans les forï¿½ts, ï¿½
+Je me réveillai avec l'aurore; les oiseaux chantaient dans les
+bosquets et donnaient à mon coeur, par leurs doux accords, cette
+quiétude, ce courage si nécessaires à l'homme perdu dans les forêts, à
 plusieurs milliers de lieues de sa patrie. Tout ce qui m'entourait
-ï¿½tait si beau, si suave, que j'ai souvent regrettï¿½ de n'ï¿½tre pas nï¿½
-dans ces rï¿½gions primitives, pour y vivre dans une continuelle
-contemplation des beautï¿½s de la crï¿½ation.
+était si beau, si suave, que j'ai souvent regretté de n'être pas né
+dans ces régions primitives, pour y vivre dans une continuelle
+contemplation des beautés de la création.
 
 
-     L'ours gris. -- Reconnaissance des sauvages. -- Captivitï¿½.
+     L'ours gris. -- Reconnaissance des sauvages. -- Captivité.
      -- Jugement. -- Le poteau de la guerre. -- L'Anglais chef de
-     tribu. -- Dï¿½livrance.
+     tribu. -- Délivrance.
 
-.... Aprï¿½s bien des jours de marche, bien des dangers courus ï¿½ la
-rencontre des hommes et des animaux de ces rï¿½gions, peu frï¿½quentï¿½es
-des Europï¿½ens, dangers dont la frï¿½quence me fit presque une habitude
-quotidienne, je traversai l'extrï¿½mitï¿½ sud du groupe de montagnes d'oï¿½
-s'ï¿½coule ï¿½ l'ouest le fleuve Humboldt, et remontant entre les lacs
-Nicollet et Sï¿½vier, je pï¿½nï¿½trai dans la partie de la Sierra-Wah oï¿½ la
-recherche de l'or et l'hï¿½gire des Mormons ont fait naï¿½tre depuis mon
-passage les citï¿½s de Fillmore et de Cï¿½dar. Mais alors les sombres
-_caï¿½ons_, ou passes de ces montagnes, les forï¿½ts gigantesques de leurs
-flancs n'ï¿½taient parcourus que par des bï¿½tes fauves et par des hommes
+.... Après bien des jours de marche, bien des dangers courus à la
+rencontre des hommes et des animaux de ces régions, peu fréquentées
+des Européens, dangers dont la fréquence me fit presque une habitude
+quotidienne, je traversai l'extrémité sud du groupe de montagnes d'où
+s'écoule à l'ouest le fleuve Humboldt, et remontant entre les lacs
+Nicollet et Sévier, je pénétrai dans la partie de la Sierra-Wah où la
+recherche de l'or et l'hégire des Mormons ont fait naître depuis mon
+passage les cités de Fillmore et de Cédar. Mais alors les sombres
+_cañons_, ou passes de ces montagnes, les forêts gigantesques de leurs
+flancs n'étaient parcourus que par des bêtes fauves et par des hommes
 non moins sauvages appartenant aux nombreuses subdivisions des Indiens
 Pah-Utahs.
 
-[Illustration: Forï¿½t de _Taxodium giganteum_ ou pins gï¿½ants.--Dessin
-de Lancelot d'aprï¿½s les _Reports of explorations_.]
+[Illustration: Forêt de _Taxodium giganteum_ ou pins géants.--Dessin
+de Lancelot d'après les _Reports of explorations_.]
 
-Campï¿½ une nuit sur le bord d'un cours d'eau que je reconnus plus tard
-pour un affluent du Rio-Verde, je fus rï¿½veillï¿½ par des rugissements
-d'ours, mais d'un diapason qui n'avait rien de rassurant. ï¿½ la pointe
-du jour, je rechargeai mes armes et y mis des lingots de fer trempï¿½ ï¿½
+Campé une nuit sur le bord d'un cours d'eau que je reconnus plus tard
+pour un affluent du Rio-Verde, je fus réveillé par des rugissements
+d'ours, mais d'un diapason qui n'avait rien de rassurant. À la pointe
+du jour, je rechargeai mes armes et y mis des lingots de fer trempé à
 la place des balles de plomb; je ne sais ce qu'il y avait dans l'air,
-mais j'ï¿½prouvais une espï¿½ce de pressentiment qui n'ï¿½tait pas de bon
-augure, un serrement de coeur qui voulait dire: Prends garde ï¿½ toi. Je
-suivis ce conseil, et, ï¿½ neuf heures environ, je continuai mon voyage;
-la riviï¿½re longeant la direction de ma route, je la cï¿½toyai jusqu'au
-milieu du jour, et j'allais m'enfoncer dans la forï¿½t, quand mon
-attention fut rï¿½veillï¿½e par des cris lointains; j'approchai mon
-oreille de terre ï¿½ la faï¿½on des Indiens, et j'entendis distinctement
+mais j'éprouvais une espèce de pressentiment qui n'était pas de bon
+augure, un serrement de coeur qui voulait dire: Prends garde à toi. Je
+suivis ce conseil, et, à neuf heures environ, je continuai mon voyage;
+la rivière longeant la direction de ma route, je la côtoyai jusqu'au
+milieu du jour, et j'allais m'enfoncer dans la forêt, quand mon
+attention fut réveillée par des cris lointains; j'approchai mon
+oreille de terre à la façon des Indiens, et j'entendis distinctement
 des cris confus. D'un bond, je me jetai dans un buisson de cerisiers
-et de saules qui bordaient la riviï¿½re, et tapi comme un renard qui a
+et de saules qui bordaient la rivière, et tapi comme un renard qui a
 senti le chasseur, ma carabine en main, j'attendis. Au bout de
-quelques minutes, j'aperï¿½us une bande d'Indiens de tout sexe et de
-tout ï¿½ge accourant vers la rive opposï¿½e, et sautant ï¿½ l'eau comme des
-grenouilles. Je crus ï¿½ une attaque et me mis sur la dï¿½fensive; mais je
-reconnus bientï¿½t mon erreur, car les pauvres Indiens paraissaient trop
-effrayï¿½s pour qu'il me fï¿½t possible de croire que c'ï¿½tait ï¿½ moi qu'ils
-en voulaient. Hommes et femmes nageaient ï¿½ l'envi; seulement comme ces
-derniï¿½res portaient presque toutes sur leur dos un ou deux enfants
-ficelï¿½s dans des ï¿½corces de bouleau, elles nageaient bien moins vite
-que les hommes; qui, une fois arrivï¿½s sur le rivage, prirent la fuite.
-Trois seulement y restï¿½rent, encourageant de la voix et du geste les
-pauvres squaws ï¿½ se presser; je m'attendais ï¿½ voir apparaï¿½tre de
-l'autre cï¿½tï¿½ de la rive un parti d'Indiens ennemis, et je me disposais
-ï¿½ battre en retraite de mon cï¿½tï¿½, quand j'entendis retentir le cri
-formidable qui m'avait tenu ï¿½veillï¿½ pendant la nuit, ï¿½ une distance
-trï¿½s-rapprochï¿½e; au mï¿½me moment, je vis rouler du haut du talus une
-ï¿½norme masse d'un gris sale, qui, s'ï¿½tant relevï¿½e pour se jeter ï¿½
-l'eau, devint bientï¿½t un ours gris, effroyable bï¿½te, la terreur des
-coeurs timorï¿½s, et le roi des animaux de ces rï¿½gions; il nageait avec
-une telle vigueur qu'il fut bientï¿½t trï¿½s-prï¿½s de la derniï¿½re des
-squaws, pauvre jeune mï¿½re traï¿½nant ï¿½ la remorque deux petits jumeaux,
+quelques minutes, j'aperçus une bande d'Indiens de tout sexe et de
+tout âge accourant vers la rive opposée, et sautant à l'eau comme des
+grenouilles. Je crus à une attaque et me mis sur la défensive; mais je
+reconnus bientôt mon erreur, car les pauvres Indiens paraissaient trop
+effrayés pour qu'il me fût possible de croire que c'était à moi qu'ils
+en voulaient. Hommes et femmes nageaient à l'envi; seulement comme ces
+dernières portaient presque toutes sur leur dos un ou deux enfants
+ficelés dans des écorces de bouleau, elles nageaient bien moins vite
+que les hommes; qui, une fois arrivés sur le rivage, prirent la fuite.
+Trois seulement y restèrent, encourageant de la voix et du geste les
+pauvres squaws à se presser; je m'attendais à voir apparaître de
+l'autre côté de la rive un parti d'Indiens ennemis, et je me disposais
+à battre en retraite de mon côté, quand j'entendis retentir le cri
+formidable qui m'avait tenu éveillé pendant la nuit, à une distance
+très-rapprochée; au même moment, je vis rouler du haut du talus une
+énorme masse d'un gris sale, qui, s'étant relevée pour se jeter à
+l'eau, devint bientôt un ours gris, effroyable bête, la terreur des
+coeurs timorés, et le roi des animaux de ces régions; il nageait avec
+une telle vigueur qu'il fut bientôt très-près de la dernière des
+squaws, pauvre jeune mère traînant à la remorque deux petits jumeaux,
 qui criaient quand ils n'avaient pas la bouche remplie d'eau. Les
-Indiens, de leur cï¿½tï¿½, lanï¿½aient des flï¿½ches empoisonnï¿½es; mais la
-distance qui les sï¿½parait ï¿½tant encore trop grande, l'ours n'en fut
+Indiens, de leur côté, lançaient des flèches empoisonnées; mais la
+distance qui les séparait étant encore trop grande, l'ours n'en fut
 pas atteint.
 
-[Illustration: Un caï¿½on ou passage de la Sierra-Wah.--Dessin de
-Lancelot d'aprï¿½s les _Reports of explorations_.]
+[Illustration: Un cañon ou passage de la Sierra-Wah.--Dessin de
+Lancelot d'après les _Reports of explorations_.]
 
-Devant cette scï¿½ne dï¿½chirante, je ne pus rester spectateur calme et
-ï¿½goï¿½ste; je sortis de ma cachette, et aprï¿½s avoir appelï¿½ et forcï¿½ les
-Indiens, fort disposï¿½s d'abord ï¿½ la fuite en me voyant, ï¿½ continuer
-ferme le jeu de leurs arcs, je plaï¿½ai ma bonne carabine dans la
-fourche d'un saule pour plus de prï¿½cision dans mon tir, et j'ajustai ï¿½
-cent vingt mï¿½tres; ma balle atteignit l'horrible tï¿½te du monstre, et
-je le vis la tremper dans l'eau de la riviï¿½re, qui devint rouge de
+Devant cette scène déchirante, je ne pus rester spectateur calme et
+égoïste; je sortis de ma cachette, et après avoir appelé et forcé les
+Indiens, fort disposés d'abord à la fuite en me voyant, à continuer
+ferme le jeu de leurs arcs, je plaçai ma bonne carabine dans la
+fourche d'un saule pour plus de précision dans mon tir, et j'ajustai à
+cent vingt mètres; ma balle atteignit l'horrible tête du monstre, et
+je le vis la tremper dans l'eau de la rivière, qui devint rouge de
 sang. Sa course se ralentit visiblement. Ayant ensuite saisi un Indien
-qui me paraissait le mari de l'infortunï¿½e squaw, je le poussai ï¿½ l'eau
-pour le contraindre ï¿½ aller porter secours ï¿½ cette malheureuse, qui,
-paralysï¿½e par la peur et arrï¿½tï¿½e par son fardeau, avait beaucoup de
-peine ï¿½ nager. Je fus cependant obligï¿½ de le menacer de mon revolver
-pour l'y forcer. J'ï¿½paulai ma carabine, et une autre balle de fer
-arriva encore dans la tï¿½te du _grizly-bear_[4], et l'arrï¿½ta assez ï¿½
-temps pour permettre ï¿½ l'Indienne de gagner la rive. En y mettant les
-pieds elle tomba presque asphyxiï¿½e. Je fis signe aux trois Indiens,
-pï¿½re, frï¿½re et mari de cette infortunï¿½e, de la porter dans la forï¿½t et
-de la mettre en sï¿½retï¿½. Enhardi par mon premier succï¿½s, je voulus
+qui me paraissait le mari de l'infortunée squaw, je le poussai à l'eau
+pour le contraindre à aller porter secours à cette malheureuse, qui,
+paralysée par la peur et arrêtée par son fardeau, avait beaucoup de
+peine à nager. Je fus cependant obligé de le menacer de mon revolver
+pour l'y forcer. J'épaulai ma carabine, et une autre balle de fer
+arriva encore dans la tête du _grizly-bear_[4], et l'arrêta assez à
+temps pour permettre à l'Indienne de gagner la rive. En y mettant les
+pieds elle tomba presque asphyxiée. Je fis signe aux trois Indiens,
+père, frère et mari de cette infortunée, de la porter dans la forêt et
+de la mettre en sûreté. Enhardi par mon premier succès, je voulus
 faire plus intime connaissance avec un gibier si terrible; je coulai
-vivement deux lingots dans ma carabine, et l'ayant jetï¿½e en
-bandouliï¿½re, je m'ï¿½lanï¿½ai sur un des saules qui bordaient la rive, j'y
-ï¿½tais ï¿½ peine installï¿½ et n'avais pas encore eu le temps de me fixer ï¿½
+vivement deux lingots dans ma carabine, et l'ayant jetée en
+bandoulière, je m'élançai sur un des saules qui bordaient la rive, j'y
+étais à peine installé et n'avais pas encore eu le temps de me fixer à
 une de ses branches au moyen de ma ceinture, dans la crainte que mes
-pieds ne vinssent ï¿½ glisser, que le monstre dressï¿½ le long du tronc du
-saule, la gueule fumante, me couvrait dï¿½jï¿½ de son haleine fï¿½tide. ï¿½
-cette ï¿½poque, j'ignorais encore que les _grizly-bears_ ne montent pas
-sur les arbres; aussi, dans ma crainte et dans le but de l'arrï¿½ter, je
-lui dï¿½chargeai ï¿½ un mï¿½tre de distance, successivement, mes deux coups
-de feux dans son ï¿½norme gueule bï¿½ante, une de mes balles lui traversa
-la mï¿½choire, en sortant par le cou, l'autre s'enfonï¿½a dans son large
+pieds ne vinssent à glisser, que le monstre dressé le long du tronc du
+saule, la gueule fumante, me couvrait déjà de son haleine fétide. À
+cette époque, j'ignorais encore que les _grizly-bears_ ne montent pas
+sur les arbres; aussi, dans ma crainte et dans le but de l'arrêter, je
+lui déchargeai à un mètre de distance, successivement, mes deux coups
+de feux dans son énorme gueule béante, une de mes balles lui traversa
+la mâchoire, en sortant par le cou, l'autre s'enfonça dans son large
 poitrail; il poussa un rugissement terrible, et en faisant un violent
 effort pour m'atteindre, il retomba sur le dos au pied du saule.
-Cependant il se redressa presque aussitï¿½t. Le temps me manquait pour
+Cependant il se redressa presque aussitôt. Le temps me manquait pour
 recharger ma carabine; je voulus me servir de mon revolver; mais dans
-la vivacitï¿½ de mes mouvements il s'ï¿½tait pris de telle faï¿½on dans ma
-ceinture avec des branches de saule, que je ne pus immï¿½diatement l'en
-retirer. Je ne perdis cependant pas la tï¿½te, et ayant saisi ma hache,
-j'en assenai un violent coup sur la tï¿½te de l'assaillant. Un de ses
-yeux fut atteint et son sang vint m'inonder. Il tomba ï¿½ terre et y
+la vivacité de mes mouvements il s'était pris de telle façon dans ma
+ceinture avec des branches de saule, que je ne pus immédiatement l'en
+retirer. Je ne perdis cependant pas la tête, et ayant saisi ma hache,
+j'en assenai un violent coup sur la tête de l'assaillant. Un de ses
+yeux fut atteint et son sang vint m'inonder. Il tomba à terre et y
 resta environ trois secondes, se tordant dans les convulsions de la
-rage. Pendant ce temps, je parvins ï¿½ dï¿½gager mon revolver, et me
-voyant maï¿½tre de la place, puisqu'il devenait ï¿½vident que l'ennemi ne
-monterait pas ï¿½ l'assaut, je pris tout mon temps pour viser et lui
-crever l'autre oeil. Dï¿½s lors, je pus facilement venir ï¿½ bout de la
-terrible bï¿½te. Privï¿½e de la vue, elle tournait constamment autour de
-mon tronc de saule en dï¿½chirant l'ï¿½corce de ses puissantes dents et de
-ses griffes. Enfin, un dernier coup de carabine mit fin ï¿½ son agonie
-qui s'ï¿½tait prolongï¿½e durant plus de vingt minutes, pendant lesquelles
-il avait mis ï¿½ dï¿½couvert les racines de mon saule. Il en avait arrachï¿½
-de si ï¿½normes morceaux que l'arbre en avait ï¿½prouvï¿½ de violentes
+rage. Pendant ce temps, je parvins à dégager mon revolver, et me
+voyant maître de la place, puisqu'il devenait évident que l'ennemi ne
+monterait pas à l'assaut, je pris tout mon temps pour viser et lui
+crever l'autre oeil. Dès lors, je pus facilement venir à bout de la
+terrible bête. Privée de la vue, elle tournait constamment autour de
+mon tronc de saule en déchirant l'écorce de ses puissantes dents et de
+ses griffes. Enfin, un dernier coup de carabine mit fin à son agonie
+qui s'était prolongée durant plus de vingt minutes, pendant lesquelles
+il avait mis à découvert les racines de mon saule. Il en avait arraché
+de si énormes morceaux que l'arbre en avait éprouvé de violentes
 secousses.
 
                    [Note 4: Grizly-bear, ours gris.]
 
 L'ours gris est, par sa force, le roi ou le tyran des animaux des
-montagnes Rocheuses et des grandes prairies amï¿½ricaines; il n'est pas
+montagnes Rocheuses et des grandes prairies américaines; il n'est pas
 rare d'en rencontrer pesant cinq cents kilos. Ils ne montent pas sur
-les arbres comme ceux des autres espï¿½ces et ne sont pas aussi
-intelligents. Leurs longs poils sont d'un gris rougeï¿½tre, et leurs
-oreilles pointues, leurs yeux fï¿½roces tirent sur le brun rouge; leurs
-pattes dï¿½passent onze pouces de long, et chaque griffe, recourbï¿½e en
-croissant, en a six. Je coupai ï¿½ ma victime ces formidables dï¿½fenses
-et lui cassai les dents ï¿½ coups de hache, afin de m'en faire un
-trophï¿½e comme les Indiens. Je lui ouvris le ventre pour suivre, en
+les arbres comme ceux des autres espèces et ne sont pas aussi
+intelligents. Leurs longs poils sont d'un gris rougeâtre, et leurs
+oreilles pointues, leurs yeux féroces tirent sur le brun rouge; leurs
+pattes dépassent onze pouces de long, et chaque griffe, recourbée en
+croissant, en a six. Je coupai à ma victime ces formidables défenses
+et lui cassai les dents à coups de hache, afin de m'en faire un
+trophée comme les Indiens. Je lui ouvris le ventre pour suivre, en
 vrai chasseur, le trajet de mes balles dans son corps: le coeur et les
-poumons avaient ï¿½tï¿½ traversï¿½s trois fois. J'ï¿½tais ainsi occupï¿½ quand
-mes Indiens et leurs squaws arrivï¿½rent et se mirent ï¿½ danser une ronde
-ï¿½chevelï¿½e autour de nous, en chantant une chanson dont je crus
-reconnaï¿½tre le caractï¿½re gastronomique dans certains mots indiens
-qu'ils prononï¿½aient souvent. Je les laissai faire, et m'ï¿½tant assis
+poumons avaient été traversés trois fois. J'étais ainsi occupé quand
+mes Indiens et leurs squaws arrivèrent et se mirent à danser une ronde
+échevelée autour de nous, en chantant une chanson dont je crus
+reconnaître le caractère gastronomique dans certains mots indiens
+qu'ils prononçaient souvent. Je les laissai faire, et m'étant assis
 sur les flancs rebondis de mon ours, je me joignis au choeur. Voyant
-ma bonne volontï¿½, ils vinrent me prendre par la main et m'entraï¿½nï¿½rent
-dans leur ronde; je cï¿½dai de bonne grï¿½ce, et ils en parurent
-enchantï¿½s.
+ma bonne volonté, ils vinrent me prendre par la main et m'entraînèrent
+dans leur ronde; je cédai de bonne grâce, et ils en parurent
+enchantés.
 
-Au moment de nous sï¿½parer, un de ces Indiens qui savait un peu
+Au moment de nous séparer, un de ces Indiens qui savait un peu
 d'espagnol, me fit un discours emphatiquement sentencieux qu'il
-termina par cet aphorisme de circonstance: ï¿½La reconnaissance est une
-vertu peau-rouge; l'ingratitude a le visage pï¿½le.ï¿½ Je m'ï¿½loignai ne
-sachant que rï¿½pondre ï¿½ une parole aussi sensï¿½e.... Deux jours plus
-tard j'aurais pu le faire; car deux jours plus tard j'ï¿½tais bel et
-bien abandonnï¿½ dans le dï¿½sert et dï¿½valisï¿½ de mes menus bagages par
-l'Indien mï¿½me dont j'avais sauvï¿½ la femme et l'enfant, et qui avait
-tenu ï¿½ m'accompagner en qualitï¿½ de guide. Ce n'est pas tout; le
-lendemain au lever du soleil, je rï¿½vais bien moins ï¿½ ce mode indien de
-gratitude qu'ï¿½ la patrie dont j'ï¿½tais sï¿½parï¿½ par plusieurs milliers de
-lieues, quand je fus tout ï¿½ coup, tirï¿½ de mes douces pensï¿½es par le
-sifflement d'une flï¿½che qui vint s'enfoncer dans la terre ï¿½ un pas de
-moi. L'inclinaison qu'elle avait gardï¿½e me porta ï¿½ jeter les yeux du
-cï¿½tï¿½ d'oï¿½ elle pouvait ï¿½tre partie, mais je ne pus apercevoir l'auteur
-de cette agression. ï¿½ quelques instants de lï¿½, une autre la suivit,
-paraissant toujours venir du mï¿½me point, qui ï¿½tait une ï¿½minence
-escarpï¿½e, couronnï¿½e par un plateau ï¿½levï¿½ de soixante mï¿½tres sur ma
-droite. Cette seconde flï¿½che ï¿½tait venue s'enfoncer dans le tronc de
-cï¿½dre oï¿½ j'ï¿½tais appuyï¿½ et ï¿½ quelques pouces de mon ï¿½paule; ceci
-devenait compromettant. Je me levai et allai me cacher derriï¿½re un
+termina par cet aphorisme de circonstance: «La reconnaissance est une
+vertu peau-rouge; l'ingratitude a le visage pâle.» Je m'éloignai ne
+sachant que répondre à une parole aussi sensée.... Deux jours plus
+tard j'aurais pu le faire; car deux jours plus tard j'étais bel et
+bien abandonné dans le désert et dévalisé de mes menus bagages par
+l'Indien même dont j'avais sauvé la femme et l'enfant, et qui avait
+tenu à m'accompagner en qualité de guide. Ce n'est pas tout; le
+lendemain au lever du soleil, je rêvais bien moins à ce mode indien de
+gratitude qu'à la patrie dont j'étais séparé par plusieurs milliers de
+lieues, quand je fus tout à coup, tiré de mes douces pensées par le
+sifflement d'une flèche qui vint s'enfoncer dans la terre à un pas de
+moi. L'inclinaison qu'elle avait gardée me porta à jeter les yeux du
+côté d'où elle pouvait être partie, mais je ne pus apercevoir l'auteur
+de cette agression. À quelques instants de là, une autre la suivit,
+paraissant toujours venir du même point, qui était une éminence
+escarpée, couronnée par un plateau élevé de soixante mètres sur ma
+droite. Cette seconde flèche était venue s'enfoncer dans le tronc de
+cèdre où j'étais appuyé et à quelques pouces de mon épaule; ceci
+devenait compromettant. Je me levai et allai me cacher derrière un
 tronc d'arbre, m'en servant comme d'un bouclier contre mon agresseur
-invisible; en avanï¿½ant tout doucement la tï¿½te entre les branches, je
+invisible; en avançant tout doucement la tête entre les branches, je
 vis effectivement un Indien, que je reconnus pour mon ingrat voleur,
-qui, le corps cachï¿½ derriï¿½re un bloc de rocher, cherchait ï¿½ dï¿½couvrir
-l'endroit ou je m'ï¿½tais embusquï¿½. La pointe rougeï¿½tre de ses flï¿½ches
-me fit juger qu'elles ï¿½taient empoisonnï¿½es; mon parti fut alors
-bientï¿½t pris: je l'ajustai, et ma balle l'atteignit un peu au-dessus
+qui, le corps caché derrière un bloc de rocher, cherchait à découvrir
+l'endroit ou je m'étais embusqué. La pointe rougeâtre de ses flèches
+me fit juger qu'elles étaient empoisonnées; mon parti fut alors
+bientôt pris: je l'ajustai, et ma balle l'atteignit un peu au-dessus
 de l'aisselle droite. Il s'affaissa sur la roche et y resta suspendu
-le haut du corps et les bras pendants. Ayant alors jetï¿½ ma carabine en
-bandouliï¿½re, je grimpai vers lui en m'accrochant aux aspï¿½ritï¿½s des
-rochers et aux racines; mais comme le passage ï¿½tait difficile, il
-s'ï¿½coula assez de temps pour lui permettre de revenir ï¿½ lui avant que
-j'eusse atteint le haut du rocher. Avec une agilitï¿½ qui me surprit,
-dans un homme aussi griï¿½vement blessï¿½, il gagna le plateau sans qu'il
-me fï¿½t possible de lui envoyer mon second coup de feu, embarrassï¿½ que
-j'ï¿½tais par la difficultï¿½ du terrain. Quand je fus arrivï¿½ sur le
-plateau, il ï¿½tait dï¿½jï¿½ ï¿½ prï¿½s d'un quart de mille, fuyant dans la
-plaine. Le suivre eï¿½t ï¿½tï¿½ une folie. Je me contentai de lui envoyer,
-en forme de souhait de bon voyage, une balle conique de mon coup ï¿½
-grande portï¿½e, mais sans l'arrï¿½ter, car il avait trop d'avance sur
+le haut du corps et les bras pendants. Ayant alors jeté ma carabine en
+bandoulière, je grimpai vers lui en m'accrochant aux aspérités des
+rochers et aux racines; mais comme le passage était difficile, il
+s'écoula assez de temps pour lui permettre de revenir à lui avant que
+j'eusse atteint le haut du rocher. Avec une agilité qui me surprit,
+dans un homme aussi grièvement blessé, il gagna le plateau sans qu'il
+me fût possible de lui envoyer mon second coup de feu, embarrassé que
+j'étais par la difficulté du terrain. Quand je fus arrivé sur le
+plateau, il était déjà à près d'un quart de mille, fuyant dans la
+plaine. Le suivre eût été une folie. Je me contentai de lui envoyer,
+en forme de souhait de bon voyage, une balle conique de mon coup à
+grande portée, mais sans l'arrêter, car il avait trop d'avance sur
 moi.
 
-Je descendis, et en passant ï¿½ cï¿½tï¿½ de la roche homicide oï¿½ je l'avais
-frappï¿½, je la trouvai encore teinte de son sang. Aprï¿½s avoir fait un
-mauvais dï¿½jeuner, je repris, triste et prï¿½occupï¿½, ma route au travers
-de la forï¿½t. Le lendemain, vers onze heures, un bruit vague et confus
-attira mon attention; peu rassurï¿½, j'attachai mon oreille au sol et
-pus me convaincre bien vite qu'un parti de guerre indien ï¿½tait sur mes
+Je descendis, et en passant à côté de la roche homicide où je l'avais
+frappé, je la trouvai encore teinte de son sang. Après avoir fait un
+mauvais déjeuner, je repris, triste et préoccupé, ma route au travers
+de la forêt. Le lendemain, vers onze heures, un bruit vague et confus
+attira mon attention; peu rassuré, j'attachai mon oreille au sol et
+pus me convaincre bien vite qu'un parti de guerre indien était sur mes
 traces, car la brise m'apportait le son de leurs voix encore
-lointaines. La fuite ï¿½tait impossible. Me cacher eï¿½t ï¿½tï¿½ chose
-inutile, et m'eï¿½t attirï¿½ le mï¿½pris des Indiens. Me confiant donc dans
-ma bonne ï¿½toile, j'attendis de pied ferme, le dos appuyï¿½ ï¿½ un arbre et
-la face ï¿½ l'ennemi. Quelques minutes aprï¿½s, ils ï¿½taient ï¿½ soixante pas
-de distance de moi. Alors commencï¿½rent ï¿½ tomber ï¿½ mes cï¿½tï¿½s plusieurs
-flï¿½ches dont je fus garanti par les arbres qui me couvraient. Mon
-premier mouvement fut de me dï¿½fendre ï¿½ l'aide de mon revolver et de ma
-carabine; mais quand je les vis se rapprocher peu ï¿½ peu et m'assaillir
-de leurs traits empoisonnï¿½s, je songeai ï¿½ me rendre; car je rï¿½vais ï¿½
-la patrie, douce pensï¿½e qui me conseilla la prudence. Je dï¿½posai mes
+lointaines. La fuite était impossible. Me cacher eût été chose
+inutile, et m'eût attiré le mépris des Indiens. Me confiant donc dans
+ma bonne étoile, j'attendis de pied ferme, le dos appuyé à un arbre et
+la face à l'ennemi. Quelques minutes après, ils étaient à soixante pas
+de distance de moi. Alors commencèrent à tomber à mes côtés plusieurs
+flèches dont je fus garanti par les arbres qui me couvraient. Mon
+premier mouvement fut de me défendre à l'aide de mon revolver et de ma
+carabine; mais quand je les vis se rapprocher peu à peu et m'assaillir
+de leurs traits empoisonnés, je songeai à me rendre; car je rêvais à
+la patrie, douce pensée qui me conseilla la prudence. Je déposai mes
 armes au pied de l'arbre que j'avais choisi comme point d'appui, et
-me dirigeai vers eux. Ils me reï¿½urent les flï¿½ches sur la corde de
-l'arc, prï¿½ts ï¿½ recommencer une nouvelle dï¿½charge. Un fï¿½roce cri de
-guerre accueillit ma rï¿½solution, et je fus immï¿½diatement entourï¿½,
-couchï¿½ sur le sol et garrottï¿½ des pieds et des mains.
+me dirigeai vers eux. Ils me reçurent les flèches sur la corde de
+l'arc, prêts à recommencer une nouvelle décharge. Un féroce cri de
+guerre accueillit ma résolution, et je fus immédiatement entouré,
+couché sur le sol et garrotté des pieds et des mains.
 
-J'adressai successivement la parole ï¿½ celui qui me parut ï¿½tre le chef
-de la bande, mais il me rï¿½pondit en langue indienne quelques paroles
-que je ne pus comprendre. Aprï¿½s beaucoup de mots et non moins de
-gestes ï¿½changï¿½s entre eux, je crus comprendre qu'il ï¿½tait question de
-me porter ou de me dï¿½tacher les jambes; le chef penchait pour le
-premier moyen, mais la bande, peu disposï¿½e ï¿½ faire une telle corvï¿½e,
+J'adressai successivement la parole à celui qui me parut être le chef
+de la bande, mais il me répondit en langue indienne quelques paroles
+que je ne pus comprendre. Après beaucoup de mots et non moins de
+gestes échangés entre eux, je crus comprendre qu'il était question de
+me porter ou de me détacher les jambes; le chef penchait pour le
+premier moyen, mais la bande, peu disposée à faire une telle corvée,
 voulait le second, et elle l'emporta heureusement. Les liens de mes
-jambes furent donc dï¿½tachï¿½s, et je me mis en route ï¿½ travers la forï¿½t
-au pas gymnastique, entraï¿½nï¿½ par ces Indiens.
+jambes furent donc détachés, et je me mis en route à travers la forêt
+au pas gymnastique, entraîné par ces Indiens.
 
-Vers les deux heures, nous fï¿½mes arrï¿½tï¿½s dans notre course par une
-riviï¿½re qu'ils se disposï¿½rent ï¿½ traverser ï¿½ la nage; un des plus
-robustes de la bande fut dï¿½signï¿½ pour me porter sur son dos, oï¿½ je fus
-attachï¿½ avec des laniï¿½res de peau de buffle. J'avoue que ce ne fut pas
-sans crainte que je vis commencer cette opï¿½ration, d'autant plus
-qu'ayant toujours les mains liï¿½es, le danger devenait imminent, si mon
-Indien n'ï¿½tait pas habile nageur. Je fis tout ce que je pus pour faire
+Vers les deux heures, nous fûmes arrêtés dans notre course par une
+rivière qu'ils se disposèrent à traverser à la nage; un des plus
+robustes de la bande fut désigné pour me porter sur son dos, où je fus
+attaché avec des lanières de peau de buffle. J'avoue que ce ne fut pas
+sans crainte que je vis commencer cette opération, d'autant plus
+qu'ayant toujours les mains liées, le danger devenait imminent, si mon
+Indien n'était pas habile nageur. Je fis tout ce que je pus pour faire
 comprendre au chef que je savais nager, et que s'il voulait me faire
-dï¿½tacher, je pourrais aussi bien qu'eux traverser ï¿½ la nage; mais soit
-qu'il ne comprit pas mes signes, ou qu'il se dï¿½fiï¿½t de moi, tout fut
-disposï¿½ pour mon passage; mon sac, mes armes, tout le butin, pris avec
-moi, fut attachï¿½ en forme de ballot dans ma peau d'ours et lancï¿½ ï¿½
-l'eau en mï¿½me temps que nous. Je m'aperï¿½us bien vite que mon Indien
-ï¿½tait bon nageur, et nous arrivï¿½mes rapidement ï¿½ l'autre bord, oï¿½ nous
-attendï¿½mes au milieu d'une petite anse bordï¿½e de joncs et de plantes
-aquatiques. Comme il faisait trï¿½s-chaud, je fus bientï¿½t sec, car ils
-n'avaient pas pris la prï¿½caution de me retirer mes vï¿½tements de peau;
-nous suivï¿½mes encore le cours de la riviï¿½re environ une heure; puis
-nous rencontrï¿½mes un affluent dont nous suivï¿½mes le cours, et vingt
-minutes aprï¿½s nous trouvions, cachï¿½s dans les saules qui bordaient
-cette riviï¿½re, trois canots indiens construits en branches de saule et
-recouverts en ï¿½corce de bouleau d'un travail fort ingï¿½nieux; nous y
-ï¿½tant installï¿½s, nous remontï¿½mes la riviï¿½re ï¿½ coups de pagayes, et,
-aprï¿½s deux heures de voyage, je pus distinguer ï¿½ deux milles environ
+détacher, je pourrais aussi bien qu'eux traverser à la nage; mais soit
+qu'il ne comprit pas mes signes, ou qu'il se défiât de moi, tout fut
+disposé pour mon passage; mon sac, mes armes, tout le butin, pris avec
+moi, fut attaché en forme de ballot dans ma peau d'ours et lancé à
+l'eau en même temps que nous. Je m'aperçus bien vite que mon Indien
+était bon nageur, et nous arrivâmes rapidement à l'autre bord, où nous
+attendîmes au milieu d'une petite anse bordée de joncs et de plantes
+aquatiques. Comme il faisait très-chaud, je fus bientôt sec, car ils
+n'avaient pas pris la précaution de me retirer mes vêtements de peau;
+nous suivîmes encore le cours de la rivière environ une heure; puis
+nous rencontrâmes un affluent dont nous suivîmes le cours, et vingt
+minutes après nous trouvions, cachés dans les saules qui bordaient
+cette rivière, trois canots indiens construits en branches de saule et
+recouverts en écorce de bouleau d'un travail fort ingénieux; nous y
+étant installés, nous remontâmes la rivière à coups de pagayes, et,
+après deux heures de voyage, je pus distinguer à deux milles environ
 devant nous une immense prairie, couverte de ce que j'aurais pris pour
 un grand nombre de meules de foin, si je n'avais vu sortir du sommet
-de plusieurs d'entre elles un filet de fumï¿½e bleue qui m'indiquait
-assez que c'ï¿½taient les cases d'une tribu. Dï¿½s que nous atteignï¿½mes
-l'anse principale oï¿½ ï¿½taient attachï¿½s des pirogues et des canots avec
-des amarres en corde vï¿½gï¿½tale, nous fï¿½mes aperï¿½us des habitants, des
-cris de joie accueillirent notre arrivï¿½e, et plus d'un millier de
+de plusieurs d'entre elles un filet de fumée bleue qui m'indiquait
+assez que c'étaient les cases d'une tribu. Dès que nous atteignîmes
+l'anse principale où étaient attachés des pirogues et des canots avec
+des amarres en corde végétale, nous fûmes aperçus des habitants, des
+cris de joie accueillirent notre arrivée, et plus d'un millier de
 femmes, d'enfants et de vieillards accoururent sur le rivage. Les plus
-impatients de me voir se jetï¿½rent ï¿½ l'eau avec des contorsions des
-plus grotesques, et entourï¿½rent notre canot par-dessous lequel les
+impatients de me voir se jetèrent à l'eau avec des contorsions des
+plus grotesques, et entourèrent notre canot par-dessous lequel les
 enfants plongeaient comme de jeunes marsouins.
 
-Je fus saisi et portï¿½ ï¿½ terre au milieu d'une foule considï¿½rable. Nous
-entrï¿½mes dans une large rue, formï¿½e par deux rangs de huttes; le grand
-chef arriva bientï¿½t, et je compris vite qu'il donnait des ordres pour
-ï¿½loigner la foule, devenue tellement compacte que je me sentais
-ï¿½touffï¿½ comme dans une ceinture vivante. Le chemin que nous
-parcourions montait, et je dï¿½couvris la hutte du chef, qui ï¿½tait
+Je fus saisi et porté à terre au milieu d'une foule considérable. Nous
+entrâmes dans une large rue, formée par deux rangs de huttes; le grand
+chef arriva bientôt, et je compris vite qu'il donnait des ordres pour
+éloigner la foule, devenue tellement compacte que je me sentais
+étouffé comme dans une ceinture vivante. Le chemin que nous
+parcourions montait, et je découvris la hutte du chef, qui était
 beaucoup plus haute et plus vaste que les autres; sur son sommet une
-foule d'Indiens des deux sexes ï¿½taient montï¿½s pour mieux jouir du coup
-d'oeil. Cependant, au lieu d'y aller directement, mon escorte prit ï¿½
-droite au travers d'un dï¿½dale de huttes, et s'arrï¿½ta devant l'une
-d'elles, oï¿½ on me fit entrer, suivi seulement du grand chef et de
-trois Indiens, chefs infï¿½rieurs; la fumï¿½e ï¿½paisse qui remplissait la
-hutte m'empï¿½cha d'abord de distinguer les objets qui s'y trouvaient,
-mais ayant ï¿½tï¿½ conduit au fond, je trouvai, couchï¿½ sur une natte,
-l'Indien que j'avais blessï¿½ l'avant-veille d'un coup de feu. Sa squaw
-ï¿½tait prï¿½s de lui avec tous ses parents. Le chef me demanda en
+foule d'Indiens des deux sexes étaient montés pour mieux jouir du coup
+d'oeil. Cependant, au lieu d'y aller directement, mon escorte prit à
+droite au travers d'un dédale de huttes, et s'arrêta devant l'une
+d'elles, où on me fit entrer, suivi seulement du grand chef et de
+trois Indiens, chefs inférieurs; la fumée épaisse qui remplissait la
+hutte m'empêcha d'abord de distinguer les objets qui s'y trouvaient,
+mais ayant été conduit au fond, je trouvai, couché sur une natte,
+l'Indien que j'avais blessé l'avant-veille d'un coup de feu. Sa squaw
+était près de lui avec tous ses parents. Le chef me demanda en
 espagnol si je connaissais cet Indien, je fis signe que oui; ayant
-levï¿½ une peau de buffle qui le couvrait, il me montra du doigt la
-blessure produite par ma balle. On y avait appliquï¿½ une espï¿½ce
-d'emplï¿½tre de feuilles ï¿½crasï¿½es. Interrogï¿½ sur l'origine de cette
-blessure, je ne crus pas devoir dissimuler que j'en ï¿½tais l'auteur.
+levé une peau de buffle qui le couvrait, il me montra du doigt la
+blessure produite par ma balle. On y avait appliqué une espèce
+d'emplâtre de feuilles écrasées. Interrogé sur l'origine de cette
+blessure, je ne crus pas devoir dissimuler que j'en étais l'auteur.
 
-Mon crime ï¿½tant avï¿½rï¿½, je fus conduit ï¿½ la hutte du conseil,
-accompagnï¿½ d'une foule considï¿½rable; plus vaste que les autres cases
-de la tribu, elle ne diffï¿½rait en rien des autres par sa construction
-qui ï¿½tait de branches de chï¿½ne piquï¿½es en terre et enduites de terre
-glaise. Les Indiens de cette tribu ï¿½taient d'une grande taille, bien
+Mon crime étant avéré, je fus conduit à la hutte du conseil,
+accompagné d'une foule considérable; plus vaste que les autres cases
+de la tribu, elle ne différait en rien des autres par sa construction
+qui était de branches de chêne piquées en terre et enduites de terre
+glaise. Les Indiens de cette tribu étaient d'une grande taille, bien
 faits et vigoureux, avec des nez aquilins et des mentons
-trï¿½s-saillants; les femmes y possï¿½daient, en gï¿½nï¿½ral, le genre de
-beautï¿½ qu'on retrouve dans toutes les tribus indiennes; les vieilles
-femmes seules ï¿½taient assujetties aux travaux les plus durs, et comme
+très-saillants; les femmes y possédaient, en général, le genre de
+beauté qu'on retrouve dans toutes les tribus indiennes; les vieilles
+femmes seules étaient assujetties aux travaux les plus durs, et comme
 dans la plus grande partie des autres tribus, les jeunes jouissaient
-de la considï¿½ration galante de chacun. D'aprï¿½s ma carte, ce village,
-appartenant ï¿½ la grande tribu des Timpabaches, subdivision des
-Pah-Utahs, ï¿½tait situï¿½ sur les bords du San-Juan, riviï¿½re tributaire
-du Rio-Grande, branche mï¿½re du Colorado de l'Ouest.
+de la considération galante de chacun. D'après ma carte, ce village,
+appartenant à la grande tribu des Timpabaches, subdivision des
+Pah-Utahs, était situé sur les bords du San-Juan, rivière tributaire
+du Rio-Grande, branche mère du Colorado de l'Ouest.
 
-Entrï¿½ dans la case du chef, j'y trouvai rassemblï¿½s les quatre
+Entré dans la case du chef, j'y trouvai rassemblés les quatre
 principaux chefs qui, assis au fond de la hutte, m'y attendaient; ils
-ï¿½taient fraï¿½chement tatouï¿½s, ï¿½ en juger par l'ï¿½clat des couleurs qui
+étaient fraîchement tatoués, à en juger par l'éclat des couleurs qui
 resplendissaient sur leurs traits farouches. Chacun d'eux avait son
-tomahawk posï¿½ ï¿½ cï¿½tï¿½ de lui, et portait des plumes d'aigle dans la
-chevelure; leur cou et leurs poignets ï¿½taient ornï¿½s de dents humaines
+tomahawk posé à côté de lui, et portait des plumes d'aigle dans la
+chevelure; leur cou et leurs poignets étaient ornés de dents humaines
 et de griffes d'ours; autour de leurs reins pendaient des queues de
-loup et de renard; des trophï¿½es de guerre ornaient l'intï¿½rieur de la
-hutte du conseil. C'ï¿½taient des crï¿½nes humains avec leur chevelure,
-des armes de toute espï¿½ce prises dans les combats, des peaux d'ours et
-de tigre, et une chose qui me frappa singuliï¿½rement, ce fut de
-retrouver parmi ces dï¿½pouilles, celle d'un monstrueux serpent que
-j'avais tuï¿½ quelque temps avant de pï¿½nï¿½trer dans la Sierra-Wah: je ne
-me trompais pas, c'ï¿½tait bien son affreuse tï¿½te percï¿½e de mes deux
+loup et de renard; des trophées de guerre ornaient l'intérieur de la
+hutte du conseil. C'étaient des crânes humains avec leur chevelure,
+des armes de toute espèce prises dans les combats, des peaux d'ours et
+de tigre, et une chose qui me frappa singulièrement, ce fut de
+retrouver parmi ces dépouilles, celle d'un monstrueux serpent que
+j'avais tué quelque temps avant de pénétrer dans la Sierra-Wah: je ne
+me trompais pas, c'était bien son affreuse tête percée de mes deux
 coups de feu.
 
-Au centre brï¿½lait un brasier homï¿½rique, dont la fumï¿½e sortait par
-l'ouverture pratiquï¿½e, comme toujours, au sommet de la hutte.
+Au centre brûlait un brasier homérique, dont la fumée sortait par
+l'ouverture pratiquée, comme toujours, au sommet de la hutte.
 
-Deux Indiens armï¿½s de leur tomahawk, gardaient la porte du conseil, et
-comme les cris de la foule curieuse semblaient gï¿½ner les chefs, ils
-donnï¿½rent ordre qu'une peau d'ours fï¿½t jetï¿½e en guise de portiï¿½re sur
-l'ouverture. D'abord ils commencï¿½rent par la cï¿½rï¿½monie du calumet, le
-chef le plus ï¿½gï¿½ ayant dï¿½crit un cercle sur la terre et l'ayant
-entourï¿½ de signes cabalistiques, y fit apporter un charbon ardent
+Deux Indiens armés de leur tomahawk, gardaient la porte du conseil, et
+comme les cris de la foule curieuse semblaient gêner les chefs, ils
+donnèrent ordre qu'une peau d'ours fût jetée en guise de portière sur
+l'ouverture. D'abord ils commencèrent par la cérémonie du calumet, le
+chef le plus âgé ayant décrit un cercle sur la terre et l'ayant
+entouré de signes cabalistiques, y fit apporter un charbon ardent
 auquel il alluma le calumet national qu'il offrit au grand manitou, au
-soleil, ï¿½ la terre et aux quatre points cardinaux; les autres chefs le
-regardaient faire d'un air fort sï¿½rieux. Ensuite le calumet leur fut
-remis ï¿½ tour de rï¿½le; nul d'entre eux ne s'en servit de la mï¿½me
-maniï¿½re, car chacun d'eux s'ï¿½tait engagï¿½ par serment devant le manitou
-de fumer d'une faï¿½on unique pendant le cours de son existence. ï¿½ mon
-grand regret le calumet ne me fut point offert; mais ï¿½ sa place on me
-montra un tomahawk teint du sang ennemi, qui ï¿½tait, je crois, l'arme
-du bourreau. Un guerrier le leva avec ostentation sur ma tï¿½te;
-heureusement il sut s'arrï¿½ter dans son mouvement; car j'avais les bras
-toujours attachï¿½s derriï¿½re le dos, et ma tï¿½te eï¿½t volï¿½ en morceaux,
-s'il l'avait laissï¿½ retomber sur elle.
+soleil, à la terre et aux quatre points cardinaux; les autres chefs le
+regardaient faire d'un air fort sérieux. Ensuite le calumet leur fut
+remis à tour de rôle; nul d'entre eux ne s'en servit de la même
+manière, car chacun d'eux s'était engagé par serment devant le manitou
+de fumer d'une façon unique pendant le cours de son existence. À mon
+grand regret le calumet ne me fut point offert; mais à sa place on me
+montra un tomahawk teint du sang ennemi, qui était, je crois, l'arme
+du bourreau. Un guerrier le leva avec ostentation sur ma tête;
+heureusement il sut s'arrêter dans son mouvement; car j'avais les bras
+toujours attachés derrière le dos, et ma tête eût volé en morceaux,
+s'il l'avait laissé retomber sur elle.
 
-[Illustration: La case du jugement.--Dessin de J. Pelcoq d'aprï¿½s un
+[Illustration: La case du jugement.--Dessin de J. Pelcoq d'après un
 croquis.]
 
-Cette cï¿½rï¿½monie achevï¿½e, on alla replacer le tomahawk de guerre
-au-dessus d'une affreuse peinture tracï¿½e sur une ï¿½corce de bouleau
-fixï¿½e aux parois de la hutte. Cette peinture reprï¿½sentait
-grossiï¿½rement le soleil, astre dans lequel les Timpabaches croient que
-le grand esprit rï¿½side.
+Cette cérémonie achevée, on alla replacer le tomahawk de guerre
+au-dessus d'une affreuse peinture tracée sur une écorce de bouleau
+fixée aux parois de la hutte. Cette peinture représentait
+grossièrement le soleil, astre dans lequel les Timpabaches croient que
+le grand esprit réside.
 
-La squaw de l'Indien blessï¿½ par moi fut ensuite introduite, et celui
-des chefs qui avait ouvert la sï¿½ance l'interrogea sur ce qu'elle
-savait au sujet du fait qui m'ï¿½tait reprochï¿½; je vis bien d'abord que
+La squaw de l'Indien blessé par moi fut ensuite introduite, et celui
+des chefs qui avait ouvert la séance l'interrogea sur ce qu'elle
+savait au sujet du fait qui m'était reproché; je vis bien d'abord que
 la pauvre squaw me plaignait au lieu de me charger; je lus dans ses
 yeux et dans ses gestes qu'elle plaidait ma cause autant que sa
-position d'ï¿½pouse du blessï¿½ le lui permettait.
+position d'épouse du blessé le lui permettait.
 
-Je compris aussi qu'elle racontait la scï¿½ne du combat contre l'ours,
-et comment je les avais sauvï¿½s tous d'un pï¿½ril certain. ï¿½ la
-dï¿½position de la squaw, une teinte de bienveillance ï¿½claira le visage
-des membres du conseil, et aprï¿½s un dï¿½bat assez animï¿½, le grand chef
+Je compris aussi qu'elle racontait la scène du combat contre l'ours,
+et comment je les avais sauvés tous d'un péril certain. À la
+déposition de la squaw, une teinte de bienveillance éclaira le visage
+des membres du conseil, et après un débat assez animé, le grand chef
 m'adressa en espagnol les questions suivantes:
 
-ï¿½Pourquoi le visage pï¿½le est-il venu dans ces rï¿½gions dï¿½clarer la
-guerre aux Timpabaches? Qu'il rï¿½ponde. Le grand chef de cette nation
+«Pourquoi le visage pâle est-il venu dans ces régions déclarer la
+guerre aux Timpabaches? Qu'il réponde. Le grand chef de cette nation
 attend qu'il se justifie s'il le peut.
 
 [Illustration: Le poteau de la guerre.--Dessin de J. Pelcoq.]
 
---Le visage pï¿½le, rï¿½pondis-je, n'a point dï¿½clarï¿½ la guerre; il a, au
-contraire, ï¿½tï¿½ attaquï¿½, et il s'est dï¿½fendu.
+--Le visage pâle, répondis-je, n'a point déclaré la guerre; il a, au
+contraire, été attaqué, et il s'est défendu.
 
 --Alors, ajouta-t-il, qu'il montre la blessure que lui a faite son
 agresseur.
 
---Je n'ai pas reï¿½u de blessure, mais j'ai dï¿½ en faire une pour sauver
+--Je n'ai pas reçu de blessure, mais j'ai dû en faire une pour sauver
 ma vie.
 
---Le visage pï¿½le n'avait pas ce droit; aprï¿½s avoir ï¿½tï¿½ brave devant
-l'ours gris, il devait ï¿½tre clï¿½ment et fuir devant les flï¿½ches du
-Timpabache qui ne l'eussent pas atteint. Il a versï¿½ le sang, son sang
-doit ï¿½tre versï¿½. Le grand chef le Serpent ï¿½ cornes et son conseil
-pensent que le visage pï¿½le a mï¿½ritï¿½ la mort.ï¿½
+--Le visage pâle n'avait pas ce droit; après avoir été brave devant
+l'ours gris, il devait être clément et fuir devant les flèches du
+Timpabache qui ne l'eussent pas atteint. Il a versé le sang, son sang
+doit être versé. Le grand chef le Serpent à cornes et son conseil
+pensent que le visage pâle a mérité la mort.»
 
-ï¿½ ces mots l'Indienne prononï¿½a quelques paroles que je ne compris pas,
-et, soulevant la peau d'ours qui formait la portiï¿½re de la hutte du
-conseil, elle s'ï¿½loigna. Aprï¿½s son dï¿½part, un nouveau conciliabule
-s'ï¿½leva dans le conseil des chefs; je crus un moment que les avis
-ï¿½taient partagï¿½s sur mon sort; mais bientï¿½t, tranchant dï¿½finitivement
+À ces mots l'Indienne prononça quelques paroles que je ne compris pas,
+et, soulevant la peau d'ours qui formait la portière de la hutte du
+conseil, elle s'éloigna. Après son départ, un nouveau conciliabule
+s'éleva dans le conseil des chefs; je crus un moment que les avis
+étaient partagés sur mon sort; mais bientôt, tranchant définitivement
 la question, le premier chef se fit apporter de nouveau le tomahawk de
-guerre, me le posa sur la tï¿½te en prononï¿½ant quelques paroles en
-langue indienne, les yeux fixï¿½s sur l'image du soleil dont j'ai dï¿½jï¿½
-parlï¿½ plus haut. Je compris que mon arrï¿½t de mort venait d'ï¿½tre
-prononcï¿½.
+guerre, me le posa sur la tête en prononçant quelques paroles en
+langue indienne, les yeux fixés sur l'image du soleil dont j'ai déjà
+parlé plus haut. Je compris que mon arrêt de mort venait d'être
+prononcé.
 
-Je songeai ï¿½ la patrie et aux ï¿½tres chers auxquels il faudrait dire un
-ï¿½ternel adieu.
+Je songeai à la patrie et aux êtres chers auxquels il faudrait dire un
+éternel adieu.
 
-Au fond de la hutte existait le tronc d'un chï¿½ne auquel je fus attachï¿½
-par le cou au moyen d'une forte corde de cuir, fixï¿½e elle-mï¿½me ï¿½ un
-anneau d'or massif, dont le poli intï¿½rieur faisait supposer qu'il
-avait servi ï¿½ plus d'une victime. On apporta une botte de joncs secs
-sur lesquels plusieurs Indiens se couchï¿½rent en fumant et en
-fredonnant une complainte de mort qui finit par m'endormir, accablï¿½
-que j'ï¿½tais par la fatigue, l'ï¿½motion et la faim, car il m'avait ï¿½tï¿½
+Au fond de la hutte existait le tronc d'un chêne auquel je fus attaché
+par le cou au moyen d'une forte corde de cuir, fixée elle-même à un
+anneau d'or massif, dont le poli intérieur faisait supposer qu'il
+avait servi à plus d'une victime. On apporta une botte de joncs secs
+sur lesquels plusieurs Indiens se couchèrent en fumant et en
+fredonnant une complainte de mort qui finit par m'endormir, accablé
+que j'étais par la fatigue, l'émotion et la faim, car il m'avait été
 impossible de la rassasier avec un morceau de galette de gland doux
 cuite sous les cendres que mes gardiens m'avaient offert lors de leur
 repas du soir.
 
-.... Deux jours et deux nuits se succï¿½dï¿½rent sans apporter de grands
-changements ï¿½ ma situation.
+.... Deux jours et deux nuits se succédèrent sans apporter de grands
+changements à ma situation.
 
-Dans la matinï¿½e du troisiï¿½me jour, mon attention fut attirï¿½e par un
-tumulte inaccoutumï¿½ de voix, d'allï¿½es et venues dans le camp. Pendant
-la nuit, j'avais ï¿½tï¿½ constamment tenu ï¿½veillï¿½ par un pressentiment
-sinistre; bientï¿½t les quatre chefs se prï¿½sentï¿½rent majestueusement
-ï¿½quipï¿½s, suivis par une centaine de guerriers, la chevelure ornï¿½e de
-plumes d'aigle; les uns ï¿½taient armï¿½s d'arcs et de boucliers de bois
+Dans la matinée du troisième jour, mon attention fut attirée par un
+tumulte inaccoutumé de voix, d'allées et venues dans le camp. Pendant
+la nuit, j'avais été constamment tenu éveillé par un pressentiment
+sinistre; bientôt les quatre chefs se présentèrent majestueusement
+équipés, suivis par une centaine de guerriers, la chevelure ornée de
+plumes d'aigle; les uns étaient armés d'arcs et de boucliers de bois
 dur recouvert de peau d'ours gris peinte de diverses couleurs, et
-d'autres de fusils ï¿½ silex. On remit au grand chef le tomahawk de
-guerre dont j'ai dï¿½jï¿½ parlï¿½, et il ouvrit la marche funï¿½bre. On me
-dï¿½lia les jambes, et je fus conduit la corde au cou hors de la hutte;
-je compris que l'heure de ma mort ï¿½tait venue.
+d'autres de fusils à silex. On remit au grand chef le tomahawk de
+guerre dont j'ai déjà parlé, et il ouvrit la marche funèbre. On me
+délia les jambes, et je fus conduit la corde au cou hors de la hutte;
+je compris que l'heure de ma mort était venue.
 
-En vrai soldat, je me rï¿½signai et marchai avec toute la fiertï¿½ et
-l'assurance que mon ï¿½me put obtenir de ma chair ï¿½mue. Arrivï¿½s hors de
-la hutte, les Indiens de mon escorte montï¿½rent sur des chevaux
-magnifiquement caparaï¿½onnï¿½s de peaux d'ours, de tigres et de bisons;
-tous avaient appendu aux mors de leur bride des chevelures ï¿½ plusieurs
-desquelles adhï¿½rait encore la peau de la tï¿½te ou mï¿½me le crï¿½ne.
+En vrai soldat, je me résignai et marchai avec toute la fierté et
+l'assurance que mon âme put obtenir de ma chair émue. Arrivés hors de
+la hutte, les Indiens de mon escorte montèrent sur des chevaux
+magnifiquement caparaçonnés de peaux d'ours, de tigres et de bisons;
+tous avaient appendu aux mors de leur bride des chevelures à plusieurs
+desquelles adhérait encore la peau de la tête ou même le crâne.
 
-L'immense prairie qui entourait les wigwams des Timpabaches ï¿½tait
-couverte d'Indiens. J'eus bientï¿½t dï¿½couvert, ï¿½ la diversitï¿½ de leurs
-accoutrements et ï¿½ leur nombre, qu'il y avait lï¿½ plusieurs tribus
-rï¿½unies; je fus conduit au centre de cette savane par mon escorte de
-guerriers, qui tous, armï¿½s de leurs tomahawks, avaient beaucoup de
-peine ï¿½ ï¿½loigner la masse populaire que la curiositï¿½ jetait sur mon
+L'immense prairie qui entourait les wigwams des Timpabaches était
+couverte d'Indiens. J'eus bientôt découvert, à la diversité de leurs
+accoutrements et à leur nombre, qu'il y avait là plusieurs tribus
+réunies; je fus conduit au centre de cette savane par mon escorte de
+guerriers, qui tous, armés de leurs tomahawks, avaient beaucoup de
+peine à éloigner la masse populaire que la curiosité jetait sur mon
 passage.
 
-Au milieu de la prairie s'ï¿½levait une espï¿½ce de monticule de gazon,
-surmontï¿½ par le tronc d'un jeune chï¿½ne fourchu; c'ï¿½tait le poteau de
-la guerre; j'y fus immï¿½diatement attachï¿½ par les mains et les pieds.
+Au milieu de la prairie s'élevait une espèce de monticule de gazon,
+surmonté par le tronc d'un jeune chêne fourchu; c'était le poteau de
+la guerre; j'y fus immédiatement attaché par les mains et les pieds.
 
-J'ï¿½tais dans cette position depuis quelque temps, quand le grand chef
-s'avanï¿½a vers moi, accompagnï¿½ d'un personnage qui, bien qu'affublï¿½ ï¿½
-la maniï¿½re indienne, avait cependant le type europï¿½en. C'ï¿½tait un
-homme de soixante-cinq ans environ, ï¿½ la taille haute et au torse
-robuste. Il portait une barbe rousse trï¿½s-longue, contre l'habitude
-des Indiens qui se l'arrachent; ses vï¿½tements en peau de panthï¿½re non
-tannï¿½e ajoutaient encore ï¿½ sa physionomie sauvage; il portait un rifle
-en bandouliï¿½re, une hache et un revolver dans la ceinture.
+J'étais dans cette position depuis quelque temps, quand le grand chef
+s'avança vers moi, accompagné d'un personnage qui, bien qu'affublé à
+la manière indienne, avait cependant le type européen. C'était un
+homme de soixante-cinq ans environ, à la taille haute et au torse
+robuste. Il portait une barbe rousse très-longue, contre l'habitude
+des Indiens qui se l'arrachent; ses vêtements en peau de panthère non
+tannée ajoutaient encore à sa physionomie sauvage; il portait un rifle
+en bandoulière, une hache et un revolver dans la ceinture.
 
-ï¿½Le grand chef des Timpabaches ici prï¿½sent, me dit-il en bon anglais,
-me charge de vous dire qu'il vous a condamnï¿½ ï¿½ mort; sa sagesse lui a
-conseillï¿½ cette rï¿½solution pour plusieurs motifs: le premier et le
-plus concluant est votre qualitï¿½ d'Amï¿½ricain; le second est la
-blessure mortelle faite par vous sur le territoire des Timpabaches ï¿½
-un Indien de sa tribu. En considï¿½ration, cependant, du bien qu'il a
-entendu raconter de vous, il veut bien vous faire grï¿½ce des supplices
-qui sont dus ï¿½ de tels actes, chï¿½timents cruels que je n'approuve pas
+«Le grand chef des Timpabaches ici présent, me dit-il en bon anglais,
+me charge de vous dire qu'il vous a condamné à mort; sa sagesse lui a
+conseillé cette résolution pour plusieurs motifs: le premier et le
+plus concluant est votre qualité d'Américain; le second est la
+blessure mortelle faite par vous sur le territoire des Timpabaches à
+un Indien de sa tribu. En considération, cependant, du bien qu'il a
+entendu raconter de vous, il veut bien vous faire grâce des supplices
+qui sont dus à de tels actes, châtiments cruels que je n'approuve pas
 et auxquels, moi, Indien de coeur et Anglais de nation, je me serais
-opposï¿½ probablement.
+opposé probablement.
 
 --Je vous remercie, lui dis-je, de ce sentiment qui vous honore, mais
-dites bien au grand chef qu'il se trompe quant ï¿½ ma nationalitï¿½: je ne
-suis point Amï¿½ricain; et, si j'ai blessï¿½ un de ces Indiens, ce n'a ï¿½tï¿½
-qu'ï¿½ mon corps dï¿½fendant, et poussï¿½ ï¿½ bout par son ingratitude envers
-moi qui l'avais sauvï¿½ lui et sa famille de la dent et des griffes de
+dites bien au grand chef qu'il se trompe quant à ma nationalité: je ne
+suis point Américain; et, si j'ai blessé un de ces Indiens, ce n'a été
+qu'à mon corps défendant, et poussé à bout par son ingratitude envers
+moi qui l'avais sauvé lui et sa famille de la dent et des griffes de
 l'ours gris. Du reste, n'est-il pas dans la nature de l'homme de
-dï¿½fendre son existence quand elle est menacï¿½e?ï¿½
+défendre son existence quand elle est menacée?»
 
-Sans me rï¿½pondre directement, mon ï¿½trange interlocuteur reprit:
+Sans me répondre directement, mon étrange interlocuteur reprit:
 
-ï¿½Sir, votre position m'attriste beaucoup, n'avez-vous donc pas une
-famille ï¿½ regretter, une femme, une mï¿½re, une soeur, qui pleureront
+«Sir, votre position m'attriste beaucoup, n'avez-vous donc pas une
+famille à regretter, une femme, une mère, une soeur, qui pleureront
 votre mort?
 
---Oui, rï¿½pondis-je, et tous ï¿½prouveront une douleur profonde quand ils
-ne me verront pas revenir au foyer de mes pï¿½res; mais au moins
-ignoreront-ils oï¿½ et comment j'aurai perdu l'existence; ï¿½ part cela,
-la mort ne m'effraye pas, le malheur m'a appris ï¿½ la mï¿½priser. Quand
-je me dï¿½cidai ï¿½ faire cette excursion au delï¿½ des montagnes Rocheuses,
-j'ï¿½tais dï¿½terminï¿½ au sacrifice de ma vie: la mort n'est pour moi
-qu'un accident vulgaire et prï¿½vu. Du reste, je suis soldat, et ï¿½ ce
-titre je saurai montrer ï¿½ ces barbares qu'un Franï¿½ais peut savoir
-mourir aussi bravement qu'un guerrier indien.ï¿½
+--Oui, répondis-je, et tous éprouveront une douleur profonde quand ils
+ne me verront pas revenir au foyer de mes pères; mais au moins
+ignoreront-ils où et comment j'aurai perdu l'existence; à part cela,
+la mort ne m'effraye pas, le malheur m'a appris à la mépriser. Quand
+je me décidai à faire cette excursion au delà des montagnes Rocheuses,
+j'étais déterminé au sacrifice de ma vie: la mort n'est pour moi
+qu'un accident vulgaire et prévu. Du reste, je suis soldat, et à ce
+titre je saurai montrer à ces barbares qu'un Français peut savoir
+mourir aussi bravement qu'un guerrier indien.»
 
-ï¿½ ces mots, je vis l'ï¿½motion gagner la prunelle de ce chasseur
-d'hommes, qui paraissait si fï¿½roce ï¿½ premiï¿½re vue.
+À ces mots, je vis l'émotion gagner la prunelle de ce chasseur
+d'hommes, qui paraissait si féroce à première vue.
 
-ï¿½J'ai tout essayï¿½, dit-il, pour obtenir voire grï¿½ce de ces Indiens,
+«J'ai tout essayé, dit-il, pour obtenir voire grâce de ces Indiens,
 mais il y a contre vous, dans le conseil des chefs, un parti puissant.
-L'Indien que vous avez blessï¿½ ï¿½tait le beau-frï¿½re d'un des guerriers
+L'Indien que vous avez blessé était le beau-frère d'un des guerriers
 les plus influents de la tribu.
 
---Je vous en remercie encore, lui rï¿½pliquai-je; mais permettez-moi de
+--Je vous en remercie encore, lui répliquai-je; mais permettez-moi de
 vous demander un seul et dernier service avant de mourir, celui de
-tï¿½cher de faire abrï¿½ger mon supplice et de vous charger de faire
-remettre un mï¿½daillon que j'ai lï¿½ sur mon coeur ï¿½ une de vos
-compatriotes que j'ai laissï¿½e en France, lors de mon dï¿½part pour
-l'Amï¿½rique. Je ne veux pas que cette image, qui me rappelle les traits
-de la plus chï¿½re des femmes, soit profanï¿½e aprï¿½s ma mort par ces
-barbares. Vous irez sans doute un jour ï¿½ Sacramento, ou mï¿½me ï¿½
-San-Francisco; lï¿½ vous pourrez trouver, en le cherchant, un Franï¿½ais
-digne de recevoir mon dï¿½pï¿½t sacrï¿½, avec recommandation d'annoncer ï¿½
+tâcher de faire abréger mon supplice et de vous charger de faire
+remettre un médaillon que j'ai là sur mon coeur à une de vos
+compatriotes que j'ai laissée en France, lors de mon départ pour
+l'Amérique. Je ne veux pas que cette image, qui me rappelle les traits
+de la plus chère des femmes, soit profanée après ma mort par ces
+barbares. Vous irez sans doute un jour à Sacramento, ou même à
+San-Francisco; là vous pourrez trouver, en le cherchant, un Français
+digne de recevoir mon dépôt sacré, avec recommandation d'annoncer à
 cette femme que je suis mort dans les placers.
 
---Cette mission, pour moi, est sacrï¿½e, me rï¿½pondit-il, je ferai exprï¿½s
+--Cette mission, pour moi, est sacrée, me répondit-il, je ferai exprès
 le voyage pour accomplir votre dernier voeu, et je promets sur mon
 honneur de gentleman anglais et de chef indien de m'acquitter
 religieusement de cette sainte mission.
 
---Alors, ï¿½cartez ma vareuse, et vous trouverez ce mï¿½daillon.ï¿½
+--Alors, écartez ma vareuse, et vous trouverez ce médaillon.»
 
-M'ayant demandï¿½ la permission de l'ouvrir, il y attacha son regard
+M'ayant demandé la permission de l'ouvrir, il y attacha son regard
 humide de larmes, et me dit:
 
-ï¿½Je vous trouve bien malheureux de quitter pour toujours cette
-crï¿½ature dont le regard attristï¿½ semble prï¿½sager d'avance les dangers
-qui vous attendaient dans votre pï¿½rilleux voyage.ï¿½
+«Je vous trouve bien malheureux de quitter pour toujours cette
+créature dont le regard attristé semble présager d'avance les dangers
+qui vous attendaient dans votre périlleux voyage.»
 
-Quelques larmes roulant sur la fourrure de mon vï¿½tement furent ma
-seule rï¿½ponse. Dans l'intï¿½rieur de la boï¿½te de mï¿½tal oï¿½ je gardais
-cette chï¿½re relique, j'avais ï¿½crit son nom; aprï¿½s l'avoir lu,
-l'ï¿½tranger me demanda avec vivacitï¿½ si ce nom ï¿½tait aussi le mien, et
-si je n'ï¿½tais pas d'origine anglaise.
+Quelques larmes roulant sur la fourrure de mon vêtement furent ma
+seule réponse. Dans l'intérieur de la boîte de métal où je gardais
+cette chère relique, j'avais écrit son nom; après l'avoir lu,
+l'étranger me demanda avec vivacité si ce nom était aussi le mien, et
+si je n'étais pas d'origine anglaise.
 
---Oui, et certes j'en suis fier, lui rï¿½pondis-je; mes aï¿½eux ayant
-suivi la fortune des Stuart, abandonnï¿½rent fortune et patrie pour
-accompagner en France leur roi exilï¿½.ï¿½
+--Oui, et certes j'en suis fier, lui répondis-je; mes aïeux ayant
+suivi la fortune des Stuart, abandonnèrent fortune et patrie pour
+accompagner en France leur roi exilé.»
 
 Il ne me laissa pas achever:
 
-ï¿½Mais alors, s'ï¿½cria-t-il, vous descendez de ce Wogan, dont la valeur
-a ï¿½tï¿½ cï¿½lï¿½brï¿½e par l'auteur de _Waverley_[5]; et, s'il en est ainsi,
+«Mais alors, s'écria-t-il, vous descendez de ce Wogan, dont la valeur
+a été célébrée par l'auteur de _Waverley_[5]; et, s'il en est ainsi,
 moi, descendant de Lennox duc de Richmond, je ne puis voir couler
-devant mes yeux le sang d'un homme dont les ancï¿½tres ont prodiguï¿½ le
-leur pour la cause de mes aï¿½eux. Comptez donc sur Lennox, ï¿½ la vie et
-ï¿½ la mort!ï¿½
+devant mes yeux le sang d'un homme dont les ancêtres ont prodigué le
+leur pour la cause de mes aïeux. Comptez donc sur Lennox, à la vie et
+à la mort!»
 
-                   [Note 5: ï¿½Le capitaine Wogan, dont le caractï¿½re
-                   entreprenant est si bien dï¿½peint dans l'histoire de
-                   la rï¿½bellion par Clarendon, avait d'abord ï¿½tï¿½
-                   attachï¿½ au parlement, mais il avait abjurï¿½ ce parti
-                   lors de l'exï¿½cution de Charles 1er. Dï¿½s qu'il eut
-                   appris que le comte de Glencairn et le gï¿½nï¿½ral
-                   Middleton avaient arborï¿½ l'ï¿½tendard royal dans les
-                   highlands d'ï¿½cosse, il prit congï¿½ de Charles II
-                   qu'il avait accompagnï¿½ ï¿½ Paris. Il revint en
-                   Angleterre, leva un corps de cavalerie ï¿½ ses frais
+                   [Note 5: «Le capitaine Wogan, dont le caractère
+                   entreprenant est si bien dépeint dans l'histoire de
+                   la rébellion par Clarendon, avait d'abord été
+                   attaché au parlement, mais il avait abjuré ce parti
+                   lors de l'exécution de Charles 1er. Dès qu'il eut
+                   appris que le comte de Glencairn et le général
+                   Middleton avaient arboré l'étendard royal dans les
+                   highlands d'Écosse, il prit congé de Charles II
+                   qu'il avait accompagné à Paris. Il revint en
+                   Angleterre, leva un corps de cavalerie à ses frais
                    dans les environs de Londres, traversa le royaume
-                   qui, depuis si longtemps, ï¿½tait sous la domination
-                   de l'usurpateur, et par des dï¿½marches habiles, il
-                   parvint ï¿½ joindre, sans avoir perdu un seul homme,
+                   qui, depuis si longtemps, était sous la domination
+                   de l'usurpateur, et par des démarches habiles, il
+                   parvint à joindre, sans avoir perdu un seul homme,
                    un corps de highlanders alors sous le drapeau des
-                   Stuart. Aprï¿½s avoir fait la guerre pendant
+                   Stuart. Après avoir fait la guerre pendant
                    plusieurs mois et acquis, par ses talents et son
-                   courage, une grande rï¿½putation, il eut le malheur
-                   d'ï¿½tre blessï¿½ dangereusement, et aucun secours de
+                   courage, une grande réputation, il eut le malheur
+                   d'être blessé dangereusement, et aucun secours de
                    l'art ne fut capable de prolonger sa glorieuse
-                   carriï¿½re.ï¿½
+                   carrière.»
 
                                    _Waverley_, chap. XXVIII.]
 
-ï¿½ ces mots, l'homme dont je venais si ï¿½trangement d'apprendre le nom,
-s'ï¿½loigna, suivi des principaux guerriers de sa tribu. J'attendis
-peut-ï¿½tre un quart d'heure, l'ï¿½me et la pensï¿½e tournï¿½es vers ma
-patrie, quand je fus tirï¿½ de mes rï¿½flexions par une rumeur subite qui
+À ces mots, l'homme dont je venais si étrangement d'apprendre le nom,
+s'éloigna, suivi des principaux guerriers de sa tribu. J'attendis
+peut-être un quart d'heure, l'âme et la pensée tournées vers ma
+patrie, quand je fus tiré de mes réflexions par une rumeur subite qui
 se fit entendre dans le camp et se communiqua aux guerriers qui
-entouraient le poteau de mort oï¿½ j'ï¿½tais attachï¿½. C'ï¿½taient les cris
-de guerre des tribus qui s'apprï¿½taient au combat. De l'ï¿½minence oï¿½
-j'ï¿½tais enchaï¿½nï¿½, je vis distinctement le brave Lennox groupant autour
-de lui la tribu qui l'avait adoptï¿½ pour chef et l'adossant ï¿½ la
-lisiï¿½re de la forï¿½t, tandis que les Timpabaches gardaient le centre de
+entouraient le poteau de mort où j'étais attaché. C'étaient les cris
+de guerre des tribus qui s'apprêtaient au combat. De l'éminence où
+j'étais enchaîné, je vis distinctement le brave Lennox groupant autour
+de lui la tribu qui l'avait adopté pour chef et l'adossant à la
+lisière de la forêt, tandis que les Timpabaches gardaient le centre de
 la plaine.
 
-Quelque temps aprï¿½s, je vis les chefs de chaque tribu se rendre au
-milieu de la savane; leur confï¿½rence, cette fois, ne dura qu'un
-instant; ils s'avancï¿½rent vers moi, et Lennox ï¿½ leur tï¿½te, coupant mes
-liens avec son poignard, me rendit la vie et la libertï¿½. Je tombai
-dans ses bras et le pressai sur mon coeur avec l'ï¿½motion de la
+Quelque temps après, je vis les chefs de chaque tribu se rendre au
+milieu de la savane; leur conférence, cette fois, ne dura qu'un
+instant; ils s'avancèrent vers moi, et Lennox à leur tête, coupant mes
+liens avec son poignard, me rendit la vie et la liberté. Je tombai
+dans ses bras et le pressai sur mon coeur avec l'émotion de la
 reconnaissance.
 
-Au bout de quelques instants, l'arï¿½ne du combat se chargea des apprï¿½ts
-d'une fï¿½te ï¿½ laquelle furent convoquï¿½es toutes les tribus prï¿½sentes.
-Tous leurs chefs rï¿½unis, ayant mon libï¿½rateur et le grand chef ï¿½ leur
-tï¿½te, vinrent me prier de sï¿½journer encore quelques jours dans cette
-tribu, et d'assister ï¿½ un festin qui allait ï¿½tre offert par la nation
+Au bout de quelques instants, l'arène du combat se chargea des apprêts
+d'une fête à laquelle furent convoquées toutes les tribus présentes.
+Tous leurs chefs réunis, ayant mon libérateur et le grand chef à leur
+tête, vinrent me prier de séjourner encore quelques jours dans cette
+tribu, et d'assister à un festin qui allait être offert par la nation
 des Timpabaches.
 
-.... C'est ainsi que la rencontre inopinï¿½e d'un homme, aujourd'hui
-bien connu en Californie par ses goï¿½ts aventureux et son influence sur
-les Indiens, m'arracha providentiellement ï¿½ une mort certaine. Lennox
-ne s'en tint pas lï¿½; grï¿½ce ï¿½ sa protection, je pus, en toute sï¿½retï¿½,
-descendre le Rio-Colorado jusqu'au Rio-Virgin, remonter cette riviï¿½re
-et enfin regagner la rï¿½gion des mines, et Grass-Valley, oï¿½ l'on me
+.... C'est ainsi que la rencontre inopinée d'un homme, aujourd'hui
+bien connu en Californie par ses goûts aventureux et son influence sur
+les Indiens, m'arracha providentiellement à une mort certaine. Lennox
+ne s'en tint pas là; grâce à sa protection, je pus, en toute sûreté,
+descendre le Rio-Colorado jusqu'au Rio-Virgin, remonter cette rivière
+et enfin regagner la région des mines, et Grass-Valley, où l'on me
 croyait mort depuis longtemps.
 
                                    B{on} de WOGAN[6].
 
                    [Note 6: M. de Wogan, ancien officier de spahis,
                    ancien chef d'un des bataillons de la garde mobile,
-                   en 1848, est aujourd'hui directeur du tï¿½lï¿½graphe ï¿½
+                   en 1848, est aujourd'hui directeur du télégraphe à
                    Saint-Sever (Landes).]
 
 [Illustration: Types d'Indiennes du Colorado.--Dessin de J. Pelcoq
-d'aprï¿½s les _Reports of explorations_.]
+d'après les _Reports of explorations_.]
 
 
 
@@ -1508,268 +1508,268 @@ d'aprï¿½s les _Reports of explorations_.]
 GRAVURES.
 
                                                       Dessinateurs.
-  Chapelle de Sainte-Rosalie (prï¿½s Palerme)              Rouargue      1
+  Chapelle de Sainte-Rosalie (près Palerme)              Rouargue      1
   Types et costumes siciliens                            Rouargue      4
-  Ruines ï¿½ Girgenti (Agrigente)                          Rouargue      5
+  Ruines à Girgenti (Agrigente)                          Rouargue      5
   Vue de Syracuse                                        Rouargue      8
   Taormine et l'Etna                                     Rouargue      9
-  La Marine ï¿½ Messine                                    Rouargue     12
+  La Marine à Messine                                    Rouargue     12
   Rocher de Scylla                                       Rouargue     13
   Stromboli                                              Rouargue     16
-  Pigeonnier prï¿½s d'Ispahan                         Jules Laurens     17
-  Pont d'Allah-Verdi-Khan sur le Zend-ï¿½-Roud,
-    ï¿½ Ispahan                                       Jules Laurens     21
-  Collï¿½ge de la Mï¿½re du roi, ï¿½ Ispahan              Jules Laurens     24
+  Pigeonnier près d'Ispahan                         Jules Laurens     17
+  Pont d'Allah-Verdi-Khan sur le Zend-è-Roud,
+    à Ispahan                                       Jules Laurens     21
+  Collége de la Mère du roi, à Ispahan              Jules Laurens     24
   Une peinture indienne dans le palais des
-    Quarante-Colonnes, ï¿½ Ispahan                    Jules Laurens     25
-  Entrï¿½e de Kaschan                                 Jules Laurens     28
+    Quarante-Colonnes, à Ispahan                    Jules Laurens     25
+  Entrée de Kaschan                                 Jules Laurens     28
   Une caravane persane au repos                     Jules Laurens     29
   Types persans                                     Jules Laurens     32
-  Faubourg de Tï¿½hï¿½ran                               Jules Laurens     33
+  Faubourg de Téhéran                               Jules Laurens     33
   La porte de Schah-Abdoulazim                      Jules Laurens     36
-  Dans une cour, ï¿½ Tï¿½hï¿½ran                          Jules Laurens     37
+  Dans une cour, à Téhéran                          Jules Laurens     37
   Types et portraits persans                        Jules Laurens     40
   Groupe de Persans                                 Jules Laurens     41
-  Dans l'Enderoun (appartement intï¿½rieur
-    -- Costumes d'intï¿½rieur et de sortie)           Jules Laurens     44
+  Dans l'Enderoun (appartement intérieur
+    -- Costumes d'intérieur et de sortie)           Jules Laurens     44
   Choix d'armes, d'instruments et objets divers
     persans                                         Jules Laurens     45
-  Le Dï¿½mavend                                       Jules Laurens     48
-  Vue de l'ï¿½le Saint-Thomas                             de Bï¿½rard     49
-  Saint-Pierre, ï¿½ la Martinique                         de Bï¿½rard     52
-  Cataracte de Weinachts (Guyane anglaise)              de Bï¿½rard     53
-  Une sucrerie ï¿½ la Guadeloupe                          de Bï¿½rard     56
-  La Pointe-ï¿½-Pï¿½tre, ï¿½ la Guadeloupe                    de Bï¿½rard     57
-  Le port d'Espagne, ï¿½ la Trinidad                      de Bï¿½rard     60
-  La baie de Panama                                     de Bï¿½rard     61
-  Vue des Bermudes                                      de Bï¿½rard     64
-  Costumes norvï¿½giens d'Hitterdal                          Pelcoq     65
-  La vallï¿½e de Bolkesjï¿½                                      Dorï¿½     68
-  Costumes du Tï¿½lï¿½mark                                     Pelcoq     69
-  La vallï¿½e de Vestfjordal                                   Dorï¿½     72
-  Intï¿½rieur d'auberge ï¿½ Bolkesjï¿½                         Lancelot     73
-  ï¿½glise d'Hitterdal                                      Wormser     75
-  Le Rjukandfoss                                             Dorï¿½     76
-  Un chalet ï¿½ Bamble                                     Lancelot     77
-  Vue du lac Bandak                                          Dorï¿½     80
-  Le lac Flatdal                                             Dorï¿½     81
-  Fjord de Gudvangen                                         Dorï¿½     84
-  ï¿½glise de Bakke                                            Dorï¿½     85
-  Route de Stalheim                                          Dorï¿½     88
-  Le Vï¿½ringfoss                                              Dorï¿½     89
-  Vallï¿½e de l'Heimdal                                        Dorï¿½     92
+  Le Démavend                                       Jules Laurens     48
+  Vue de l'île Saint-Thomas                             de Bérard     49
+  Saint-Pierre, à la Martinique                         de Bérard     52
+  Cataracte de Weinachts (Guyane anglaise)              de Bérard     53
+  Une sucrerie à la Guadeloupe                          de Bérard     56
+  La Pointe-à-Pître, à la Guadeloupe                    de Bérard     57
+  Le port d'Espagne, à la Trinidad                      de Bérard     60
+  La baie de Panama                                     de Bérard     61
+  Vue des Bermudes                                      de Bérard     64
+  Costumes norvégiens d'Hitterdal                          Pelcoq     65
+  La vallée de Bolkesjö                                      Doré     68
+  Costumes du Télémark                                     Pelcoq     69
+  La vallée de Vestfjordal                                   Doré     72
+  Intérieur d'auberge à Bolkesjö                         Lancelot     73
+  Église d'Hitterdal                                      Wormser     75
+  Le Rjukandfoss                                             Doré     76
+  Un chalet à Bamble                                     Lancelot     77
+  Vue du lac Bandak                                          Doré     80
+  Le lac Flatdal                                             Doré     81
+  Fjord de Gudvangen                                         Doré     84
+  Église de Bakke                                            Doré     85
+  Route de Stalheim                                          Doré     88
+  Le Vöringfoss                                              Doré     89
+  Vallée de l'Heimdal                                        Doré     92
   Femme du Sogn                                            Pelcoq     93
-  Une noce en Norvï¿½ge                                      Pelcoq     96
-  Le marchï¿½ aux grains (Suez)                       Karl Girardet     97
+  Une noce en Norvége                                      Pelcoq     96
+  Le marché aux grains (Suez)                       Karl Girardet     97
   Port de Suez                                      Karl Girardet    100
-  Cimetiï¿½re europï¿½en ï¿½ Suez                         Karl Girardet    100
-  Qossï¿½ir                                           Karl Girardet    101
+  Cimetière européen à Suez                         Karl Girardet    100
+  Qosséir                                           Karl Girardet    101
   Djeddah                                           Karl Girardet    101
   Port de Souakin                                   Karl Girardet    101
-  Mosquï¿½e de Salonique                              Karl Girardet    104
-  Femmes albanaises, prï¿½s d'un arabas,
-    ï¿½ Vasilika                                       Villevieille    105
+  Mosquée de Salonique                              Karl Girardet    104
+  Femmes albanaises, près d'un arabas,
+    à Vasilika                                       Villevieille    105
   Un Juif de Salonique                                       Bida    108
   Une Juive de Salonique                                     Bida    109
-  Sceau du monastï¿½re de Kariï¿½s                                       111
-  Vue gï¿½nï¿½rale de mont Athos                         Villevieille    112
-  Le Conseil des ï¿½pistates au mont Athos                Boulanger    113
+  Sceau du monastère de Kariès                                       111
+  Vue générale de mont Athos                         Villevieille    112
+  Le Conseil des Épistates au mont Athos                Boulanger    113
   Saint Georges (fresque de Panselinos dans le
-    Catholicon de Kariï¿½s)                                  Pelcoq    116
-  Monastï¿½re d'Iveron                                Karl Girardet    117
-  L'higoumï¿½ne d'Iveron                                     Pelcoq    120
-  La Phiale ou le Baptistï¿½re du couvent de Lavra         Lancelot    121
-  Croix sculptï¿½e en bois dans le trï¿½sor de Kariï¿½s         Thï¿½rond    124
-  Coffret dans le trï¿½sor de Kariï¿½s                        Thï¿½rond    125
-  Peinture de la trapeza de Lavra: les trois patriarches  Thï¿½rond    128
+    Catholicon de Kariès)                                  Pelcoq    116
+  Monastère d'Iveron                                Karl Girardet    117
+  L'higoumène d'Iveron                                     Pelcoq    120
+  La Phiale ou le Baptistère du couvent de Lavra         Lancelot    121
+  Croix sculptée en bois dans le trésor de Kariès         Thérond    124
+  Coffret dans le trésor de Kariès                        Thérond    125
+  Peinture de la trapeza de Lavra: les trois patriarches  Thérond    128
   La confession                                              Bida    129
-  Bas-relief du couvent de Vatopï¿½di                     A. Proust    130
-  Albanais, soldat de la garde des ï¿½pistates         Villevieille    132
+  Bas-relief du couvent de Vatopédi                     A. Proust    130
+  Albanais, soldat de la garde des Épistates         Villevieille    132
   Vue du couvent d'Esphigmenou                      Karl Girardet    133
-  Intï¿½rieur de la cour principale du couvent slave
+  Intérieur de la cour principale du couvent slave
     de Kiliandari                                        Lancelot    136
-  La rï¿½colte des noisettes au mont Athos             Villevieille    137
-  L'ï¿½le Chatam, dans l'archipel Galapagos            E. de Bï¿½rard    140
-  Baie de la Poste, dans l'ï¿½le Floriana
-    (archipel Galapagos)                             E. de Bï¿½rard    140
-  L'ï¿½le Charles, dans l'archipel Galapagos           E. de Bï¿½rard    141
-  Aiguade de l'ï¿½le Charles (archipel Galapagos)      E. de Bï¿½rard    144
+  La récolte des noisettes au mont Athos             Villevieille    137
+  L'île Chatam, dans l'archipel Galapagos            E. de Bérard    140
+  Baie de la Poste, dans l'île Floriana
+    (archipel Galapagos)                             E. de Bérard    140
+  L'île Charles, dans l'archipel Galapagos           E. de Bérard    141
+  Aiguade de l'île Charles (archipel Galapagos)      E. de Bérard    144
   Oiseaux et reptile (archipel Galapagos)                  Rouyer    145
-  Cï¿½tes de l'ï¿½le Albermale, dans l'archipel
-    Galapagos                                        E. de Bï¿½rard    148
-  Oeno, dans l'archipel Pomotou (ï¿½les ï¿½ coraux)      E. de Bï¿½rard    149
-  Village de Vanou, dans l'ï¿½le de Vanikoro
-    (ï¿½les ï¿½ coraux)                                  E. de Bï¿½rard    149
-  Baie de Manevai, dans l'ï¿½le de Vanikoro
-    (ï¿½les ï¿½ coraux)                                  E. de Bï¿½rard    152
-  Rï¿½cifs et piton de l'ï¿½le de Borabora
-    (ï¿½les ï¿½ coraux)                                  E. de Bï¿½rard    153
-  Rade et pic de l'ï¿½le de Borabora (ï¿½les ï¿½ coraux)   E. de Bï¿½rard    156
-  ï¿½le de Whitsunday, dans l'archipel Pomotou
-    (ï¿½les ï¿½ coraux)                                  E. de Bï¿½rard    157
+  Côtes de l'île Albermale, dans l'archipel
+    Galapagos                                        E. de Bérard    148
+  Oeno, dans l'archipel Pomotou (îles à coraux)      E. de Bérard    149
+  Village de Vanou, dans l'île de Vanikoro
+    (îles à coraux)                                  E. de Bérard    149
+  Baie de Manevai, dans l'île de Vanikoro
+    (îles à coraux)                                  E. de Bérard    152
+  Récifs et piton de l'île de Borabora
+    (îles à coraux)                                  E. de Bérard    153
+  Rade et pic de l'île de Borabora (îles à coraux)   E. de Bérard    156
+  Île de Whitsunday, dans l'archipel Pomotou
+    (îles à coraux)                                  E. de Bérard    157
   Brun-Rollet                                                Fath    160
-  Traï¿½neau yakoute                                    Victor Adam    161
-  Une sorciï¿½re tongouse                               Victor Adam    164
+  Traîneau yakoute                                    Victor Adam    161
+  Une sorcière tongouse                               Victor Adam    164
   Port d'Okhotsk                                      Victor Adam    165
   Bazar de Nertchinsk                                 Victor Adam    168
   Colonie ou village yakoute                          Victor Adam    169
-  Voyageur russe en Sibï¿½rie                           Victor Adam    172
+  Voyageur russe en Sibérie                           Victor Adam    172
   Argali (mouton sauvage)                             Victor Adam    173
   Campement de Tongouses                              Victor Adam    176
   Chamans yakoutes                                    Victor Adam    177
   Femme yakoute                                       Victor Adam    180
-  Poteaux des frontiï¿½res du pays des Yakoutes et
+  Poteaux des frontières du pays des Yakoutes et
     de la Chine                                       Victor Adam    181
-  Types indigï¿½nes (Australie du Sud)                      G. Fath    184
-  Sï¿½pultures australiennes dans les bois                 Lancelot    185
-  Sï¿½pulture australienne au dï¿½sert                           Dorï¿½    189
-  Restes d'un voyageur retrouvï¿½s par ses compagnons
-    dans les dï¿½serts du lac Torrens                          Dorï¿½    192
-  Oasis d'ï¿½deri (Fezzan)                                 Rouargue    193
+  Types indigènes (Australie du Sud)                      G. Fath    184
+  Sépultures australiennes dans les bois                 Lancelot    185
+  Sépulture australienne au désert                           Doré    189
+  Restes d'un voyageur retrouvés par ses compagnons
+    dans les déserts du lac Torrens                          Doré    192
+  Oasis d'Éderi (Fezzan)                                 Rouargue    193
   Mourzouk (capitale du Fezzan)                          Rouargue    196
   Gorge d'Agueri                                         Lancelot    197
-  Vallï¿½e d'Auderaz                                       Rouargue    200
+  Vallée d'Auderaz                                       Rouargue    200
   Vue d'Agadez                                           Lancelot    201
-  Vue de Kano (entrepï¿½t du Soudan central)               Lancelot    204
+  Vue de Kano (entrepôt du Soudan central)               Lancelot    204
   Dendal ou boulevard de Kouka (capitale du Bornou)      Lancelot    205
   Vue du lac Tchad                                       Rouargue    208
   Village marghi                                         Rouargue    209
-  Halte dans une forï¿½t du Marghi                         Rouargue    212
+  Halte dans une forêt du Marghi                         Rouargue    212
   Village mosgou                                         Rouargue    213
   Chef mosgovien                                         Rouargue    216
-  Intï¿½rieur d'une habitation mosgovienne                 Rouargue    217
+  Intérieur d'une habitation mosgovienne                 Rouargue    217
   Chef kanembou                                          Rouargue    220
-  Entrï¿½e du sultan de Baghirmi dans Masï¿½na
+  Entrée du sultan de Baghirmi dans Maséna
     (sa capitale)                                        Rouargue    221
-  Une razzia ï¿½ Barea (Mosgou)                            Rouargue    224
-  Vue du marchï¿½ de Sokoto                                Hadamard    225
-  Bac sur le Niger, ï¿½ Say                                Rouargue    228
+  Une razzia à Barea (Mosgou)                            Rouargue    224
+  Vue du marché de Sokoto                                Hadamard    225
+  Bac sur le Niger, à Say                                Rouargue    228
   Vue des monts Homboris                                 Lancelot    229
   Village sonray                                         Lancelot    232
   Vue de Kabra (port de Tembouctou)                      Rouargue    233
   Camp touareg                                           Lancelot    236
-  Arrivï¿½e ï¿½ Tembouctou                                   Lancelot    237
-  Vue gï¿½nï¿½rale de Tembouctou                             Lancelot    240
+  Arrivée à Tembouctou                                   Lancelot    237
+  Vue générale de Tembouctou                             Lancelot    240
   Portrait en pied du baron de Wogan en costume
     de voyage                                           J. Pelcoq    241
   Grass-Valley                                          J. Pelcoq    244
   Un claim ou atelier de mineur                         J. Pelcoq    245
-  Forï¿½t de _taxodium giganteum_ ou pins gï¿½ants           Lancelot    248
-  Un caï¿½on ou passage de la Sierra-Wah                   Lancelot    249
+  Forêt de _taxodium giganteum_ ou pins géants           Lancelot    248
+  Un cañon ou passage de la Sierra-Wah                   Lancelot    249
   La case du jugement                                   J. Pelcoq    252
   Le poteau de la guerre                                J. Pelcoq    253
   Types d'Indiennes du Rio-Colorado                     J. Pelcoq    256
-  Grande pagode de Rangoun                               Franï¿½ais    257
-  Bateau ï¿½ voile sur l'Irawady                     Clichï¿½ anglais    258
-  Canot de parade                                  Clichï¿½ anglais    259
-  Bateau de commerce                               Clichï¿½ anglais    259
-  Birmans dans une forï¿½t                                J. Pelcoq    261
-  Pattshaing ou tambour-harmonica                  Clichï¿½ anglais    262
-  Pattshaing ï¿½ baguettes                           Clichï¿½ anglais    262
-  Harpe birmane                                    Clichï¿½ anglais    263
-  Harmonica birman                                 Clichï¿½ anglais    263
-  Pagode ï¿½ Pagï¿½n                                   Clichï¿½ anglais    264
-  Reprï¿½sentation thï¿½ï¿½trale dans le royaume d'Ava         Hadamard    265
-  Dagobah ou pagode en forme de cloche             Clichï¿½ anglais    266
-  Intï¿½rieur d'une pagode                           Clichï¿½ anglais    267
-  Maison de l'ambassade ï¿½ Amarapoura               Clichï¿½ anglais    268
-  Vallï¿½e des puits de bitume                        Karl Girardet    269
+  Grande pagode de Rangoun                               Français    257
+  Bateau à voile sur l'Irawady                     Cliché anglais    258
+  Canot de parade                                  Cliché anglais    259
+  Bateau de commerce                               Cliché anglais    259
+  Birmans dans une forêt                                J. Pelcoq    261
+  Pattshaing ou tambour-harmonica                  Cliché anglais    262
+  Pattshaing à baguettes                           Cliché anglais    262
+  Harpe birmane                                    Cliché anglais    263
+  Harmonica birman                                 Cliché anglais    263
+  Pagode à Pagán                                   Cliché anglais    264
+  Représentation théâtrale dans le royaume d'Ava         Hadamard    265
+  Dagobah ou pagode en forme de cloche             Cliché anglais    266
+  Intérieur d'une pagode                           Cliché anglais    267
+  Maison de l'ambassade à Amarapoura               Cliché anglais    268
+  Vallée des puits de bitume                        Karl Girardet    269
   Types de grands seigneurs et hauts fonctionnaires
     birmans                                                 Morin    272
-  Le palais du roi et l'ï¿½lï¿½phant blanc                     Navlet    273
-  Sculptures comiques dans le monastï¿½re royal ï¿½
+  Le palais du roi et l'éléphant blanc                     Navlet    273
+  Sculptures comiques dans le monastère royal à
     Amarapoura                                           Lancelot    276
-  Vue du Maha-Toolut-Boungyo (monastï¿½re royal ï¿½
+  Vue du Maha-Toolut-Boungyo (monastère royal à
     Amarapoura)                                          Lancelot    277
-  Dï¿½tails intï¿½rieurs du Maha-comiye-peima ï¿½ Amarapoura     Navlet    281
-  Une porte ï¿½ Amarapoura                           Clichï¿½ anglais    284
-  Canon birman                                     Clichï¿½ anglais    284
-  Danse des ï¿½lï¿½phants                              Clichï¿½ anglais    284
-  Canal d'irrigation dans le royaume d'Ava         Clichï¿½ anglais    285
+  Détails intérieurs du Maha-comiye-peima à Amarapoura     Navlet    281
+  Une porte à Amarapoura                           Cliché anglais    284
+  Canon birman                                     Cliché anglais    284
+  Danse des éléphants                              Cliché anglais    284
+  Canal d'irrigation dans le royaume d'Ava         Cliché anglais    285
   Jeunes dames birmanes                                     Morin    288
   Le temple du Dragon                                    Lancelot    289
-  Rives de l'Irawady (prï¿½s des mines de rubis)     Clichï¿½ anglais    292
-  Petite pagode ï¿½ Mengoun                          Clichï¿½ anglais    292
+  Rives de l'Irawady (près des mines de rubis)     Cliché anglais    292
+  Petite pagode à Mengoun                          Cliché anglais    292
   Grand temple de Mengoun (depuis le tremblement
     de terre de 1839)                               Karl Girardet    293
-  Vallï¿½e de l'Irawady au confluent du Myit-Nge          Paul Huet    297
-  Temple ruinï¿½ ï¿½ Pagï¿½n                                   Lancelot    300
-  Salces ou volcans de boue ï¿½ Membo                Clichï¿½ anglais    301
-  Cï¿½nes volcaniques dans la plaine de Membo        Clichï¿½ anglais    301
-  Paysans birmans en voyage                        Clichï¿½ anglais    302
-  Statue gigantesque de Bouddha ï¿½ Amarapoura             Lancelot    304
-  Zanzibar vue de la mer                             E. de Bï¿½rard    305
-  Portrait de feu l'iman de Zanzibar                 E. de Bï¿½rard    308
-  Pont de la ville de Zanzibar                       E. de Bï¿½rard    309
+  Vallée de l'Irawady au confluent du Myit-Nge          Paul Huet    297
+  Temple ruiné à Pagán                                   Lancelot    300
+  Salces ou volcans de boue à Membo                Cliché anglais    301
+  Cônes volcaniques dans la plaine de Membo        Cliché anglais    301
+  Paysans birmans en voyage                        Cliché anglais    302
+  Statue gigantesque de Bouddha à Amarapoura             Lancelot    304
+  Zanzibar vue de la mer                             E. de Bérard    305
+  Portrait de feu l'iman de Zanzibar                 E. de Bérard    308
+  Pont de la ville de Zanzibar                       E. de Bérard    309
   Un village de la Mrima                                Lavieille    312
-  Jihouï¿½ la Mkoa ou la roche ronde                 Clichï¿½ anglais    313
+  Jihoué la Mkoa ou la roche ronde                 Cliché anglais    313
   La fontaine qui bout (source thermale dans le
-    Khoutou)                                       Clichï¿½ anglais    313
-  Sycomore africain                                Clichï¿½ anglais    314
-  L'Ougogo                                         Clichï¿½ anglais    315
+    Khoutou)                                       Cliché anglais    313
+  Sycomore africain                                Cliché anglais    314
+  L'Ougogo                                         Cliché anglais    315
   Burton et ses compagnons en marche                    Lavieille    316
-  Chaï¿½ne cï¿½tiï¿½re de l'Afrique occidentale               Lavieille    317
+  Chaîne côtière de l'Afrique occidentale               Lavieille    317
   Passe dans l'Ousagara                                 Lavieille    320
-  Paysage dans l'Ounyamouï¿½zi                            Lavieille    321
+  Paysage dans l'Ounyamouézi                            Lavieille    321
   Noirs de l'Ousumboua                               G. Boulanger    324
-  Huttes ï¿½ Msï¿½nï¿½                                        Lavieille    325
-  Nï¿½gres porteurs                                    G. Boulanger    328
+  Huttes à Mséné                                        Lavieille    325
+  Nègres porteurs                                    G. Boulanger    328
   Noir de l'Ouganda                                  G. Boulanger    329
-  Habitation de Snay ben Amir ï¿½ Kazeh                   Lavieille    332
-  Jeunes dames ï¿½ Kazeh                               G. Boulanger    333
-  Coiffures des indigï¿½nes de l'Ounyanyembï¿½         Clichï¿½ anglais    334
-  Coiffures des indigï¿½nes de l'Oujiji              Clichï¿½ anglais    335
-  Maison des ï¿½trangers ï¿½ Kaouï¿½lï¿½                        Lavieille    336
+  Habitation de Snay ben Amir à Kazeh                   Lavieille    332
+  Jeunes dames à Kazeh                               G. Boulanger    333
+  Coiffures des indigènes de l'Ounyanyembé         Cliché anglais    334
+  Coiffures des indigènes de l'Oujiji              Cliché anglais    335
+  Maison des étrangers à Kaouélé                        Lavieille    336
   Navigation sur le lac Tanganyika                      Lavieille    337
   Le capitaine Burton sur le lac Tanganyika             Lavieille    339
   Habitation au bord du lac Tanganyika                  Lavieille    340
   Le bassin du Maroro                                   Lavieille    341
-  Instruments et ustensiles des Ouajiji            Clichï¿½ anglais    342
-  Riverains du Tanganyika (cï¿½tï¿½ ouest)             Clichï¿½ anglais    343
-  Riverains du Tanganyika (cï¿½tï¿½ sud)               Clichï¿½ anglais    343
+  Instruments et ustensiles des Ouajiji            Cliché anglais    342
+  Riverains du Tanganyika (côté ouest)             Cliché anglais    343
+  Riverains du Tanganyika (côté sud)               Cliché anglais    343
   Le bassin du Kisanga                                  Lavieille    344
-  Vï¿½gï¿½tation de l'Ougogi                                Lavieille    345
-  Passe de l'Ouzagara                              Clichï¿½ anglais    346
-  Rocher de l'ï¿½lï¿½phant prï¿½s du cap Gardafui        Clichï¿½ anglais    347
-  Dernier ï¿½tablissement ï¿½gyptien dans le Fazogl          Lancelot    348
-  Contrï¿½e des Shelouks sur le Saubat                     Lancelot    349
-  Bï¿½lï¿½nia (village bari sur le fleuve Blanc)             Lancelot    352
+  Végétation de l'Ougogi                                Lavieille    345
+  Passe de l'Ouzagara                              Cliché anglais    346
+  Rocher de l'Éléphant près du cap Gardafui        Cliché anglais    347
+  Dernier établissement égyptien dans le Fazogl          Lancelot    348
+  Contrée des Shelouks sur le Saubat                     Lancelot    349
+  Bélénia (village bari sur le fleuve Blanc)             Lancelot    352
   Habitants de la Havane                                    Potin    353
-  Coolies chinois ï¿½ Cuba                                   Pelcoq    356
-  Vue gï¿½nï¿½rale de la Havane (capitale de Cuba)           Lancelot    357
-  Avenue de palmiers devant une habitation de Cuba   E. de Bï¿½rard    360
-  Cathï¿½drale de la Havane                                  Navlet    361
+  Coolies chinois à Cuba                                   Pelcoq    356
+  Vue générale de la Havane (capitale de Cuba)           Lancelot    357
+  Avenue de palmiers devant une habitation de Cuba   E. de Bérard    360
+  Cathédrale de la Havane                                  Navlet    361
   La volante (voiture de la Havane)                   Victor Adam    363
   Vue de Matanzas                                        Lancelot    364
-  Paysage dans l'ï¿½le de Cuba: Loma (coteau)
+  Paysage dans l'île de Cuba: Loma (coteau)
     de Candela                                          Paul Huet    365
-  Paysage dans l'ï¿½le de Cuba (Loma de la Givora)        Paul Huet    368
+  Paysage dans l'île de Cuba (Loma de la Givora)        Paul Huet    368
   Grenoble et les Alpes dauphinoises                Karl Girardet    369
   Les Grands Goulets                                Karl Girardet    372
-  Pont-en-Royans                                             Dorï¿½    373
-  Sainte-Croix et les ruines du chï¿½teau de Quint    Karl Girardet    376
-  Die et la vallï¿½e de Roumeyer (vue prise des
-    hauteurs de Saint-Justin)                            Franï¿½ais    377
+  Pont-en-Royans                                             Doré    373
+  Sainte-Croix et les ruines du château de Quint    Karl Girardet    376
+  Die et la vallée de Roumeyer (vue prise des
+    hauteurs de Saint-Justin)                            Français    377
   Le Mont-Aiguille (vu de Clelles)                       Daubigny    380
   Pontaix                                           Karl Girardet    381
-  Roumeyer et le mont Glandaz                            Franï¿½ais    384
-  Entrï¿½e de la vallï¿½e de Roumeyer                   Karl Girardet    385
-  La vallï¿½e de Lï¿½oncel                              Karl Girardet    388
-  La vallï¿½e de la Vï¿½oure et de la plaine du Rhï¿½ne
+  Roumeyer et le mont Glandaz                            Français    384
+  Entrée de la vallée de Roumeyer                   Karl Girardet    385
+  La vallée de Léoncel                              Karl Girardet    388
+  La vallée de la Véoure et de la plaine du Rhône
     (vue prise des hauteurs de la Vacherie)         Karl Girardet    389
-  Beaufort                                               Franï¿½ais    392
-  La forï¿½t de Saou                                       Sabatier    394
-  Poï¿½t-Cellard                                      Karl Girardet    395
+  Beaufort                                               Français    392
+  La forêt de Saou                                       Sabatier    394
+  Poët-Cellard                                      Karl Girardet    395
   Bourdeaux                                         Karl Girardet    396
   Le Velan et Plan-de-Baix (vue des sources
-    du Ruï¿½doux)                                     Karl Girardet    397
-  Cascade de la Druï¿½se                              Karl Girardet    398
+    du Ruïdoux)                                     Karl Girardet    397
+  Cascade de la Druïse                              Karl Girardet    398
   La gorge de Trente-Pas                            Karl Girardet    400
   Le mont Viso                                           Sabatier    401
   Le pont du Diable                                      Sabatier    405
-  Le lac de l'ï¿½chauda                                    Sabatier    408
+  Le lac de l'Échauda                                    Sabatier    408
   Le Pelvoux                                             Sabatier    409
-  Le mont Aurouze                                        Franï¿½ais    412
+  Le mont Aurouze                                        Français    412
   Les montagnes du Devoluy                          Karl Girardet    413
   Ruines de la Chartreuse de Durbon                 Karl Girardet    416
 
@@ -1782,31 +1782,31 @@ CARTES ET PLANS.
   Carte de la Sicile, par M. A. Vuillemin.                             3
   Carte de la Perse, par M. A. Vuillemin.                             19
   Carte des grandes et petites Antilles, par M. A. Vuillemin.         51
-  Carte du haut Tï¿½lï¿½mark (Norvï¿½ge mï¿½ridionale), d'aprï¿½s
+  Carte du haut Télémark (Norvége méridionale), d'après
     M. Paul Riant.                                                    67
-  Carte de la presqu'ï¿½le de Bergen, d'aprï¿½s M. Paul Riant.            83
+  Carte de la presqu'île de Bergen, d'après M. Paul Riant.            83
   Carte de la Chalcidique, par M. A. Vuillemin.                      115
   Partie du gouvernement d'Yakoutsk, par Piadischeff.                167
   Carte de l'Australie, par M. A. Vuillemin.                         187
   Carte des voyages du docteur Henri Barth en Afrique (partie
-    orientale) d'aprï¿½s M. de Lanoye.                                 195
-  Voyage du docteur Barth (Itinï¿½raire de Sokoto ï¿½ Tembouctou),
+    orientale) d'après M. de Lanoye.                                 195
+  Voyage du docteur Barth (Itinéraire de Sokoto à Tembouctou),
     par M. A. Vuillemin.                                             234
-  Carte du cours infï¿½rieur de l'Irawady comprenant les possessions
-    britanniques et la partie sud du royaume d'Ava, d'aprï¿½s le
+  Carte du cours inférieur de l'Irawady comprenant les possessions
+    britanniques et la partie sud du royaume d'Ava, d'après le
     capitaine H. Yule.                                               260
-  Plan d'Amarapoura et de sa banlieue, d'aprï¿½s les relevï¿½s du
+  Plan d'Amarapoura et de sa banlieue, d'après les relevés du
     major Grant Allan.                                               280
-  Carte du cours supï¿½rieur de l'Irawady et partie nord du royaume
-    d'Ava, d'aprï¿½s le cap. Yule.                                     296
+  Carte du cours supérieur de l'Irawady et partie nord du royaume
+    d'Ava, d'après le cap. Yule.                                     296
   Carte du voyage de Burton et Speke aux grands lacs de l'Afrique
-    orientale (Itinï¿½raire de Zanzibar ï¿½ Kazeh).                      307
+    orientale (Itinéraire de Zanzibar à Kazeh).                      307
   Carte du voyage de Burton et Speke aux grands lacs de l'Afrique
     orientale (2e partie).                                           338
-  Carte de l'ï¿½le de Cuba, par M. A. Vuillemin.                       355
-  Carte du Dauphinï¿½ (partie occidentale: Isï¿½re et Drï¿½me),
+  Carte de l'île de Cuba, par M. A. Vuillemin.                       355
+  Carte du Dauphiné (partie occidentale: Isère et Drôme),
     par M. A. Vuillemin.                                             371
-  Carte du Dauphinï¿½ (partie orientale: Isï¿½re et Hautes-Alpes),
+  Carte du Dauphiné (partie orientale: Isère et Hautes-Alpes),
     par M. A. Vuillemin.                                             404
 
 
@@ -1816,66 +1816,66 @@ ERRATA.
 
 
 I. Sous le titre _Voyage d'un naturaliste_, pages 139 et 146, on
-a imprimï¿½: (1858.--INï¿½DIT).--Cette date et cette qualification ne
-peuvent s'appliquer qu'ï¿½ la traduction.
+a imprimé: (1858.--INÉDIT).--Cette date et cette qualification ne
+peuvent s'appliquer qu'à la traduction.
 
 La note qui commence la page 139 donne la date du voyage (1838)
-et avertit les lecteurs que le texte a ï¿½tï¿½ publiï¿½ en anglais.
+et avertit les lecteurs que le texte a été publié en anglais.
 
 
 II. Dans un certain nombre d'exemplaires, le voyage du capitaine
 Burton AUX GRANDS LACS DE L'AFRIQUE ORIENTALE, 1re partie,
-46e livraison, le mot ORIENTALE se trouve remplacï¿½ par celui
+46e livraison, le mot ORIENTALE se trouve remplacé par celui
 d'OCCIDENTALE.
 
 
 III. On a omis, sous les titres de _Juif_ et _Juive de
 Salonique_, dessins de Bida, pages 108 et 109, la mention
-suivante: d'aprï¿½s M. A. Proust.
+suivante: d'après M. A. Proust.
 
 
-IV. On a ï¿½galement omis de donner, ï¿½ la page 146, la description
-des oiseaux et du reptile de l'archipel des Galapagos reprï¿½sentï¿½s
-sur la page 145. Nous rï¿½parons cette omission:
+IV. On a également omis de donner, à la page 146, la description
+des oiseaux et du reptile de l'archipel des Galapagos représentés
+sur la page 145. Nous réparons cette omission:
 
-1ï¿½ _Tanagra Darwinii_, variï¿½tï¿½ du genre des
-_Tanagras_ trï¿½s-nombreux en Amï¿½rique. Ces oiseaux ne diffï¿½rent de
-nos moineaux, dont ils ont ï¿½ peu prï¿½s les habitudes, que par la
-brillante diversitï¿½ des couleurs et par les ï¿½chancrures de la
-mandibule supï¿½rieure de leur bec.
+1º _Tanagra Darwinii_, variété du genre des
+_Tanagras_ très-nombreux en Amérique. Ces oiseaux ne diffèrent de
+nos moineaux, dont ils ont à peu près les habitudes, que par la
+brillante diversité des couleurs et par les échancrures de la
+mandibule supérieure de leur bec.
 
-2ï¿½ _Cactornis assimilis:_ Darwin le nomme _Tisseim des
-Galapagos_, oï¿½ l'on peut le voir souvent grimper autour des
-fleurs du grand cactus. Il appartient particuliï¿½rement ï¿½ l'ï¿½le
-Saint-Charles. Des treize espï¿½ces du genre _pinson_, que le
-naturaliste trouva dans cet archipel, chacune semble affectï¿½e ï¿½
-une ï¿½le en particulier.
+2º _Cactornis assimilis:_ Darwin le nomme _Tisseim des
+Galapagos_, où l'on peut le voir souvent grimper autour des
+fleurs du grand cactus. Il appartient particulièrement à l'île
+Saint-Charles. Des treize espèces du genre _pinson_, que le
+naturaliste trouva dans cet archipel, chacune semble affectée à
+une île en particulier.
 
-3ï¿½ _Pyrocephalus nanus_, trï¿½s-joli petit oiseau du
+3º _Pyrocephalus nanus_, très-joli petit oiseau du
 sous-genre _muscicapa_, gobe-mouches, tyrans ou moucherolles. Le
-mï¿½le de cette variï¿½tï¿½ a une tï¿½te de feu. Il hante ï¿½ la fois les
-bois humides des plus hautes parties des ï¿½les _Galapagos_ et les
+mâle de cette variété a une tête de feu. Il hante à la fois les
+bois humides des plus hautes parties des îles _Galapagos_ et les
 districts arides et rocailleux.
 
-4ï¿½ _Sylvicola aureola._ Ce charmant oiseau, d'un jaune
-d'or, appartient aux ï¿½les Galapagos.
+4º _Sylvicola aureola._ Ce charmant oiseau, d'un jaune
+d'or, appartient aux îles Galapagos.
 
-5ï¿½ Le _Leiocephalus grayii_ est l'une des nombreuses
-nouveautï¿½s rapportï¿½es par les navigateurs du _Beagle_. Dans le
-pays on le nomme _holotropis_, et moins curieux peut-ï¿½tre que
+5º Le _Leiocephalus grayii_ est l'une des nombreuses
+nouveautés rapportées par les navigateurs du _Beagle_. Dans le
+pays on le nomme _holotropis_, et moins curieux peut-être que
 l'_amblyrhinchus_, il est cependant remarquable en ce que c'est
 un des plus beaux sauriens, sinon le plus beau saurien qui
 existe.
 
 Le saurien _amblyrhinchus cristatus_, que nous reproduisons ici,
-est dï¿½crit dans le texte, page 147.
+est décrit dans le texte, page 147.
 
-[Illustration: _Amblyrhinchus cristatus_, iguane des ï¿½les Galapagos.]
+[Illustration: _Amblyrhinchus cristatus_, iguane des îles Galapagos.]
 
        *       *       *       *       *
 
-IMPRIMERIE Gï¿½Nï¿½RALE DE CH. LAHURE
-Rue de Fleurus, 9, ï¿½ Paris.
+IMPRIMERIE GÉNÉRALE DE CH. LAHURE
+Rue de Fleurus, 9, à Paris.
 
        *       *       *       *       *
 

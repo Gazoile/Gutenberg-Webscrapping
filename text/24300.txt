@@ -20,11 +20,11 @@ qui sont enseignemens de bien viure pour bien mourir
         Sic dat. sic retrahit. iterum trahet. atque retraxit
         Omnia. sol girans quod dedit. ipse trahit
 
-[Illustration: un personnage ï¿½crivant sur un pupitre.]
+[Illustration: un personnage écrivant sur un pupitre.]
 
-ï¿½Lacteur.
+¶Lacteur.
 
-    ï¿½Mirez vous icy mirez femmes
+    ¶Mirez vous icy mirez femmes
     Et mettes vostre affection
     A penser a voz poures ames
     Qui desirent saluacion
@@ -33,7 +33,7 @@ qui sont enseignemens de bien viure pour bien mourir
     Mort met tout a destruction
     Grant & petit meurt tous les iours
 
-    ï¿½Pour noblesse ne pour honneur
+    ¶Pour noblesse ne pour honneur
     Pour richesse ou pourete
     Pour estre dame de valeur
     Ou femme de mendicite
@@ -45,14 +45,14 @@ qui sont enseignemens de bien viure pour bien mourir
 
 
 
-        ï¿½Ludite formose teneres cantate puelle.
+        ¶Ludite formose teneres cantate puelle.
         Nam defluunt anni more fluentis aque
         Nec que preteriit iterum reuocabitur vnda.
         Nec que preteriit hora redire potest
 
 [Illustration: quatre cadavres jouant d'instruments de musique.]
 
-ï¿½Le premier menestrel
+¶Le premier menestrel
 
     Venez dames et damoiselles
     Du siecle & de religion
@@ -63,7 +63,7 @@ qui sont enseignemens de bien viure pour bien mourir
     Vous y venrez vueilles ou non
     Qui saige est souuent y pense
 
-ï¿½Le second.
+¶Le second.
 
     Quelz sont voz corps: ie vous demande
     Femmes iolies tant bien paree
@@ -74,7 +74,7 @@ qui sont enseignemens de bien viure pour bien mourir
     Ia il nen demourra goulee
     Voz vers apres deuiendront cendre
 
-ï¿½Le tiers.
+¶Le tiers.
 
     Compaignon bonne est ta raison
     De ses femmes oultrecuidee
@@ -85,7 +85,7 @@ qui sont enseignemens de bien viure pour bien mourir
     Nenny. bien sont doncques abusees
     Qui ne samende il se decoit
 
-ï¿½Le quart.
+¶Le quart.
 
     O femmes mirez vous en vng tas
     Dossemens de gens trespassez
@@ -104,10 +104,10 @@ qui sont enseignemens de bien viure pour bien mourir
         Ex vtero natis pedetentim calle sub ipso
         Subdola mors comes est nos laqueare studens.
 
-[Illustration: de gauche ï¿½ droite, se tenant par le bras: un cadavre, la
+[Illustration: de gauche à droite, se tenant par le bras: un cadavre, la
 reine, un cadavre, la duchesse.]
 
-ï¿½La mort.
+¶La mort.
 
     Noble royne de beau corsaige
     Gente et ioyeuse a laduenant
@@ -118,7 +118,7 @@ reine, un cadavre, la duchesse.]
     Faictes deuoir au remenant
     Vous qui viuez ainsi feres
 
-ï¿½La royne
+¶La royne
 
     Ceste danse mest bien nouuelle
     Et en ay le cueur bien surprins
@@ -129,7 +129,7 @@ reine, un cadavre, la duchesse.]
     Les plus grans sont les premiers prins
     Contre la mort na point de fuyte
 
-ï¿½La mort.
+¶La mort.
 
     Apres ma dame la duchesse
     Vous vien querir et pourchasser
@@ -140,7 +140,7 @@ reine, un cadavre, la duchesse.]
     Folie est de tant embrasser
     On nemporte que le bienfait
 
-ï¿½La duchesse.
+¶La duchesse.
 
     Ie nay pas encore trente ans
     Helas: a leure que commence
@@ -159,10 +159,10 @@ reine, un cadavre, la duchesse.]
         Continuo cadimus viuentes. fila sororum.
         Atropos arrumpens emula sepe venit
 
-[Illustration: de gauche ï¿½ droite: un cadavre, la rï¿½gente, un cadavre,
+[Illustration: de gauche à droite: un cadavre, la régente, un cadavre,
 la femme du chevalier.]
 
-ï¿½La mort.
+¶La mort.
 
     Or ca ma dame la regente
     Qui auez renom de bien dire
@@ -173,7 +173,7 @@ la femme du chevalier.]
     Or est il temps de vous reduire
     La mort fait trestout oublier
 
-ï¿½La regente
+¶La regente
 
     Quant me souuient des tabourins
     Nopces: festes: harpes: trompetes:
@@ -184,7 +184,7 @@ la femme du chevalier.]
     Mais tournent en poures emplaites
     Tout se passe fors aymer dieu
 
-ï¿½La mort.
+¶La mort.
 
     Gentille femme de cheualier
     Que tant aymes deduit et chasse
@@ -195,7 +195,7 @@ la femme du chevalier.]
     Car au derrain mort tout enchasse
     Ceste vie est moult transitoire
 
-ï¿½La femme du cheualier
+¶La femme du cheualier
 
     Pas si tost mourir ne cuidoye
     Et comment dea: ie souppe hier
@@ -214,10 +214,10 @@ la femme du chevalier.]
         Ergo quis in tantis possit cras dicere viuam
         Cum videat quotiens mors male visa ferit
 
-[Illustration: de gauche ï¿½ droite: un cadavre, l'abesse, un cadavre, la
-femme de l'ï¿½cuyer.]
+[Illustration: de gauche à droite: un cadavre, l'abesse, un cadavre, la
+femme de l'écuyer.]
 
-ï¿½La mort
+¶La mort
 
     Dame abbesse vous lesseres
     Labbaye quauez bien aymee
@@ -228,7 +228,7 @@ femme de l'ï¿½cuyer.]
     Qui apres vous sera sacree
     Tout fut aultruy: tout y sera
 
-ï¿½Labbesse
+¶Labbesse
 
     Le seruice hier ie faisoye
     En leglise comme abbesse
@@ -239,7 +239,7 @@ femme de l'ï¿½cuyer.]
     He dieu: de ce monde quest ce
     On est de mort sourprins souuent
 
-ï¿½La mort
+¶La mort
 
     Dame ploies voz gorgerettes
     Il nest plus temps de vous farder
@@ -250,7 +250,7 @@ femme de l'ï¿½cuyer.]
     Chascun il deust bien regarder
     Par habit mainte femme peche
 
-ï¿½La femme de lescuier
+¶La femme de lescuier
 
     He: quay ie meffait ou mesdit
     Dont doye souffrir telle perte
@@ -269,10 +269,10 @@ femme de l'ï¿½cuyer.]
         Finge quod aspicias morientem: sed freme: namque
         Consimili pena te vocat vna dies
 
-[Illustration: de gauche ï¿½ droite: un cadavre, la prieure, un cadavre,
+[Illustration: de gauche à droite: un cadavre, la prieure, un cadavre,
 la demoiselle.]
 
-ï¿½La mort
+¶La mort
 
     Se vous auez sans fiction
     Tout vostre temps serui a dieu
@@ -283,7 +283,7 @@ la demoiselle.]
     A son vouloir: en temps & lieu
     Bienfait quiert auoir bon paiment
 
-ï¿½La prieure
+¶La prieure
 
     Cestoit en ma religion
     Seruir a dieu tout mon desir
@@ -294,7 +294,7 @@ la demoiselle.]
     Face dieu de moy son plaisir
     Prendre doit on la mort en gre
 
-ï¿½La mort
+¶La mort
 
     Venez apres ma demoiselle
     Et serrez tous vos affiquetz
@@ -305,7 +305,7 @@ la demoiselle.]
     Ne verrez iouster a rouquetz
     Femmes font faire faire moult de chose
 
-ï¿½La demoiselle
+¶La demoiselle
 
     Que me vallent mes grans atours
     Mes habitz. ieunesse. beaute
@@ -324,10 +324,10 @@ la demoiselle.]
         Atque horrenda dies. quia tunc michi meta merendi
         Clauditur. illa dies leta ve. dira ve dies
 
-[Illustration: de gauche ï¿½ droite: un cadavre, la bourgeoise, un
+[Illustration: de gauche à droite: un cadavre, la bourgeoise, un
 cadavre, la veuve.]
 
-ï¿½La mort
+¶La mort
 
     Et vous aussi gente bourgoise
     Pour neant certes vous excuses
@@ -338,7 +338,7 @@ cadavre, la veuve.]
     Maintz hommes en sont abusez
     En tous estatz il fault mesure
 
-ï¿½La bourgoise
+¶La bourgoise
 
     Mes getz et colletz de letisses
     Ne me exemptent point de mort
@@ -349,7 +349,7 @@ cadavre, la veuve.]
     Qui me sont a rebours tresfort
     Ioye en la fin tourne en tristesse
 
-ï¿½La mort
+¶La mort
 
     Femme vefue venez auant
     Et vous auancez de venir.
@@ -360,7 +360,7 @@ cadavre, la veuve.]
     Et soy tousiours bien maintenir
     Vertus est tout par tout louee
 
-ï¿½La femme vefue
+¶La femme vefue
 
     Depuis que mon mary mourut
     Iay eu affaire grandement
@@ -379,10 +379,10 @@ cadavre, la veuve.]
         Nil reputo longum. dubius quod terminus angit
         Crastina forte dies. est michi sola dies.
 
-[Illustration: de gauche ï¿½ droite: un cadavre, la marchande, un cadavre,
+[Illustration: de gauche à droite: un cadavre, la marchande, un cadavre,
 la baillive.]
 
-ï¿½La mort
+¶La mort
 
     Alons oultre gente marchande
     Et ne vous chaille de peser
@@ -393,7 +393,7 @@ la baillive.]
     Et nest tel que den bien vser
     Le merite & bienfait demeure
 
-ï¿½La marchande
+¶La marchande
 
     Qui gardera mon ouurouer
     Tendis que ie suis a malaise
@@ -404,7 +404,7 @@ la baillive.]
     Pour plus cher vendre dont me poise
     Auarice decoit les gens
 
-ï¿½La mort
+¶La mort
 
     Apres ma dame la balliue
     Des quaquetz tenus en leglise
@@ -415,7 +415,7 @@ la baillive.]
     Car auiourduy seres demise
     Point ne se fault iouer a dieu
 
-ï¿½La balliue
+¶La balliue
 
     Que femme se plaint de legier
     La coustume nest pas nouuelle
@@ -434,10 +434,10 @@ la baillive.]
         Frustra dico dies. sit mentio nulla dierum.
         Cum stet nulla dies vna nec hora quies.
 
-[Illustration: de gauche ï¿½ droite: un cadavre, l'ï¿½pousï¿½e, un cadavre, la
+[Illustration: de gauche à droite: un cadavre, l'épousée, un cadavre, la
 femme mignote.]
 
-ï¿½La mort.
+¶La mort.
 
     Pour vous monstrer vostre folie:
     Et quon doit sur la mort veiller
@@ -448,7 +448,7 @@ femme mignote.]
     On ne se doit trop resueiller
     Les fais de dieu sont merueilleux
 
-ï¿½Lespousee.
+¶Lespousee.
 
     En la iournee quauoye desir
     Dauoir quelque ioye en ma vie
@@ -459,7 +459,7 @@ femme mignote.]
     Si grant faulte nay desseruie
     Mais il fault louer dieu de tout
 
-ï¿½La mort.
+¶La mort.
 
     Femme nourrie en mignotise
     Qui dormez iusques au disner
@@ -470,7 +470,7 @@ femme mignote.]
     A demain vous viens adiourner
     On meurt plus tost que on ne cuide
 
-ï¿½La femme mignote
+¶La femme mignote
 
     Pour dieu quon me voise querir
     Medecin ou appoticaire
@@ -489,10 +489,10 @@ femme mignote.]
         Aspice iudicium hoc metuendum: iudice tanto
         Qui vocat. et venit illa timenda dies
 
-[Illustration: de gauche ï¿½ droite: un cadavre, la pucelle vierge, un
-cadavre, la thï¿½ologienne.]
+[Illustration: de gauche à droite: un cadavre, la pucelle vierge, un
+cadavre, la théologienne.]
 
-ï¿½La mort.
+¶La mort.
 
     Doulce fille et belle pucelle
     Ne vous chaille ia de laisser
@@ -503,7 +503,7 @@ cadavre, la thï¿½ologienne.]
     Fors son sauuement pourchasser
     Virginite plait bien a dieu
 
-ï¿½La pucelle vierge.
+¶La pucelle vierge.
 
     En ce siecle ieune ne vieulx
     Ne sont pas en grant seurete
@@ -514,7 +514,7 @@ cadavre, la thï¿½ologienne.]
     Pour vng bien: double aduersite
     Plaisir mondain finit en pleurs
 
-ï¿½La mort
+¶La mort
 
     Nous direz vous rien de nouueau
     Ma dame la theologienne
@@ -525,7 +525,7 @@ cadavre, la thï¿½ologienne.]
     Et a bien mourir mettre peine
     Cest beacoup que de soy congnoistre
 
-ï¿½La theologienne
+¶La theologienne
 
     Femme qui de clergie se mesle
     Pour auoir bruit ou quon lescoute
@@ -544,10 +544,10 @@ cadavre, la thï¿½ologienne.]
         Dum licet et spacium datur: ista relinque
         Pro patria celi. qua sine fine dies.
 
-[Illustration: de gauche ï¿½ droite: un cadavre, la nouvelle mariï¿½e, un
+[Illustration: de gauche à droite: un cadavre, la nouvelle mariée, un
 cadavre, la femme enceinte.]
 
-ï¿½La mort.
+¶La mort.
 
     Apres: nouuelle mariee
     Qui auez mis vostre desir
@@ -558,7 +558,7 @@ cadavre, la femme enceinte.]
     Mort ne vient iamais a plaisir
     Ioye sen va comme feu de ferre
 
-ï¿½La nouuelle mariee
+¶La nouuelle mariee
 
     Las: demy an entier na pas
     Que commence a tenir mesnage
@@ -569,7 +569,7 @@ cadavre, la femme enceinte.]
     Mais la mort de trop pres me charge
     Vng peu de vent abat grant fueilles
 
-ï¿½La mort.
+¶La mort.
 
     Femme grosse prenez loisir
     Dentendre a vous legierement
@@ -580,7 +580,7 @@ cadavre, la femme enceinte.]
     Et nayes peur aucunement
     Dieu ne fait rien que pour le mieulx
 
-ï¿½La femme grosse
+¶La femme grosse
 
     Iauray bien petit de deduit
     De mon premier enfantement
@@ -597,10 +597,10 @@ cadavre, la femme enceinte.]
         Non est illa dies cursus vt ista. dierum
         Est deus illa dies: vltima nostra quies
 
-[Illustration: de gauche ï¿½ droite: un cadavre, la chambriï¿½re, un
+[Illustration: de gauche à droite: un cadavre, la chambrière, un
 cadavre, la recommanderesse.]
 
-ï¿½La mort.
+¶La mort.
 
     Dictes ieune femme a la cruche
     Renommee bonne chamberiere
@@ -611,7 +611,7 @@ cadavre, la recommanderesse.]
     Cest cy vostre iournee derniere
     Aussi tost meurt seruant que maistre
 
-ï¿½La chamberiere
+¶La chamberiere
 
     Quoy: ma maistresse ma promis
     Me marier & des biens faire
@@ -622,7 +622,7 @@ cadavre, la recommanderesse.]
     Aussi ne men scauroye taire
     Peu de gens desirent la mort
 
-ï¿½La mort.
+¶La mort.
 
     Scauez vous recommanderresse
     Point vng bon lieu pour moy loger:
@@ -633,7 +633,7 @@ cadavre, la recommanderesse.]
     Mourir fault pour vous abreger
     Nul ne pert que autre ne gaigne
 
-ï¿½La recommanderresse
+¶La recommanderresse
 
     En la mort na point damitie
     Et si ne fait riens pour requeste
@@ -653,10 +653,10 @@ cadavre, la recommanderesse.]
         Preter amare deum tibi nil applaudat in orbe
         Omnia pretereunt preter amare deum
 
-[Illustration: de gauche ï¿½ droite: un cadavre, la vieille demoiselle, un
-cadavre, la cordeliï¿½re.]
+[Illustration: de gauche à droite: un cadavre, la vieille demoiselle, un
+cadavre, la cordelière.]
 
-ï¿½La mort
+¶La mort
 
     Ma damoiselle du bon temps
     A tout voz anciens atours
@@ -667,7 +667,7 @@ cadavre, la cordeliï¿½re.]
     Et ne faictes point longz seiours
     Vieilles gens sont de la mort pres
 
-ï¿½La vieille damoiselle
+¶La vieille damoiselle
 
     Iay voirement mon temps passe
     Et ayme mieulx ainsi mourir
@@ -678,7 +678,7 @@ cadavre, la cordeliï¿½re.]
     Enfans: pour bien viure & mourir
     Il nest plus grant bien que de paix
 
-ï¿½La mort
+¶La mort
 
     Femme de grant deuocion
     Cloez voz heures & matines
@@ -689,7 +689,7 @@ cadavre, la cordeliï¿½re.]
     Rien ne vallent soupirs ne signes
     Bonne operacion tient lieu
 
-ï¿½La cordeliere
+¶La cordeliere
 
     Ie remercie le createur
     A qui plaist de menuoyer querre
@@ -709,10 +709,10 @@ cadavre, la cordeliï¿½re.]
         Preterit ista dies nescitur origo secundi an labor. an requies
         sic transit gloria mundi
 
-[Illustration: de gauche ï¿½ droite: un cadavre, la femme d'accueil, un
+[Illustration: de gauche à droite: un cadavre, la femme d'accueil, un
 cadavre, la nourrice.]
 
-ï¿½La mort
+¶La mort
 
     Femme daccueil et amiable
     A festier gens a plante:
@@ -723,7 +723,7 @@ cadavre, la nourrice.]
     Parler: qui nest que vanite
     Ceulx qui ont le bruit ont le bont
 
-ï¿½La femme daccueil
+¶La femme daccueil
 
     Auiourduy parens et amis
     Promettent et mons et merueilles
@@ -734,7 +734,7 @@ cadavre, la nourrice.]
     Et que vallent promesses telles
     Vrais ne sont pas les amis doubles
 
-ï¿½La mort
+¶La mort
 
     Apres nourrice: vostre beau filz
     Nonobstant son couuertouer
@@ -745,7 +745,7 @@ cadavre, la nourrice.]
     Vous ne poues plus cy targer
     La mort prent tout quant bon luy semble
 
-ï¿½La nourrice
+¶La nourrice
 
     A ceste danse fault aler
     Comme font les prestres au seyne
@@ -763,10 +763,10 @@ cadavre, la nourrice.]
         vnde exiuit quia turpia opera et delectaciones carnales
         impediunt eius ascensum sursum
 
-[Illustration: de gauche ï¿½ droite: un cadavre, la bergï¿½re, un cadavre,
-la femme avec des bï¿½quilles.]
+[Illustration: de gauche à droite: un cadavre, la bergère, un cadavre,
+la femme avec des béquilles.]
 
-ï¿½La mort
+¶La mort
 
     Pas ne vous oblieray derriere
     Venez apres moy: sa la main
@@ -777,7 +777,7 @@ la femme avec des bï¿½quilles.]
     Riens ne sera de vous demain
     Apres les veilles sont les festes
 
-ï¿½La bergiere
+¶La bergiere
 
     Ie prens congie du franc gontier
     Que ie regrette a merueilles
@@ -788,7 +788,7 @@ la femme avec des bï¿½quilles.]
     A dieu fleurs: & roses vermeilles
     Il fault tous obeir au maistre
 
-ï¿½La mort
+¶La mort
 
     Apres poure vieille aux potences
     Qui ne vous poues soustenir
@@ -799,7 +799,7 @@ la femme avec des bï¿½quilles.]
     Poues a grant bien paruenir
     Dieu recompense tout en gloire
 
-ï¿½La femme aux potences
+¶La femme aux potences
 
     De vieillesse ne voy mais goutte
     Par quoy ne crains gueres la mort
@@ -816,10 +816,10 @@ la femme avec des bï¿½quilles.]
         Non ex difformitate corporis defedatur animus. sed ex putredine
         anime defedatur corpus. vt ait seneca
 
-[Illustration: de gauche ï¿½ droite: un cadavre, la villageoise, un
+[Illustration: de gauche à droite: un cadavre, la villageoise, un
 cadavre, la vieille.]
 
-ï¿½La mort
+¶La mort
 
     Ha poure femme de village
     Suyues mon train sans retarder
@@ -830,7 +830,7 @@ cadavre, la vieille.]
     Vous en pourres moult amender
     Chascun trouuera sa deserte
 
-ï¿½La femme de village
+¶La femme de village
 
     Ie prens la mort vaille que vaille
     Bien en gre et en pacience
@@ -841,7 +841,7 @@ cadavre, la vieille.]
     Chascun veult auoir grant cheuance
     Nul na cure de pouurete.
 
-ï¿½La mort
+¶La mort
 
     Et vous ma dame la gourree
     Vendu auez maintz surplis
@@ -852,7 +852,7 @@ cadavre, la vieille.]
     Selon la robe on fait le plis
     A tel potaige tel cuiller
 
-ï¿½La vieille
+¶La vieille
 
     A tout mon cas bien recongnoistre.
     Ie nay pas vescu sans reprouche:
@@ -870,10 +870,10 @@ cadavre, la vieille.]
         exerceat diuerso quidem calle ad vnum tamen beatitudinis finem
         nititur peruenire    Boetius
 
-[Illustration: de gauche ï¿½ droite: un cadavre, la revenderesse, un
+[Illustration: de gauche à droite: un cadavre, la revenderesse, un
 cadavre, la femme amoureuse]
 
-ï¿½La mort
+¶La mort
 
     Approuches vous reuenderesse
     Sans plus cy faire demouree
@@ -884,7 +884,7 @@ cadavre, la femme amoureuse]
     Au monde na chose assuree
     Tel rit au matin qui au soir pleure.
 
-ï¿½La reuenderesse
+¶La reuenderesse
 
     Iauoie hier gaignie deux escus
     Pour sourfaire subtilement:
@@ -895,7 +895,7 @@ cadavre, la femme amoureuse]
     Que prestre aye hatiuement
     Car il vault mieulx tart que iamais
 
-ï¿½La mort
+¶La mort
 
     Femme de petite value
     Mal viuant en charnalite
@@ -906,7 +906,7 @@ cadavre, la femme amoureuse]
     Pour mal faire on est tourmente
     Pechie nuist quant on continue
 
-ï¿½La femme amoureuse
+¶La femme amoureuse
 
     A ce pechie me suis soubzmise
     Pour plaisance desordonnee
@@ -926,10 +926,10 @@ cadavre, la femme amoureuse]
         Est homo res fragilis et durans tempore paruo
         Posset esse similis flori qui crescit in aruo
 
-[Illustration: de gauche ï¿½ droite: un cadavre, la garde d'accouchï¿½es, un
+[Illustration: de gauche à droite: un cadavre, la garde d'accouchées, un
 cadavre, la jeune fille]
 
-ï¿½La mort
+¶La mort
 
     Venez ca garde dacouchees
     Dresse auez maintz baingz perdus
@@ -940,7 +940,7 @@ cadavre, la jeune fille]
     Qui seront apres cher vendus
     En la fin tout mal vient en ronge.
 
-ï¿½La garde dacouchees
+¶La garde dacouchees
 
     Iay voirement dresse maintz baingz
     Pour les comperes et commeres:
@@ -951,7 +951,7 @@ cadavre, la jeune fille]
     Il nen souuient a nulluy gueres
     Ioye de menger est peu durable
 
-ï¿½La mort
+¶La mort
 
     Tires vous pres gente garsette
     Bailles moy vostre bras menu
@@ -962,7 +962,7 @@ cadavre, la jeune fille]
     Paier on doit de tant tenu
     La mort est commune a chascun
 
-ï¿½La ieune fille
+¶La ieune fille
 
     Haa ma mere ie suis happee
     Vecy la mort qui me transporte
@@ -980,10 +980,10 @@ cadavre, la jeune fille]
         Cuius gratissimus erat amplexus in vita molestus erit eciam
         aspectus in morte
 
-[Illustration: de gauche ï¿½ droite: un cadavre, la religieuse, un
-cadavre, la sorciï¿½re.]
+[Illustration: de gauche à droite: un cadavre, la religieuse, un
+cadavre, la sorcière.]
 
-ï¿½La morte.
+¶La morte.
 
     Suyues mon train religieuse
     De voz fais conuient rendre compte
@@ -994,7 +994,7 @@ cadavre, la sorciï¿½re.]
     Entendes bien a vostre compte
     Tout ce quon fait y est compte
 
-ï¿½La religieuse
+¶La religieuse
 
     Iay fait par tout ce que iay peu
     Aux poures selon leur venue
@@ -1005,7 +1005,7 @@ cadavre, la sorciï¿½re.]
     Sa grace tousiours retenue
     Il nest si iuste qui ne faille
 
-ï¿½La morte.
+¶La morte.
 
     Oyez oyez: on vous fait scauoir
     Que ceste vieille sorciere
@@ -1016,7 +1016,7 @@ cadavre, la sorciï¿½re.]
     Ie la maine en son cymitiere
     Cest belle chose de bien faire
 
-ï¿½La sorciere
+¶La sorciere
 
     Mes bonnes gens ayes pitie
     De moy: et toute pecheresse
@@ -1033,10 +1033,10 @@ cadavre, la sorciï¿½re.]
         Si quis sentiret quo tendit et vnde veniret
         Nunquam gauderet sed omni tempore fleret
 
-[Illustration: de gauche ï¿½ droite: un cadavre, la bigote, un cadavre, la
+[Illustration: de gauche à droite: un cadavre, la bigote, un cadavre, la
 sotte.]
 
-ï¿½La mort.
+¶La mort.
 
     Dieu ayme bien femmes deuotes
     Qui ont consciences nettes
@@ -1047,7 +1047,7 @@ sotte.]
     En secretz pechez sont infectes
     Deuant dieu & sa compaignie
 
-ï¿½La bigote.
+¶La bigote.
 
     Pour verite me suis monstree
     Souuent meilleur que ie nestoye
@@ -1058,7 +1058,7 @@ sotte.]
     Ie pry a dieu quen bonne voye
     Plaise ma poure ame mettre
 
-ï¿½La mort.
+¶La mort.
 
     Sus tost margot venez auant
     Estes vous maintenant derriere
@@ -1069,7 +1069,7 @@ sotte.]
     Ne vault faire cy mesgre chiere
     Car cest vostre derniere note
 
-ï¿½La sotte
+¶La sotte
 
     Entre vous coinctes & iolies
     Femmes oyez que ie vous dis
@@ -1093,8 +1093,8 @@ sotte.]
         Mille fuere viri milleni milia mille
         Corpus humo putruit: nomine fama caret.
 
-[Illustration: ï¿½ droite, un cadavre ï¿½tendu, une couronne ï¿½ cï¿½tï¿½ de sa
-tï¿½te; ï¿½ gauche, un personnage assis prï¿½s d'une table contenant des
+[Illustration: à droite, un cadavre étendu, une couronne à côté de sa
+tête; à gauche, un personnage assis près d'une table contenant des
 livres. Le personnage et un ange montrent du doigt un bandeau portant
 les mots suivants:
 
@@ -1113,9 +1113,9 @@ les mots suivants:
         Sic igitur cuncti sapientes viuere certent:
         Vt nichil inferni sit metuenda palus.]
 
-ï¿½La royne morte
+¶La royne morte
 
-    ï¿½Ie estoye royne couronnee
+    ¶Ie estoye royne couronnee
     Plus que autre doubtee & crainte
     Qui suis icy aux vers donnee
     Apres que de mort fus attainte
@@ -1124,7 +1124,7 @@ les mots suivants:
     Pour quoy est dure ma complainte
     Bien charie droit qui ne verse
 
-    ï¿½Prenez y qui me regardez
+    ¶Prenez y qui me regardez
     Exemple: pour vostre prouffit
     Et de mal faire vous gardes
     Ie nen dis plus il me souffit
@@ -1133,9 +1133,9 @@ les mots suivants:
     Defais estiez quant vous refit
     Qui bien fera bien trouuera
 
-ï¿½Lacteur
+¶Lacteur
 
-    ï¿½O vous seigneurs & aussi dames
+    ¶O vous seigneurs & aussi dames
     Qui contemplez ceste paincture
     Plaise vous prier pour les ames
     De ceulx qui sont en sepulture
@@ -1144,7 +1144,7 @@ les mots suivants:
     Ceste vie quun bien peu ne dure
     Faictes bien vous le trouueres
 
-    ï¿½Iadis furent comme vous estes
+    ¶Iadis furent comme vous estes
     Qui ainsi dansent en facon telle
     Allans parlans comme vous faictes
     De gens mors il nest plus nouuelle
@@ -1156,9 +1156,9 @@ les mots suivants:
 
 
 
-[Illustration: un personnage fï¿½minin.]
+[Illustration: un personnage féminin.]
 
-    ï¿½Puis que ainsi est que la mort soit certaine
+    ¶Puis que ainsi est que la mort soit certaine
     Plus que autre rien terrible & douloureuse
     Et que chose ne peut estre incertaine
     Puis que en est leure horrible & angoysseuse
@@ -1191,7 +1191,7 @@ les mots suivants:
     Et ses pechez: comme saige & notable
     Pour bien mourir et viure longuement
 
-    ï¿½Mortelle femme: & ame raisonnable
+    ¶Mortelle femme: & ame raisonnable
     Se apres ne veulx mort estre damnable
     Tu dois le iour vne foys seulement
     Penser du moins ta fin abhominable
@@ -1200,7 +1200,7 @@ les mots suivants:
 
 
 
-[Illustration: un personnage fï¿½minin.]
+[Illustration: un personnage féminin.]
 
     Ie congnois que dieu ma forme
     Et fait en sa digne semblance
@@ -1252,11 +1252,11 @@ les mots suivants:
         Quoniam non est in morte qui memor sit tui in inferno autem
         quis confitebitur tibi.
 
-[Illustration: ï¿½ gauche, un monstre laissant apparaï¿½tre une tï¿½te d'homme
-dans sa gueule ouverte; ï¿½ droite, la mort ï¿½ cheval, tenant une grande
-flï¿½che et portant une sorte de cercueil sous le bras.]
+[Illustration: à gauche, un monstre laissant apparaître une tête d'homme
+dans sa gueule ouverte; à droite, la mort à cheval, tenant une grande
+flèche et portant une sorte de cercueil sous le bras.]
 
-    ï¿½Sur ce cheual hideux et palle
+    ¶Sur ce cheual hideux et palle
     La mort suis: Fierement assise
     Il nest beaulte que ie ne haale
     Soit vermeille ou blanche ou bise
@@ -1265,7 +1265,7 @@ flï¿½che et portant une sorte de cercueil sous le bras.]
     Et ie tue tout. Car cest ma guise
     Tous viuans trebuchent en ma trappe
 
-    ï¿½Je passe par mons et par vaulx
+    ¶Je passe par mons et par vaulx
     Sans tenir ne voie ne sente
     Ie prens par villes et chasteaulx
     Mon tribu mon cens ma rente.
@@ -1274,7 +1274,7 @@ flï¿½che et portant une sorte de cercueil sous le bras.]
     Deuant moy fault quon se presente
     A tous viuans ie tol la vie.
 
-    ï¿½Enfer scait bien quel tuerie
+    ¶Enfer scait bien quel tuerie
     Ie fais de gens. car pas a pas
     Me suit. Et de ma Boucherie
     Aual lan fais maint gros repas.
@@ -1283,7 +1283,7 @@ flï¿½che et portant une sorte de cercueil sous le bras.]
     Daucuns qui ne sen doubtent pas
     Sen garde qui garder vouldra
 
-    ï¿½Encor me suyt raison pour quoy
+    ¶Encor me suyt raison pour quoy
     De ceulx qui meurent de mon dart
     Et sont sans nombre: Croies moy.
     Car il en a la plus grant part
@@ -1297,31 +1297,31 @@ flï¿½che et portant une sorte de cercueil sous le bras.]
 
 [Illustration: un personnage.]
 
-      ï¿½Ie considere ma pouure humanite
+      ¶Ie considere ma pouure humanite
     Et comme en pleur premier nasqui sur terre
-      ï¿½Ie considere moult ma fragilite
+      ¶Ie considere moult ma fragilite
     Et mon peche qui tropt le cuer me serre
-      ï¿½Ie considere que mort me viendra querre
+      ¶Ie considere que mort me viendra querre
     Ie ne scay lheure. pour me tollir la vie
-      ï¿½Ie considere que lennemy mespie
+      ¶Ie considere que lennemy mespie
     La chair: le monde. me guerroient si tresfort
-      ï¿½Ie considere que cest tout par enuie
+      ¶Ie considere que cest tout par enuie
     Pour moy liurer sans fin de mort a mort
 
-      ï¿½Ie considere les tribulacions
+      ¶Ie considere les tribulacions
     De ce vil siecle dont la vie nest pas necte
-      ï¿½Ie considere cent mille passions
+      ¶Ie considere cent mille passions
     Ou poure humaine creature est subiecte
-      ï¿½Ie considere la sentence parfaicte
+      ¶Ie considere la sentence parfaicte
     Du vray iuge faicte sur bons et maulx
-      ï¿½Ie considere tant plus viz que pis vaulx
+      ¶Ie considere tant plus viz que pis vaulx
     Dont conscience bien souuent me remort
-      ï¿½Ie considere des damnes les deffaulx
+      ¶Ie considere des damnes les deffaulx
     Qui sont liures sans fin de mort a mort
 
-      ï¿½Ie considere que les vers mangeront
+      ¶Ie considere que les vers mangeront
     Mon dolent corps cest chose espouentable
-      ï¿½Ie considere las pecheurs que feront
+      ¶Ie considere las pecheurs que feront
     Quant se viendra le iugement doutable
     O doulce vierge sur toutes delectable
     Ayez mercy de moy celle iournee
@@ -1330,7 +1330,7 @@ flï¿½che et portant une sorte de cercueil sous le bras.]
     Car a vous seule du cuer ie lay vouee
     Pour la deffendre sans fin de mort a mort
 
-    ï¿½Prince du ciel vostre humble creature
+    ¶Prince du ciel vostre humble creature
     Vous cry mercy pour faire son accord
     Et de la peine qui a tousiours mais dure
     La deffendez sans fin de mort a mort
@@ -1356,9 +1356,9 @@ gaillart a paris
 ----------------------
 NOTES DU TRANSCRIPTEUR
 
-L'orthographe et la ponctuation sont conformes ï¿½ l'original (exemplaire
-Y 6133 F2 de la BNF). On a rï¿½solu les abrï¿½viations par signes
-conventionnels (par exemple: Cï¿½me > Comme), et effectuï¿½ les corrections
+L'orthographe et la ponctuation sont conformes à l'original (exemplaire
+Y 6133 F2 de la BNF). On a résolu les abréviations par signes
+conventionnels (par exemple: Cõme > Comme), et effectué les corrections
 suivantes:
 
   studs > studens (est nos laqueare studens)
@@ -1366,11 +1366,11 @@ suivantes:
   bonte > honte (ce vous sera honte)
   conor > cogor (et sic ostendere cogor)
 
-ainsi que six cas d'interversion u/n (fanlt > fault, etc.) non signalï¿½s
+ainsi que six cas d'interversion u/n (fanlt > fault, etc.) non signalés
 individuellement.
 
-Les marques de paragraphe (ï¿½) sont vraisemblablement manuscrites, et
-dans une teinte plus claire que l'encre du texte (peut-ï¿½tre en couleur).
+Les marques de paragraphe (¶) sont vraisemblablement manuscrites, et
+dans une teinte plus claire que l'encre du texte (peut-être en couleur).
 
 
 

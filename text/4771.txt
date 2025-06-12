@@ -1,8 +1,4 @@
 
-Nous remercions la Bibliothï¿½que Nationale de France qui a mis ï¿½
-dispositions les images dans www://gallica.bnf.fr, et a donnï¿½
-l'authorization ï¿½ les utilizer pour preparer ce texte.
-
 
 
 
@@ -17,7 +13,7 @@ l'authorization ï¿½ les utilizer pour preparer ce texte.
 
 	      DE L' IMPRIMERIE DE A.  FIRMIN DIDOT,
 
-			RUE JACOB, Nï¿½ 24.
+			RUE JACOB, N° 24.
 
 
 
@@ -28,7 +24,7 @@ l'authorization ï¿½ les utilizer pour preparer ce texte.
 
 			    VOLTAIRE
 
-	      PRï¿½FACES, AVERTISSEMENTS, NOTES, ETC.
+	      PRÉFACES, AVERTISSEMENTS, NOTES, ETC.
 
 			PAR  M. BEUCHOT.
 
@@ -38,11 +34,11 @@ l'authorization ï¿½ les utilizer pour preparer ce texte.
 
 			    A PARIS,
 
-		     CHEZ LEFï¿½VRE, LIBRAIRE,
+		     CHEZ LEFÈVRE, LIBRAIRE,
 
-	 RUE DE L'ï¿½PERON, Kï¿½ 6.  WERDET ET LEQUIEN FILS,
+	 RUE DE L'ÉPERON, K° 6.  WERDET ET LEQUIEN FILS,
 
-		     RUE DU BATTOIR, Nï¿½ 2O.
+		     RUE DU BATTOIR, N° 2O.
 
 			   MDCCCXXIX.
 
@@ -52,7 +48,7 @@ l'authorization ï¿½ les utilizer pour preparer ce texte.
 
 
 
-Prï¿½face de l'ï¿½diteur
+Préface de l'Éditeur
 
 
 
@@ -63,16 +59,16 @@ Guillaume Fade.
 
 				------
 
-Les notes sans signature, et qui sont indiquï¿½es par des lettres,
+Les notes sans signature, et qui sont indiquées par des lettres,
 sont de Voltaire.
 
-Les notes signï¿½es d'un K sont des ï¿½diteurs de Kehl, MM. Condorcet
+Les notes signées d'un K sont des éditeurs de Kehl, MM. Condorcet
 et Decroix.  Il est impossible de faire rigoureusement la part de
 chacun.
 
 Les additions que j'ai faites aux notes de Voltaire ou aux notes
-des ï¿½diteurs de Kehl, en sont sï¿½parï¿½es par un--, et sont, comme
-mes notes, signï¿½es de l'initiale de mon nom.
+des éditeurs de Kehl, en sont séparées par un--, et sont, comme
+mes notes, signées de l'initiale de mon nom.
 
                                                  BEUCHOT.
 
@@ -89,499 +85,499 @@ LE BLANC ET LE NOIR.
 
 
 
-Tout le monde dans la province de Candahar connaï¿½t l'aventure du
-jeune Rustan.  Il ï¿½tait fils unique d'un mirza du pays; c'est
+Tout le monde dans la province de Candahar connaît l'aventure du
+jeune Rustan.  Il était fils unique d'un mirza du pays; c'est
 comme qui dirait marquis parmi nous, ou baron chez les Allemands.
-Le mirza, son pï¿½re, avait un bien honnï¿½te.  On devait marier le
-jeune Rustan ï¿½ une demoiselle, ou mirzasse de sa sorte.  Les deux
-familles le dï¿½siraient passionnï¿½ment.  Il devait faire la
-consolation de ses parents, rendre sa femme heureuse, et l'ï¿½tre
+Le mirza, son père, avait un bien honnête.  On devait marier le
+jeune Rustan à une demoiselle, ou mirzasse de sa sorte.  Les deux
+familles le désiraient passionnément.  Il devait faire la
+consolation de ses parents, rendre sa femme heureuse, et l'être
 avec elle.
 
-Mais par malheur il avait vu la princesse de Cachemire ï¿½ la foire
-de Cabul, qui est la foire la plus considï¿½rable du monde, et
-incomparablement plus frï¿½quentï¿½e que celle de Bassora et
-d'Astracan; et voici pourquoi le vieux prince de Cachemire ï¿½tait
-venu ï¿½ la foire avec sa fille.
+Mais par malheur il avait vu la princesse de Cachemire à la foire
+de Cabul, qui est la foire la plus considérable du monde, et
+incomparablement plus fréquentée que celle de Bassora et
+d'Astracan; et voici pourquoi le vieux prince de Cachemire était
+venu à la foire avec sa fille.
 
-Il avait perdu les deux plus rares piï¿½ces de son trï¿½sor: l'une
-ï¿½tait un diamant gros comme le pouce, sur lequel sa fille ï¿½tait
-gravï¿½e par un art que les Indiens possï¿½daient alors, et qui s'est
-perdu depuis; l'autre ï¿½tait un javelot qui allait de lui-mï¿½me oï¿½
+Il avait perdu les deux plus rares pièces de son trésor: l'une
+était un diamant gros comme le pouce, sur lequel sa fille était
+gravée par un art que les Indiens possédaient alors, et qui s'est
+perdu depuis; l'autre était un javelot qui allait de lui-même où
 l'on voulait; ce qui n'est pas une chose bien extraordinaire
-parmi nous, mais qui l'ï¿½tait ï¿½ Cachemire.
+parmi nous, mais qui l'était à Cachemire.
 
-Un faquir de son altesse lui vola ces deux bijoux; il les porta ï¿½
-la princesse.  Gardez soigneusement ces deux piï¿½ces, lui dit-il;
-votre destinï¿½e en dï¿½pend.  Il partit alors, et on ne le revit
-plus.  Le duc de Cachemire au dï¿½sespoir rï¿½solut d'aller voir, ï¿½
+Un faquir de son altesse lui vola ces deux bijoux; il les porta à
+la princesse.  Gardez soigneusement ces deux pièces, lui dit-il;
+votre destinée en dépend.  Il partit alors, et on ne le revit
+plus.  Le duc de Cachemire au désespoir résolut d'aller voir, à
 la foire de Cabul, si de tous les marchands qui s'y rendent des
-quatre coins du monde il n'y en aurait pas un qui eï¿½t son diamant
+quatre coins du monde il n'y en aurait pas un qui eût son diamant
 et son arme.  Il menait sa fille avec lui dans tous ses voyages.
-Elle porta son diamant bien enfermï¿½ dans sa ceinture; mais pour
+Elle porta son diamant bien enfermé dans sa ceinture; mais pour
 le javelot qu'elle ne pouvait si bien cacher, elle l'avait
-enfermï¿½ soigneusement ï¿½ Cachemire dans son grand coffre de la
+enfermé soigneusement à Cachemire dans son grand coffre de la
 Chine.
 
-Rustan et elle se virent ï¿½ Cabul; ils s'aimï¿½rent avec toute la
-bonne foi de leur ï¿½ge, et toute la tendresse de leur pays.  La
+Rustan et elle se virent à Cabul; ils s'aimèrent avec toute la
+bonne foi de leur âge, et toute la tendresse de leur pays.  La
 princesse, pour gage de son amour, lui donna son diamant, et
-Rustan lui promit ï¿½ son dï¿½part de l'aller voir secrï¿½tement ï¿½
+Rustan lui promit à son départ de l'aller voir secrètement à
 Cachemire.
 
 Le jeune mirza avait deux favoris qui lui servaient de
-secrï¿½taires, d'ï¿½cuyers, de maï¿½tres-d'hï¿½tel, et de valets de
-chambre.  L'un s'appelait Topaze; il ï¿½tait beau, bien fait, blanc
-comme une Circassienne, doux et serviable comme un Armï¿½nien, sage
-comme un Guï¿½bre, l'autre se nommait ï¿½bï¿½ne; c'ï¿½tait un nï¿½gre fort
-joli, plus empressï¿½, plus industrieux que Topaze, et qui ne
+secrétaires, d'écuyers, de maîtres-d'hôtel, et de valets de
+chambre.  L'un s'appelait Topaze; il était beau, bien fait, blanc
+comme une Circassienne, doux et serviable comme un Arménien, sage
+comme un Guèbre, l'autre se nommait Ébène; c'était un nègre fort
+joli, plus empressé, plus industrieux que Topaze, et qui ne
 trouvait rien de difficile.  Il leur communiqua le projet de son
-voyage.  Topaze tï¿½cha de l'en dï¿½tourner avec le zï¿½le circonspect
-d'un serviteur qui ne voulait pas lui dï¿½plaire; il lui reprï¿½senta
+voyage.  Topaze tâcha de l'en détourner avec le zèle circonspect
+d'un serviteur qui ne voulait pas lui déplaire; il lui représenta
 tout ce qu'il hasardait.  Comment laisser deux familles au
-dï¿½sespoir?  comment mettre le couteau dans le coeur de ses
-parents? Il ï¿½branla Rustan; mais ï¿½bï¿½ne le raffermit et leva tous
+désespoir?  comment mettre le couteau dans le coeur de ses
+parents? Il ébranla Rustan; mais Ébène le raffermit et leva tous
 ses scrupules.
 
 Le jeune homme manquait d'argent pour un si long voyage.  Le sage
-Topaze ne lui en aurait pas fait prï¿½ter; ï¿½bï¿½ne y pourvut.  Il
-prit adroitement le diamant de son maï¿½tre, en fit faire un faux
-tout semblable qu'il remit ï¿½ sa place, et donna le vï¿½ritable en
-gage ï¿½ un Armï¿½nien pour quelques milliers de roupies.
+Topaze ne lui en aurait pas fait prêter; Ébène y pourvut.  Il
+prit adroitement le diamant de son maître, en fit faire un faux
+tout semblable qu'il remit à sa place, et donna le véritable en
+gage à un Arménien pour quelques milliers de roupies.
 
-Quand le marquis eut ses roupies, tout fut prï¿½t pour le dï¿½part.
-On chargea un ï¿½lï¿½phant de son bagage; on monta ï¿½ cheval.  Topaze
-dit ï¿½ son maï¿½tre: J'ai pris la libertï¿½ de vous faire des
-remontrances sur votre entreprise; mais, aprï¿½s avoir remontrï¿½, il
-faut obï¿½ir; je suis ï¿½ vous, je vous aime, je vous suivrai
+Quand le marquis eut ses roupies, tout fut prêt pour le départ.
+On chargea un éléphant de son bagage; on monta à cheval.  Topaze
+dit à son maître: J'ai pris la liberté de vous faire des
+remontrances sur votre entreprise; mais, après avoir remontré, il
+faut obéir; je suis à vous, je vous aime, je vous suivrai
 jusqu'au bout du monde; mais consultons en chemin l'oracle qui
-est ï¿½ deux parasanges d'ici.  Rustan y consentit.  L'oracle
-rï¿½pondit: ï¿½Si tu vas ï¿½ l'orient, tu seras ï¿½ l'occident.ï¿½ Rustan
-ne comprit rien ï¿½ cette rï¿½ponse.  Topaze soutint qu'elle ne
-contenait rien de bon.  Ebï¿½ne, toujours complaisant, lui persuada
-qu'elle ï¿½tait trï¿½s favorable.
+est à deux parasanges d'ici.  Rustan y consentit.  L'oracle
+répondit: «Si tu vas à l'orient, tu seras à l'occident.» Rustan
+ne comprit rien à cette réponse.  Topaze soutint qu'elle ne
+contenait rien de bon.  Ebène, toujours complaisant, lui persuada
+qu'elle était très favorable.
 
-Il y avait encore un autre oracle dans Cabul; ils y allï¿½rent.
-L'oracle de Cabul rï¿½pondit en ces mots: ï¿½Si tu possï¿½des, tu ne
-possï¿½deras pas; si tu es vainqueur, tu ne vaincras pas; si tu es
-Rustan, tu ne le seras pas.ï¿½ Cet oracle parut encore plus
-inintelligible que l'autre.  Prenez garde ï¿½ vous, disait Topaze.
-Ne redoutez rien, disait ï¿½bï¿½ne; et ce ministre, comme on peut le
-croire, avait toujours raison auprï¿½s de son maï¿½tre, dont il
-encourageait la passion et l'espï¿½rance.
+Il y avait encore un autre oracle dans Cabul; ils y allèrent.
+L'oracle de Cabul répondit en ces mots: «Si tu possèdes, tu ne
+posséderas pas; si tu es vainqueur, tu ne vaincras pas; si tu es
+Rustan, tu ne le seras pas.» Cet oracle parut encore plus
+inintelligible que l'autre.  Prenez garde à vous, disait Topaze.
+Ne redoutez rien, disait Ébène; et ce ministre, comme on peut le
+croire, avait toujours raison auprès de son maître, dont il
+encourageait la passion et l'espérance.
 
-Au sortir de Cabul, on marcha par une grande forï¿½t, on s'assit
-sur l'herbe pour manger, on laissa les chevaux paï¿½tre.  On se
-prï¿½parait ï¿½ dï¿½charger l'ï¿½lï¿½phant qui portait le dï¿½ner et le
-service, lorsqu'on s'aperï¿½ut que Topaze et ï¿½bï¿½ne n'ï¿½taient plus
-avec la petite caravane.  On les appelle; la forï¿½t retentit des
-noms d'ï¿½bï¿½ne et de Topaze.  Les valets les cherchent de tous
-cï¿½tï¿½s, et remplissent la forï¿½t de leurs cris; ils reviennent sans
-avoir rien vu, sans qu'on leur ait rï¿½pondu.  Nous n'avons trouvï¿½,
-dirent-ils ï¿½ Rustan, qu'un vautour qui se battait avec un aigle,
-et qui lui ï¿½tait toutes ses plumes.  Le rï¿½cit de ce combat piqua
-la curiositï¿½ de Rustan; il alla ï¿½ pied sur le lieu, il n'aperï¿½ut
-ni vautour ni aigle; mais il vit son ï¿½lï¿½phant, encore tout chargï¿½
-de son bagage, qui ï¿½tait assailli par un gros rhinocï¿½ros.  L'un
-frappait de sa corne, l'autre de sa trompe.  Le rhinocï¿½ros lï¿½cha
-prise ï¿½ la vue de Rustan; on ramena son ï¿½lï¿½phant, mais on ne
-trouva plus les chevaux.  Il arrive d'ï¿½tranges choses dans les
-forï¿½ts quand on voyage!  s'ï¿½criait Rustan.  Les valets ï¿½taient
-consternï¿½s, et le maï¿½tre au dï¿½sespoir d'avoir perdu ï¿½-la-fois ses
-chevaux, son cher nï¿½gre, et le sage Topaze pour lequel il avait
-toujours de l'amitiï¿½, quoiqu'il ne fï¿½t jamais de son avis.
+Au sortir de Cabul, on marcha par une grande forêt, on s'assit
+sur l'herbe pour manger, on laissa les chevaux paître.  On se
+préparait à décharger l'éléphant qui portait le dîner et le
+service, lorsqu'on s'aperçut que Topaze et Ébène n'étaient plus
+avec la petite caravane.  On les appelle; la forêt retentit des
+noms d'Ébène et de Topaze.  Les valets les cherchent de tous
+côtés, et remplissent la forêt de leurs cris; ils reviennent sans
+avoir rien vu, sans qu'on leur ait répondu.  Nous n'avons trouvé,
+dirent-ils à Rustan, qu'un vautour qui se battait avec un aigle,
+et qui lui ôtait toutes ses plumes.  Le récit de ce combat piqua
+la curiosité de Rustan; il alla à pied sur le lieu, il n'aperçut
+ni vautour ni aigle; mais il vit son éléphant, encore tout chargé
+de son bagage, qui était assailli par un gros rhinocéros.  L'un
+frappait de sa corne, l'autre de sa trompe.  Le rhinocéros lâcha
+prise à la vue de Rustan; on ramena son éléphant, mais on ne
+trouva plus les chevaux.  Il arrive d'étranges choses dans les
+forêts quand on voyage!  s'écriait Rustan.  Les valets étaient
+consternés, et le maître au désespoir d'avoir perdu à-la-fois ses
+chevaux, son cher nègre, et le sage Topaze pour lequel il avait
+toujours de l'amitié, quoiqu'il ne fût jamais de son avis.
 
-L'espï¿½rance d'ï¿½tre bientï¿½t aux pieds de la belle princesse de
-Cachemire le consolait, quand il rencontra un grand ï¿½ne rayï¿½, ï¿½
-qui un rustre vigoureux et terrible donnait cent coups de bï¿½ton.
-Rien n'est si beau, ni si rare, ni si lï¿½ger ï¿½ la course que les
-ï¿½nes de cette espï¿½ce.  Celui-ci rï¿½pondait aux coups redoublï¿½s du
-vilain par des ruades qui auraient pu dï¿½raciner un chï¿½ne.  Le
-jeune mirza prit, comme de raison, le parti de l'ï¿½ne, qui ï¿½tait
-une crï¿½ature charmante.  Le rustre s'enfuit en disant ï¿½ l'ï¿½ne, Tu
-me le paieras.  L'ï¿½ne remercia son libï¿½rateur en son langage,
+L'espérance d'être bientôt aux pieds de la belle princesse de
+Cachemire le consolait, quand il rencontra un grand âne rayé, à
+qui un rustre vigoureux et terrible donnait cent coups de bâton.
+Rien n'est si beau, ni si rare, ni si léger à la course que les
+ânes de cette espèce.  Celui-ci répondait aux coups redoublés du
+vilain par des ruades qui auraient pu déraciner un chêne.  Le
+jeune mirza prit, comme de raison, le parti de l'âne, qui était
+une créature charmante.  Le rustre s'enfuit en disant à l'âne, Tu
+me le paieras.  L'âne remercia son libérateur en son langage,
 s'approcha, se laissa caresser, et caressa.  Rustan monte dessus
-aprï¿½s avoir dï¿½nï¿½, et prend le chemin de Cachemire avec ses
-domestiques, qui suivent les uns ï¿½ pied, les autres montï¿½s sur
-l'ï¿½lï¿½phant.
+après avoir dîné, et prend le chemin de Cachemire avec ses
+domestiques, qui suivent les uns à pied, les autres montés sur
+l'éléphant.
 
-A peine ï¿½tait-il sur son ï¿½ne que cet animal tourne vers Cabul, au
-lieu de suivre la route de Cachemire.  Son maï¿½tre a beau tourner
+A peine était-il sur son âne que cet animal tourne vers Cabul, au
+lieu de suivre la route de Cachemire.  Son maître a beau tourner
 la bride, donner des saccades, serrer les genoux, appuyer des
-ï¿½perons, rendre la bride, tirer ï¿½ lui, fouetter ï¿½ droite et ï¿½
-gauche, l'animal opiniï¿½tre courait toujours vers Cabul.
+éperons, rendre la bride, tirer à lui, fouetter à droite et à
+gauche, l'animal opiniâtre courait toujours vers Cabul.
 
-Rustan suait, se dï¿½menait, se dï¿½sespï¿½rait, quand il rencontre un
-marchand de chameaux qui lui dit: Maï¿½tre, vous avez lï¿½ un ï¿½ne
-bien malin qui vous mï¿½ne oï¿½ vous ne voulez pas aller; si vous
-voulez me le cï¿½der, je vous donnerai quatre de mes chameaux ï¿½
-choisir.  Rustan remercia la Providence de lui avoir procurï¿½ un
-si bon marchï¿½.  Topaze avait grand tort, dit-il, de me dire que
+Rustan suait, se démenait, se désespérait, quand il rencontre un
+marchand de chameaux qui lui dit: Maître, vous avez là un âne
+bien malin qui vous mène où vous ne voulez pas aller; si vous
+voulez me le céder, je vous donnerai quatre de mes chameaux à
+choisir.  Rustan remercia la Providence de lui avoir procuré un
+si bon marché.  Topaze avait grand tort, dit-il, de me dire que
 mon voyage serait malheureux.  Il monte sur le plus beau chameau,
 les trois autres suivent; il rejoint sa caravane, et se voit dans
 le chemin de son bonheur.
 
-A peine a-t-il marchï¿½ quatre parasanges qu'il est arrï¿½tï¿½ par un
-torrent profond, large, et impï¿½tueux, qui roulait des rochers
-blanchis d'ï¿½cume.  Les deux rivages ï¿½taient des prï¿½cipices
-affreux qui ï¿½blouissaient la vue et glaï¿½aient le courage; nul
-moyen de passer, nul d'aller ï¿½ droite ou ï¿½ gauche.  Je commence ï¿½
-craindre, dit Rustan, que Topaze n'ait eu raison de blï¿½mer mon
-voyage, et moi grand tort de l'entreprendre; encore, s'il ï¿½tait
-ici, il me pourrait donner quelques bons avis.  Si j'avais ï¿½bï¿½ne,
-il me consolerait, et il trouverait des expï¿½dients; mais tout me
-manque.  Son embarras ï¿½tait augmentï¿½ par la consternation de sa
-troupe: la nuit ï¿½tait noire, on la passa ï¿½ se lamenter.  Enfin la
+A peine a-t-il marché quatre parasanges qu'il est arrêté par un
+torrent profond, large, et impétueux, qui roulait des rochers
+blanchis d'écume.  Les deux rivages étaient des précipices
+affreux qui éblouissaient la vue et glaçaient le courage; nul
+moyen de passer, nul d'aller à droite ou à gauche.  Je commence à
+craindre, dit Rustan, que Topaze n'ait eu raison de blâmer mon
+voyage, et moi grand tort de l'entreprendre; encore, s'il était
+ici, il me pourrait donner quelques bons avis.  Si j'avais Ébène,
+il me consolerait, et il trouverait des expédients; mais tout me
+manque.  Son embarras était augmenté par la consternation de sa
+troupe: la nuit était noire, on la passa à se lamenter.  Enfin la
 fatigue et l'abattement endormirent l'amoureux voyageur.  Il se
-rï¿½veille au point du jour, et voit un beau pont de marbre ï¿½levï¿½
-sur le torrent d'une rive ï¿½ l'autre.
+réveille au point du jour, et voit un beau pont de marbre élevé
+sur le torrent d'une rive à l'autre.
 
-Ce furent des exclamations, des cris d'ï¿½tonnement et de joie.
+Ce furent des exclamations, des cris d'étonnement et de joie.
 Est-il possible? est-ce un songe? quel prodige!  quel
-enchantement !  oserons-nous passer? Toute la troupe se mettait ï¿½
+enchantement !  oserons-nous passer? Toute la troupe se mettait à
 genoux, se relevait, allait au pont, baisait la terre, regardait
-le ciel, ï¿½tendait les mains, posait le pied en tremblant, allait,
-revenait, ï¿½tait en extase; et Rustan disait: Pour le coup le ciel
+le ciel, étendait les mains, posait le pied en tremblant, allait,
+revenait, était en extase; et Rustan disait: Pour le coup le ciel
 me favorise: Topaze ne savait ce qu'il disait; les oracles
-ï¿½taient en ma faveur; Ebï¿½ne avait raison; mais pourquoi n'est-il
+étaient en ma faveur; Ebène avait raison; mais pourquoi n'est-il
 pas ici?
 
-A peine la troupe fut-elle au-delï¿½ du torrent que voilï¿½ le pont
-qui s'abï¿½me dans l'eau avec un fracas ï¿½pouvantable.  Tant mieux!
-tant mieux!  s'ï¿½cria Rustan; Dieu soit louï¿½!  le ciel soit bï¿½ni!
-il ne veut pas que je retourne dans mon pays, oï¿½ je n'aurais ï¿½tï¿½
-qu'un simple gentilhomme; il veut que j'ï¿½pouse ce que j'aime.  Je
-serai prince de Cachemire; c'est ainsi qu'en _possï¿½dant_ ma
-maï¿½tresse, je ne _possï¿½derai_ pas mon petit marquisat ï¿½ Candahar.
+A peine la troupe fut-elle au-delà du torrent que voilà le pont
+qui s'abîme dans l'eau avec un fracas épouvantable.  Tant mieux!
+tant mieux!  s'écria Rustan; Dieu soit loué!  le ciel soit béni!
+il ne veut pas que je retourne dans mon pays, où je n'aurais été
+qu'un simple gentilhomme; il veut que j'épouse ce que j'aime.  Je
+serai prince de Cachemire; c'est ainsi qu'en _possédant_ ma
+maîtresse, je ne _posséderai_ pas mon petit marquisat à Candahar.
 _Je serai Rustan, et je ne le serai pas_, puisque je deviendrai
-un grand prince: voilï¿½ une grande partie de l'oracle expliquï¿½e
-nettement en ma faveur, le reste s'expliquera de mï¿½me: je suis
-trop heureux; mais pourquoi ï¿½bï¿½ne n'est-il pas auprï¿½s de moi? je
+un grand prince: voilà une grande partie de l'oracle expliquée
+nettement en ma faveur, le reste s'expliquera de même: je suis
+trop heureux; mais pourquoi Ébène n'est-il pas auprès de moi? je
 le regrette mille fois plus que Topaze.
 
-Il avanï¿½a encore quelques parasanges avec la plus grande
-allï¿½gresse; mais, sur la fin du jour, une enceinte de montagnes
-plus roides qu'une contrescarpe, et plus hautes que n'aurait ï¿½tï¿½
-la tour de Babel, si elle avait ï¿½tï¿½ achevï¿½e, barra entiï¿½rement la
+Il avança encore quelques parasanges avec la plus grande
+allégresse; mais, sur la fin du jour, une enceinte de montagnes
+plus roides qu'une contrescarpe, et plus hautes que n'aurait été
+la tour de Babel, si elle avait été achevée, barra entièrement la
 caravane saisie de crainte.
 
-Tout le monde s'ï¿½cria: Dieu veut que nous pï¿½rissions ici!  il n'a
-brisï¿½ le pont que pour nous ï¿½ter tout espoir de retour; il n'a
-ï¿½levï¿½ la montagne que pour nous priver de tout moyen d'avancer.
-O Rustan!  ï¿½ malheureux marquis!  nous ne verrons jamais
+Tout le monde s'écria: Dieu veut que nous périssions ici!  il n'a
+brisé le pont que pour nous ôter tout espoir de retour; il n'a
+élevé la montagne que pour nous priver de tout moyen d'avancer.
+O Rustan!  ô malheureux marquis!  nous ne verrons jamais
 Cachemire, nous ne rentrerons jamais dans la terre de Candahar.
 
 La plus cuisante douleur, l'abattement le plus accablant,
-succï¿½daient dans l'ame de Rustan ï¿½ la joie immodï¿½rï¿½e qu'il avait
-ressentie, aux espï¿½rances dont il s'ï¿½tait enivrï¿½.  Il ï¿½tait bien
-loin d'interprï¿½ter les prophï¿½ties ï¿½ son avantage.  O ciel!  ï¿½
+succédaient dans l'ame de Rustan à la joie immodérée qu'il avait
+ressentie, aux espérances dont il s'était enivré.  Il était bien
+loin d'interpréter les prophéties à son avantage.  O ciel!  ô
 Dieu paternel!  faut-il que j'aie perdu mon ami Topaze!
 
-Comme il prononï¿½ait ces paroles en poussant de profonds soupirs,
-et en versant des larmes au milieu de ses suivants dï¿½sespï¿½rï¿½s,
-voilï¿½ la base de la montagne qui s'ouvre, une longue galerie en
-voï¿½te, ï¿½clairï¿½e de cent mille flambeaux, se prï¿½sente aux yeux
-ï¿½blouis; et Rustan de s'ï¿½crier, et ses gens de se jeter ï¿½ genoux,
-et de tomber d'ï¿½tonnement ï¿½ la renverse, et de crier miracle!  et
-de dire: Rustan est le favori de Vitsnou, le bien-aimï¿½ de Brama;
-il sera le maï¿½tre du monde.  Rustan le croyait, il ï¿½tait hors de
-lui, ï¿½levï¿½ au-dessus'de lui-mï¿½me.  Ah!  ï¿½bï¿½ne, mon cher ï¿½bï¿½ne!
-oï¿½ ï¿½tes-vous ? que n'ï¿½tes-vous tï¿½moin de toutes ces merveilles!
+Comme il prononçait ces paroles en poussant de profonds soupirs,
+et en versant des larmes au milieu de ses suivants désespérés,
+voilà la base de la montagne qui s'ouvre, une longue galerie en
+voûte, éclairée de cent mille flambeaux, se présente aux yeux
+éblouis; et Rustan de s'écrier, et ses gens de se jeter à genoux,
+et de tomber d'étonnement à la renverse, et de crier miracle!  et
+de dire: Rustan est le favori de Vitsnou, le bien-aimé de Brama;
+il sera le maître du monde.  Rustan le croyait, il était hors de
+lui, élevé au-dessus'de lui-même.  Ah!  Ébène, mon cher Ébène!
+où êtes-vous ? que n'êtes-vous témoin de toutes ces merveilles!
 comment vous ai-je perdu ?  Belle princesse de Cachemire, quand
 reverrai-je vos charmes ?
 
-Il avance avec ses domestiques, son ï¿½lï¿½phant, ses chameaux, sous
-la voï¿½te de la montagne, au bout de laquelle il entre dans une
-prairie ï¿½maillï¿½e de fleurs et bordï¿½e de ruisseaux: au bout de la
-prairie ce sont des allï¿½es d'arbres ï¿½ perte de vue; et au bout de
-ces allï¿½es, une riviï¿½re, le long de laquelle sont mille maisons
-de plaisance, avec des jardins dï¿½licieux.  Il entend partout des
-concerts de voix et d'instruments; il voit des danses; il se hï¿½te
-de passer un des ponts de la riviï¿½re; il demande au premier homme
+Il avance avec ses domestiques, son éléphant, ses chameaux, sous
+la voûte de la montagne, au bout de laquelle il entre dans une
+prairie émaillée de fleurs et bordée de ruisseaux: au bout de la
+prairie ce sont des allées d'arbres à perte de vue; et au bout de
+ces allées, une rivière, le long de laquelle sont mille maisons
+de plaisance, avec des jardins délicieux.  Il entend partout des
+concerts de voix et d'instruments; il voit des danses; il se hâte
+de passer un des ponts de la rivière; il demande au premier homme
 qu'il rencontre quel est ce beau pays.
 
-Celui auquel il s'adressait lui rï¿½pondit: Vous ï¿½tes dans la
+Celui auquel il s'adressait lui répondit: Vous êtes dans la
 province de Cachemire; vous voyez les habitants dans la joie et
-dans les plaisirs; nous cï¿½lï¿½brons les noces de notre belle
-princesse, qui va se marier avec le seigneur Barbabou, ï¿½ qui son
-pï¿½re l'a promise; que Dieu perpï¿½tue leur fï¿½licitï¿½!  A ces paroles
-Rustan tomba ï¿½vanoui, et le seigneur cachemirien crut qu'il ï¿½tait
-sujet ï¿½ l'ï¿½pilepsie; il le fit porter dans sa maison, oï¿½ il fut
+dans les plaisirs; nous célébrons les noces de notre belle
+princesse, qui va se marier avec le seigneur Barbabou, à qui son
+père l'a promise; que Dieu perpétue leur félicité!  A ces paroles
+Rustan tomba évanoui, et le seigneur cachemirien crut qu'il était
+sujet à l'épilepsie; il le fit porter dans sa maison, où il fut
 long-temps sans connaissance.  On alla chercher les deux plus
-habiles mï¿½decins du canton; ils tï¿½tï¿½rent le pouls du malade qui,
+habiles médecins du canton; ils tâtèrent le pouls du malade qui,
 ayant repris un peu ses esprits, poussait des sanglots, roulait
-les yeux, et s'ï¿½criait de temps en temps: Topaze, Topaze, vous
+les yeux, et s'écriait de temps en temps: Topaze, Topaze, vous
 aviez bien raison!
 
-L'un des deux mï¿½decins dit au seigneur cachemirien: Je vois ï¿½ son
-accent que c'est un jeune homme de Candahar, ï¿½ qui l'air de ce
-pays ne vaut rien; il faut le renvoyer chez lui; je vois ï¿½ ses
-yeux qu'il est devenu fou; confiez-le-moi, je le remï¿½nerai dans
-sa patrie, et je le guï¿½rirai.  L'autre mï¿½decin assura qu'il
-n'ï¿½tait malade que de chagrin, qu'il fallait le mener aux noces
+L'un des deux médecins dit au seigneur cachemirien: Je vois à son
+accent que c'est un jeune homme de Candahar, à qui l'air de ce
+pays ne vaut rien; il faut le renvoyer chez lui; je vois à ses
+yeux qu'il est devenu fou; confiez-le-moi, je le remènerai dans
+sa patrie, et je le guérirai.  L'autre médecin assura qu'il
+n'était malade que de chagrin, qu'il fallait le mener aux noces
 de la princesse, et le faire danser.  Pendant qu'ils
-consultaient, le malade reprit ses forces; les deux mï¿½decins
-furent congï¿½diï¿½s, et Rustan demeura tï¿½te ï¿½ tï¿½te avec son hï¿½te.
+consultaient, le malade reprit ses forces; les deux médecins
+furent congédiés, et Rustan demeura tête à tête avec son hôte.
 
-Seigneur, lui dit-il, je vous demande pardon de m'ï¿½tre ï¿½vanoui
+Seigneur, lui dit-il, je vous demande pardon de m'être évanoui
 devant vous, je sais que cela n'est pas poli; je vous supplie de
-vouloir bien accepter mon ï¿½lï¿½phant, en reconnaissance des bontï¿½s
-dont vous m'avez honorï¿½.  Il lui conta ensuite toutes ses
+vouloir bien accepter mon éléphant, en reconnaissance des bontés
+dont vous m'avez honoré.  Il lui conta ensuite toutes ses
 aventures, en se gardant bien de lui parler de l'objet de son
 voyage.  Mais, au nom de Vitsnou et de Brama, lui dit-il,
-apprenez-moi quel est cet heureux Barbabou qui ï¿½pouse la
-princesse de Cachemire; pourquoi son pï¿½re l'a choisi pour gendre,
-et pourquoi la princesse l'a acceptï¿½ pour son ï¿½poux.
+apprenez-moi quel est cet heureux Barbabou qui épouse la
+princesse de Cachemire; pourquoi son père l'a choisi pour gendre,
+et pourquoi la princesse l'a accepté pour son époux.
 
 Seigneur, lui dit le Cachemirien, la princesse n'a point du tout
-acceptï¿½ Barbabou; au contraire elle est dans les pleurs, tandis
-que toute la province cï¿½lï¿½bre avec joie son mariage; elle s'est
-enfermï¿½e dans la tour de son palais; elle ne veut voir aucune des
-rï¿½jouissances qu'on fait pour elle.  Rustan, en entendant ces
-paroles, se sentit renaï¿½tre; l'ï¿½clat de ses couleurs, que la
-douleur avait flï¿½tries, reparut sur son visage.  Dites-moi, je
+accepté Barbabou; au contraire elle est dans les pleurs, tandis
+que toute la province célèbre avec joie son mariage; elle s'est
+enfermée dans la tour de son palais; elle ne veut voir aucune des
+réjouissances qu'on fait pour elle.  Rustan, en entendant ces
+paroles, se sentit renaître; l'éclat de ses couleurs, que la
+douleur avait flétries, reparut sur son visage.  Dites-moi, je
 vous prie, continua-t-il, pourquoi le prince de Cachemire
-s'obstine ï¿½ donner sa fille ï¿½ un Barbabou dont elle ne veut pas.
+s'obstine à donner sa fille à un Barbabou dont elle ne veut pas.
 
-Voici le fait, rï¿½pondit le Cachemirien.  Savez-vous que notre
+Voici le fait, répondit le Cachemirien.  Savez-vous que notre
 auguste prince avait perdu un gros diamant et un javelot qui lui
-tenaient fort au coeur?  Ah!  je le sais trï¿½s bien, dit Rustan.
-Apprenez donc, dit l'hï¿½te, que notre prince, au dï¿½sespoir de
-n'avoir point de nouvelles de ses deux bijoux, aprï¿½s les avoir
-fait longtemps chercher par toute la terre, a promis sa fille ï¿½
+tenaient fort au coeur?  Ah!  je le sais très bien, dit Rustan.
+Apprenez donc, dit l'hôte, que notre prince, au désespoir de
+n'avoir point de nouvelles de ses deux bijoux, après les avoir
+fait longtemps chercher par toute la terre, a promis sa fille à
 quiconque lui rapporterait l'un ou l'autre.  Il est venu un
-seigneur Barbabou qui ï¿½tait muni du diamant, et il ï¿½pouse demain
+seigneur Barbabou qui était muni du diamant, et il épouse demain
 la princesse.
 
-Rustan pï¿½lit, bï¿½gaya un compliment, prit congï¿½ de son hï¿½te, et
-courut sur son dromadaire ï¿½ la ville capitale oï¿½ se devait faire
-la cï¿½rï¿½monie.  Il arrive au palais du prince, il dit qu'il a des
-choses importantes ï¿½ lui communiquer; il demande une audience; on
-lui rï¿½pond que le prince est occupï¿½ des prï¿½paratifs de la noce:
-c'est pour cela mï¿½me, dit-il, que je veux lui parler.  Il presse
+Rustan pâlit, bégaya un compliment, prit congé de son hôte, et
+courut sur son dromadaire à la ville capitale où se devait faire
+la cérémonie.  Il arrive au palais du prince, il dit qu'il a des
+choses importantes à lui communiquer; il demande une audience; on
+lui répond que le prince est occupé des préparatifs de la noce:
+c'est pour cela même, dit-il, que je veux lui parler.  Il presse
 tant qu'il est introduit.  Monseigneur, dit-il, que Dieu couronne
 tous vos jours de gloire et de magnificence!  votre gendre est un
 fripon.  Comment un fripon!  qu'osez-vous dire? est-ce ainsi
-qu'on parle ï¿½ un duc de Cachemire du gendre qu'il a choisi? Oui,
-un fripon, reprit Rustan; et pour le prouver ï¿½ votre altesse,
+qu'on parle à un duc de Cachemire du gendre qu'il a choisi? Oui,
+un fripon, reprit Rustan; et pour le prouver à votre altesse,
 c'est que voici votre diamant que je vous rapporte.
 
-Le duc tout ï¿½tonnï¿½ confronta les deux diamants; et comme il ne
-s'y connaissait guï¿½re, il ne put dire quel ï¿½tait le vï¿½ritable.
-Voilï¿½ deux diamants, dit-il, et je n'ai qu'une fille; me voilï¿½
-dans un ï¿½trange embarras!  Il fit venir Barbabou, et lui demanda
-s'il ne l'avait point trompï¿½.  Barbabou jura qu'il avait achetï¿½
-son diamant d'un Armï¿½nien; l'autre ne disait pas de qui il tenait
-le sien, mais il proposa un expï¿½dient: ce fut qu'il plï¿½t ï¿½ son
+Le duc tout étonné confronta les deux diamants; et comme il ne
+s'y connaissait guère, il ne put dire quel était le véritable.
+Voilà deux diamants, dit-il, et je n'ai qu'une fille; me voilà
+dans un étrange embarras!  Il fit venir Barbabou, et lui demanda
+s'il ne l'avait point trompé.  Barbabou jura qu'il avait acheté
+son diamant d'un Arménien; l'autre ne disait pas de qui il tenait
+le sien, mais il proposa un expédient: ce fut qu'il plût à son
 altesse de le faire combattre sur-le-champ contre son rival.  Ce
 n'est pas assez que votre gendre donne un diamant, disait-il, il
 faut aussi qu'il donne des preuves de valeur: ne trouvez-vous pas
-bon que celui qui tuera l'autre ï¿½pouse la princesse?  Trï¿½s bon,
-rï¿½pondit le prince, ce sera un fort beau spectacle pour la cour;
+bon que celui qui tuera l'autre épouse la princesse?  Très bon,
+répondit le prince, ce sera un fort beau spectacle pour la cour;
 battez-vous vite tous deux; le vainqueur prendra les armes du
-vaincu, selon l'usage de Cachemire, et il ï¿½pousera ma fille.
+vaincu, selon l'usage de Cachemire, et il épousera ma fille.
 
-Les deux prï¿½tendants descendent aussitï¿½t dans la cour.  Il y
+Les deux prétendants descendent aussitôt dans la cour.  Il y
 avait sur l'escalier une pie et un corbeau.  Le corbeau criait,
 Battez-vous, battez-vous; la pie, Ne vous battez pas.  Cela fit
-rire le prince; les deux rivaux y prirent garde ï¿½ peine: ils
+rire le prince; les deux rivaux y prirent garde à peine: ils
 commencent le combat; tous les courtisans fesaient un cercle
-autour d'eux.  La princesse, se tenant toujours renfermï¿½e dans sa
-tour, ne voulut point assister ï¿½ ce spectacle; elle ï¿½tait bien
-loin de se douter que son amant fï¿½t ï¿½ Cachemire, et elle avait
+autour d'eux.  La princesse, se tenant toujours renfermée dans sa
+tour, ne voulut point assister à ce spectacle; elle était bien
+loin de se douter que son amant fût à Cachemire, et elle avait
 tant d'horreur pour Barbabou, qu'elle ne voulait rien voir.  Le
-combat se passa le mieux du monde; Barbabou fut tuï¿½ roide, et le
-peuple en fut charmï¿½ parcequ'il ï¿½tait laid, et que Rustan ï¿½tait
-fort joli: c'est presque toujours ce qui dï¿½cide de la faveur
+combat se passa le mieux du monde; Barbabou fut tué roide, et le
+peuple en fut charmé parcequ'il était laid, et que Rustan était
+fort joli: c'est presque toujours ce qui décide de la faveur
 publique.
 
-Le vainqueur revï¿½tit la cotte de maille, l'ï¿½charpe, et le casque
+Le vainqueur revêtit la cotte de maille, l'écharpe, et le casque
 du vaincu, et vint, suivi de toute la cour, au son des fanfares,
-se prï¿½senter sous les fenï¿½tres de sa maï¿½tresse, Tout le monde
-criait: Belle princesse, venez voir votre beau mari qui a tuï¿½ son
-vilain rival; ses femmes rï¿½pï¿½taient ces paroles.  La princesse
-mit par malheur la tï¿½te ï¿½ la fenï¿½tre, et voyant l'armure d'un
-homme qu'elle abhorrait, elle courut en dï¿½sespï¿½rï¿½e ï¿½ son coffre
+se présenter sous les fenêtres de sa maîtresse, Tout le monde
+criait: Belle princesse, venez voir votre beau mari qui a tué son
+vilain rival; ses femmes répétaient ces paroles.  La princesse
+mit par malheur la tête à la fenêtre, et voyant l'armure d'un
+homme qu'elle abhorrait, elle courut en désespérée à son coffre
 de la Chine, et tira le javelot fatal qui alla percer son cher
-Rustan au dï¿½faut de la cuirasse; il jeta un grand cri, et ï¿½ ce
-cri la princesse crut reconnaï¿½tre la voix de son malheureux
+Rustan au défaut de la cuirasse; il jeta un grand cri, et à ce
+cri la princesse crut reconnaître la voix de son malheureux
 amant.
 
-Elle descend ï¿½chevelï¿½e, la mort dans les yeux et dans le coeur.
-Rustan ï¿½tait dï¿½jï¿½ tombï¿½ tout sanglant dans les bras de son pï¿½re.
-Elle le voit: ï¿½ moment!  ï¿½ vue!  ï¿½ reconnaissance dont on ne peut
+Elle descend échevelée, la mort dans les yeux et dans le coeur.
+Rustan était déjà tombé tout sanglant dans les bras de son père.
+Elle le voit: ô moment!  ô vue!  ô reconnaissance dont on ne peut
 exprimer ni la douleur, ni la tendresse, ni l'horreur!  Elle se
-jette sur lui, elle l'embrasse: Tu reï¿½ois, lui dit-elle, les
+jette sur lui, elle l'embrasse: Tu reçois, lui dit-elle, les
 premiers et les derniers baisers de ton amante et de ta
-meurtriï¿½re.  Elle retire le dard de la plaie, l'enfonce dans son
-coeur, et meurt sur l'amant qu'elle adore.  Le pï¿½re ï¿½pouvantï¿½,
-ï¿½perdu, prï¿½t ï¿½ mourir comme elle, tï¿½che en vain de la rappeler ï¿½
-la vie; elle n'ï¿½tait plus.  Il maudit ce dard fatal, le brise en
+meurtrière.  Elle retire le dard de la plaie, l'enfonce dans son
+coeur, et meurt sur l'amant qu'elle adore.  Le père épouvanté,
+éperdu, prêt à mourir comme elle, tâche en vain de la rappeler à
+la vie; elle n'était plus.  Il maudit ce dard fatal, le brise en
 morceaux, jette au loin ses deux diamants funestes; et, tandis
-qu'on prï¿½pare les funï¿½railles de sa fille, au lieu de son
-mariage, il fait transporter dans son palais Rustan ensanglantï¿½,
+qu'on prépare les funérailles de sa fille, au lieu de son
+mariage, il fait transporter dans son palais Rustan ensanglanté,
 qui avait encore un reste de vie.
 
-On le porte dans un lit.  La premiï¿½re chose qu'il voit aux deux
-cï¿½tï¿½s de ce lit de mort, c'est Topaze et ï¿½bï¿½ne.  Sa surprise lui
+On le porte dans un lit.  La première chose qu'il voit aux deux
+côtés de ce lit de mort, c'est Topaze et Ébène.  Sa surprise lui
 rendit un peu de force.  Ah!  cruels, dit-il, pourquoi
-m'avez-vous abandonnï¿½?  peut-ï¿½tre la princesse vivrait encore; si
-vous aviez ï¿½tï¿½ prï¿½s du malheureux Rustan.  Je ne vous ai pas
-abandonnï¿½ un seul moment, dit Topaze.  - J'ai toujours ï¿½tï¿½ prï¿½s
-de vous, dit ï¿½bï¿½ne.
+m'avez-vous abandonné?  peut-être la princesse vivrait encore; si
+vous aviez été près du malheureux Rustan.  Je ne vous ai pas
+abandonné un seul moment, dit Topaze.  - J'ai toujours été près
+de vous, dit Ébène.
 
-Ah!  que dites-vous ? pourquoi insulter ï¿½ mes derniers moments?
-rï¿½pondit Rustan d'une voix languissante.  Vous pouvez m'en
+Ah!  que dites-vous ? pourquoi insulter à mes derniers moments?
+répondit Rustan d'une voix languissante.  Vous pouvez m'en
 croire, dit Topaze; vous savez que je n'approuvai jamais ce fatal
-voyage dont je prï¿½voyais les horribles suites.  C'est moi qui
-ï¿½tais l'aigle qui a combattu contre le vautour, et qu'il a
-dï¿½plumï¿½; j'ï¿½tais l'ï¿½lï¿½phant qui emportait le bagage, pour vous
-forcer ï¿½ retourner dans votre patrie; j'ï¿½tais l'ï¿½ne rayï¿½ qui vous
-ramenait malgrï¿½ vous chez votre pï¿½re: c'est moi qui ai ï¿½garï¿½ vos
-chevaux; c'est moi qui ai formï¿½ le torrent qui vous empï¿½chait de
-passer; c'est moi qui ai ï¿½levï¿½ la montagne qui vous fermait un
-chemin si funeste; j'ï¿½tais le mï¿½decin qui vous conseillait l'air
-natal; j'ï¿½tais la pie qui vous criait de ne point combattre.
+voyage dont je prévoyais les horribles suites.  C'est moi qui
+étais l'aigle qui a combattu contre le vautour, et qu'il a
+déplumé; j'étais l'éléphant qui emportait le bagage, pour vous
+forcer à retourner dans votre patrie; j'étais l'âne rayé qui vous
+ramenait malgré vous chez votre père: c'est moi qui ai égaré vos
+chevaux; c'est moi qui ai formé le torrent qui vous empêchait de
+passer; c'est moi qui ai élevé la montagne qui vous fermait un
+chemin si funeste; j'étais le médecin qui vous conseillait l'air
+natal; j'étais la pie qui vous criait de ne point combattre.
 
-Et moi, dit ï¿½bï¿½ne, j'ï¿½tais le vautour qui a dï¿½plumï¿½ l'aigle; le
-rhinocï¿½ros qui donnait cent coups de corne ï¿½ l'ï¿½lï¿½phant, le
-vilain qui battait l'ï¿½ne rayï¿½; le marchand qui vous donnait des
-chameaux pour courir ï¿½ votre perte; j'ai bï¿½ti le pont sur lequel
-vous avez passï¿½; j'ai creusï¿½ la caverne que vous avez traversï¿½e;
-je suis le mï¿½decin qui vous encourageait ï¿½ marcher; le corbeau
+Et moi, dit Ébène, j'étais le vautour qui a déplumé l'aigle; le
+rhinocéros qui donnait cent coups de corne à l'éléphant, le
+vilain qui battait l'âne rayé; le marchand qui vous donnait des
+chameaux pour courir à votre perte; j'ai bâti le pont sur lequel
+vous avez passé; j'ai creusé la caverne que vous avez traversée;
+je suis le médecin qui vous encourageait à marcher; le corbeau
 qui vous criait de vous battre.
 
-Hï¿½las!  souviens-toi des oracles, dit Topaze: _Si tu vas ï¿½
-l'orient, tu seras ï¿½ l'occident_.  Oui, dit ï¿½bï¿½ne, on ensevelit
-ici les morts le visage tournï¿½ ï¿½ l'occident: l'oracle ï¿½tait
-clair, que ne l'as-tu compris? _Tu as possï¿½dï¿½, et tu ne possï¿½dais
-pas;_ car tu avais le diamant, mais il ï¿½tait faux, et tu n'en
+Hélas!  souviens-toi des oracles, dit Topaze: _Si tu vas à
+l'orient, tu seras à l'occident_.  Oui, dit Ébène, on ensevelit
+ici les morts le visage tourné à l'occident: l'oracle était
+clair, que ne l'as-tu compris? _Tu as possédé, et tu ne possédais
+pas;_ car tu avais le diamant, mais il était faux, et tu n'en
 savais rien.  Tu es vainqueur, et tu meurs; tu es Rustan, et tu
-cesses de l'ï¿½tre: tout a ï¿½tï¿½ accompli.
+cesses de l'être: tout a été accompli.
 
 Comme il parlait ainsi, quatre ailes blanches couvrirent le corps
-de Topaze, et quatre ailes noires celui d'ï¿½bï¿½ne.  Que vois-je?
-s'ï¿½cria Rustan.  Topaze et ï¿½bï¿½ne rï¿½pondirent ensemble: Tu vois
-tes deux gï¿½nies.  Eh!  messieurs, leur dit le malheureux Rustan,
-de quoi vous mï¿½liez-vous ? et pourquoi deux gï¿½nies pour un pauvre
-homme? C'est la loi, dit Topaze chaque homme a ses deux gï¿½nies,
-c'est Platon qui l'a dit le premier[1], et d'autres l'ont rï¿½pï¿½tï¿½
-ensuite; tu vois que rien n'est plus vï¿½ritable: moi, qui te
-parle, je suis ton bon gï¿½nie, et ma charge ï¿½tait de veiller
-auprï¿½s de toi jusqu'au dernier moment de ta vie; je m'en suis
-fidï¿½lement acquittï¿½.
+de Topaze, et quatre ailes noires celui d'Ébène.  Que vois-je?
+s'écria Rustan.  Topaze et Ébène répondirent ensemble: Tu vois
+tes deux génies.  Eh!  messieurs, leur dit le malheureux Rustan,
+de quoi vous mêliez-vous ? et pourquoi deux génies pour un pauvre
+homme? C'est la loi, dit Topaze chaque homme a ses deux génies,
+c'est Platon qui l'a dit le premier[1], et d'autres l'ont répété
+ensuite; tu vois que rien n'est plus véritable: moi, qui te
+parle, je suis ton bon génie, et ma charge était de veiller
+auprès de toi jusqu'au dernier moment de ta vie; je m'en suis
+fidèlement acquitté.
 
   [1] Voyez tome XXX, page 38.  B.
 
 
-Mais, dit le mourant, si ton emploi ï¿½tait de me servir, je suis
-donc d'une nature fort supï¿½rieure ï¿½ la tienne; et puis comment
-oses-tu dire que tu es mon bon gï¿½nie, quand tu m'as laissï¿½
+Mais, dit le mourant, si ton emploi était de me servir, je suis
+donc d'une nature fort supérieure à la tienne; et puis comment
+oses-tu dire que tu es mon bon génie, quand tu m'as laissé
 tromper dans tout ce que j'ai entrepris, et que tu me laisses
-mourir moi et ma maï¿½tresse misï¿½rablement ? Hï¿½las!  c'ï¿½tait ta
-destinï¿½e, dit Topaze.  Si c'est la destinï¿½e qui fait tout, dit le
-mourant, ï¿½ quoi un gï¿½nie est-il bon ?  Et toi, Ebï¿½ne, avec tes
-quatre ailes noires, tu es apparemment mon mauvais gï¿½nie? Vous
-l'avez dit, rï¿½pondit ï¿½bï¿½ne.  Mais tu ï¿½tais donc aussi le mauvais
-gï¿½nie de ma princesse ?  Non, elle avait le sien, et je l'ai
-parfaitement secondï¿½.  Ah!  maudit ï¿½bï¿½ne, si tu es si mï¿½chant, tu
-n'appartiens donc pas au mï¿½me maï¿½tre que Topaze ? vous avez ï¿½tï¿½
-formï¿½s tous deux par deux principes diffï¿½rents, dont l'un est
-bon, et l'autre mï¿½chant de sa nature ?  Ce n'est pas une
-consï¿½quence, dit ï¿½bï¿½ne, mais c'est une grande difficultï¿½.  Il
-n'est pas possible, reprit l'agonisant, qu'un ï¿½tre favorable ait
-fait un gï¿½nie si funeste.  Possible ou non possible, repartit
-ï¿½bï¿½ne, la chose est comme je te le dis.  Hï¿½las!  dit Topaze, mon
-pauvre ami, ne vois-tu pas que ce coquin-lï¿½ a encore la malice de
-te faire disputer pour allumer ton sang et prï¿½cipiter l'heure de
-ta mort? Va, je ne suis guï¿½re plus content de toi que de lui, dit
+mourir moi et ma maîtresse misérablement ? Hélas!  c'était ta
+destinée, dit Topaze.  Si c'est la destinée qui fait tout, dit le
+mourant, à quoi un génie est-il bon ?  Et toi, Ebène, avec tes
+quatre ailes noires, tu es apparemment mon mauvais génie? Vous
+l'avez dit, répondit Ébène.  Mais tu étais donc aussi le mauvais
+génie de ma princesse ?  Non, elle avait le sien, et je l'ai
+parfaitement secondé.  Ah!  maudit Ébène, si tu es si méchant, tu
+n'appartiens donc pas au même maître que Topaze ? vous avez été
+formés tous deux par deux principes différents, dont l'un est
+bon, et l'autre méchant de sa nature ?  Ce n'est pas une
+conséquence, dit Ébène, mais c'est une grande difficulté.  Il
+n'est pas possible, reprit l'agonisant, qu'un être favorable ait
+fait un génie si funeste.  Possible ou non possible, repartit
+Ébène, la chose est comme je te le dis.  Hélas!  dit Topaze, mon
+pauvre ami, ne vois-tu pas que ce coquin-là a encore la malice de
+te faire disputer pour allumer ton sang et précipiter l'heure de
+ta mort? Va, je ne suis guère plus content de toi que de lui, dit
 le triste Rustan: il avoue du moins qu'il a voulu me faire du
-mal; et toi, qui prï¿½tendais me dï¿½fendre, tu ne m'as servi de
-rien.  J'en suis bien fï¿½chï¿½, dit le bon gï¿½nie.  Et moi aussi, dit
-le mourant; il y a quelque chose lï¿½-dessous que je ne comprends
-pas.  Ni moi non plus, dit le pauvre bon gï¿½nie.  J.'en serai
+mal; et toi, qui prétendais me défendre, tu ne m'as servi de
+rien.  J'en suis bien fâché, dit le bon génie.  Et moi aussi, dit
+le mourant; il y a quelque chose là-dessous que je ne comprends
+pas.  Ni moi non plus, dit le pauvre bon génie.  J.'en serai
 instruit dans un moment, dit Rustan.  C'est ce que nous verrons,
 dit Topaze.  Alors tout disparut.  Rustan se retrouva dans la
-maison de son pï¿½re, dont il n'ï¿½tait pas sorti, et dans son lit oï¿½
+maison de son père, dont il n'était pas sorti, et dans son lit où
 il avait dormi une heure.
 
-Il se rï¿½veille en sursaut, tout en sueur, tout ï¿½garï¿½; il se tï¿½te,
+Il se réveille en sursaut, tout en sueur, tout égaré; il se tâte,
 il appelle, il crie, il sonne.  Son valet de chambre, Topaze,
-accourt en bonnet de nuit, et tout en bï¿½illant.  Suis-je mort,
-suis-je en vie?  s'ï¿½cria Rustan; la belle princesse de Cachemire
-en rï¿½chappera-t-elle?....  Monseigneur rï¿½ve-t-il ? rï¿½pondit
+accourt en bonnet de nuit, et tout en bâillant.  Suis-je mort,
+suis-je en vie?  s'écria Rustan; la belle princesse de Cachemire
+en réchappera-t-elle?....  Monseigneur rêve-t-il ? répondit
 froidement Topaze.
 
-Ah!  s'ï¿½criait Rustan, qu'est donc devenu ce barbare ï¿½bï¿½ne avec
+Ah!  s'écriait Rustan, qu'est donc devenu ce barbare Ébène avec
 ses quatre ailes noires ? c'est lui qui me fait mourir d'une mort
-si cruelle.--Monseigneur, je l'ai laissï¿½ lï¿½-haut qui ronfle;
-voulez-vous qu'on le fasse descendre?--Le scï¿½lï¿½rat!  il y a six
-mois entiers qu'il me persï¿½cute; c'est lui qui me mena ï¿½ cette
+si cruelle.--Monseigneur, je l'ai laissé là-haut qui ronfle;
+voulez-vous qu'on le fasse descendre?--Le scélérat!  il y a six
+mois entiers qu'il me persécute; c'est lui qui me mena à cette
 fatale foire de Cabul; c'est lui qui m'escamota le diamant que
-m'avait donnï¿½ la princesse; il est seul la cause de mon voyage,
-de la mort de ma princesse, et du coup de javelot dont je meurs ï¿½
-la fleur de mon ï¿½ge.
+m'avait donné la princesse; il est seul la cause de mon voyage,
+de la mort de ma princesse, et du coup de javelot dont je meurs à
+la fleur de mon âge.
 
-Rassurez-vous, dit Topaze; vous n'avez jamais ï¿½tï¿½ ï¿½ Cabul; il n'y
-a point de princesse de Cachemire; son pï¿½re n'a jamais eu que
-deux garï¿½ons qui sont actuellement au collï¿½ge.  Vous n'avez
-jamais eu de diamant; la princesse ne peut ï¿½tre morte,
-puisqu'elle n'est pas nï¿½e; et vous vous portez ï¿½ merveille.
+Rassurez-vous, dit Topaze; vous n'avez jamais été à Cabul; il n'y
+a point de princesse de Cachemire; son père n'a jamais eu que
+deux garçons qui sont actuellement au collège.  Vous n'avez
+jamais eu de diamant; la princesse ne peut être morte,
+puisqu'elle n'est pas née; et vous vous portez à merveille.
 
-Comment!  il n'est pas vrai que tu m'assistais ï¿½ la mort dans le
-lit du prince de Cachemire? Ne m'as-tu pas avouï¿½ que, pour me
-garantir de tant de malheurs, tu avais ï¿½tï¿½ aigle, ï¿½lï¿½phant, ï¿½ne
-rayï¿½, mï¿½decin, et pie?--Monseigneur, vous avez rï¿½vï¿½ tout cela:
-nos idï¿½es ne dï¿½pendent pas plus de nous dans le sommeil que dans
-la veille.  Dieu a voulu que cette file d'idï¿½es vous ait passï¿½
-par la tï¿½te, pour vous donner apparemment quelque instruction
+Comment!  il n'est pas vrai que tu m'assistais à la mort dans le
+lit du prince de Cachemire? Ne m'as-tu pas avoué que, pour me
+garantir de tant de malheurs, tu avais été aigle, éléphant, âne
+rayé, médecin, et pie?--Monseigneur, vous avez rêvé tout cela:
+nos idées ne dépendent pas plus de nous dans le sommeil que dans
+la veille.  Dieu a voulu que cette file d'idées vous ait passé
+par la tête, pour vous donner apparemment quelque instruction
 dont vous ferez votre profit.
 
 Tu te moques de moi, reprit Rustan; combien de temps ai-je
 dormi?--Monseigneur, vous n'avez encore dormi qu'une heure.--Eh
 bien!  maudit raisonneur, comment veux-tu qu'en une heure de
-temps j'aie ï¿½tï¿½ ï¿½ la foire de Cabul il y a six mois, que j'en
+temps j'aie été à la foire de Cabul il y a six mois, que j'en
 sois revenu, que j'aie fait le voyage de Cachemire, et que nous
 soyons morts, Barbabou, la princesse, et moi?--Monseigneur, il
-n'y a rien de plus aisï¿½ et de plus ordinaire, et vous auriez pu
-rï¿½ellement faire le tour du monde, et avoir beaucoup plus
+n'y a rien de plus aisé et de plus ordinaire, et vous auriez pu
+réellement faire le tour du monde, et avoir beaucoup plus
 d'aventures en bien moins de temps.
 
-N'est-il pas vrai que vous pouvez lire en une heure l'abrï¿½gï¿½ de
-l'histoire des Perses, ï¿½crite par Zoroastre?  cependant cet
-abrï¿½gï¿½ contient huit cent mille annï¿½es.  Tous ces ï¿½vï¿½nements
-passent sous vos yeux l'un aprï¿½s l'autre en une heure; or vous
-m'avouerez qu'il est aussi aisï¿½ ï¿½ Brama de les resserrer tous
-dans l'espace d'une heure que de les ï¿½tendre dans l'espace de
-huit cent mille annï¿½es; c'est prï¿½cisï¿½ment la mï¿½me chose.
-Figurez-vous que le temps tourne sur une roue dont le diamï¿½tre
+N'est-il pas vrai que vous pouvez lire en une heure l'abrégé de
+l'histoire des Perses, écrite par Zoroastre?  cependant cet
+abrégé contient huit cent mille années.  Tous ces événements
+passent sous vos yeux l'un après l'autre en une heure; or vous
+m'avouerez qu'il est aussi aisé à Brama de les resserrer tous
+dans l'espace d'une heure que de les étendre dans l'espace de
+huit cent mille années; c'est précisément la même chose.
+Figurez-vous que le temps tourne sur une roue dont le diamètre
 est infini.  Sous cette roue immense est une multitude
 innombrable de roues les unes dans les autres; celle du centre
-est imperceptible, et fait un nombre infini de tours prï¿½cisï¿½ment
-dans le mï¿½me temps que la grande roue n'en achï¿½ve qu'un.  Il est
-clair que tous les ï¿½vï¿½nements, depuis le commencement du monde
-jusqu'ï¿½ sa fin, peuvent arriver successivement en beaucoup moins
-de temps que la cent-milliï¿½me partie d'une seconde; et on peut
-dire mï¿½me que la chose est ainsi.
+est imperceptible, et fait un nombre infini de tours précisément
+dans le même temps que la grande roue n'en achève qu'un.  Il est
+clair que tous les événements, depuis le commencement du monde
+jusqu'à sa fin, peuvent arriver successivement en beaucoup moins
+de temps que la cent-millième partie d'une seconde; et on peut
+dire même que la chose est ainsi.
 
 Je n'y entends rien, dit Rustan.  Si vous voulez, dit Topaze,
-j'ai un perroquet qui vous le fera aisï¿½ment comprendre.  Il est
-nï¿½ quelque temps avant le dï¿½luge, il a ï¿½tï¿½ dans l'arche; il a
+j'ai un perroquet qui vous le fera aisément comprendre.  Il est
+né quelque temps avant le déluge, il a été dans l'arche; il a
 beaucoup vu; cependant il n'a encore qu'un an et demi: il vous
-contera son histoire, qui est fort intï¿½ressante.
+contera son histoire, qui est fort intéressante.
 
 Allez vite chercher votre perroquet, dit Rustan; il m'amusera
-jusqu'ï¿½ ce que je puisse me rendormir.  Il est chez ma soeur la
+jusqu'à ce que je puisse me rendormir.  Il est chez ma soeur la
 religieuse, dit Topaze; je vais le chercher, vous en serez
-content; sa mï¿½moire est fidï¿½le, il conte simplement, sans
-chercher ï¿½ montrer de l'esprit ï¿½ tout propos, et sans faire des
-phrases.  Tant mieux, dit Rustan, voilï¿½ comme j'aime les contes.
+content; sa mémoire est fidèle, il conte simplement, sans
+chercher à montrer de l'esprit à tout propos, et sans faire des
+phrases.  Tant mieux, dit Rustan, voilà comme j'aime les contes.
 On lui amena le perroquet, lequel parla ainsi.
 
-  _N. B._ Mademoiselle Catherine Vadï¿½ n'a jamais pu trouver
+  _N. B._ Mademoiselle Catherine Vadé n'a jamais pu trouver
   l'histoire du perroquet dans le portefeuille de feu son cousin
-  Antoine Vadï¿½, auteur de ce conte.  C'est grand dommage, vu le
-  temps auquel vivait ce perroquet.--Cette note existe dï¿½s
+  Antoine Vadé, auteur de ce conte.  C'est grand dommage, vu le
+  temps auquel vivait ce perroquet.--Cette note existe dès
   1764. B.
 
 

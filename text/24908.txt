@@ -1,6 +1,6 @@
 Online Distributed Proofreading Team at http://www.pgdp.net
 (This file was produced from images generously made
-available by the Bibliothï¿½que nationale de France
+available by the Bibliothèque nationale de France
 (BnF/Gallica) at http://gallica.bnf.fr)
 
 
@@ -9,14 +9,14 @@ available by the Bibliothï¿½que nationale de France
 
 [Note au lecteur de ce fichier digital:
 
-Seules les erreurs clairement introduites par le typographe ont ï¿½tï¿½
-corrigï¿½es.
+Seules les erreurs clairement introduites par le typographe ont été
+corrigées.
 
 Ce fichier est un extrait du recueil du journal "Le Tour du monde:
-Journal des voyages et des voyageurs" (2ï¿½me semestre 1860).
+Journal des voyages et des voyageurs" (2ème semestre 1860).
 
-Les articles ont ï¿½tï¿½ regroupï¿½s dans des fichiers correspondant
-aux diffï¿½rentes zones gï¿½ographiques, ce fichier contient les articles sur
+Les articles ont été regroupés dans des fichiers correspondant
+aux différentes zones géographiques, ce fichier contient les articles sur
 la Sicile.
 
 Chaque fichier contient l'index complet du recueil dont ces
@@ -30,8 +30,8 @@ articles sont originaires.]
 
 
 
-            IMPRIMERIE Gï¿½Nï¿½RALE DE CH. LAHURE
-               Rue de Fleurus, 9, ï¿½ Paris
+            IMPRIMERIE GÉNÉRALE DE CH. LAHURE
+               Rue de Fleurus, 9, à Paris
 
 
 
@@ -40,17 +40,17 @@ articles sont originaires.]
 
                NOUVEAU JOURNAL DES VOYAGES
 
-                PUBLIï¿½ SOUS LA DIRECTION
+                PUBLIÉ SOUS LA DIRECTION
 
-                 DE M. ï¿½DOUARD CHARTON
+                 DE M. ÉDOUARD CHARTON
 
-        ET ILLUSTRï¿½ PAR NOS PLUS Cï¿½Lï¿½BRES ARTISTES
+        ET ILLUSTRÉ PAR NOS PLUS CÉLÈBRES ARTISTES
 
 
 
 
                          1860
-                   DEUXIï¿½ME SEMESTRE
+                   DEUXIÈME SEMESTRE
 
             LIBRAIRIE DE L. HACHETTE ET Cie
          PARIS, BOULEVARD SAINT-GERMAIN, No 77
@@ -62,151 +62,151 @@ articles sont originaires.]
 
 
 
-TABLE DES MATIï¿½RES.
+TABLE DES MATIÈRES.
 
 
-UN MOIS EN SICILE (1843.--Inï¿½dit.), par M. Fï¿½lix BOURQUELOT.
+UN MOIS EN SICILE (1843.--Inédit.), par M. Félix BOURQUELOT.
 
-  Arrivï¿½e en Sicile. -- Palerme et ses habitants. -- Les monuments
-    de Palerme. -- La cathï¿½drale de Monreale. -- De Palerme ï¿½
+  Arrivée en Sicile. -- Palerme et ses habitants. -- Les monuments
+    de Palerme. -- La cathédrale de Monreale. -- De Palerme à
     Trapani. -- Partenico. -- Alcamo. -- Calatafimi. -- Ruines de
-    Sï¿½geste. -- Trapani. -- La sï¿½pulture du couvent des capucins. --
-    Le mont ï¿½ryx. -- De Trapani ï¿½ Girgenti. -- La Lettica. --
-    Castelvetrano. -- Ruines de Sï¿½linonte. -- Sciacca. -- Girgenti
-    (Agrigente). -- De Girgenti ï¿½ Castrogiovanni. -- Caltanizzetta.
-    -- Castrogiovanni. -- Le lac Pergusa et l'enlï¿½vement de
-    Proserpine. -- De Castrogiovanni ï¿½ Syracuse. -- Calatagirone. --
-    Vezzini. -- Syracuse. -- De Syracuse ï¿½ Catane. -- Lentini. --
+    Ségeste. -- Trapani. -- La sépulture du couvent des capucins. --
+    Le mont Éryx. -- De Trapani à Girgenti. -- La Lettica. --
+    Castelvetrano. -- Ruines de Sélinonte. -- Sciacca. -- Girgenti
+    (Agrigente). -- De Girgenti à Castrogiovanni. -- Caltanizzetta.
+    -- Castrogiovanni. -- Le lac Pergusa et l'enlèvement de
+    Proserpine. -- De Castrogiovanni à Syracuse. -- Calatagirone. --
+    Vezzini. -- Syracuse. -- De Syracuse à Catane. -- Lentini. --
     Catane. -- Ascension de l'Etna. -- Taormine. -- Messine. --
-    Retour ï¿½ Naples.                                                 1
+    Retour à Naples.                                                 1
 
 
 VOYAGE EN PERSE, fragments par M. le comte A. de GOBINEAU (1855-1858),
-dessins inï¿½dits de M. Jules LAURENS.
+dessins inédits de M. Jules LAURENS.
 
-  Arrivï¿½e ï¿½ Ispahan. -- Le gouverneur. -- Aspect de la ville. -- Le
-    Tchï¿½har-Bï¿½gh. -- Le collï¿½ge de la Mï¿½re du roi. -- La mosquï¿½e du
-    roi. -- Les quarante colonnes. -- Prï¿½sentations. -- Le pont du
-    Zend-ï¿½-Roub. -- Un dï¿½ner ï¿½ Ispahan. -- La danse et la comï¿½die. --
-    Les habitants d'Ispahan. -- D'Ispahan ï¿½ Kaschan. -- Kaschan. --
+  Arrivée à Ispahan. -- Le gouverneur. -- Aspect de la ville. -- Le
+    Tchéhar-Bâgh. -- Le collége de la Mère du roi. -- La mosquée du
+    roi. -- Les quarante colonnes. -- Présentations. -- Le pont du
+    Zend-è-Roub. -- Un dîner à Ispahan. -- La danse et la comédie. --
+    Les habitants d'Ispahan. -- D'Ispahan à Kaschan. -- Kaschan. --
     Ses fabriques. -- Son imprimerie lithographique. -- Ses
-    scorpions. -- Une lï¿½gende. -- Les bazars. -- Le collï¿½ge. -- De
-    Kaschan ï¿½ la plaine de Tï¿½hï¿½ran. -- Koum. -- Feux d'artifice. --
-    Le pont du Barbier. -- Le dï¿½sert de Khavï¿½r. -- Houzï¿½-Sultan. --
-    La plaine de Tï¿½hï¿½ran. -- Tï¿½hï¿½ran. -- Notre entrï¿½e dans la ville.
+    scorpions. -- Une légende. -- Les bazars. -- Le collége. -- De
+    Kaschan à la plaine de Téhéran. -- Koum. -- Feux d'artifice. --
+    Le pont du Barbier. -- Le désert de Khavèr. -- Houzé-Sultan. --
+    La plaine de Téhéran. -- Téhéran. -- Notre entrée dans la ville.
     -- Notre habitation.                                            16
 
-  Une audience du roi de Perse. -- Nouvelles constructions ï¿½
-    Tï¿½hï¿½ran. -- Tempï¿½rature. -- Longï¿½vitï¿½. -- Les nomades. -- Deux
-    pï¿½lerins. -- Le culte du feu. -- La police. -- Les ponts. -- Le
+  Une audience du roi de Perse. -- Nouvelles constructions à
+    Téhéran. -- Température. -- Longévité. -- Les nomades. -- Deux
+    pèlerins. -- Le culte du feu. -- La police. -- Les ponts. -- Le
     laisser aller administratif. -- Les amusements d'un bazar persan.
-    -- Les fianï¿½ailles. -- Le divorce. -- La journï¿½e d'une Persane.
-    -- La journï¿½e d'un Persan. -- Les visites. -- Formules de
+    -- Les fiançailles. -- Le divorce. -- La journée d'une Persane.
+    -- La journée d'un Persan. -- Les visites. -- Formules de
     politesses. -- La peinture et la calligraphie persanes. -- Les
     chansons royales. -- Les conteurs d'histoires. -- Les spectacles:
-    drames historiques. -- ï¿½pilogue. -- Le Dï¿½mavend. -- L'enfant qui
-    cherche un trï¿½sor.                                              34
+    drames historiques. -- Épilogue. -- Le Démavend. -- L'enfant qui
+    cherche un trésor.                                              34
 
 
 VOYAGES AUX INDES OCCIDENTALES, par M. Anthony TROLLOPE
-(1858-1859); dessins inï¿½dits de M. A. de Bï¿½RARD.
+(1858-1859); dessins inédits de M. A. de BÉRARD.
 
-  L'ï¿½le Saint-Thomas. -- La Jamaï¿½que: Kingston; Spanish-Town; les
-    _rï¿½serves_; la vï¿½gï¿½tation. -- Les planteurs et les nï¿½gres. --
-    Plaintes d'une Ariane noire. -- La toilette des nï¿½gresses. --
-    Avenir des mulï¿½tres. -- Les petites Antilles. -- La Martinique.
+  L'île Saint-Thomas. -- La Jamaïque: Kingston; Spanish-Town; les
+    _réserves_; la végétation. -- Les planteurs et les nègres. --
+    Plaintes d'une Ariane noire. -- La toilette des négresses. --
+    Avenir des mulâtres. -- Les petites Antilles. -- La Martinique.
     -- La Guadeloupe. -- Grenada. -- La Guyane anglaise. -- Une
     sucrerie. -- Barbados. -- La Trinidad. -- La Nouvelle-Grenade. --
-    Sainte-Marthe. -- Carthagï¿½ne. -- Le chemin de fer de Panama. --
-    Costa Rica: San Josï¿½; le Mont-Blanco. -- Le Serapiqui. --
+    Sainte-Marthe. -- Carthagène. -- Le chemin de fer de Panama. --
+    Costa Rica: San José; le Mont-Blanco. -- Le Serapiqui. --
     Greytown.                                                       49
 
 
-VOYAGE DANS LES ï¿½TATS SCANDINAVES, par M. Paul RIANT. (Le
-Tï¿½lï¿½mark et l'ï¿½vï¿½chï¿½ de Bergen.) (1858.--Inï¿½dit.)
+VOYAGE DANS LES ÉTATS SCANDINAVES, par M. Paul RIANT. (Le
+Télémark et l'évêché de Bergen.) (1858.--Inédit.)
 
-  LE Tï¿½Lï¿½MARK. -- Christiania. -- Dï¿½part pour le Tï¿½lï¿½mark. -- Mode
-    de voyager. -- Paysage. -- La vallï¿½e et la ville de Drammen. --
-    De Drammen ï¿½ Kongsberg. -- Le cheval norvï¿½gien. -- Kongsberg et
-    ses gisements mï¿½tallifï¿½res. -- Les montagnes du Tï¿½lï¿½mark. --
-    Leurs habitants. -- Hospitalitï¿½ des _gaards_ et des _sï¿½ters_. --
-    Une sorciï¿½re. -- Les lacs Tinn et Mjï¿½s. -- Le Westfjord. -- La
-    chute du Rjukan. -- Lï¿½gende de la belle Marie. -- Dal. -- Le
-    livre des ï¿½trangers. -- L'ï¿½glise d'Hitterdal. -- L'ivresse en
-    Norvï¿½ge. -- Le chï¿½telain aubergiste. -- Les lacs Sillegjord et
+  LE TÉLÉMARK. -- Christiania. -- Départ pour le Télémark. -- Mode
+    de voyager. -- Paysage. -- La vallée et la ville de Drammen. --
+    De Drammen à Kongsberg. -- Le cheval norvégien. -- Kongsberg et
+    ses gisements métallifères. -- Les montagnes du Télémark. --
+    Leurs habitants. -- Hospitalité des _gaards_ et des _sæters_. --
+    Une sorcière. -- Les lacs Tinn et Mjös. -- Le Westfjord. -- La
+    chute du Rjukan. -- Légende de la belle Marie. -- Dal. -- Le
+    livre des étrangers. -- L'église d'Hitterdal. -- L'ivresse en
+    Norvège. -- Le châtelain aubergiste. -- Les lacs Sillegjord et
     Bandak. -- Le ravin des Corbeaux.                               65
 
-  --_Le Saint-Olaf_ et ses pareils. -- Navigation intï¿½rieure. --
-    Retour ï¿½ Christiania par Skien.                                 82
+  --_Le Saint-Olaf_ et ses pareils. -- Navigation intérieure. --
+    Retour à Christiania par Skien.                                 82
 
-  L'ï¿½Vï¿½CHï¿½ DE BERGEN. -- La presqu'ï¿½le de Bergen. -- Lï¿½rdal. -- Le
-    Sognefjord. -- Vosse-Vangen. -- Le Vï¿½ringfoss. -- Le
-    Hardangerfjord. -- De Vikoï¿½r ï¿½ Sammanger et ï¿½ Bergen.           85
+  L'ÉVÊCHÉ DE BERGEN. -- La presqu'île de Bergen. -- Lærdal. -- Le
+    Sognefjord. -- Vosse-Vangen. -- Le Vöringfoss. -- Le
+    Hardangerfjord. -- De Vikoër à Sammanger et à Bergen.           85
 
 
 VOYAGE DE M. GUILLAUME LEJEAN DANS L'AFRIQUE ORIENTALE
-(1860.--Texte et dessins inï¿½dits.)--Lettre au Directeur du _Tour
+(1860.--Texte et dessins inédits.)--Lettre au Directeur du _Tour
 du monde_ (Khartoum, 10 mai 1860).
 
-  D'ALEXANDRIE ï¿½ SOUAKIN. -- L'ï¿½gypte. -- Le dï¿½sert. -- Le simoun.
-    -- Suez. -- Un danger. -- Le mirage. -- Tor. -- Qossï¿½ir. --
+  D'ALEXANDRIE À SOUAKIN. -- L'Égypte. -- Le désert. -- Le simoun.
+    -- Suez. -- Un danger. -- Le mirage. -- Tor. -- Qosséir. --
     Djambo. -- Djeddah.                                             97
 
 
-VOYAGE AU MONT ATHOS, par M. A. PROUST (1858.--Inï¿½dit.)
+VOYAGE AU MONT ATHOS, par M. A. PROUST (1858.--Inédit.)
 
-  Salonique. -- Juifs, Grecs et Bulgares. -- Les mosquï¿½es. --
-    L'Albanais Rabottas. -- Prï¿½paratifs de dï¿½part. -- Vasilika. --
+  Salonique. -- Juifs, Grecs et Bulgares. -- Les mosquées. --
+    L'Albanais Rabottas. -- Préparatifs de départ. -- Vasilika. --
     Galatz. -- Nedgesalar. -- L'Athos. -- Saint-Nicolas. -- Le P.
-    Gï¿½dï¿½on. -- Le couvent russe. -- La messe chez les Grecs. --
-    Kariï¿½s et la rï¿½publique de l'Athos. -- Le voï¿½vode turc. -- Le
-    peintre Anthimï¿½s et le pappas Manuel. -- M. de Sï¿½vastiannoff.  103
+    Gédéon. -- Le couvent russe. -- La messe chez les Grecs. --
+    Kariès et la république de l'Athos. -- Le voïvode turc. -- Le
+    peintre Anthimès et le pappas Manuel. -- M. de Sévastiannoff.  103
 
-  Ermites indï¿½pendants. -- Le monastï¿½re de Koutloumousis. -- Les
-    bibliothï¿½ques. -- La peinture. -- Manuel Panselinos et les
-    peintres modernes. -- Le monastï¿½re d'Iveron. -- Les carï¿½mes. --
+  Ermites indépendants. -- Le monastère de Koutloumousis. -- Les
+    bibliothèques. -- La peinture. -- Manuel Panselinos et les
+    peintres modernes. -- Le monastère d'Iveron. -- Les carêmes. --
     Peintres et peintures. -- Stavronikitas. -- Miracles. -- Un
-    Vroukolakas. -- Les bibliothï¿½ques. -- Les mulets. -- Philotheos.
-    -- Les moines et la guerre de l'Indï¿½pendance. -- Karacallos. --
-    L'union des deux ï¿½glises. -- Les pï¿½nitences et les fautes.     114
+    Vroukolakas. -- Les bibliothèques. -- Les mulets. -- Philotheos.
+    -- Les moines et la guerre de l'Indépendance. -- Karacallos. --
+    L'union des deux Églises. -- Les pénitences et les fautes.     114
 
-  La lï¿½gende d'Arcadius. -- Le pappas de Smyrne. -- Esphigmenou. --
-    Thï¿½odose le Jeune. -- L'ex-patriarche Anthymos et l'ï¿½glise
-    grecque. -- L'isthme de l'Athos et Xerxï¿½s. -- Les monastï¿½res
-    bulgares: Kiliandari et Zographos. -- La lï¿½gende du peintre. --
-    Beautï¿½ du paysage. -- Castamoniti. -- Une femme au mont Athos. --
-    Dokiarios. -- La secte des Palamites. -- Saint-Xï¿½nophon. -- La
-    pï¿½che aux ï¿½ponges. -- Retour ï¿½ Kariï¿½s. -- Xiropotamos, le couvent
-    du Fleuve Sec. -- Dï¿½part de Daphnï¿½. -- Marino le chanteur.     130
+  La légende d'Arcadius. -- Le pappas de Smyrne. -- Esphigmenou. --
+    Théodose le Jeune. -- L'ex-patriarche Anthymos et l'Église
+    grecque. -- L'isthme de l'Athos et Xerxès. -- Les monastères
+    bulgares: Kiliandari et Zographos. -- La légende du peintre. --
+    Beauté du paysage. -- Castamoniti. -- Une femme au mont Athos. --
+    Dokiarios. -- La secte des Palamites. -- Saint-Xénophon. -- La
+    pêche aux éponges. -- Retour à Kariès. -- Xiropotamos, le couvent
+    du Fleuve Sec. -- Départ de Daphné. -- Marino le chanteur.     130
 
 
 VOYAGE D'UN NATURALISTE (Charles DARWIN).--L'archipel Galapagos
-et les attoles ou ï¿½les de coraux.--(1838).
+et les attoles ou îles de coraux.--(1838).
 
   L'ARCHIPEL GALAPAGOS. -- Groupe volcanique. -- Innombrables
-    cratï¿½res. -- Aspect bizarre de la vï¿½gï¿½tation. -- L'ï¿½le Chatam. --
-    Colonie de l'ï¿½le Charles. -- L'ï¿½le James. -- Lac salï¿½ dans un
-    cratï¿½re. -- Histoire naturelle de ce groupe d'ï¿½les. --
-    Mammifï¿½res; souris indigï¿½ne. -- Ornithologie; familiaritï¿½ des
+    cratères. -- Aspect bizarre de la végétation. -- L'île Chatam. --
+    Colonie de l'île Charles. -- L'île James. -- Lac salé dans un
+    cratère. -- Histoire naturelle de ce groupe d'îles. --
+    Mammifères; souris indigène. -- Ornithologie; familiarité des
     oiseaux; terreur de l'homme; instinct acquis. -- Reptiles;
     tortues de terre; leurs habitudes.                             139
 
-  Encore les tortues de terre; lï¿½zard aquatique se nourrissant de
-    plantes marines; lï¿½zard terrestre herbivore, se creusant un
-    terrier. -- Importance des reptiles dans cet archipel oï¿½ ils
-    remplacent les mammifï¿½res. -- Diffï¿½rences entre les espï¿½ces qui
-    habitent les diverses ï¿½les. -- Aspect gï¿½nï¿½ral amï¿½ricain.       146
+  Encore les tortues de terre; lézard aquatique se nourrissant de
+    plantes marines; lézard terrestre herbivore, se creusant un
+    terrier. -- Importance des reptiles dans cet archipel où ils
+    remplacent les mammifères. -- Différences entre les espèces qui
+    habitent les diverses îles. -- Aspect général américain.       146
 
-  LES ATTOLES OU ï¿½LES DE CORAUX. -- ï¿½le Keeling. -- Aspect
-    merveilleux. -- Flore exiguï¿½. -- Voyage des graines. -- Oiseaux.
-    -- Insectes. -- Sources ï¿½ flux et reflux. -- Chasse aux tortues.
-    -- Champs de coraux morts. -- Pierres transportï¿½es par les
+  LES ATTOLES OU ÎLES DE CORAUX. -- Île Keeling. -- Aspect
+    merveilleux. -- Flore exiguë. -- Voyage des graines. -- Oiseaux.
+    -- Insectes. -- Sources à flux et reflux. -- Chasse aux tortues.
+    -- Champs de coraux morts. -- Pierres transportées par les
     racines des arbres. -- Grand crabe. -- Corail piquant. --
     Poissons se nourrissant de coraux. -- Formation des attoles. --
-    Profondeur ï¿½ laquelle le corail peut vivre. -- Vastes espaces
-    parsemï¿½s d'ï¿½les de corail. -- Abaissement de leurs fondations. --
-    Barriï¿½res. -- Franges de rï¿½cifs. -- Changement des franges en
-    barriï¿½res et des barriï¿½res en attoles.                         151
+    Profondeur à laquelle le corail peut vivre. -- Vastes espaces
+    parsemés d'îles de corail. -- Abaissement de leurs fondations. --
+    Barrières. -- Franges de récifs. -- Changement des franges en
+    barrières et des barrières en attoles.                         151
 
 
 BIOGRAPHIE.--Brun-Rollet.                                          159
@@ -216,214 +216,214 @@ VOYAGE AU PAYS DES YAKOUTES (Russie asiatique), par OUVAROVSKI
 (1830-1839).
 
   Djigansk. -- Mes premiers souvenirs. -- Brigandages. -- Le
-    paysage de Djigansk. -- Les habitants. -- La pï¿½che. -- Si les
-    poissons morts sont bons ï¿½ manger. -- La sorciï¿½re Agrippine. --
-    Mon premier voyage. -- Killï¿½m et ses environs. -- Malheurs. --
-    Les Yakoutes. -- La chasse et la pï¿½che. -- Yakoutsk. -- Mon
-    premier emploi. -- J'avance. -- Derniï¿½res recommandations de ma
-    mï¿½re. -- Irkoutsk. -- Voyage. -- Oudskoï¿½. -- Mes bagages. --
-    Campement. -- Le froid. -- La riviï¿½re Outchour. -- L'Aldan. --
-    Voyage dans la neige et dans la glace. -- L'ï¿½gnï¿½. -- Un Tongouse
+    paysage de Djigansk. -- Les habitants. -- La pêche. -- Si les
+    poissons morts sont bons à manger. -- La sorcière Agrippine. --
+    Mon premier voyage. -- Killæm et ses environs. -- Malheurs. --
+    Les Yakoutes. -- La chasse et la pêche. -- Yakoutsk. -- Mon
+    premier emploi. -- J'avance. -- Dernières recommandations de ma
+    mère. -- Irkoutsk. -- Voyage. -- Oudskoï. -- Mes bagages. --
+    Campement. -- Le froid. -- La rivière Outchour. -- L'Aldan. --
+    Voyage dans la neige et dans la glace. -- L'Ægnæ. -- Un Tongouse
     qui pleure son chien. -- Obstacles et fatigues. -- Les guides. --
-    Ascension du Diougdjour. -- Stratagï¿½me pour prendre un oiseau. --
-    La ville d'Oudskoï¿½. -- La pï¿½che ï¿½ l'embouchure du fleuve Ut. --
-    Navigation pï¿½nible. -- Boroukan. -- Une halte dans la neige. --
-    Les rennes. -- Le mont Byraya. -- Retour ï¿½ Oudskoï¿½ et ï¿½
+    Ascension du Diougdjour. -- Stratagème pour prendre un oiseau. --
+    La ville d'Oudskoï. -- La pêche à l'embouchure du fleuve Ut. --
+    Navigation pénible. -- Boroukan. -- Une halte dans la neige. --
+    Les rennes. -- Le mont Byraya. -- Retour à Oudskoï et à
     Yakoutsk.                                                      161
 
-  Viliouisk. -- Sel tricolore. -- Bois pï¿½trifiï¿½. -- Le Sountar. --
+  Viliouisk. -- Sel tricolore. -- Bois pétrifié. -- Le Sountar. --
     Nouveau voyage. -- Description du pays des Yakoutes. -- Climat.
-    -- Population. -- Caractï¿½res. -- Aptitudes. -- Les femmes
+    -- Population. -- Caractères. -- Aptitudes. -- Les femmes
     yakoutes.                                                      177
 
 
-DE SYDNEY ï¿½ ADï¿½LAï¿½DE (Australie du Sud), notes extraites d'une
-correspondance particuliï¿½re (1860).
+DE SYDNEY À ADÉLAÏDE (Australie du Sud), notes extraites d'une
+correspondance particulière (1860).
 
   Les Alpes australiennes. -- Le bassin du Murray. -- Ce qui reste
-    des anciens maï¿½tres du sol. -- Navigation sur le Murray. --
-    Frontiï¿½res de l'Australie du Sud. -- Le lac Alexandrina. -- Le
-    Kanguroo rouge. -- La colonie de l'Australie du Sud. -- Adï¿½laï¿½de.
+    des anciens maîtres du sol. -- Navigation sur le Murray. --
+    Frontières de l'Australie du Sud. -- Le lac Alexandrina. -- Le
+    Kanguroo rouge. -- La colonie de l'Australie du Sud. -- Adélaïde.
     -- Culture et mines.                                           182
 
 
-VOYAGES ET Dï¿½COUVERTES AU CENTRE DE L'AFRIQUE, journal du docteur
+VOYAGES ET DÉCOUVERTES AU CENTRE DE L'AFRIQUE, journal du docteur
 BARTH (1849-1855).
 
-  Henry Barth. -- But de l'expï¿½dition de Richardson. -- Dï¿½part. --
-    Le Fezzan. -- Mourzouk. -- Le dï¿½sert. -- Le palais des dï¿½mons. --
-    Barth s'ï¿½gare; torture et agonie. -- Oasis. -- Les Touaregs. --
+  Henry Barth. -- But de l'expédition de Richardson. -- Départ. --
+    Le Fezzan. -- Mourzouk. -- Le désert. -- Le palais des démons. --
+    Barth s'égare; torture et agonie. -- Oasis. -- Les Touaregs. --
     Dunes. -- Afalesselez. -- Bubales et moufflons. -- Ouragan. --
-    Frontiï¿½res de l'Asben. -- Extorsions. -- Dï¿½luge ï¿½ une latitude oï¿½
-    il ne doit pas pleuvoir. -- La Suisse du dï¿½sert. -- Sombre vallï¿½e
-    de Taghist. -- Riante vallï¿½e d'Auderas. -- Agadez. -- Sa
-    dï¿½cadence. -- Entrevue de Barth et du sultan. -- Pouvoir
+    Frontières de l'Asben. -- Extorsions. -- Déluge à une latitude où
+    il ne doit pas pleuvoir. -- La Suisse du désert. -- Sombre vallée
+    de Taghist. -- Riante vallée d'Auderas. -- Agadez. -- Sa
+    décadence. -- Entrevue de Barth et du sultan. -- Pouvoir
     despotique. -- Coup d'oeil sur les moeurs. -- Habitat de la
-    girafe. -- Le Soudan; le Damergou. -- Architecture. -- Katchï¿½na;
-    Barth est prisonnier. -- Pï¿½nurie d'argent. -- Kano. -- Son
-    aspect, son industrie, sa population. -- De Kano ï¿½ Kouka. -- Mort
-    de Richardson. -- Arrivï¿½e ï¿½ Kouka. -- Difficultï¿½s croissantes. --
-    L'ï¿½nergie du voyageur en triomphe. -- Ses visiteurs. -- Un vieux
+    girafe. -- Le Soudan; le Damergou. -- Architecture. -- Katchéna;
+    Barth est prisonnier. -- Pénurie d'argent. -- Kano. -- Son
+    aspect, son industrie, sa population. -- De Kano à Kouka. -- Mort
+    de Richardson. -- Arrivée à Kouka. -- Difficultés croissantes. --
+    L'énergie du voyageur en triomphe. -- Ses visiteurs. -- Un vieux
     courtisan. -- Le vizir et ses quatre cents femmes. -- Description
-    de la ville, son marchï¿½, ses habitants. -- Le Dendal. --
+    de la ville, son marché, ses habitants. -- Le Dendal. --
     Excursion. -- Angornou. -- Le lac Tchad.                       193
 
-  Dï¿½part. -- Aspect dï¿½solï¿½ du pays. -- Les Ghouas. -- Mabani. -- Le
-    mont Dï¿½labï¿½da. -- Forgeron en plein vent. -- Dï¿½vastation. --
+  Départ. -- Aspect désolé du pays. -- Les Ghouas. -- Mabani. -- Le
+    mont Délabéda. -- Forgeron en plein vent. -- Dévastation. --
     Orage. -- Baobab. -- Le Mendif. -- Les Marghis. -- L'Adamaoua. --
     Mboutoudi. -- Proposition de mariage. -- Installation de vive
-    force chez le fils du gouverneur de Soulleri. -- Le Bï¿½nouï¿½. --
-    Yola. -- Mauvais accueil. -- Renvoi subit. -- Les Ouï¿½lad-Sliman.
-    -- Situation politique du Bornou. -- La ville de Yo. -- Ngï¿½gimi
-    ou Ingï¿½gimi. -- Chute dans un bourbier. -- Territoire ennemi. --
-    Razzia. -- Nouvelle expï¿½dition. -- Troisiï¿½me dï¿½part de Kouka. --
-    Le chef de la police. -- Aspect de l'armï¿½e. -- Dikoua. -- Marche
-    de l'armï¿½e. -- Le Mosgou. -- Adishen et son escorte. -- Beautï¿½ du
-    pays. -- Chasse ï¿½ l'homme. -- Erreur des Europï¿½ens sur le centre
+    force chez le fils du gouverneur de Soulleri. -- Le Bénoué. --
+    Yola. -- Mauvais accueil. -- Renvoi subit. -- Les Ouélad-Sliman.
+    -- Situation politique du Bornou. -- La ville de Yo. -- Ngégimi
+    ou Ingégimi. -- Chute dans un bourbier. -- Territoire ennemi. --
+    Razzia. -- Nouvelle expédition. -- Troisième départ de Kouka. --
+    Le chef de la police. -- Aspect de l'armée. -- Dikoua. -- Marche
+    de l'armée. -- Le Mosgou. -- Adishen et son escorte. -- Beauté du
+    pays. -- Chasse à l'homme. -- Erreur des Européens sur le centre
     de l'Afrique. -- Incendies. -- Baga. -- Partage du butin. --
-    Entrï¿½e dans le Baghirmi. -- Refus de passage. -- Traversï¿½e du
-    Chari. -- ï¿½ travers champs. -- Dï¿½fense d'aller plus loin. --
-    Hospitalitï¿½ de Bou-Bakr-Sadik. -- Barth est arrï¿½tï¿½. -- On lui met
-    les fers aux pieds. -- Dï¿½livrï¿½ par Sadik. -- Masï¿½na. -- Un
+    Entrée dans le Baghirmi. -- Refus de passage. -- Traversée du
+    Chari. -- À travers champs. -- Défense d'aller plus loin. --
+    Hospitalité de Bou-Bakr-Sadik. -- Barth est arrêté. -- On lui met
+    les fers aux pieds. -- Délivré par Sadik. -- Maséna. -- Un
     savant. -- Les femmes de Baghirmi. -- Combat avec des fourmis. --
-    Cortï¿½ge du sultan. -- Dï¿½pï¿½ches de Londres.                     209
+    Cortége du sultan. -- Dépêches de Londres.                     209
 
-  De Katchï¿½na au Niger. -- Le district de Mouniyo. -- Lacs
-    remarquables. -- Aspect curieux de Zinder. -- Route pï¿½rilleuse.
-    -- Activitï¿½ des fourmis. -- Le Ghaladina de Sokoto. -- Marche
-    forcï¿½e de trente heures. -- L'ï¿½mir Aliyou. -- Vourno. --
-    Situation du pays. -- Cortï¿½ge nuptial. -- Sokoto. -- Caprice
-    d'une boï¿½te ï¿½ musique. -- Gando. -- Khalilou. -- Un chevalier
-    d'industrie. -- Exactions. -- Pluie. -- Dï¿½solation et fï¿½conditï¿½.
-    -- Zogirma. -- La vallï¿½e de Foga. -- Le Niger. -- La ville de
-    Say. -- Rï¿½gion mystï¿½rieuse. -- Orage. -- Passage de la Sirba. --
-    Fin du rhamadan ï¿½ Sebba. -- Bijoux en cuivre. -- De l'eau
-    partout. -- Barth dï¿½guisï¿½ en schï¿½rif. -- Horreur des chiens. --
+  De Katchéna au Niger. -- Le district de Mouniyo. -- Lacs
+    remarquables. -- Aspect curieux de Zinder. -- Route périlleuse.
+    -- Activité des fourmis. -- Le Ghaladina de Sokoto. -- Marche
+    forcée de trente heures. -- L'émir Aliyou. -- Vourno. --
+    Situation du pays. -- Cortége nuptial. -- Sokoto. -- Caprice
+    d'une boîte à musique. -- Gando. -- Khalilou. -- Un chevalier
+    d'industrie. -- Exactions. -- Pluie. -- Désolation et fécondité.
+    -- Zogirma. -- La vallée de Foga. -- Le Niger. -- La ville de
+    Say. -- Région mystérieuse. -- Orage. -- Passage de la Sirba. --
+    Fin du rhamadan à Sebba. -- Bijoux en cuivre. -- De l'eau
+    partout. -- Barth déguisé en schérif. -- Horreur des chiens. --
     Montagnes du Hombori. -- Protection des Touaregs. -- Bambara. --
-    Priï¿½res pour la pluie. -- Sur l'eau. -- Kabara. -- Visites
+    Prières pour la pluie. -- Sur l'eau. -- Kabara. -- Visites
     importunes. -- Dangereux passage. -- Tinboctoue, Tomboctou ou
     Tembouctou. -- El Bakay. -- Menaces. -- Le camp du cheik. --
-    Irritation croissante. -- Sus au chrï¿½tien! -- Les Foullanes
-    veulent assiï¿½ger la ville. -- Dï¿½part. -- Un preux chez les
-    Touaregs. -- Zone rocheuse. -- Lenteurs dï¿½sespï¿½rantes. -- Gogo.
+    Irritation croissante. -- Sus au chrétien! -- Les Foullanes
+    veulent assiéger la ville. -- Départ. -- Un preux chez les
+    Touaregs. -- Zone rocheuse. -- Lenteurs désespérantes. -- Gogo.
     -- Gando. -- Kano. -- Retour.                                  226
 
 
 VOYAGES ET AVENTURES DU BARON DE WOGAN EN CALIFORNIE
-(1850-1852.--Inï¿½dit).
+(1850-1852.--Inédit).
 
-  Arrivï¿½e ï¿½ San-Francisco. -- Description de cette ville. -- Dï¿½part
-    pour les placers. -- Le claim. -- Premiï¿½re dï¿½ception. -- La
-    solitude. -- Mineur et chasseur. -- Dï¿½part pour l'intï¿½rieur. --
-    L'ours gris. -- Reconnaissance des sauvages. -- Captivitï¿½. --
+  Arrivée à San-Francisco. -- Description de cette ville. -- Départ
+    pour les placers. -- Le claim. -- Première déception. -- La
+    solitude. -- Mineur et chasseur. -- Départ pour l'intérieur. --
+    L'ours gris. -- Reconnaissance des sauvages. -- Captivité. --
     Jugement. -- Le poteau de la guerre. -- L'Anglais chef de tribu.
-    -- Dï¿½livrance.                                                 242
+    -- Délivrance.                                                 242
 
 
 VOYAGE DANS LE ROYAUME D'AVA (empire des Birmans), par le
-capitaine Henri YULE, du corps du gï¿½nie bengalais (1855).
+capitaine Henri YULE, du corps du génie bengalais (1855).
 
-  Dï¿½part de Rangoun. -- Frontiï¿½res anglaises et birmanes. -- Aspect
-    du fleuve et de ses bords. -- La ville de Magwï¿½. -- Musique,
+  Départ de Rangoun. -- Frontières anglaises et birmanes. -- Aspect
+    du fleuve et de ses bords. -- La ville de Magwé. -- Musique,
     concert et drames birmans. -- Sources de naphte; leur
-    exploitation. -- Un monastï¿½re et ses habitants. -- La ville de
-    Pagï¿½n. -- Myeen-Kyan. -- Amarapoura. -- Paysage. -- Arrivï¿½e ï¿½
+    exploitation. -- Un monastère et ses habitants. -- La ville de
+    Pagán. -- Myeen-Kyan. -- Amarapoura. -- Paysage. -- Arrivée à
     Amarapoura.                                                    258
 
-  Amarapoura; ses palais, ses temples. -- L'ï¿½lï¿½phant blanc. --
+  Amarapoura; ses palais, ses temples. -- L'éléphant blanc. --
     Population de la ville. -- Recensement suspect. -- Audience du
-    roi. -- Prï¿½sents offerts et reï¿½us. -- Le prince hï¿½ritier
-    prï¿½somptif et la princesse royale. -- Incident diplomatique. --
+    roi. -- Présents offerts et reçus. -- Le prince héritier
+    présomptif et la princesse royale. -- Incident diplomatique. --
     Religion bouddhique. -- Visites aux grands fonctionnaires. -- Les
     dames birmanes.                                                273
 
-  Comment on dompte les ï¿½lï¿½phants en Birmanie. -- Excursions autour
-    d'Amarapoura. -- Gï¿½ologie de la vallï¿½e de l'Irawady. -- Les
+  Comment on dompte les éléphants en Birmanie. -- Excursions autour
+    d'Amarapoura. -- Géologie de la vallée de l'Irawady. -- Les
     poissons familiers. -- Le serpent hamadryade. -- Les Shans et
-    autres peuples indigï¿½nes du royaume d'Ava. -- Les femmes chez les
-    Birmans et chez les Karens. -- Fï¿½tes birmanes. -- Audience de
-    congï¿½. -- Refus de signer un traitï¿½. -- Lettre royale. -- Dï¿½part
-    d'Amarapoura et retour ï¿½ Rangoun. -- Coup d'oeil rï¿½trospectif sur
+    autres peuples indigènes du royaume d'Ava. -- Les femmes chez les
+    Birmans et chez les Karens. -- Fêtes birmanes. -- Audience de
+    congé. -- Refus de signer un traité. -- Lettre royale. -- Départ
+    d'Amarapoura et retour à Rangoun. -- Coup d'oeil rétrospectif sur
     la Birmanie.                                                   280
 
 
 VOYAGE AUX GRANDS LACS DE L'AFRIQUE ORIENTALE, par le capitaine
 BURTON (1857-1859).
 
-  But de l'expï¿½dition. -- Le capitaine Burton. -- Zanzibar. --
-    Aspect de la cï¿½te. -- Un village. -- Les Bï¿½loutchis. -- Ouamrima.
-    -- Fertilitï¿½ du sol. -- Dï¿½goï¿½t inspirï¿½ par le pantalon. -- Vallï¿½e
+  But de l'expédition. -- Le capitaine Burton. -- Zanzibar. --
+    Aspect de la côte. -- Un village. -- Les Béloutchis. -- Ouamrima.
+    -- Fertilité du sol. -- Dégoût inspiré par le pantalon. -- Vallée
     de la mort. -- Supplice de M. Maizan. -- Hallucination de
-    l'assassin. -- Horreur du paysage. -- Humiditï¿½. -- Zoungomï¿½ro. --
-    Effets de la traite. -- Personnel de la caravane. -- Mï¿½tis
+    l'assassin. -- Horreur du paysage. -- Humidité. -- Zoungoméro. --
+    Effets de la traite. -- Personnel de la caravane. -- Métis
     arabes, Hindous, jeunes gens mis en gage par leurs familles. --
-    ï¿½nes de selle et de bï¿½t. -- Chaï¿½ne de l'Ousagara. --
+    Ânes de selle et de bât. -- Chaîne de l'Ousagara. --
     Transformation du climat. -- Nouvelles plaines insalubres. --
-    Contraste. -- Ruine d'un village. -- Fourmis noires. -- Troisiï¿½me
+    Contraste. -- Ruine d'un village. -- Fourmis noires. -- Troisième
     rampe de l'Ousagara. -- La Passe terrible. -- L'Ougogo. --
-    L'Ougogi. -- ï¿½pines. -- Le Zihoua. -- Caravanes. -- Curiositï¿½ des
-    indigï¿½nes. -- Faune. -- Un despote. -- La plaine embrasï¿½e. --
-    Coup d'oeil sur la vallï¿½e d'Ougogo. -- Ariditï¿½. -- Kraals. --
-    Absence de combustible. -- Gï¿½ologie. -- Climat. -- Printemps. --
-    Indigï¿½nes. -- District de Toula. -- Le chef Maoula. -- Forï¿½t
+    L'Ougogi. -- Épines. -- Le Zihoua. -- Caravanes. -- Curiosité des
+    indigènes. -- Faune. -- Un despote. -- La plaine embrasée. --
+    Coup d'oeil sur la vallée d'Ougogo. -- Aridité. -- Kraals. --
+    Absence de combustible. -- Géologie. -- Climat. -- Printemps. --
+    Indigènes. -- District de Toula. -- Le chef Maoula. -- Forêt
     dangereuse.                                                    305
 
-  Arrivï¿½e ï¿½ Kazeh. -- Accueil hospitalier. -- Snay ben Amir. --
-    ï¿½tablissements des Arabes. -- Leur maniï¿½re de vivre. -- Le Tembï¿½.
+  Arrivée à Kazeh. -- Accueil hospitalier. -- Snay ben Amir. --
+    Établissements des Arabes. -- Leur manière de vivre. -- Le Tembé.
     -- Chemins de l'Afrique orientale. -- Caravanes. -- Porteurs. --
-    Une journï¿½e de marche. -- Costume du guide. -- Le Mganga. --
-    Coiffures. -- Halte. -- Danse. -- Sï¿½jour ï¿½ Kazeh. -- Aviditï¿½ des
-    Bï¿½loutchis. -- Saison pluvieuse. -- Yombo. -- Coucher du soleil.
-    -- Jolies fumeuses. -- Le Msï¿½nï¿½. -- Orgies. -- Kajjanjï¿½ri. --
-    Maladie. -- Passage du Malagarazi. -- Tradition. -- Beautï¿½ de la
-    Terre de la Lune. -- Soirï¿½e de printemps. -- Orage. -- Faune. --
-    Cynocï¿½phales, chiens sauvages, oiseaux d'eau. -- Ouakimbou. --
-    Ouanyamouï¿½zi. -- Toilette. -- Naissances. -- ï¿½ducation. --
-    Funï¿½railles. -- Mobilier. -- Lieu public. -- Gouvernement. --
-    Ordalie. -- Rï¿½gion insalubre et fï¿½conde. -- Aspect du Tanganyika.
-    -- Ravissements. -- Kaouï¿½lï¿½.                                   321
+    Une journée de marche. -- Costume du guide. -- Le Mganga. --
+    Coiffures. -- Halte. -- Danse. -- Séjour à Kazeh. -- Avidité des
+    Béloutchis. -- Saison pluvieuse. -- Yombo. -- Coucher du soleil.
+    -- Jolies fumeuses. -- Le Mséné. -- Orgies. -- Kajjanjéri. --
+    Maladie. -- Passage du Malagarazi. -- Tradition. -- Beauté de la
+    Terre de la Lune. -- Soirée de printemps. -- Orage. -- Faune. --
+    Cynocéphales, chiens sauvages, oiseaux d'eau. -- Ouakimbou. --
+    Ouanyamouézi. -- Toilette. -- Naissances. -- Éducation. --
+    Funérailles. -- Mobilier. -- Lieu public. -- Gouvernement. --
+    Ordalie. -- Région insalubre et féconde. -- Aspect du Tanganyika.
+    -- Ravissements. -- Kaouélé.                                   321
 
-    Tatouage. -- Cosmï¿½tiques. -- Maniï¿½re originale de priser. --
-    Caractï¿½re des Ouajiji; leur cï¿½rï¿½monial. -- Autres riverains du
-    lac. -- Ouatata, vie nomade, conquï¿½tes, maniï¿½re de se battre,
-    hospitalitï¿½. -- Installation ï¿½ Kaouï¿½lï¿½. -- Visite de Kannï¿½na. --
+    Tatouage. -- Cosmétiques. -- Manière originale de priser. --
+    Caractère des Ouajiji; leur cérémonial. -- Autres riverains du
+    lac. -- Ouatata, vie nomade, conquêtes, manière de se battre,
+    hospitalité. -- Installation à Kaouélé. -- Visite de Kannéna. --
     Tribulations. -- Maladies. -- Sur le lac. -- Bourgades de
-    pï¿½cheurs. -- Ouafanya. -- Le chef Kanoni. -- Cï¿½te inhospitaliï¿½re.
-    -- L'ï¿½le d'Oubouari. -- Anthropophages. -- Accueil flatteur des
-    Ouavira. -- Pas d'issue au Tanganyika. -- Tempï¿½te. -- Retour.  337
+    pêcheurs. -- Ouafanya. -- Le chef Kanoni. -- Côte inhospitalière.
+    -- L'île d'Oubouari. -- Anthropophages. -- Accueil flatteur des
+    Ouavira. -- Pas d'issue au Tanganyika. -- Tempête. -- Retour.  337
 
 
 FRAGMENT D'UN VOYAGE AU SAUBAT (affluent du Nil Blanc), par M.
 Andrea DEBONO (1855)                                               348
 
 
-VOYAGE ï¿½ L'ï¿½LE DE CUBA, par M. Richard DANA (1859).
+VOYAGE À L'ÎLE DE CUBA, par M. Richard DANA (1859).
 
-  Dï¿½part de New-York. -- Une nuit en mer. -- Premiï¿½re vue de Cuba.
+  Départ de New-York. -- Une nuit en mer. -- Première vue de Cuba.
     -- Le Morro. -- Aspect de la Havane. -- Les rues. -- La volante.
-    -- La place d'Armes. -- La promenade d'Isabelle II. -- L'hï¿½tel Le
+    -- La place d'Armes. -- La promenade d'Isabelle II. -- L'hôtel Le
     Grand. -- Bains dans les rochers. -- Coolies chinois. -- Quartier
-    pauvre ï¿½ la Havane. -- La promenade de Tacon. -- Les surnoms ï¿½ la
-    Havane. -- Matanzas. -- La Plaza. -- Limossar. -- L'intï¿½rieur de
-    l'ï¿½le. -- La vï¿½gï¿½tation. -- Les champs de canne ï¿½ sucre. -- Une
-    plantation. -- Le cafï¿½. -- La vie dans une plantation de sucre.
-    -- Le Cumbre. -- Le passage. -- Retour ï¿½ la Havane. -- La
-    population de Cuba. -- Les noirs libres. -- Les mystï¿½res de
+    pauvre à la Havane. -- La promenade de Tacon. -- Les surnoms à la
+    Havane. -- Matanzas. -- La Plaza. -- Limossar. -- L'intérieur de
+    l'île. -- La végétation. -- Les champs de canne à sucre. -- Une
+    plantation. -- Le café. -- La vie dans une plantation de sucre.
+    -- Le Cumbre. -- Le passage. -- Retour à la Havane. -- La
+    population de Cuba. -- Les noirs libres. -- Les mystères de
     l'esclavage. -- Les productions naturelles. -- Le climat.      353
 
 
-EXCURSIONS DANS LE DAUPHINï¿½, par M. Adolphe JOANNE (1850-1860).
+EXCURSIONS DANS LE DAUPHINÉ, par M. Adolphe JOANNE (1850-1860).
 
-  Le pic de Belledon. -- Le Dauphinï¿½. -- Les Goulets.              369
+  Le pic de Belledon. -- Le Dauphiné. -- Les Goulets.              369
 
-  Les gorges d'Omblï¿½ze. -- Die. -- La vallï¿½e de Roumeyer. -- La
-    forï¿½t de Saou. -- Le col de la Cochette.                       385
+  Les gorges d'Omblèze. -- Die. -- La vallée de Roumeyer. -- La
+    forêt de Saou. -- Le col de la Cochette.                       385
 
 
-EXCURSIONS DANS LE DAUPHINï¿½, par M. ï¿½lisï¿½e RECLUS (1850-1860).
+EXCURSIONS DANS LE DAUPHINÉ, par M. Élisée RECLUS (1850-1860).
 
   La Grave. -- L'Aiguille du midi. -- Le clapier de
-    Saint-Christophe. -- Le pont du Diable. -- La Bï¿½rarde. -- Le col
+    Saint-Christophe. -- Le pont du Diable. -- La Bérarde. -- Le col
     de la Tempe. -- La Vallouise. -- Le Pertuis-Rostan. -- Le village
     des Claux. -- Le mont Pelvoux. -- La Balme-Chapelu. -- Moeurs des
     habitants.                                                     402
@@ -445,7 +445,7 @@ NOUVEAU JOURNAL DES VOYAGES.
 
 
 
-[Illustration: Chapelle de Sainte-Rosalie, prï¿½s Palerme (voy. p.
+[Illustration: Chapelle de Sainte-Rosalie, près Palerme (voy. p.
 5).--Dessin de Rouargue.]
 
 
@@ -453,1068 +453,1068 @@ NOUVEAU JOURNAL DES VOYAGES.
 
 UN MOIS EN SICILE[1],
 
-1843.--INï¿½DIT.
+1843.--INÉDIT.
 
-PAR M. Fï¿½LIX BOURQUELOT.
+PAR M. FÉLIX BOURQUELOT.
 
-         [Note 1: La Sicile, la plus grande ï¿½le de la Mï¿½diterranï¿½e
-         (720 kilomï¿½tres de tour), paraï¿½t avoir ï¿½tï¿½ primitivement
-         rï¿½unie au continent; un cataclysme soudain l'aurait, suivant
+         [Note 1: La Sicile, la plus grande île de la Méditerranée
+         (720 kilomètres de tour), paraît avoir été primitivement
+         réunie au continent; un cataclysme soudain l'aurait, suivant
          d'anciennes traditions conformes aux indications de la
-         science gï¿½ologique, sï¿½parï¿½e du continent italien, et aurait
-         donnï¿½ passage ï¿½ la mer qui coule entre la cï¿½te de Messine et
-         les montagnes de la Calabre. La forme de l'ï¿½le est ï¿½ peu prï¿½s
-         celle d'un triangle allongï¿½, dont les trois angles ont pour
+         science géologique, séparée du continent italien, et aurait
+         donné passage à la mer qui coule entre la côte de Messine et
+         les montagnes de la Calabre. La forme de l'île est à peu près
+         celle d'un triangle allongé, dont les trois angles ont pour
          sommets le cap _Faro_ (l'ancien pelorus) au nord-est, le cap
-         _Boco_ ou de Marsala (Lilybï¿½um) a l'ouest, le cap _Passera_
-         (Pachinum) au sud-est. Diverses chaï¿½nes de montagnes, dont
-         les principales sont les Pï¿½lores et les Nï¿½brodes,
-         continuation, ï¿½ ce qu'il semble, des Apennins, traversent la
+         _Boco_ ou de Marsala (Lilybæum) a l'ouest, le cap _Passera_
+         (Pachinum) au sud-est. Diverses chaînes de montagnes, dont
+         les principales sont les Pélores et les Nébrodes,
+         continuation, à ce qu'il semble, des Apennins, traversent la
          Sicile de l'est au sud-ouest et descendent du centre au
-         sud-est, tandis que l'Etna y forme un groupe indï¿½pendant.
-         Elle est arrosï¿½e par plusieurs cours d'eau dont les plus
+         sud-est, tandis que l'Etna y forme un groupe indépendant.
+         Elle est arrosée par plusieurs cours d'eau dont les plus
          importants, la Giarretta, le Platani, le Salso, le Cantara,
-         le Belici, etc., sont plutï¿½t des torrents que de vï¿½ritables
-         riviï¿½res.]
+         le Belici, etc., sont plutôt des torrents que de véritables
+         rivières.]
 
-     Arrivï¿½e en Sicile. -- Palerme et ses habitants.
+     Arrivée en Sicile. -- Palerme et ses habitants.
 
 
-Parti la veille (4 septembre 1843) de Naples, notre bateau ï¿½ vapeur,
-_l'Etna_, s'approche rapidement des cï¿½tes de la Sicile. Palerme est
-devant nous. ï¿½ travers la pure transparence de l'atmosphï¿½re, nous
-contemplons la capitale de la Sicile se dï¿½roulant avec grï¿½ce au fond
+Parti la veille (4 septembre 1843) de Naples, notre bateau à vapeur,
+_l'Etna_, s'approche rapidement des côtes de la Sicile. Palerme est
+devant nous. À travers la pure transparence de l'atmosphère, nous
+contemplons la capitale de la Sicile se déroulant avec grâce au fond
 de son golfe arrondi. Les rayons du soleil levant glissent au-dessus
-de la masse confuse des maisons et dorent les clochers des ï¿½glises et
-les pavillons des palais. Dans un bleuï¿½tre lointain apparaissent des
-montagnes indï¿½cises, tandis qu'ï¿½ l'ouest le mont Pellegrino, aux
-arï¿½tes roides et tranchï¿½es, aux flancs nus et sï¿½vï¿½res, contraste
-vigoureusement avec la richesse verdoyante de la vallï¿½e qu'il domine.
+de la masse confuse des maisons et dorent les clochers des églises et
+les pavillons des palais. Dans un bleuâtre lointain apparaissent des
+montagnes indécises, tandis qu'à l'ouest le mont Pellegrino, aux
+arêtes roides et tranchées, aux flancs nus et sévères, contraste
+vigoureusement avec la richesse verdoyante de la vallée qu'il domine.
 
-Les douaniers viennent se jeter dï¿½sagrï¿½ablement ï¿½ travers ces
-premiï¿½res impressions. Dï¿½s qu'ils ont achevï¿½ leur fastidieuse besogne,
+Les douaniers viennent se jeter désagréablement à travers ces
+premières impressions. Dès qu'ils ont achevé leur fastidieuse besogne,
 je descends dans une barque et elle me conduit vers la partie de la
 ville que termine une porte monumentale, la _porta Felice_, nom
-d'heureux augure! De lï¿½ je me rends ï¿½ pied ï¿½ l'hï¿½tel de France. (Les
-affaires avant les plaisirs!) Je vais au consulat, puis je porte ï¿½ï¿½
-et lï¿½ mes lettres de recommandation. Il est trois heures aprï¿½s midi.
-La table d'hï¿½te est servie. Ni les mets ni les convives ne
-m'intï¿½ressent. J'ai hï¿½te de parcourir la ville, et, avant la fin du
-dï¿½ner, je pars.
+d'heureux augure! De là je me rends à pied à l'hôtel de France. (Les
+affaires avant les plaisirs!) Je vais au consulat, puis je porte çà
+et là mes lettres de recommandation. Il est trois heures après midi.
+La table d'hôte est servie. Ni les mets ni les convives ne
+m'intéressent. J'ai hâte de parcourir la ville, et, avant la fin du
+dîner, je pars.
 
-L'aspect gï¿½nï¿½ral de Palerme est plutï¿½t d'une ville espagnole que d'une
-ville italienne. Sa forme est un carrï¿½ lï¿½gï¿½rement allongï¿½, dont un des
-petits cï¿½tï¿½s, au nord-est, est adossï¿½ ï¿½ la mer. Son port est abritï¿½
-par un mï¿½le qui s'avance d'environ 1400 mï¿½tres au sud et 800 ï¿½
-l'ouest. Elle se compose de quatre quartiers, sï¿½parï¿½s par deux grandes
-voies: celle du _Cassaro_ ou _rue de Tolï¿½de_ ou _Corso_, qui descend
+L'aspect général de Palerme est plutôt d'une ville espagnole que d'une
+ville italienne. Sa forme est un carré légèrement allongé, dont un des
+petits côtés, au nord-est, est adossé à la mer. Son port est abrité
+par un môle qui s'avance d'environ 1400 mètres au sud et 800 à
+l'ouest. Elle se compose de quatre quartiers, séparés par deux grandes
+voies: celle du _Cassaro_ ou _rue de Tolède_ ou _Corso_, qui descend
 en ligne droite vers la mer, la Strada _Macqueda_ ou _Nuova_, qui
-coupe le Cassaro ï¿½ angle droit. Au point d'intersection, est la place
-appelï¿½e des _Quattro Cantoni_, encadrï¿½e de palais symï¿½triques et
-dï¿½corï¿½e de fontaines et de statues.
+coupe le Cassaro à angle droit. Au point d'intersection, est la place
+appelée des _Quattro Cantoni_, encadrée de palais symétriques et
+décorée de fontaines et de statues.
 
-Les rues del Cassaro et Macqueda sont, sinon aussi animï¿½es, au moins
-plus propres et plus rï¿½guliï¿½res que la fameuse rue de Tolï¿½de ï¿½ Naples.
-Comme dans beaucoup de villes de l'Italie, ce sont les galï¿½riens qui
+Les rues del Cassaro et Macqueda sont, sinon aussi animées, au moins
+plus propres et plus régulières que la fameuse rue de Tolède à Naples.
+Comme dans beaucoup de villes de l'Italie, ce sont les galériens qui
 les balayent et qui les nettoient. On rencontre de distance en
 distance des fontaines, dont quelques-unes ont des proportions
-colossales. Des balcons en fer font saillie ï¿½ toutes les fenï¿½tres;
-dans la rue de Tolï¿½de et sur la place prï¿½torienne, on en voit qui sont
-grillï¿½s et occupent toute la largeur des maisons ï¿½ l'ï¿½tage le plus
-ï¿½levï¿½. Il paraï¿½t que des religieuses cloï¿½trï¿½es, dont les couvents sont
-ï¿½ peu de distance, arrivent par des passages souterrains jusqu'ï¿½ ces
-balcons et y jouissent du spectacle des fï¿½tes et des processions
-solennelles. On m'a mï¿½me racontï¿½ (faut-il le croire?) que de lï¿½
-maintes nonnes, pour la plupart filles de bonne maison enlevï¿½es de grï¿½
-ou de force aux douceurs de la vie mondaine, ï¿½changent des regards et
+colossales. Des balcons en fer font saillie à toutes les fenêtres;
+dans la rue de Tolède et sur la place prétorienne, on en voit qui sont
+grillés et occupent toute la largeur des maisons à l'étage le plus
+élevé. Il paraît que des religieuses cloîtrées, dont les couvents sont
+à peu de distance, arrivent par des passages souterrains jusqu'à ces
+balcons et y jouissent du spectacle des fêtes et des processions
+solennelles. On m'a même raconté (faut-il le croire?) que de là
+maintes nonnes, pour la plupart filles de bonne maison enlevées de gré
+ou de force aux douceurs de la vie mondaine, échangent des regards et
 des signes avec de jeunes galants qui se logent aux environs, et qui
-ï¿½pient avec patience pendant des jours entiers le moment favorable.
+épient avec patience pendant des jours entiers le moment favorable.
 
 La vie des Palermitains se passe presque toute en plein air; les
 affaires, le travail, les plaisirs, tout a lieu dans la rue; on
-pourrait presque dire qu'on y dort, ï¿½ voir tant de groupes d'hommes
-couchï¿½s la nuit sur les trottoirs, sur les marches des palais et aux
-portes des ï¿½glises. Des artisans de divers mï¿½tiers travaillent sur les
-balcons, ou le soir, devant leurs ateliers, ï¿½ la lueur de petites
-lampes. Les maisons sont en communication aussi complï¿½te que possible
-avec l'air extï¿½rieur; l'oeil pï¿½nï¿½tre sans obstacle dans les
+pourrait presque dire qu'on y dort, à voir tant de groupes d'hommes
+couchés la nuit sur les trottoirs, sur les marches des palais et aux
+portes des églises. Des artisans de divers métiers travaillent sur les
+balcons, ou le soir, devant leurs ateliers, à la lueur de petites
+lampes. Les maisons sont en communication aussi complète que possible
+avec l'air extérieur; l'oeil pénètre sans obstacle dans les
 boutiques et dans les cabinets d'affaires; il n'est pas jusqu'au
 notaire qu'on ne puisse se donner le plaisir d'observer, de la rue,
-attablï¿½ au milieu de ses dossiers, dictant des actes ï¿½ son unique
+attablé au milieu de ses dossiers, dictant des actes à son unique
 clerc et causant avec ses rares clients.
 
-On n'a point exagï¿½rï¿½ la sobriï¿½tï¿½ des Siciliens; du pain et de l'eau
-pour les plus misï¿½rables, des figues d'Inde ou d'autres fruits communs
-pour les autres, du macaroni pour les mieux partagï¿½s, cela suffit. Le
-ciel est si splendide, la brise du soir si rafraï¿½chissante, la
-campagne si belle! C'est aux peuples du Nord, enveloppï¿½s dans leurs
-tristes brumes, ï¿½ aimer les longs et succulents festins.
+On n'a point exagéré la sobriété des Siciliens; du pain et de l'eau
+pour les plus misérables, des figues d'Inde ou d'autres fruits communs
+pour les autres, du macaroni pour les mieux partagés, cela suffit. Le
+ciel est si splendide, la brise du soir si rafraîchissante, la
+campagne si belle! C'est aux peuples du Nord, enveloppés dans leurs
+tristes brumes, à aimer les longs et succulents festins.
 
-Les Palermitains sont d'une nature facile et enjouï¿½e: ils ont beaucoup
-de vivacitï¿½ dans le geste; ils paraissent fiers, querelleurs et
-mï¿½fiants. Toutes les portes ont des judas, ï¿½ travers lesquels on
+Les Palermitains sont d'une nature facile et enjouée: ils ont beaucoup
+de vivacité dans le geste; ils paraissent fiers, querelleurs et
+méfiants. Toutes les portes ont des judas, à travers lesquels on
 examine attentivement les visiteurs avant d'ouvrir. La physionomie de
 presque tous les habitants est spirituelle; les femmes se distinguent
-par une certaine ï¿½lï¿½gance naturelle trï¿½s-agrï¿½able.
+par une certaine élégance naturelle très-agréable.
 
 La principale distraction des Palermitains est la promenade du soir
-sur le quai appelï¿½ la _Marina_, qui s'ï¿½tend au loin ï¿½ droite en
-sortant par la porta Felice, et qui est vï¿½ritablement un endroit
-dï¿½licieux. On y fait de la musique pendant trois mois de l'annï¿½e.
-D'autres promeneurs prï¿½fï¿½rent la rue de Tolï¿½de et la route de
+sur le quai appelé la _Marina_, qui s'étend au loin à droite en
+sortant par la porta Felice, et qui est véritablement un endroit
+délicieux. On y fait de la musique pendant trois mois de l'année.
+D'autres promeneurs préfèrent la rue de Tolède et la route de
 Monreale.
 
-Les cafï¿½s sont de fort chï¿½tive apparence. Le cafï¿½ au lait y est servi
-dans l'ï¿½tat de prï¿½paration le plus avancï¿½; les deux liquides sont
-mï¿½langï¿½s d'avance dans des verres ï¿½ boire, le sucre est rï¿½pï¿½, le pain
-divisï¿½ en petites bouchï¿½es. On a des glaces d'espï¿½ces trï¿½s-variï¿½es et
-de bonne qualitï¿½, non-seulement dans les cafï¿½s, mais dans de petites
-boutiques d'_aquaioli_, qui, ï¿½ la diffï¿½rence de ceux de Naples, sont
-sï¿½dentaires.
+Les cafés sont de fort chétive apparence. Le café au lait y est servi
+dans l'état de préparation le plus avancé; les deux liquides sont
+mélangés d'avance dans des verres à boire, le sucre est râpé, le pain
+divisé en petites bouchées. On a des glaces d'espèces très-variées et
+de bonne qualité, non-seulement dans les cafés, mais dans de petites
+boutiques d'_aquaioli_, qui, à la différence de ceux de Naples, sont
+sédentaires.
 
-Les cercles formï¿½s par souscription, oï¿½ l'on trouve quelques journaux,
-oï¿½ l'on joue, oï¿½ les nï¿½gociants viennent causer de leurs affaires,
-sont au rez-de-chaussï¿½e et ouverts comme les cafï¿½s.
+Les cercles formés par souscription, où l'on trouve quelques journaux,
+où l'on joue, où les négociants viennent causer de leurs affaires,
+sont au rez-de-chaussée et ouverts comme les cafés.
 
-Les thï¿½ï¿½tres, Carolino, di Santa Cecilia, San Ferdinando, sont assez
-frï¿½quentï¿½s. Les prix y sont peu ï¿½levï¿½s. On y entre sans ï¿½faire queue,ï¿½
-on y circule ï¿½ l'aise, sans se heurter des coudes et des genoux: Paris
-est la seule capitale de l'Europe oï¿½ l'on s'obstine ï¿½ mï¿½ler beaucoup
+Les théâtres, Carolino, di Santa Cecilia, San Ferdinando, sont assez
+fréquentés. Les prix y sont peu élevés. On y entre sans «faire queue,»
+on y circule à l'aise, sans se heurter des coudes et des genoux: Paris
+est la seule capitale de l'Europe où l'on s'obstine à mêler beaucoup
 de petits supplices au plaisir du spectacle.
 
 
      Les monuments de Palerme.
 
-Palerme a ï¿½tï¿½ tour ï¿½ tour grecque, carthaginoise, romaine, arabe,
+Palerme a été tour à tour grecque, carthaginoise, romaine, arabe,
 normande, espagnole, etc. On peut lire sur ses monuments ses diverses
 aventures historiques.
 
-Elle a conservï¿½ de l'antiquitï¿½ grecque et romaine: les restes d'un
-bain, sous l'ï¿½glise de _Santa Maria la Guadagna_; les ruines d'un
-thï¿½ï¿½tre, sous le palais du sï¿½nat; des bases de murailles, quelques
-statues, des inscriptions et des mï¿½dailles.
+Elle a conservé de l'antiquité grecque et romaine: les restes d'un
+bain, sous l'église de _Santa Maria la Guadagna_; les ruines d'un
+théâtre, sous le palais du sénat; des bases de murailles, quelques
+statues, des inscriptions et des médailles.
 
 [Illustration: Carte de la Sicilie.]
 
 Trois palais encore debout: _la Ziza_, _la Cuba_, et _Favara_,
-ï¿½difices quadrilatï¿½raux bï¿½tis en grandes pierres rï¿½guliï¿½res et ornï¿½s
-de panneaux en ogives, rappellent la pï¿½riode sarrasine. Le plus joli
+édifices quadrilatéraux bâtis en grandes pierres régulières et ornés
+de panneaux en ogives, rappellent la période sarrasine. Le plus joli
 des trois, Ziza (ce qui veut dire _fleur naissante_ en arabe), est
-situï¿½ au nord-ouest de la ville. Une grande porte flanquï¿½e de colonnes
-donne sur un vestibule, oï¿½ sont gravï¿½es des inscriptions cufiques et
-espagnoles; ï¿½ la suite s'ouvre une salle carrï¿½e, voï¿½tï¿½e en forme de
-rayon de miel et revï¿½tue de mosaï¿½ques. Au fond une source verse sur
+situé au nord-ouest de la ville. Une grande porte flanquée de colonnes
+donne sur un vestibule, où sont gravées des inscriptions cufiques et
+espagnoles; à la suite s'ouvre une salle carrée, voûtée en forme de
+rayon de miel et revêtue de mosaïques. Au fond une source verse sur
 des gradins de marbre blanc son eau limpide, qui passe gracieusement
-dans un canal et dans des bassins de mï¿½me blancheur. Le toit aplati
-est environnï¿½ d'un parapet dont les pierres portent une inscription en
-caractï¿½res cufiques.
+dans un canal et dans des bassins de même blancheur. Le toit aplati
+est environné d'un parapet dont les pierres portent une inscription en
+caractères cufiques.
 
 Les principaux monuments de la domination normande sont: le pont de
-l'Amiral jetï¿½ sur l'Oreto par l'amiral Georges d'Antioche, l'ï¿½glise de
-la Maggione, construite par le chancelier Matteo de Salerne, l'ï¿½glise
-de _San Giovanni degli Eremiti_, fondï¿½e par le comte Roger, celles de
+l'Amiral jeté sur l'Oreto par l'amiral Georges d'Antioche, l'église de
+la Maggione, construite par le chancelier Matteo de Salerne, l'église
+de _San Giovanni degli Eremiti_, fondée par le comte Roger, celles de
 _San Cataldo_, de _San Salvadore_, de _San Giovanni dei Leprosi_, la
-cathï¿½drale, le palais royal et l'ï¿½glise de la Martorana.
+cathédrale, le palais royal et l'église de la Martorana.
 
 [Illustration: Types et costumes siciliens.--Dessin de Rouargue.]
 
-Le palais royal doit ï¿½ Robert Guiscard, ï¿½ Roger, aux deux Guillaume, ï¿½
-Frï¿½dï¿½ric II et ï¿½ son fils Mainfroi, sa fondation et ses premiers
+Le palais royal doit à Robert Guiscard, à Roger, aux deux Guillaume, à
+Frédéric II et à son fils Mainfroi, sa fondation et ses premiers
 accroissements. Peu de restes de la construction primitive sont
 aujourd'hui debout; les plus remarquables sont: la tour de _Santa
-Nimfa_, l'une des quatre dont les angles du palais ï¿½taient flanquï¿½s,
-et la chapelle dite chapelle _Palatine_. Ce dernier ï¿½difice se compose
-de trois nefs, dont les voï¿½tes sont portï¿½es par des colonnes de granit
-ï¿½ chapiteaux dorï¿½s. Les murailles, la coupole qui s'ï¿½lï¿½ve au-dessus de
-l'intersection des bras de la croix, les voï¿½tes et les plafonds des
-nefs, sont ornï¿½s, dans toute leur ï¿½tendue, de plaques de marbre blanc
-et de porphyre, de pierres dures, de mosaï¿½ques ï¿½ fond dorï¿½, de
+Nimfa_, l'une des quatre dont les angles du palais étaient flanqués,
+et la chapelle dite chapelle _Palatine_. Ce dernier édifice se compose
+de trois nefs, dont les voûtes sont portées par des colonnes de granit
+à chapiteaux dorés. Les murailles, la coupole qui s'élève au-dessus de
+l'intersection des bras de la croix, les voûtes et les plafonds des
+nefs, sont ornés, dans toute leur étendue, de plaques de marbre blanc
+et de porphyre, de pierres dures, de mosaïques à fond doré, de
 caissons, de pendentifs, de peintures en couleurs brillantes, dont
-l'ensemble produit l'effet le plus ï¿½blouissant. On remarque dans la
-chapelle Palatine une trï¿½s-belle chaire en marbre blanc, en porphyre
-et en mosaï¿½que, soutenue par des' colonnes historiï¿½es, un grand
-candï¿½labre en marbre blanc portï¿½ par des lions, et une estrade pour le
-siï¿½ge royal.
+l'ensemble produit l'effet le plus éblouissant. On remarque dans la
+chapelle Palatine une très-belle chaire en marbre blanc, en porphyre
+et en mosaïque, soutenue par des' colonnes historiées, un grand
+candélabre en marbre blanc porté par des lions, et une estrade pour le
+siège royal.
 
 Les appartements du _palazzo reale_ renferment des portraits en pied
-des vice-rois et des gouverneurs de la Sicile, des fresques exï¿½cutï¿½es
-par Vï¿½lasquez, et deux bï¿½liers en bronze d'un trï¿½s-beau travail, qui
-viennent de l'antique Syracuse, et qui, dit-on, placï¿½s jadis sur une
-tour ï¿½levï¿½e, rendaient au souffle du vent des sons indiquant aux
-navigateurs l'ï¿½tat de l'atmosphï¿½re. L'observatoire construit en 1791
-par l'abbï¿½ Piazzi, et oï¿½ cet astronome dï¿½couvrit la planï¿½te Cï¿½rï¿½s, est
-une des curiositï¿½s du palais royal.
+des vice-rois et des gouverneurs de la Sicile, des fresques exécutées
+par Vélasquez, et deux béliers en bronze d'un très-beau travail, qui
+viennent de l'antique Syracuse, et qui, dit-on, placés jadis sur une
+tour élevée, rendaient au souffle du vent des sons indiquant aux
+navigateurs l'état de l'atmosphère. L'observatoire construit en 1791
+par l'abbé Piazzi, et où cet astronome découvrit la planète Cérès, est
+une des curiosités du palais royal.
 
-La cathï¿½drale est peu distante de ce palais avec lequel elle
+La cathédrale est peu distante de ce palais avec lequel elle
 communiquait primitivement par un chemin couvert. Construite par
-l'archevï¿½que Gauthier Offamilit et consacrï¿½e en 1185, elle a ï¿½tï¿½
-refaite dans la plupart de ses parties ï¿½ des ï¿½poques postï¿½rieures. La
-faï¿½ade principale et les grandes portes, avec des arceaux en ogive,
+l'archevêque Gauthier Offamilit et consacrée en 1185, elle a été
+refaite dans la plupart de ses parties à des époques postérieures. La
+façade principale et les grandes portes, avec des arceaux en ogive,
 des arabesques, des colonnes, et des inscriptions latines et arabes,
-donnent sur une place qui s'ï¿½tend jusqu'ï¿½ la rue du Cassaro. Une tour
-et une coupole surmontent l'ï¿½difice, que couronne dans toute sa
-largeur un feston dentelï¿½. Deux larges arceaux ï¿½ ogive unissent la
-cathï¿½drale au beffroi. L'intï¿½rieur est ï¿½ trois nefs; on y remarque les
-colonnes de granit ï¿½gyptien qui dï¿½corent les piliers, des statues en
-marbre blanc d'Antonio Gagini, le plus cï¿½lï¿½bre sculpteur sicilien, nï¿½
-ï¿½ Palerme en 1480, mort en 1573, de jolis bas-reliefs, des tableaux de
-Vï¿½lasquez et d'un autre artiste sicilien, Pietro Novelli, dit le
-Morrealese; j'y ai lu aussi le texte latin, ï¿½crit en caractï¿½res dorï¿½s
+donnent sur une place qui s'étend jusqu'à la rue du Cassaro. Une tour
+et une coupole surmontent l'édifice, que couronne dans toute sa
+largeur un feston dentelé. Deux larges arceaux à ogive unissent la
+cathédrale au beffroi. L'intérieur est à trois nefs; on y remarque les
+colonnes de granit égyptien qui décorent les piliers, des statues en
+marbre blanc d'Antonio Gagini, le plus célèbre sculpteur sicilien, né
+à Palerme en 1480, mort en 1573, de jolis bas-reliefs, des tableaux de
+Vélasquez et d'un autre artiste sicilien, Pietro Novelli, dit le
+Morrealese; j'y ai lu aussi le texte latin, écrit en caractères dorés
 sur marbre noir, d'une lettre que, suivant une tradition populaire, la
-mï¿½re du Christ aurait adressï¿½e aux habitants de Messine en rï¿½ponse ï¿½
-une dï¿½putation que ceux-ci lui avaient envoyï¿½e.
+mère du Christ aurait adressée aux habitants de Messine en réponse à
+une députation que ceux-ci lui avaient envoyée.
 
-[Illustration: Ruines ï¿½ Girgenti (Agrigente) (voy. p. 14).--Dessin de
+[Illustration: Ruines à Girgenti (Agrigente) (voy. p. 14).--Dessin de
 Rouargue.]
 
-En gï¿½nï¿½ral une dï¿½votion trï¿½s-vive, mais trï¿½s-peu ï¿½clairï¿½e, est le
-trait caractï¿½ristique des Palermitains et des autres Siciliens. Ils
-ont des notions assez vagues sur Dieu et sur Jï¿½sus-Christ, mais ils
-savent les noms des saints les plus puissants, le dï¿½tail des miracles
+En général une dévotion très-vive, mais très-peu éclairée, est le
+trait caractéristique des Palermitains et des autres Siciliens. Ils
+ont des notions assez vagues sur Dieu et sur Jésus-Christ, mais ils
+savent les noms des saints les plus puissants, le détail des miracles
 et des vertus curatives de chacun d'eux, et c'est avec pompe et avec
-bruit qu'ils les honorent. ï¿½ toutes les fï¿½tes, et les fï¿½tes sont fort
-souvent rï¿½pï¿½tï¿½es, on tend les ï¿½glises de draperies rouges et ornï¿½es
+bruit qu'ils les honorent. À toutes les fêtes, et les fêtes sont fort
+souvent répétées, on tend les églises de draperies rouges et ornées
 d'or et d'argent, on les illumine de myriades de cierges, on expose
-dans les rues des images sacrï¿½es, on allume des lampions, on tire des
-fusï¿½es et des piï¿½ces d'artifice, et la musique, fort aimï¿½e des
+dans les rues des images sacrées, on allume des lampions, on tire des
+fusées et des pièces d'artifice, et la musique, fort aimée des
 Siciliens fait entendre ses joyeuses fanfares. La foule accourt, et
-promï¿½ne ï¿½ travers la ville, en chantant et en criant vivat, des
-reliques et des figures peintes ou sculptï¿½es.
+promène à travers la ville, en chantant et en criant vivat, des
+reliques et des figures peintes ou sculptées.
 
-Chaque ville de Sicile a adoptï¿½ un saint qu'elle regarde comme son
-protecteur, qu'elle invoque dans le danger, dans les calamitï¿½s, et
-qu'elle paye de ses bienfaits en amour, en honneurs et en prï¿½sents.
-Palerme a choisi sainte Rosalie. C'ï¿½tait, dit la lï¿½gende, une niï¿½ce du
-roi normand Guillaume le Bon, qui, renonï¿½ant ï¿½ la vie mondaine, se
-retira dans une grotte solitaire du mont Pellegrino, et s'y voua ï¿½ la
-contemplation et ï¿½ la priï¿½re. Son corps, dï¿½couvert en 1624, ayant ï¿½tï¿½
-transportï¿½ ï¿½ Palerme pendant qu'une peste terrible affligeait la
-ville, la peste cessa soudain. La grotte oï¿½ elle a vï¿½cu et que la
-piï¿½tï¿½ populaire a transformï¿½e en chapelle, est l'objet d'un pï¿½lerinage
-trï¿½s-cï¿½lï¿½bre (voy. p. 1). Sa fï¿½te annuelle, qui commence vers le 10
-juillet, et qui dure cinq jours, est une suite de cï¿½rï¿½monies, de
+Chaque ville de Sicile a adopté un saint qu'elle regarde comme son
+protecteur, qu'elle invoque dans le danger, dans les calamités, et
+qu'elle paye de ses bienfaits en amour, en honneurs et en présents.
+Palerme a choisi sainte Rosalie. C'était, dit la légende, une nièce du
+roi normand Guillaume le Bon, qui, renonçant à la vie mondaine, se
+retira dans une grotte solitaire du mont Pellegrino, et s'y voua à la
+contemplation et à la prière. Son corps, découvert en 1624, ayant été
+transporté à Palerme pendant qu'une peste terrible affligeait la
+ville, la peste cessa soudain. La grotte où elle a vécu et que la
+piété populaire a transformée en chapelle, est l'objet d'un pèlerinage
+très-célèbre (voy. p. 1). Sa fête annuelle, qui commence vers le 10
+juillet, et qui dure cinq jours, est une suite de cérémonies, de
 processions, de triomphes, de courses de chevaux libres,
 d'illuminations, de feux d'artifice, qui font le bonheur des habitants
-et attirent une multitude d'ï¿½trangers. La statue de la sainte traverse
-la rue du Cassaro sur un char colossal de plus de vingt-trois mï¿½tres
-de haut et de vingt-six mï¿½tres de long, traï¿½nï¿½ par des boeufs ou par
-des mules, ornï¿½ de figures diverses et mï¿½me de divinitï¿½s paï¿½ennes, et
-renfermant dans son sein des musiciens qui exï¿½cutent des morceaux de
+et attirent une multitude d'étrangers. La statue de la sainte traverse
+la rue du Cassaro sur un char colossal de plus de vingt-trois mètres
+de haut et de vingt-six mètres de long, traîné par des boeufs ou par
+des mules, orné de figures diverses et même de divinités païennes, et
+renfermant dans son sein des musiciens qui exécutent des morceaux de
 circonstance.
 
-L'ï¿½glise du monastï¿½re de Santa Maria di Martorana fut fondï¿½e vers 1143
-par l'amiral Georges d'Antioche. On y voit une mosaï¿½que reprï¿½sentant
-le roi Roger, prosternï¿½ devant la Vierge, ï¿½ laquelle il vient de
-remettre une charte qu'elle tient ï¿½ la main; une autre mosaï¿½que
-reprï¿½sente le mï¿½me roi, en costume byzantin, vï¿½tu de la dalmatique,
+L'église du monastère de Santa Maria di Martorana fut fondée vers 1143
+par l'amiral Georges d'Antioche. On y voit une mosaïque représentant
+le roi Roger, prosterné devant la Vierge, à laquelle il vient de
+remettre une charte qu'elle tient à la main; une autre mosaïque
+représente le même roi, en costume byzantin, vêtu de la dalmatique,
 recevant du Christ la couronne royale.
 
-N'oublions pas que Palerme possï¿½de un musï¿½e de sculpture contenant des
-restes prï¿½cieux d'antiquitï¿½s, une collection gï¿½ologique et plusieurs
-bibliothï¿½ques.
+N'oublions pas que Palerme possède un musée de sculpture contenant des
+restes précieux d'antiquités, une collection géologique et plusieurs
+bibliothèques.
 
 
-     La cathï¿½drale de Monreale.
+     La cathédrale de Monreale.
 
-Monreale est situï¿½e ï¿½ quatre milles au sud-ouest de Palerme. Qui n'a
-entendu parler de sa cathï¿½drale? Je partis un matin par la porta
-Nuova, dans un _calesso_ de louage. La route qui mï¿½ne ï¿½ Monreale par
-des pentes douces mï¿½nagï¿½es dans le versant des montagnes, est
-charmante: on l'a ornï¿½e de bancs, de fontaines et d'une allï¿½e de
-lauriers-roses; d'un cï¿½tï¿½ se dressent des rochers qu'embellissent les
-eaux tombantes des sources et la verdure des aloï¿½s et des cactus, de
-l'autre s'ï¿½tend un vallon, couvert ï¿½ profusion d'oliviers, de
+Monreale est située à quatre milles au sud-ouest de Palerme. Qui n'a
+entendu parler de sa cathédrale? Je partis un matin par la porta
+Nuova, dans un _calesso_ de louage. La route qui mène à Monreale par
+des pentes douces ménagées dans le versant des montagnes, est
+charmante: on l'a ornée de bancs, de fontaines et d'une allée de
+lauriers-roses; d'un côté se dressent des rochers qu'embellissent les
+eaux tombantes des sources et la verdure des aloès et des cactus, de
+l'autre s'étend un vallon, couvert à profusion d'oliviers, de
 figuiers, d'orangers, de citronniers, avec Palerme et la mer dans le
 lointain.
 
-La ville de Monreale a une population de plus de 13ï¿½000 habitants; on
-leur attribue une origine sarrasine; leurs moeurs sont diffï¿½rentes
+La ville de Monreale a une population de plus de 13 000 habitants; on
+leur attribue une origine sarrasine; leurs moeurs sont différentes
 de celles des Palermitains.
 
-Le couvent des bï¿½nï¿½dictins m'attira tout d'abord. L'escalier renferme
-des toiles de Vï¿½lasquez et de Pietro Novelli. Le cloï¿½tre est d'une
-incomparable beautï¿½. Des galeries, disposï¿½es en carrï¿½, s'ouvrant sur
-un jardin verdoyant, offrent ï¿½ l'oeil une sï¿½rie d'arceaux en ogives
-d'une courbure orientale, que soutiennent 216 colonnes accouplï¿½es, de
-formes variï¿½es ï¿½ l'infini et ornï¿½es de deux en deux de mosaï¿½ques. Dans
-le jardin intï¿½rieur, des fontaines jaillissent du milieu des arbres et
+Le couvent des bénédictins m'attira tout d'abord. L'escalier renferme
+des toiles de Vélasquez et de Pietro Novelli. Le cloître est d'une
+incomparable beauté. Des galeries, disposées en carré, s'ouvrant sur
+un jardin verdoyant, offrent à l'oeil une série d'arceaux en ogives
+d'une courbure orientale, que soutiennent 216 colonnes accouplées, de
+formes variées à l'infini et ornées de deux en deux de mosaïques. Dans
+le jardin intérieur, des fontaines jaillissent du milieu des arbres et
 des fleurs et retombent dans des vasques de marbre. Avec le ciel et le
-soleil de la Sicile, l'effet est fï¿½erique; grandeur de l'ensemble,
-ï¿½lï¿½gance du dï¿½tail, harmonie de la nature et de l'oeuvre humaine,
-tout se trouve rï¿½uni dans ce cloï¿½tre, dï¿½ ï¿½ la piï¿½tï¿½ de Guillaume le
+soleil de la Sicile, l'effet est féerique; grandeur de l'ensemble,
+élégance du détail, harmonie de la nature et de l'oeuvre humaine,
+tout se trouve réuni dans ce cloître, dû à la piété de Guillaume le
 Bon (vers 1174).
 
-La vue de l'ï¿½glise de Monreale ne refroidit pas mon enthousiasme. Je
-ne parlerai pas de l'extï¿½rieur; une seule tour, au lieu de deux, orne
-aujourd'hui la faï¿½ade, qui se distingue surtout par de belles portes
-en bronze du cï¿½lï¿½bre Bonanno de Pise. Mais l'intï¿½rieur est d'une
+La vue de l'église de Monreale ne refroidit pas mon enthousiasme. Je
+ne parlerai pas de l'extérieur; une seule tour, au lieu de deux, orne
+aujourd'hui la façade, qui se distingue surtout par de belles portes
+en bronze du célèbre Bonanno de Pise. Mais l'intérieur est d'une
 magnificence merveilleuse. Seize colonnes de granit oriental divisent
 le temple en trois nefs; elles s'appuient sur des bases de marbre
-blanc et sur des socles carrï¿½s de marbre noir; leurs chapiteaux, en
-marbre blanc et trï¿½s-ouvragï¿½s, revï¿½tus de mosaï¿½ques ï¿½ la partie
-supï¿½rieure, soutiennent des arceaux disposï¿½s en ogives rentrantes. Le
-pavï¿½ est formï¿½ de cercles de porphyre et de serpentin, d'arabesques en
-mosaï¿½que et d'encadrements en marbre blanc. Des demi-coupoles
-terminent les trois nefs. Il n'y a point de voï¿½tes, et des plafonds
-modernes en bois ont remplacï¿½ ceux qui existaient avant l'incendie de
-1811. Tout le reste de l'ï¿½difice est couvert de mosaï¿½ques ï¿½ fonds
-d'or, offrant des reprï¿½sentations trï¿½s-variï¿½es, la figure colossale du
+blanc et sur des socles carrés de marbre noir; leurs chapiteaux, en
+marbre blanc et très-ouvragés, revêtus de mosaïques à la partie
+supérieure, soutiennent des arceaux disposés en ogives rentrantes. Le
+pavé est formé de cercles de porphyre et de serpentin, d'arabesques en
+mosaïque et d'encadrements en marbre blanc. Des demi-coupoles
+terminent les trois nefs. Il n'y a point de voûtes, et des plafonds
+modernes en bois ont remplacé ceux qui existaient avant l'incendie de
+1811. Tout le reste de l'édifice est couvert de mosaïques à fonds
+d'or, offrant des représentations très-variées, la figure colossale du
 Christ, celles d'une multitude de saints, des figures symboliques ou
-allï¿½goriques, des inscriptions, et, au-dessus des siï¿½ges du roi et de
-l'archevï¿½que, le roi Guillaume II recevant la couronne des mains du
-Christ, et le mï¿½me prince offrant ï¿½ la Vierge assise le plan du temple
+allégoriques, des inscriptions, et, au-dessus des sièges du roi et de
+l'archevêque, le roi Guillaume II recevant la couronne des mains du
+Christ, et le même prince offrant à la Vierge assise le plan du temple
 qu'il lui consacre. Les personnages portent le costume grec, et la
-plupart des inscriptions sont en langue et en ï¿½criture grecques. Il
-est probable que la dï¿½coration intï¿½rieure est due ï¿½ des artistes
-byzantins. L'ï¿½glise de Monreale possï¿½de un autel d'argent richement
-sculptï¿½, et, parmi ses monuments funï¿½raires, une urne renfermant une
+plupart des inscriptions sont en langue et en écriture grecques. Il
+est probable que la décoration intérieure est due à des artistes
+byzantins. L'église de Monreale possède un autel d'argent richement
+sculpté, et, parmi ses monuments funéraires, une urne renfermant une
 partie des restes de notre grand roi saint Louis.
 
-Je sortis enchantï¿½ et les yeux ï¿½blouis de l'ï¿½glise de Monreale, l'un
-des plus beaux spï¿½cimens d'un genre de dï¿½coration dont l'ï¿½clat n'a pas
-ï¿½tï¿½ aussi ï¿½tranger qu'on le croyait naguï¿½re ï¿½ nos contrï¿½es
-septentrionales. Une fï¿½te s'y prï¿½parait pour le soir; on couvrait les
-murailles de tentures d'or et d'argent, on suspendait aux voï¿½tes une
-multitude de petits lustres. Malgrï¿½ ces sï¿½ductions, il fallut partir;
-j'avais ï¿½ m'occuper des mesures nï¿½cessaires pour continuer ma route
-sur les cï¿½tes et dans l'intï¿½rieur de la Sicile.
+Je sortis enchanté et les yeux éblouis de l'église de Monreale, l'un
+des plus beaux spécimens d'un genre de décoration dont l'éclat n'a pas
+été aussi étranger qu'on le croyait naguère à nos contrées
+septentrionales. Une fête s'y préparait pour le soir; on couvrait les
+murailles de tentures d'or et d'argent, on suspendait aux voûtes une
+multitude de petits lustres. Malgré ces séductions, il fallut partir;
+j'avais à m'occuper des mesures nécessaires pour continuer ma route
+sur les côtes et dans l'intérieur de la Sicile.
 
 
-     De Palerme ï¿½ Trapani. -- Partenico. -- Alcamo. -- Calatafimi. --
-     Ruines de Sï¿½geste.
+     De Palerme à Trapani. -- Partenico. -- Alcamo. -- Calatafimi. --
+     Ruines de Ségeste.
 
-La plupart des voyageurs prennent la mer et se font dï¿½barquer dans les
-villes principales du littoral, ï¿½ Trapani, ï¿½ Girgenti, ï¿½ Syracuse, ï¿½
+La plupart des voyageurs prennent la mer et se font débarquer dans les
+villes principales du littoral, à Trapani, à Girgenti, à Syracuse, à
 Catane, etc. Mais alors ils ne voient point les campagnes et leurs
-habitants. Je prï¿½fï¿½rai voyager par terre, malgrï¿½ l'absence ou le
-mauvais ï¿½tat des routes, malgrï¿½ les difficultï¿½s de l'alimentation et
-la nï¿½cessitï¿½ de se faire accompagner par des mercenaires. Par
-l'intermï¿½diaire du chancelier du consulat de France, je conclus avec
-un Sicilien, nommï¿½ Luigi Randesi, un traitï¿½ qu'il signa d'une croix,
-et qui le constituait chef de la petite caravane organisï¿½e pour le
-voyage. Luigi s'engageait ï¿½ m'accompagner dans ma tournï¿½e, ï¿½
+habitants. Je préférai voyager par terre, malgré l'absence ou le
+mauvais état des routes, malgré les difficultés de l'alimentation et
+la nécessité de se faire accompagner par des mercenaires. Par
+l'intermédiaire du chancelier du consulat de France, je conclus avec
+un Sicilien, nommé Luigi Randesi, un traité qu'il signa d'une croix,
+et qui le constituait chef de la petite caravane organisée pour le
+voyage. Luigi s'engageait à m'accompagner dans ma tournée, à
 entretenir, pendant qu'elle durerait, trois mulets, un pour moi, un
-pour lui, un pour les bagages et pour le muletier chargï¿½ des bï¿½tes; ï¿½
-me faire coucher dans les meilleures auberges, ï¿½ me donner ï¿½ dï¿½jeuner
-le matin, ï¿½ goï¿½ter dans la journï¿½e, si je le dï¿½sirais, et ï¿½ dï¿½ner le
-soir; le tout moyennant trois piastres et huit carlins par jour (prï¿½s
+pour lui, un pour les bagages et pour le muletier chargé des bêtes; à
+me faire coucher dans les meilleures auberges, à me donner à déjeuner
+le matin, à goûter dans la journée, si je le désirais, et à dîner le
+soir; le tout moyennant trois piastres et huit carlins par jour (près
 de 20 francs).
 
-Le 11 septembre, en me levant, je trouvai ï¿½ la porte de mon hï¿½tel le
+Le 11 septembre, en me levant, je trouvai à la porte de mon hôtel le
 guide Luigi, le muletier et les trois mules. On chargea, outre mon
 bagage, les provisions de bouche, les assiettes, les gobelets, les
 cuillers et les fourchettes. Luigi embrassa sa femme, son enfant, et
-nous nous mï¿½mes en campagne, dans la direction de Trapani. Une peau de
+nous nous mîmes en campagne, dans la direction de Trapani. Une peau de
 mouton me servait de selle, et je n'avais pour diriger ma monture
-qu'une corde assez rude; heureusement la route de Palerme ï¿½ Trapani
+qu'une corde assez rude; heureusement la route de Palerme à Trapani
 est _carrossable_, chose rare en Sicile.
 
-Nous traversï¿½mes de nouveau Monreale. Aprï¿½s cette ville, le pays,
-devenu montueux et aride, n'offre guï¿½re que des rochers gris ou
-rouges, bizarrement dï¿½coupï¿½s, de sombres ravins, des arbres amaigris;
-ces lieux dï¿½solï¿½s, presque dï¿½pourvus d'habitants, ont de plus une
-rï¿½putation fort peu rassurante pour les voyageurs qui tiennent ï¿½ leur
-vie ou ï¿½ leur bourse.
+Nous traversâmes de nouveau Monreale. Après cette ville, le pays,
+devenu montueux et aride, n'offre guère que des rochers gris ou
+rouges, bizarrement découpés, de sombres ravins, des arbres amaigris;
+ces lieux désolés, presque dépourvus d'habitants, ont de plus une
+réputation fort peu rassurante pour les voyageurs qui tiennent à leur
+vie ou à leur bourse.
 
-Aussi, quand les montagnes s'entr'ouvrirent et nous laissï¿½rent voir le
-golfe de Castellamare et la belle vallï¿½e dans laquelle il est creusï¿½,
-mon guide Luigi, inquiet et tremblant depuis que nous avions rencontrï¿½
-plusieurs escopettes ï¿½ l'entrï¿½e de l'auberge d'Urbani, commenï¿½a ï¿½
+Aussi, quand les montagnes s'entr'ouvrirent et nous laissèrent voir le
+golfe de Castellamare et la belle vallée dans laquelle il est creusé,
+mon guide Luigi, inquiet et tremblant depuis que nous avions rencontré
+plusieurs escopettes à l'entrée de l'auberge d'Urbani, commença à
 respirer.
 
-ï¿½Nous sommes sauvï¿½s! s'ï¿½cria-t-il, et maintenant que nous avons
-franchi ce pas difficile, nous pouvons compter sur un heureux voyage.ï¿½
+«Nous sommes sauvés! s'écria-t-il, et maintenant que nous avons
+franchi ce pas difficile, nous pouvons compter sur un heureux voyage.»
 
-Ces terreurs, qui se renouvelï¿½rent souvent, ï¿½taient-elles sincï¿½res et
-fondï¿½es? Je n'en savais rien encore; mais elles s'accordaient avec les
-bruits que j'avais recueillis ï¿½ Palerme. En traversant le village de
-Borghetto, je vis des voyageurs prudents qui s'ï¿½taient fait
-accompagner par des gendarmes, et ï¿½ Partenico, oï¿½ nous nous arrï¿½tï¿½mes
+Ces terreurs, qui se renouvelèrent souvent, étaient-elles sincères et
+fondées? Je n'en savais rien encore; mais elles s'accordaient avec les
+bruits que j'avais recueillis à Palerme. En traversant le village de
+Borghetto, je vis des voyageurs prudents qui s'étaient fait
+accompagner par des gendarmes, et à Partenico, où nous nous arrêtâmes
 pour passer la nuit, un brave capitaine de gendarmerie, qui logeait
-dans le mï¿½me hï¿½tel que moi, m'engagea de la faï¿½on la plus pressante ï¿½
-prendre la mï¿½me prï¿½caution.
+dans le même hôtel que moi, m'engagea de la façon la plus pressante à
+prendre la même précaution.
 
 Partenico ou Paternico, quoiqu'elle renferme une assez nombreuse
-population, est une ville de l'apparence la plus misï¿½rable, oï¿½ les
-cochons se promï¿½nent librement ï¿½ travers les rues.
+population, est une ville de l'apparence la plus misérable, où les
+cochons se promènent librement à travers les rues.
 
-Le lendemain, malgrï¿½ les instances du capitaine, notre caravane partit
+Le lendemain, malgré les instances du capitaine, notre caravane partit
 sans escorte.
 
-La vallï¿½e de Castellamare me fit agrï¿½ablement oublier les sombres
-paysages de la veille; la vï¿½gï¿½tation y est d'une variï¿½tï¿½ et d'une
-puissance prodigieuses. De temps ï¿½ autre on aperï¿½oit la mer, et l'on
-peut distinguer dans le lointain le petit cap appelï¿½ _Muro di Carini_,
-oï¿½ s'ï¿½levait jadis la ville d'Icari dï¿½truite par Nicias, la patrie de
-la belle Laï¿½s. Ce n'est pas, du reste, le type grec que cette contrï¿½e
-a conservï¿½, mais le type arabe. Les environs d'Alcamo et Alcamo mï¿½me,
-ville de 16ï¿½000 ï¿½mes, rappellent tout ï¿½ fait l'Afrique par la
+La vallée de Castellamare me fit agréablement oublier les sombres
+paysages de la veille; la végétation y est d'une variété et d'une
+puissance prodigieuses. De temps à autre on aperçoit la mer, et l'on
+peut distinguer dans le lointain le petit cap appelé _Muro di Carini_,
+où s'élevait jadis la ville d'Icari détruite par Nicias, la patrie de
+la belle Laïs. Ce n'est pas, du reste, le type grec que cette contrée
+a conservé, mais le type arabe. Les environs d'Alcamo et Alcamo même,
+ville de 16 000 âmes, rappellent tout à fait l'Afrique par la
 disposition des habitations, par les traits, le teint, les allures des
-hommes, des femmes et des enfants. Cette petite citï¿½ n'est qu'une
-grande rue bordï¿½e d'ï¿½glises et de couvents qu'entourent de vieilles
-fortifications. Ses habitants ont ï¿½ tort ou ï¿½ raison la rï¿½putation de
+hommes, des femmes et des enfants. Cette petite cité n'est qu'une
+grande rue bordée d'églises et de couvents qu'entourent de vieilles
+fortifications. Ses habitants ont à tort ou à raison la réputation de
 coupeurs de bourse.
 
-J'ai trouvï¿½ au delï¿½ d'Alcamo la route fermï¿½e par une chaï¿½ne et gardï¿½e
-par un agent du gouvernement, qui perï¿½oit l'impï¿½t du passage. Il en
-est de mï¿½me pour tous les grands chemins de la Sicile, qui, sous le
-rapport des moyens de communication, en est restï¿½e au moyen ï¿½ge.
+J'ai trouvé au delà d'Alcamo la route fermée par une chaîne et gardée
+par un agent du gouvernement, qui perçoit l'impôt du passage. Il en
+est de même pour tous les grands chemins de la Sicile, qui, sous le
+rapport des moyens de communication, en est restée au moyen âge.
 
-On voyage pendant quelque temps dans une allï¿½e bordï¿½e d'amandiers, de
-caroubiers et d'oliviers, rafraï¿½chie de place en place par des sources
-dont on a rï¿½uni les eaux dans des abreuvoirs ï¿½ l'usage des mulets;
+On voyage pendant quelque temps dans une allée bordée d'amandiers, de
+caroubiers et d'oliviers, rafraîchie de place en place par des sources
+dont on a réuni les eaux dans des abreuvoirs à l'usage des mulets;
 puis on rentre dans les montagnes; les arbres disparaissent, une herbe
-jaunie ou les cendres noires de pailles incendiï¿½es pour servir
-d'engrais couvrent le sol, le _fiume Freddo_ est complï¿½tement ï¿½ sec,
-et ce n'est qu'en arrivant ï¿½ Calatafimi qu'on revoit la verdure, les
+jaunie ou les cendres noires de pailles incendiées pour servir
+d'engrais couvrent le sol, le _fiume Freddo_ est complétement à sec,
+et ce n'est qu'en arrivant à Calatafimi qu'on revoit la verdure, les
 vignes et les arbres fruitiers.
 
-ï¿½ peu de distance de Calatafimi, au nord, sur une colline appelï¿½e
-_Barbara_, s'ï¿½levait jadis la ville d'_Egesta_ ou Segesta. La
-tradition en attribue la fondation ï¿½ ï¿½nï¿½e; il n'en reste plus qu'un
-temple, un thï¿½ï¿½tre et quelques dï¿½bris informes.
+À peu de distance de Calatafimi, au nord, sur une colline appelée
+_Barbara_, s'élevait jadis la ville d'_Egesta_ ou Segesta. La
+tradition en attribue la fondation à Énée; il n'en reste plus qu'un
+temple, un théâtre et quelques débris informes.
 
-ï¿½ peine arrivï¿½ ï¿½ Calatafimi, je me fis conduire aux ruines par un
-guide indigï¿½ne. Un ï¿½troit sentier, pratiquï¿½ ï¿½ travers un pays
-accidentï¿½, souvent envahi par les vignes et les ronces, quelquefois
-bordï¿½ par une muraille de cactus, mï¿½ne ï¿½ une sorte de promontoire
-isolï¿½, sur lequel se dresse majestueusement le temple de Sï¿½geste.
+À peine arrivé à Calatafimi, je me fis conduire aux ruines par un
+guide indigène. Un étroit sentier, pratiqué à travers un pays
+accidenté, souvent envahi par les vignes et les ronces, quelquefois
+bordé par une muraille de cactus, mène à une sorte de promontoire
+isolé, sur lequel se dresse majestueusement le temple de Ségeste.
 
-Ce temple, d'ordre dorique, a la forme d'un parallï¿½logramme de
-soixante mï¿½tres de long sur vingt-quatre de large; son enceinte se
-compose de trente-six colonnes (six sur chacun des petits cï¿½tï¿½s),
-inï¿½galement espacï¿½es; ï¿½ l'intï¿½rieur, l'herbe y pousse sans obstacle,
-et les troupeaux viennent brouter ï¿½ l'ombre des colonnes. Dans cet
-ï¿½tat, le temple de Sï¿½geste produit un effet des plus imposants. Cette
+Ce temple, d'ordre dorique, a la forme d'un parallélogramme de
+soixante mètres de long sur vingt-quatre de large; son enceinte se
+compose de trente-six colonnes (six sur chacun des petits côtés),
+inégalement espacées; à l'intérieur, l'herbe y pousse sans obstacle,
+et les troupeaux viennent brouter à l'ombre des colonnes. Dans cet
+état, le temple de Ségeste produit un effet des plus imposants. Cette
 ruine colossale, solitaire, silencieuse, ces montagnes nues et sans
-arbres qui l'entourent et la dominent, ces colonnes rougeï¿½tres et ï¿½
-demi rongï¿½es par le temps, ce ciel d'un azur profond, ce soleil qui
-verse sur toute la nature des flots d'une lumiï¿½re ï¿½blouissante, ont
-une harmonie dont la puissance saisit et laisse un ï¿½ternel souvenir
+arbres qui l'entourent et la dominent, ces colonnes rougeâtres et à
+demi rongées par le temps, ce ciel d'un azur profond, ce soleil qui
+verse sur toute la nature des flots d'une lumière éblouissante, ont
+une harmonie dont la puissance saisit et laisse un éternel souvenir
 d'admiration.
 
-Le soir est venu; il faut rentrer ï¿½ Calatafimi. Cette ville, de plus
-de 8ï¿½000 habitants, est la seule, avec Sperlinga, oï¿½ les Franï¿½ais
-aient ï¿½tï¿½ ï¿½pargnï¿½s lors du massacre des Vï¿½pres siciliennes. ï¿½
-l'auberge, le brigadier de gendarmerie m'a contï¿½ tant de fï¿½cheuses
-aventures arrivï¿½es rï¿½cemment aux voyageurs dans les environs, que je
-me suis dï¿½cidï¿½ ï¿½ prendre une escorte.
+Le soir est venu; il faut rentrer à Calatafimi. Cette ville, de plus
+de 8 000 habitants, est la seule, avec Sperlinga, où les Français
+aient été épargnés lors du massacre des Vêpres siciliennes. À
+l'auberge, le brigadier de gendarmerie m'a conté tant de fâcheuses
+aventures arrivées récemment aux voyageurs dans les environs, que je
+me suis décidé à prendre une escorte.
 
-Aucun brigand du reste n'a paru; nous avons laissï¿½ nos gendarmes aux
-Canalotti, et nous avons continuï¿½ paisiblement notre route jusqu'ï¿½
+Aucun brigand du reste n'a paru; nous avons laissé nos gendarmes aux
+Canalotti, et nous avons continué paisiblement notre route jusqu'à
 Trapani, dont nous avons franchi les ponts-levis par une pluie
 battante.
 
 
-     Trapani. -- La sï¿½pulture du couvent des capucins. -- Le mont ï¿½ryx.
+     Trapani. -- La sépulture du couvent des capucins. -- Le mont Éryx.
 
-C'est ï¿½ Trapani (_Drepanon_, faux, faucille), que Virgile fait mourir
-Anchise. La population s'ï¿½lï¿½ve actuellement ï¿½ prï¿½s de 25ï¿½000 ï¿½mes. Le
-port est commode et assez frï¿½quentï¿½. Des statues ornent les quais. Une
-grande rue, pavï¿½e, comme toutes les autres, de dalles glissantes,
+C'est à Trapani (_Drepanon_, faux, faucille), que Virgile fait mourir
+Anchise. La population s'élève actuellement à près de 25 000 âmes. Le
+port est commode et assez fréquenté. Des statues ornent les quais. Une
+grande rue, pavée, comme toutes les autres, de dalles glissantes,
 traverse la ville presque en entier; c'est sur cette rue que donnent
-le palais sï¿½natorial, la _quadreria_ ou musï¿½e de tableaux, qui
+le palais sénatorial, la _quadreria_ ou musée de tableaux, qui
 renferme des toiles du Dominiquin, de Luca Giordano, de Carlo Maratta,
-etc., les cafï¿½s les plus ï¿½lï¿½gants, c'est-ï¿½-dire les plus propres et
-les moins sombres, elles principales boutiques, celles entre autres oï¿½
+etc., les cafés les plus élégants, c'est-à-dire les plus propres et
+les moins sombres, elles principales boutiques, celles entre autres où
 se vendent de petits ouvrages de nacre, d'ambre et de corail, produits
-de l'industrie locale. La population, fort laborieuse, se livre ï¿½ la
-pï¿½che du thon, ï¿½ la fabrication du sel et au commerce de la soude et
+de l'industrie locale. La population, fort laborieuse, se livre à la
+pêche du thon, à la fabrication du sel et au commerce de la soude et
 du vin.
 
 [Illustration: Vue de Syracuse (voy. p. 113).--Dessin de Rouargue.]
 
-Trapani possï¿½de, comme Palerme, un couvent de capucins oï¿½ les cadavres
-sont conservï¿½s ï¿½ l'air libre. Il est situï¿½ hors des murailles; j'y
-ï¿½tais entrï¿½, trouvant toutes les portes ouvertes. Un frï¿½re, aprï¿½s
-m'avoir montrï¿½ l'ï¿½glise, les ornements des moines et les reliques, me
-conduisit dans une salle oï¿½ je distinguai, aux derniers rayons du
+Trapani possède, comme Palerme, un couvent de capucins où les cadavres
+sont conservés à l'air libre. Il est situé hors des murailles; j'y
+étais entré, trouvant toutes les portes ouvertes. Un frère, après
+m'avoir montré l'église, les ornements des moines et les reliques, me
+conduisit dans une salle où je distinguai, aux derniers rayons du
 soleil, toute une population immobile et muette d'hommes et de femmes
-diversement vï¿½tus, dont les mains crispï¿½es, les visages dessï¿½chï¿½s,
-grimaï¿½ants, ï¿½ demi rongï¿½s par les vers, portent l'empreinte horrible
-de la mort, et inspirent, non pas le respect, mais le dï¿½goï¿½t.
+diversement vêtus, dont les mains crispées, les visages desséchés,
+grimaçants, à demi rongés par les vers, portent l'empreinte horrible
+de la mort, et inspirent, non pas le respect, mais le dégoût.
 Au-dessus de chaque personnage, une inscription en papier indique le
-nom qu'il a portï¿½ pendant sa vie. Le frï¿½re m'expliqua comment on
-conservait ces restes humains; il m'apprit que chaque annï¿½e, le jour
-des morts, les parents, les amis ï¿½taient admis ï¿½ les voir, ï¿½ assister
-ï¿½ la messe et ï¿½ entendre le sermon dans la chambre sï¿½pulcrale.
+nom qu'il a porté pendant sa vie. Le frère m'expliqua comment on
+conservait ces restes humains; il m'apprit que chaque année, le jour
+des morts, les parents, les amis étaient admis à les voir, à assister
+à la messe et à entendre le sermon dans la chambre sépulcrale.
 
-Aucun voyageur ne peut passer ï¿½ Trapani sans visiter le mont ï¿½ryx, qui
-s'ï¿½lï¿½ve ï¿½ peu de distance de la ville. Je gravis donc sur une mule les
-sentiers sinueux de la montagne. Un temple consacrï¿½ ï¿½ Vï¿½nus occupait
-autrefois le sommet; il ï¿½tait entretenu et gardï¿½ aux frais de dix-sept
-villes siciliennes, et mille prï¿½tresses y servaient la dï¿½esse. Un
-grand puits, appelï¿½ _Pozzo di Venere_, deux grottes, une muraille de
-construction cyclopï¿½enne, sont les seuls restes antiques que le mont
-ï¿½ryx ait conservï¿½s. La petite ville moderne qui y est bï¿½tie s'appelle
-_San Giuliano_. Elle se compose de quelques rues ï¿½troites, en pente
-rapide, bordï¿½es de pauvres maisons, oï¿½ l'on ne rencontre guï¿½re que des
-prï¿½tres, des moines et quelques femmes cachï¿½es dans leur mante, longue
-piï¿½ce de laine ou de soie noire qui enveloppe la tï¿½te et le corps et
-forme le vï¿½tement favori des Siciliennes.
+Aucun voyageur ne peut passer à Trapani sans visiter le mont Éryx, qui
+s'élève à peu de distance de la ville. Je gravis donc sur une mule les
+sentiers sinueux de la montagne. Un temple consacré à Vénus occupait
+autrefois le sommet; il était entretenu et gardé aux frais de dix-sept
+villes siciliennes, et mille prêtresses y servaient la déesse. Un
+grand puits, appelé _Pozzo di Venere_, deux grottes, une muraille de
+construction cyclopéenne, sont les seuls restes antiques que le mont
+Éryx ait conservés. La petite ville moderne qui y est bâtie s'appelle
+_San Giuliano_. Elle se compose de quelques rues étroites, en pente
+rapide, bordées de pauvres maisons, où l'on ne rencontre guère que des
+prêtres, des moines et quelques femmes cachées dans leur mante, longue
+pièce de laine ou de soie noire qui enveloppe la tête et le corps et
+forme le vêtement favori des Siciliennes.
 
 
-     De Trapani ï¿½ Girgenti. -- La Lettica. -- Castelvetrano. -- Ruines de
-     Sï¿½linonte. -- Sciacca.
+     De Trapani à Girgenti. -- La Lettica. -- Castelvetrano. -- Ruines de
+     Sélinonte. -- Sciacca.
 
-On se rend ï¿½ Agrigente par le chemin des cï¿½tes ou par Castelvetrano,
-ce qui est moins long d'une journï¿½e. Deux Siciliens, logï¿½s comme moi ï¿½
-la locanda _dell' Italia_, m'ont engagï¿½ ï¿½ prendre la route de
-Castelvetrano, en m'offrant jusqu'ï¿½ cette ville le bï¿½nï¿½fice de leur
+On se rend à Agrigente par le chemin des côtes ou par Castelvetrano,
+ce qui est moins long d'une journée. Deux Siciliens, logés comme moi à
+la locanda _dell' Italia_, m'ont engagé à prendre la route de
+Castelvetrano, en m'offrant jusqu'à cette ville le bénéfice de leur
 compagnie.
 
 [Illustration: Taormine et l'Etna (voy. p. 14 et 15).--Dessin de
 Rouargue.]
 
-Notre petite troupe se met en campagne, ayant outre les prï¿½cï¿½dents
-moyens de transport et de nouveaux mulets, une _lettica_, c'est-ï¿½-dire
-une voiture sans roues, portï¿½e par deux mules ï¿½ l'avant et ï¿½
-l'arriï¿½re, et pouvant contenir deux voyageurs en face l'un de l'autre.
-Une troisiï¿½me mule ouvre la marche et porte les bagages et le
-conducteur. Un muletier, ï¿½ pied, armï¿½ d'un long bï¿½ton, dirige les
-bï¿½tes et les anime de ses cris. Cette singuliï¿½re voiture, dont on
-trouve des reprï¿½sentations dans des manuscrits franï¿½ais du quatorziï¿½me
-siï¿½cle, marche, comme on le pense bien, fort lentement; elle a de plus
-l'inconvï¿½nient de se pencher dans sa longueur suivant les accidents du
-terrain, et les sonnettes pendues au cou des bï¿½tes font un bruit
+Notre petite troupe se met en campagne, ayant outre les précédents
+moyens de transport et de nouveaux mulets, une _lettica_, c'est-à-dire
+une voiture sans roues, portée par deux mules à l'avant et à
+l'arrière, et pouvant contenir deux voyageurs en face l'un de l'autre.
+Une troisième mule ouvre la marche et porte les bagages et le
+conducteur. Un muletier, à pied, armé d'un long bâton, dirige les
+bêtes et les anime de ses cris. Cette singulière voiture, dont on
+trouve des représentations dans des manuscrits français du quatorzième
+siècle, marche, comme on le pense bien, fort lentement; elle a de plus
+l'inconvénient de se pencher dans sa longueur suivant les accidents du
+terrain, et les sonnettes pendues au cou des bêtes font un bruit
 assourdissant.
 
-La route n'a guï¿½re d'intï¿½rï¿½t jusqu'ï¿½ Castelvetrano, ville bï¿½tie sur un
-rocher, ï¿½ six kilomï¿½tres de la mer, et moins peuplï¿½e, mais plus
-ï¿½tendue que Trapani.
+La route n'a guère d'intérêt jusqu'à Castelvetrano, ville bâtie sur un
+rocher, à six kilomètres de la mer, et moins peuplée, mais plus
+étendue que Trapani.
 
-Avant d'arriver aux ruines de l'antique Sï¿½linonte, les plus
-importantes de la Sicile, avec celles de Sï¿½geste, d'Agrigente, de
-Syracuse et de Taormine, je vais visiter en sociï¿½tï¿½ de M. l'abbï¿½
-Viviano, antiquaire instruit et obligeant, la, carriï¿½re d'oï¿½ ont ï¿½tï¿½
-tirï¿½es les colonnes des temples de Sï¿½linonte. On y trouve de nombreux
-tronï¿½ons de colonnes; ils ont plus de 3 mï¿½tres de diamï¿½tre. Les uns
-tiennent encore ï¿½ la roche, dont ils ne sont sï¿½parï¿½s que dans leur
-hauteur, d'autres sont isolï¿½s et renversï¿½s sur le cï¿½tï¿½; d'autres,
-qu'on avait commencï¿½ ï¿½ rouler vers Sï¿½linonte, situï¿½e ï¿½ plus de 8
-kilomï¿½tres, gisent ï¿½ quelque distance de la carriï¿½re.
+Avant d'arriver aux ruines de l'antique Sélinonte, les plus
+importantes de la Sicile, avec celles de Ségeste, d'Agrigente, de
+Syracuse et de Taormine, je vais visiter en société de M. l'abbé
+Viviano, antiquaire instruit et obligeant, la, carrière d'où ont été
+tirées les colonnes des temples de Sélinonte. On y trouve de nombreux
+tronçons de colonnes; ils ont plus de 3 mètres de diamètre. Les uns
+tiennent encore à la roche, dont ils ne sont séparés que dans leur
+hauteur, d'autres sont isolés et renversés sur le côté; d'autres,
+qu'on avait commencé à rouler vers Sélinonte, située à plus de 8
+kilomètres, gisent à quelque distance de la carrière.
 
-Sï¿½linonte, dï¿½vastï¿½e deux fois par les annï¿½es de Carthage, ne s'est
-point relevï¿½e. Sur une colline, qu'occupait jadis l'Acropole, on voit
-des restes de murailles, de portes, d'amphithï¿½ï¿½tres, d'escaliers
-descendant ï¿½ la mer qui a encombrï¿½ le port d'un sable mouvant, de
+Sélinonte, dévastée deux fois par les années de Carthage, ne s'est
+point relevée. Sur une colline, qu'occupait jadis l'Acropole, on voit
+des restes de murailles, de portes, d'amphithéâtres, d'escaliers
+descendant à la mer qui a encombré le port d'un sable mouvant, de
 tombeaux et de temples, portant encore la trace d'antiques peintures.
-Sur un plateau, sï¿½parï¿½ de l'Acropole par le fleuve Belici, il y avait
-trois temples disposï¿½s sur des lignes parallï¿½les ï¿½ peu de distance
-l'un de l'autre; ils sont aujourd'hui ï¿½croulï¿½s, mais quelques colonnes
-restï¿½es debout, des mï¿½topes retrouvï¿½es sur le sol, attestent leur
-ancienne magnificence. Le plus grand, long de 111 mï¿½tres, large de 49,
-avec 17 colonnes de cï¿½tï¿½ et 8-6 de face, est un des plus vastes de
-l'antiquitï¿½ grecque; il mï¿½rite bien le nom de _Pilieri dei Giganti_
-que les paysans donnent aux temples de Sï¿½linonte. La plage est dï¿½solï¿½e
+Sur un plateau, séparé de l'Acropole par le fleuve Belici, il y avait
+trois temples disposés sur des lignes parallèles à peu de distance
+l'un de l'autre; ils sont aujourd'hui écroulés, mais quelques colonnes
+restées debout, des métopes retrouvées sur le sol, attestent leur
+ancienne magnificence. Le plus grand, long de 111 mètres, large de 49,
+avec 17 colonnes de côté et 8-6 de face, est un des plus vastes de
+l'antiquité grecque; il mérite bien le nom de _Pilieri dei Giganti_
+que les paysans donnent aux temples de Sélinonte. La plage est désolée
 par la mal'aria; une tour, connue sous le nom de _Torre de' Pulci_, et
-de misï¿½rables cabanes, sont les seuls rï¿½duits qu'osent occuper
-quelques paysans pï¿½les et amaigris.
+de misérables cabanes, sont les seuls réduits qu'osent occuper
+quelques paysans pâles et amaigris.
 
-Mes compagnons me quittï¿½rent au pont du Belici, et je continuai mon
-chemin dans la direction de Sciacca, tantï¿½t dans les montagnes, tantï¿½t
-sur le bord de la mer, quelquefois ï¿½ travers des cantons couverts de
-vignes, de chï¿½nes verts, de sumacs, d'amandiers, d'oliviers, de
+Mes compagnons me quittèrent au pont du Belici, et je continuai mon
+chemin dans la direction de Sciacca, tantôt dans les montagnes, tantôt
+sur le bord de la mer, quelquefois à travers des cantons couverts de
+vignes, de chênes verts, de sumacs, d'amandiers, d'oliviers, de
 pistachiers et de caroubiers.
 
-Sciacca s'ï¿½lï¿½ve sur une ï¿½minence abondante en sources thermales
-sulfureuses qui domine le port, ï¿½ la place qu'occupaient les _Thermï¿½
-Selinontinï¿½_, la patrie d'Agathocle. On y fabrique des vases d'une
-terre lï¿½gï¿½re et poreuse qui rafraï¿½chissent les liquides, comme les
+Sciacca s'élève sur une éminence abondante en sources thermales
+sulfureuses qui domine le port, à la place qu'occupaient les _Thermæ
+Selinontinæ_, la patrie d'Agathocle. On y fabrique des vases d'une
+terre légère et poreuse qui rafraîchissent les liquides, comme les
 alcarazas espagnols.
 
-Je franchis en une journï¿½e la distance de 42 milles qui sï¿½pare Sciacca
-de Girgenti, en m'arrï¿½tant seulement pour le repas dans le pauvre
-village de Montallegro. On chemine tour ï¿½ tour sur le sable ou sur les
-galets de la plage, et dans des pays dï¿½serts, ou des montagnes
+Je franchis en une journée la distance de 42 milles qui sépare Sciacca
+de Girgenti, en m'arrêtant seulement pour le repas dans le pauvre
+village de Montallegro. On chemine tour à tour sur le sable ou sur les
+galets de la plage, et dans des pays déserts, ou des montagnes
 gypseuses et arides. Mais la mer, que l'on a souvent sous les yeux,
 est toujours belle, le ciel toujours splendide; de temps en temps on
-rencontre des riziï¿½res ï¿½ demi inondï¿½es, de vastes et verdoyants
-pï¿½turages, des ruisseaux bordï¿½s de lauriers-roses, ou, comme disent
+rencontre des rizières à demi inondées, de vastes et verdoyants
+pâturages, des ruisseaux bordés de lauriers-roses, ou, comme disent
 les Italiens, des _fiumi_, le _Calata-Belotta_, le _Platani_, et un
 lac qui porte le nom de _Gurgo di Marco_.
 
-Au coucher du soleil, nous parvï¿½nmes au mï¿½le de Girgenti, et, une
-heure aprï¿½s, nous entrï¿½mes dans la ville mï¿½me.
+Au coucher du soleil, nous parvînmes au môle de Girgenti, et, une
+heure après, nous entrâmes dans la ville même.
 
 
      Girgenti (Agrigente).
 
-L'emplacement qu'occupe Girgenti n'est pas tout ï¿½ fait celui oï¿½ se
-trouvait jadis Agrigente. La ville antique, fondï¿½e 582 ans avant
-Jï¿½sus-Christ, et dont le nom grec _Acragas_ est celui de l'un des deux
-cours d'eau qui baignent son territoire, ï¿½tait bï¿½tie sur un point
-moins ï¿½levï¿½ et plus rapprochï¿½ de la mer. La citï¿½ moderne, oï¿½ l'on
-compte 18ï¿½000 habitants, est sale, mal bï¿½tie et mal pavï¿½e; une rue qui
-la traverse irrï¿½guliï¿½rement dans toute sa longueur est seule abordable
-en voiture; les autres rues ne sont que des chemins ï¿½troits et boueux.
+L'emplacement qu'occupe Girgenti n'est pas tout à fait celui où se
+trouvait jadis Agrigente. La ville antique, fondée 582 ans avant
+Jésus-Christ, et dont le nom grec _Acragas_ est celui de l'un des deux
+cours d'eau qui baignent son territoire, était bâtie sur un point
+moins élevé et plus rapproché de la mer. La cité moderne, où l'on
+compte 18 000 habitants, est sale, mal bâtie et mal pavée; une rue qui
+la traverse irrégulièrement dans toute sa longueur est seule abordable
+en voiture; les autres rues ne sont que des chemins étroits et boueux.
 Les femmes que l'on rencontre dans les rues (et il faut dire que
-l'aristocratie ne sort pas ou ne sort guï¿½re qu'en voiture), sont mal
-vï¿½tues: aucune ne m'a paru jolie. Elles laissent leurs cheveux en
-libertï¿½, aprï¿½s les avoir coupï¿½s assez prï¿½s de la tï¿½te, et cette
-criniï¿½re touffue et inculte n'a rien de charmant. Leur peau brune et
-cuivrï¿½e se flï¿½trit avant l'ï¿½ge. Elles portent des mantes comme dans le
+l'aristocratie ne sort pas ou ne sort guère qu'en voiture), sont mal
+vêtues: aucune ne m'a paru jolie. Elles laissent leurs cheveux en
+liberté, après les avoir coupés assez près de la tête, et cette
+crinière touffue et inculte n'a rien de charmant. Leur peau brune et
+cuivrée se flétrit avant l'âge. Elles portent des mantes comme dans le
 reste de la Sicile; le plus souvent ces mantes sont courtes et de
 couleur blanche.
 
-La population de Girgenti se compose en grande partie de propriï¿½taires
-de terres, de fermiers et de journaliers. Les Agrigentins mï¿½nent une
-vie retirï¿½e, priant beaucoup, dï¿½pensant peu et n'apprenant rien. Leur
+La population de Girgenti se compose en grande partie de propriétaires
+de terres, de fermiers et de journaliers. Les Agrigentins mènent une
+vie retirée, priant beaucoup, dépensant peu et n'apprenant rien. Leur
 ignorance est proverbiale.
 
-Girgenti possï¿½de 46 ï¿½glises, 15 monastï¿½res et 17 confrï¿½ries.
+Girgenti possède 46 églises, 15 monastères et 17 confréries.
 
-La cathï¿½drale, placï¿½e sur un sommet, passe pour avoir ï¿½tï¿½ construite
+La cathédrale, placée sur un sommet, passe pour avoir été construite
 avec les pierres d'un temple de Minerve. J'y remarquai deux toiles
-attribuï¿½es au Guide, un tombeau antique sans inscription ni
-sculptures, un ï¿½lï¿½phant en marbre blanc, haut de soixante-cinq
-centimï¿½tres, et un trï¿½s-beau sarcophage servant aujourd'hui de
-baptistï¿½re, et sur lequel est reprï¿½sentï¿½ le drame de la mort
+attribuées au Guide, un tombeau antique sans inscription ni
+sculptures, un éléphant en marbre blanc, haut de soixante-cinq
+centimètres, et un très-beau sarcophage servant aujourd'hui de
+baptistère, et sur lequel est représenté le drame de la mort
 d'Hippolyte.
 
-Les restes de l'antique Agrigente sont ï¿½pars dans la campagne. Je dus,
+Les restes de l'antique Agrigente sont épars dans la campagne. Je dus,
 pour les visiter, me faire accompagner par un guide pris dans la
-ville. Nous descendï¿½mes par un joli chemin bordï¿½ d'oliviers et
-d'amandiers; nous traversï¿½mes des champs fertiles, et aprï¿½s une
-demi-heure de marche, nous ï¿½tions au milieu des tombeaux et des
+ville. Nous descendîmes par un joli chemin bordé d'oliviers et
+d'amandiers; nous traversâmes des champs fertiles, et après une
+demi-heure de marche, nous étions au milieu des tombeaux et des
 temples.
 
-Le temple de Junon Lucine repose sur une roche ï¿½levï¿½e; des 34 colonnes
-cannelï¿½es d'ordre dorique qui l'entouraient, quelques-unes seulement
-subsistent, plus ou moins complï¿½tes. Dans le rocher sont creusï¿½es des
-chambres sï¿½pulcrales dont les habitants se servent pour serrer leurs
-rï¿½coltes.
+Le temple de Junon Lucine repose sur une roche élevée; des 34 colonnes
+cannelées d'ordre dorique qui l'entouraient, quelques-unes seulement
+subsistent, plus ou moins complètes. Dans le rocher sont creusées des
+chambres sépulcrales dont les habitants se servent pour serrer leurs
+récoltes.
 
-ï¿½ quatre cents pas environ, s'ï¿½lï¿½ve le temple dit de la Concorde, un
-des mieux conservï¿½s que possï¿½de la Sicile Au moyen ï¿½ge, on en avait
-fait une chapelle chrï¿½tienne et on l'avait dï¿½diï¿½ ï¿½ saint Grï¿½goire; ce
-n'est qu'ï¿½ la fin du dernier siï¿½cle qu'on l'a rendu sans partage au
-culte des arts. C'est un monument admirable par l'ï¿½lï¿½gance et la
+À quatre cents pas environ, s'élève le temple dit de la Concorde, un
+des mieux conservés que possède la Sicile Au moyen âge, on en avait
+fait une chapelle chrétienne et on l'avait dédié à saint Grégoire; ce
+n'est qu'à la fin du dernier siècle qu'on l'a rendu sans partage au
+culte des arts. C'est un monument admirable par l'élégance et la
 noblesse de ses proportions (voy. p. 5).
 
-On rencontre, en allant d'un temple ï¿½ l'autre, des fragments plus ou
-moins considï¿½rables des murailles d'Agrigente; des tombeaux ont ï¿½tï¿½
-creusï¿½s dans leur masse calcaire, ï¿½ diffï¿½rentes hauteurs, et
+On rencontre, en allant d'un temple à l'autre, des fragments plus ou
+moins considérables des murailles d'Agrigente; des tombeaux ont été
+creusés dans leur masse calcaire, à différentes hauteurs, et
 ordinairement en forme de bouche de four.
 
-Le temple d'Hercule que l'on voit ï¿½ la suite de celui de la Concorde
-n'est plus qu'un amas de ruines; une seule colonne est restï¿½e debout.
+Le temple d'Hercule que l'on voit à la suite de celui de la Concorde
+n'est plus qu'un amas de ruines; une seule colonne est restée debout.
 
-ï¿½ quelques pas s'ï¿½levait le temple de Jupiter Olympien, qui, suivant
-Diodore, ï¿½tait le plus grand de la Sicile. Il ne fut jamais achevï¿½.
+À quelques pas s'élevait le temple de Jupiter Olympien, qui, suivant
+Diodore, était le plus grand de la Sicile. Il ne fut jamais achevé.
 Des pans de murailles, des pierres colossales, des fragments de
 colonnes dont les cannelures peuvent contenir le corps d'un homme, des
-morceaux de figures dont la hauteur devait ï¿½tre d'au moins 12 mï¿½tres,
-permettent de juger encore aujourd'hui des dimensions de l'ï¿½difice.
+morceaux de figures dont la hauteur devait être d'au moins 12 mètres,
+permettent de juger encore aujourd'hui des dimensions de l'édifice.
 
 Je signalerai enfin le temple de Castor et Pollux, dont il reste trois
-colonnes, et, en dehors des murailles, au sud, l'ï¿½difice carrï¿½ ï¿½ deux
-ï¿½tages, qui a reï¿½u le nom de _Tombeau de Thï¿½ron_.
+colonnes, et, en dehors des murailles, au sud, l'édifice carré à deux
+étages, qui a reçu le nom de _Tombeau de Théron_.
 
 
-     De Girgenti ï¿½ Castrogiovanni. -- Caltanizzetta. --
-     Castrogiovanni. -- Le lac Pergusa et l'enlï¿½vement de Proserpine.
+     De Girgenti à Castrogiovanni. -- Caltanizzetta. --
+     Castrogiovanni. -- Le lac Pergusa et l'enlèvement de Proserpine.
 
 Le 22 septembre, au lever du soleil, je quittai Girgenti, dont les
-abords, embellis par la verdure variï¿½e des cactus, des grenadiers, des
+abords, embellis par la verdure variée des cactus, des grenadiers, des
 oliviers, des amandiers, fourmillaient de gens des campagnes qui se
-rendaient ï¿½ la ville, les uns ï¿½ pied, les autres sur des mulets
+rendaient à la ville, les uns à pied, les autres sur des mulets
 portant de volumineux pains de soufre, les autres dans de petites
-voitures dï¿½couvertes et ornï¿½es de peintures aux couleurs brillantes.
+voitures découvertes et ornées de peintures aux couleurs brillantes.
 
-Au delï¿½ du village _delle Grotte_, cette fraï¿½cheur et cette vie
+Au delà du village _delle Grotte_, cette fraîcheur et cette vie
 disparaissent; on s'engage dans un pays montueux et aride, dont la
 principale industrie est l'exploitation des mines de sel et de soufre.
 
-Aprï¿½s avoir dï¿½jeunï¿½ dans un _fondaco_ assez malpropre de la petite
+Après avoir déjeuné dans un _fondaco_ assez malpropre de la petite
 ville de Regalmuto, nous traversons sans encombre Canicatti, dont on
-m'avait reprï¿½sentï¿½ la population comme fort adonnï¿½e au brigandage, et
-nous arrivons ï¿½ Serra di Falco, oï¿½ je reï¿½ois un tï¿½moignage de ces
-vertus hospitaliï¿½res dont l'antiquitï¿½ faisait honneur aux Siciliens.
+m'avait représenté la population comme fort adonnée au brigandage, et
+nous arrivons à Serra di Falco, où je reçois un témoignage de ces
+vertus hospitalières dont l'antiquité faisait honneur aux Siciliens.
 
-Nous voici ï¿½ Caltanizzetta. C'est une ville de 17ï¿½000 habitants; on
-croit qu'elle occupe l'emplacement de l'antique _Niza_. Elle a ï¿½tï¿½ en
-partie renouvelï¿½e ï¿½ la suite du dï¿½sastre que les troupes
-insurrectionnelles de Palerme lui firent ï¿½prouver, en 1820, pour avoir
-refusï¿½ de prendre part au mouvement tentï¿½ en faveur de l'indï¿½pendance
-de la Sicile. On retrouve dans ses ï¿½glises les images sanglantes du
-Christ et des damnï¿½s entourï¿½s de flammes que les Siciliens
-affectionnent particuliï¿½rement. Caltanizzetta possï¿½de des eaux
-minï¿½rales, et ses habitants font un assez grand commerce de sel et de
+Nous voici à Caltanizzetta. C'est une ville de 17 000 habitants; on
+croit qu'elle occupe l'emplacement de l'antique _Niza_. Elle a été en
+partie renouvelée à la suite du désastre que les troupes
+insurrectionnelles de Palerme lui firent éprouver, en 1820, pour avoir
+refusé de prendre part au mouvement tenté en faveur de l'indépendance
+de la Sicile. On retrouve dans ses églises les images sanglantes du
+Christ et des damnés entourés de flammes que les Siciliens
+affectionnent particulièrement. Caltanizzetta possède des eaux
+minérales, et ses habitants font un assez grand commerce de sel et de
 soufre. Son territoire est abondant en vin, grains, huiles, amandes et
-pistaches. Une route carossable de quatorze milles d'ï¿½tendue part de
-Caltanizzetta et va rejoindre celle qui unit Palerme ï¿½ Messine.
+pistaches. Une route carossable de quatorze milles d'étendue part de
+Caltanizzetta et va rejoindre celle qui unit Palerme à Messine.
 
-On aperï¿½oit longtemps Castrogiovanni avant de pouvoir y parvenir; il
+On aperçoit longtemps Castrogiovanni avant de pouvoir y parvenir; il
 faut franchir bien des montagnes, traverser de nombreux ruisseaux,
 avant de gravir la route en zigzag qui conduit au sommet dans lequel
 s'enfonce cette ville, l'antique Enna, le point central, l'ombilic de
 la Sicile, comme disaient les anciens. Sa population, qui est de plus
-de 13ï¿½000 ï¿½mes, a un aspect assez misï¿½rable. Les cochons et les poules
-vaguent ï¿½ travers les rues. Les mendiants, hommes et femmes, sont ï¿½
-peine vï¿½tus. Le costume des gens aisï¿½s a quelque caractï¿½re: les hommes
-portent la culotte courte et les chausses attachï¿½es avec des courroies
+de 13 000 âmes, a un aspect assez misérable. Les cochons et les poules
+vaguent à travers les rues. Les mendiants, hommes et femmes, sont à
+peine vêtus. Le costume des gens aisés a quelque caractère: les hommes
+portent la culotte courte et les chausses attachées avec des courroies
 de cuir; les femmes se couvrent, soit de la grande mante noire qui ne
 laisse voir que leur visage, soit de la mantille noire ou brune.
 
-La cathï¿½drale, en partie gothique, en partie construite ï¿½ l'ï¿½poque de
-la Renaissance, est soutenue ï¿½ l'intï¿½rieur par des colonnes d'albï¿½tre
-noirï¿½tre trï¿½s-artistement ornï¿½es. On y remarque un candï¿½labre antique
-en marbre blanc, venu, dit-on, du temple de Cï¿½rï¿½s, une inscription
-mentionnant le martyr Primus, de trï¿½s-belles stalles en bois du
-seiziï¿½me siï¿½cle, un Christ de Cimabuï¿½, et des tableaux du Fiammingo.
+La cathédrale, en partie gothique, en partie construite à l'époque de
+la Renaissance, est soutenue à l'intérieur par des colonnes d'albâtre
+noirâtre très-artistement ornées. On y remarque un candélabre antique
+en marbre blanc, venu, dit-on, du temple de Cérès, une inscription
+mentionnant le martyr Primus, de très-belles stalles en bois du
+seizième siècle, un Christ de Cimabuë, et des tableaux du Fiammingo.
 
 C'est aux environs d'Enna, sur les rives du lac _Pergus_, aujourd'hui
-_Pergusa_, que le dieu des enfers enleva la fille de Cï¿½rï¿½s. Les
+_Pergusa_, que le dieu des enfers enleva la fille de Cérès. Les
 paysans montrent une grotte qui, disent-ils, est l'ouverture
-infernale, d'oï¿½ Pluton s'ï¿½lanï¿½a sur la terre pour surprendre la jeune
-dï¿½esse.
+infernale, d'où Pluton s'élança sur la terre pour surprendre la jeune
+déesse.
 
 
-     De Castrogiovanni ï¿½ Syracuse. -- Calatagirone. -- Vezzini.
+     De Castrogiovanni à Syracuse. -- Calatagirone. -- Vezzini.
 
-Aprï¿½s avoir fait le tour du lac Pergusa, je repris le chemin qui, par
-Piazza et Calatagirone, devait me conduire ï¿½ Syracuse.
+Après avoir fait le tour du lac Pergusa, je repris le chemin qui, par
+Piazza et Calatagirone, devait me conduire à Syracuse.
 
-Piazza ï¿½tait appelï¿½e dans l'antiquitï¿½ _Plutea_ ou _Plutia_, ï¿½ raison
+Piazza était appelée dans l'antiquité _Plutea_ ou _Plutia_, à raison
 de la richesse de son terroir. Ses habitants passent pour les
-descendants des Franï¿½ais qui y sï¿½journï¿½rent lors de la domination
-angevine. Ses campagnes, surtout du cï¿½tï¿½ de Calatagirone, mï¿½ritent
-encore aujourd'hui l'ï¿½pithï¿½te d'_opulentissimes_ qu'elles avaient
-reï¿½ue des anciens. Les monts et les vallons que l'on traverse sont
-tapissï¿½s d'herbe verdoyante, garnis de vignes, de roseaux, d'arbres du
-nord et du midi; la route, bordï¿½e par de grands chï¿½nes qui forment
-au-dessus d'elle une voï¿½te ombreuse, rafraï¿½chie par de petits
+descendants des Français qui y séjournèrent lors de la domination
+angevine. Ses campagnes, surtout du côté de Calatagirone, méritent
+encore aujourd'hui l'épithète d'_opulentissimes_ qu'elles avaient
+reçue des anciens. Les monts et les vallons que l'on traverse sont
+tapissés d'herbe verdoyante, garnis de vignes, de roseaux, d'arbres du
+nord et du midi; la route, bordée par de grands chênes qui forment
+au-dessus d'elle une voûte ombreuse, rafraîchie par de petits
 ruisseaux qui, de place en place, descendent des sommets, est une des
-plus dï¿½licieuses que j'aie vues. Au delï¿½ du village de _Maccare_, oï¿½
-j'ai eu grand'peine ï¿½ trouver ï¿½ dï¿½jeuner dans la salle d'un fondaco
-formant ï¿½ la fois chambre ï¿½ coucher, salle ï¿½ manger, cave, etc., j'ai
-retrouvï¿½ les grottes sï¿½pulcrales creusï¿½es dans les rochers.
+plus délicieuses que j'aie vues. Au delà du village de _Maccare_, où
+j'ai eu grand'peine à trouver à déjeuner dans la salle d'un fondaco
+formant à la fois chambre à coucher, salle à manger, cave, etc., j'ai
+retrouvé les grottes sépulcrales creusées dans les rochers.
 
-[Illustration: La Marine ï¿½ Messine (voy. p. 15).--Dessin de Rouargue.]
+[Illustration: La Marine à Messine (voy. p. 15).--Dessin de Rouargue.]
 
-Calatagirone, situï¿½e sur une hauteur conique, est peuplï¿½e de 22ï¿½000
-habitants. J'ai vu dans ses ï¿½glises des tableaux du Sicilien Nebrone,
+Calatagirone, située sur une hauteur conique, est peuplée de 22 000
+habitants. J'ai vu dans ses églises des tableaux du Sicilien Nebrone,
 des fresques et des toiles de Paladino, une belle vierge de Gagini,
 etc.
 
-Les vignes, fort abondantes jusqu'ï¿½ _Ramecchiere_, disparaissent; on
+Les vignes, fort abondantes jusqu'à _Ramecchiere_, disparaissent; on
 traverse un pays volcanique, au milieu duquel se dresse, sur un rocher
-escarpï¿½, la ville de Vizzini, qui n'est accessible que par des
-sentiers ï¿½troits, pï¿½niblement pratiquï¿½s auprï¿½s des ravins, et oï¿½ le
-voyageur se procure difficilement un gï¿½te. Cependant elle renferme
-12ï¿½000 habitants, et j'ai remarquï¿½ dans ses ï¿½glises de beaux tableaux,
+escarpé, la ville de Vizzini, qui n'est accessible que par des
+sentiers étroits, péniblement pratiqués auprès des ravins, et où le
+voyageur se procure difficilement un gîte. Cependant elle renferme
+12 000 habitants, et j'ai remarqué dans ses églises de beaux tableaux,
 entre autres quelques-uns du Tintoret et de Paladino.
 
-Au delï¿½, en cheminant vers Sortino, par Bocchieri, l'aspect du pays
+Au delà, en cheminant vers Sortino, par Bocchieri, l'aspect du pays
 devient de plus en plus sombre.
 
-Un petit bois, poussï¿½, je ne sais comment, sur les crï¿½tes et les
-rochers, annonce l'approche de Sortino, bourg misï¿½rable, ï¿½levï¿½
-lui-mï¿½me sur un sommet qui semble inaccessible. J'y parvins cependant,
-aprï¿½s avoir guidï¿½ de mon mieux ma mule dans un chemin glissant, taillï¿½
-en forme d'escalier et contournï¿½ de mille maniï¿½res.
+Un petit bois, poussé, je ne sais comment, sur les crêtes et les
+rochers, annonce l'approche de Sortino, bourg misérable, élevé
+lui-même sur un sommet qui semble inaccessible. J'y parvins cependant,
+après avoir guidé de mon mieux ma mule dans un chemin glissant, taillé
+en forme d'escalier et contourné de mille manières.
 
 [Illustration: Rocher de Scylla (voy. p. 16).--Dessin de Rouargue.]
 
-Lorsque je fus installï¿½ dans une pauvre locanda, il me fallut subir la
-curiositï¿½ qui m'avait accueilli dans toutes les petites localitï¿½s de
-la Sicile; la porte et la fenï¿½tre de ma chambre ne faisaient qu'une
-seule et mï¿½me chose; je me vis obligï¿½ de m'emprisonner pour ï¿½chapper
-aux regards de la foule indiscrï¿½te. Mais je n'en fus point encore
-quitte, et un petit guichet, pratiquï¿½ ï¿½ plus de six pieds au-dessus du
-sol, servit d'observatoire aux enfants, montï¿½s les uns sur les autres
+Lorsque je fus installé dans une pauvre locanda, il me fallut subir la
+curiosité qui m'avait accueilli dans toutes les petites localités de
+la Sicile; la porte et la fenêtre de ma chambre ne faisaient qu'une
+seule et même chose; je me vis obligé de m'emprisonner pour échapper
+aux regards de la foule indiscrète. Mais je n'en fus point encore
+quitte, et un petit guichet, pratiqué à plus de six pieds au-dessus du
+sol, servit d'observatoire aux enfants, montés les uns sur les autres
 pour contempler ma rare personne.
 
-Les rives de l'Anapo, que nous suivï¿½mes en allant ï¿½ Syracuse, sont
-dï¿½licieuses de verdure et de fraï¿½cheur.
+Les rives de l'Anapo, que nous suivîmes en allant à Syracuse, sont
+délicieuses de verdure et de fraîcheur.
 
 
      Syracuse.
 
-Mais voici que la mer se montre dans le lointain, et on aperï¿½oit
+Mais voici que la mer se montre dans le lointain, et on aperçoit
 assise sur une langue de terre qui s'avance dans les flots, une ville
-que le guide appelle Syracuse.--Eh! quoi, se demande-t-on en pï¿½nï¿½trant
-par plusieurs ponts-levis dans une petite place de guerre isolï¿½e du
-continent et entourï¿½e de fortifications ï¿½ la moderne, est-ce bien la
-Syracuse? Qu'est devenu cette citï¿½ puissante qui s'ï¿½tendait jadis sur
-un espace de sept lieues de tour, que Cicï¿½ron vante comme la plus
+que le guide appelle Syracuse.--Eh! quoi, se demande-t-on en pénétrant
+par plusieurs ponts-levis dans une petite place de guerre isolée du
+continent et entourée de fortifications à la moderne, est-ce bien la
+Syracuse? Qu'est devenu cette cité puissante qui s'étendait jadis sur
+un espace de sept lieues de tour, que Cicéron vante comme la plus
 grande des villes grecques et la plus belle de toutes les villes?
-Hï¿½las! la majeure partie de la Syracuse antique n'est plus qu'un sol
-dï¿½sert et couvert de dï¿½bris; le reste, resserrï¿½ dans l'ï¿½le d'Otygie,
-est un modeste chef-lieu de sous-intendance, oï¿½ une population de
-17ï¿½000 habitants semble se complaire dans un ï¿½tat de misï¿½re apathique.
+Hélas! la majeure partie de la Syracuse antique n'est plus qu'un sol
+désert et couvert de débris; le reste, resserré dans l'île d'Otygie,
+est un modeste chef-lieu de sous-intendance, où une population de
+17 000 habitants semble se complaire dans un état de misère apathique.
 
-La piï¿½tï¿½ ignorante et grossiï¿½re des modernes Syracusains ne mï¿½rite que
-le nom d'idolï¿½trie. Ils ont des madones d'argent qu'ils couvrent de
-pierres prï¿½cieuses et de diamants, et qu'ils mï¿½nent en grande pompe et
-au milieu d'un bruit ï¿½tourdissant, visiter d'autres madones. Leurs
-passions, quand elles sont ï¿½veillï¿½es et quand la terreur les met en
+La piété ignorante et grossière des modernes Syracusains ne mérite que
+le nom d'idolâtrie. Ils ont des madones d'argent qu'ils couvrent de
+pierres précieuses et de diamants, et qu'ils mènent en grande pompe et
+au milieu d'un bruit étourdissant, visiter d'autres madones. Leurs
+passions, quand elles sont éveillées et quand la terreur les met en
 jeu, deviennent, comme on l'a vu en 1837, furieuses et sanguinaires.
 
-Les femmes de la classe aisï¿½e ont peu de libertï¿½; elles sortent
+Les femmes de la classe aisée ont peu de liberté; elles sortent
 rarement, et ne paraissent point dans les rues sans cacher, sous les
-plis de leurs mantes noires, des visages oï¿½ l'on retrouve quelques
-traces de la beautï¿½ grecque. Quant aux femmes du peuple, qu'on voit
-occupï¿½es ï¿½ laver le linge dans les eaux de la fontaine Arï¿½thuse, leur
-teint hï¿½lï¿½ et flï¿½tri, leurs corps ï¿½ demi couverts de vï¿½tements en
-guenilles, ne font naï¿½tre et ne rappellent aucun sentiment poï¿½tique.
+plis de leurs mantes noires, des visages où l'on retrouve quelques
+traces de la beauté grecque. Quant aux femmes du peuple, qu'on voit
+occupées à laver le linge dans les eaux de la fontaine Aréthuse, leur
+teint hâlé et flétri, leurs corps à demi couverts de vêtements en
+guenilles, ne font naître et ne rappellent aucun sentiment poétique.
 
-La cathï¿½drale, situï¿½e au point culminant de l'ï¿½le, a pris la place du
+La cathédrale, située au point culminant de l'île, a pris la place du
 temple de Minerve, qu'ornaient jadis des peintures de batailles et des
-portraits de rois syracusains, et dont le fronton ï¿½tait surmontï¿½ d'un
-bouclier dorï¿½. Parmi les colonnes antiques que l'on a conservï¿½es, onze
-sont restï¿½es en partie engagï¿½es dans les murs latï¿½raux du nouvel
-ï¿½difice, les autres coupent en deux la troisiï¿½me nef. La faï¿½ade est
-bien ordonnï¿½e; on remarque ï¿½ l'intï¿½rieur quelques tableaux prï¿½cieux,
+portraits de rois syracusains, et dont le fronton était surmonté d'un
+bouclier doré. Parmi les colonnes antiques que l'on a conservées, onze
+sont restées en partie engagées dans les murs latéraux du nouvel
+édifice, les autres coupent en deux la troisième nef. La façade est
+bien ordonnée; on remarque à l'intérieur quelques tableaux précieux,
 et un beau vase antique en marbre blanc qui sert de fonts baptismaux.
 
-Deux colonnes cannelï¿½es, engagï¿½es dans le mur d'une maison prï¿½s de la
-cathï¿½drale, ont fait partie d'un temple de Diane, oï¿½ Archimï¿½de traï¿½a
-la ligne des ï¿½quinoxes.
+Deux colonnes cannelées, engagées dans le mur d'une maison près de la
+cathédrale, ont fait partie d'un temple de Diane, où Archimède traça
+la ligne des Équinoxes.
 
-Le musï¿½e renferme des poteries antiques, des vases et instruments de
-bronze, quelques inscriptions, une tï¿½te de Jupiter olympien, une
-statue d'Esculape et une figure, malheureusement mutilï¿½e de Vï¿½nus, qui
+Le musée renferme des poteries antiques, des vases et instruments de
+bronze, quelques inscriptions, une tête de Jupiter olympien, une
+statue d'Esculape et une figure, malheureusement mutilée de Vénus, qui
 passe avec raison pour une des bonnes productions du ciseau grec.
 
-Le sol de Syracuse a ï¿½tï¿½ beaucoup moins favorisï¿½ que celui
-d'Agrigente, quant ï¿½ la conservation des monuments de l'antiquitï¿½.
-Cependant de prï¿½cieux et imposants dï¿½bris s'y offrent encore ï¿½ la
-vï¿½nï¿½ration du voyageur: il faudrait un long espace pour les dï¿½crire.
+Le sol de Syracuse a été beaucoup moins favorisé que celui
+d'Agrigente, quant à la conservation des monuments de l'antiquité.
+Cependant de précieux et imposants débris s'y offrent encore à la
+vénération du voyageur: il faudrait un long espace pour les décrire.
 
 
-     De Syracuse ï¿½ Catane. -- Lentini. -- Catane.
+     De Syracuse à Catane. -- Lentini. -- Catane.
 
-De Syracuse ï¿½ Catane, on rencontre les ruines d'Hybla-Mï¿½gara, les
-monts Hyblï¿½ens, jadis cï¿½lï¿½bres par l'excellente qualitï¿½ de leur miel,
-la presqu'ï¿½le de Magnisi, la ville d'Agosta, celle de Mellili, oï¿½ l'on
-cultivait autrefois avec succï¿½s la canne ï¿½ sucre, et Carlentini,
-petite ville d'oï¿½ l'on voit le lac de Lentini, le plus ï¿½tendu de toute
-l'ï¿½le.
+De Syracuse à Catane, on rencontre les ruines d'Hybla-Mégara, les
+monts Hybléens, jadis célèbres par l'excellente qualité de leur miel,
+la presqu'île de Magnisi, la ville d'Agosta, celle de Mellili, où l'on
+cultivait autrefois avec succès la canne à sucre, et Carlentini,
+petite ville d'où l'on voit le lac de Lentini, le plus étendu de toute
+l'île.
 
-La ville de Lentini (_Leontium_), situï¿½e sur des escarpements, passe
-pour la plus ancienne de la Sicile. Sa population est d'environ 7ï¿½000
-habitants. Les grottes sï¿½pulcrales y sont trï¿½s-communes. On rï¿½colte ï¿½
-Lentini du blï¿½, de la soude, du rï¿½glisse, et l'on y fait d'excellent
+La ville de Lentini (_Leontium_), située sur des escarpements, passe
+pour la plus ancienne de la Sicile. Sa population est d'environ 7 000
+habitants. Les grottes sépulcrales y sont très-communes. On récolte à
+Lentini du blé, de la soude, du réglisse, et l'on y fait d'excellent
 vin.
 
-Aprï¿½s le passage du _fiume della Giarretta_, l'ancien Simï¿½the, dont le
-lit, ï¿½ l'embouchure, abonde en ambre jaune, on se trouve dans une
-plaine immense que la mer borde d'un cï¿½tï¿½, et que dominent de l'autre
-les cï¿½nes des monti Rossi et de l'Etna.
+Après le passage du _fiume della Giarretta_, l'ancien Simèthe, dont le
+lit, à l'embouchure, abonde en ambre jaune, on se trouve dans une
+plaine immense que la mer borde d'un côté, et que dominent de l'autre
+les cônes des monti Rossi et de l'Etna.
 
-C'est entre le volcan et les flots que s'ï¿½lï¿½ve Catane.
+C'est entre le volcan et les flots que s'élève Catane.
 
-Le voisinage de l'Etna a ï¿½tï¿½ plusieurs fois funeste ï¿½ cette ville. Le
-tremblement de terre de 1693 a fait pï¿½rir 18ï¿½000 individus; ceux de
-1783 et de 1828 ont ruinï¿½ les habitations et les ï¿½difices publics.
-Aussi Catane est-elle d'une rï¿½gularitï¿½ parfaite. Elle est coupï¿½e en
-quatre parties ï¿½gales par des rues disposï¿½es en croix et pavï¿½es de
+Le voisinage de l'Etna a été plusieurs fois funeste à cette ville. Le
+tremblement de terre de 1693 a fait périr 18 000 individus; ceux de
+1783 et de 1828 ont ruiné les habitations et les édifices publics.
+Aussi Catane est-elle d'une régularité parfaite. Elle est coupée en
+quatre parties égales par des rues disposées en croix et pavées de
 grandes dalles de lave; ses places sont spacieuses, ses maisons bien
-bï¿½ties, et, dans les principales voies, sur des plans uniformes.
+bâties, et, dans les principales voies, sur des plans uniformes.
 
-La population est de 56ï¿½000 ï¿½mes. Le port est peu ï¿½tendu; une petite
-riviï¿½re, l'Amenano, venant de l'Etna, et passant sous la ville par des
-conduits de lave, s'y jette dans la mer. On fabrique ï¿½ Catane des
-ï¿½toffes de soie estimï¿½es, de petits objets en ambre jaune, et de
+La population est de 56 000 âmes. Le port est peu étendu; une petite
+rivière, l'Amenano, venant de l'Etna, et passant sous la ville par des
+conduits de lave, s'y jette dans la mer. On fabrique à Catane des
+étoffes de soie estimées, de petits objets en ambre jaune, et de
 jolies figurines en argile cuite et peinte; les habitants font un
-assez grand commerce de laine, de cuir, de blï¿½, de soufre, de vin, qui
+assez grand commerce de laine, de cuir, de blé, de soufre, de vin, qui
 est excellent, et de neige de l'Etna, dont ils approvisionnent Naples
-et mï¿½me l'Italie.
+et même l'Italie.
 
-ï¿½ Catane, comme dans la plupart des villes de la Sicile, la vie est
-gï¿½nï¿½ralement retirï¿½e; on se visite peu, et l'on ne se rï¿½unit guï¿½re.
+À Catane, comme dans la plupart des villes de la Sicile, la vie est
+généralement retirée; on se visite peu, et l'on ne se réunit guère.
 Les grandes distractions sont la promenade du soir, la _passegiata_,
 qui se fait sur le quai deux fois la semaine, vers neuf heures, et
-dure quelquefois jusqu'ï¿½ minuit; les prises d'habits, pour lesquelles
+dure quelquefois jusqu'à minuit; les prises d'habits, pour lesquelles
 on prodigue le luxe et les collations, et les processions, surtout
 celle de sainte Agathe, patronne de la ville, qui sont encore plus
-bruyantes qu'ï¿½ Palerme.
+bruyantes qu'à Palerme.
 
-Les femmes portent de grands voiles blancs et brodï¿½s, rouges ou
-ponceau, et parfois relevï¿½s par un galon d'or. La mante des paysannes
+Les femmes portent de grands voiles blancs et brodés, rouges ou
+ponceau, et parfois relevés par un galon d'or. La mante des paysannes
 des environs, en laine ou en drap bleu, est assez courte, et leur sert
-de coussin, ï¿½tant pliï¿½e, pour porter les fardeaux sur la tï¿½te. Les
-marins, contrairement ï¿½ ce qu'on voit d'ordinaire, ont des ceintures
+de coussin, étant pliée, pour porter les fardeaux sur la tête. Les
+marins, contrairement à ce qu'on voit d'ordinaire, ont des ceintures
 et des bonnets bleu azur.
 
-La cathï¿½drale de Catane, dï¿½diï¿½e ï¿½ sainte Agathe, est surmontï¿½e de
-trois coupoles. Sur la place, dont elle borne un des cï¿½tï¿½s, on
-remarque une fontaine de marbre, que couronne un antique ï¿½lï¿½phant de
-lave portant sur son dos un obï¿½lisque en granit rouge d'ï¿½gypte.
+La cathédrale de Catane, dédiée à sainte Agathe, est surmontée de
+trois coupoles. Sur la place, dont elle borne un des côtés, on
+remarque une fontaine de marbre, que couronne un antique éléphant de
+lave portant sur son dos un obélisque en granit rouge d'Égypte.
 
-Le musï¿½e du prince de Biscari renferme de nombreux objets d'antiquitï¿½,
-des statues, des poids, des lampes, des mosaï¿½ques, des vases
-grï¿½co-siciliens, des armures du moyen ï¿½ge, des costumes siciliens de
-diffï¿½rentes ï¿½poques, etc.
+Le musée du prince de Biscari renferme de nombreux objets d'antiquité,
+des statues, des poids, des lampes, des mosaïques, des vases
+gréco-siciliens, des armures du moyen âge, des costumes siciliens de
+différentes époques, etc.
 
 
      Ascension de l'Etna.
 
-Quand je partis pour monter l'Etna, le temps, quoique l'on fï¿½t au 5
-octobre, ï¿½tait encore trï¿½s-chaud. La belle rue _Stesicorea ou Etnea_
-conduit de suite ï¿½ la _regione piemontana_ dont les pentes modï¿½rï¿½es
-forment la premiï¿½re des trois rï¿½gions de la montagne; c'est un
-vï¿½ritable jardin. Aprï¿½s avoir traversï¿½ plusieurs villages, je parvins
-ï¿½ Nicolosi, bourg de prï¿½s de 3ï¿½000 ï¿½mes de population, ï¿½levï¿½ sur le
-versant de l'Etna, ï¿½ prï¿½s de quatre lieues de Catane, et qui touche le
-pied des _monti Rossi_, cï¿½nes formï¿½s par l'ï¿½ruption de 1669. J'y
+Quand je partis pour monter l'Etna, le temps, quoique l'on fût au 5
+octobre, était encore très-chaud. La belle rue _Stesicorea ou Etnea_
+conduit de suite à la _regione piemontana_ dont les pentes modérées
+forment la première des trois régions de la montagne; c'est un
+véritable jardin. Après avoir traversé plusieurs villages, je parvins
+à Nicolosi, bourg de près de 3 000 âmes de population, élevé sur le
+versant de l'Etna, à près de quatre lieues de Catane, et qui touche le
+pied des _monti Rossi_, cônes formés par l'éruption de 1669. J'y
 installai pour la nuit Luigi, le muletier et les mulets. Puis, muni de
-vï¿½tements chauds, vers huit heures du soir je me mis en route,
-accompagnï¿½ du guide Salvatore.
+vêtements chauds, vers huit heures du soir je me mis en route,
+accompagné du guide Salvatore.
 
-Nous suivï¿½mes d'abord un chemin pratiquï¿½ sur le courant d'un fleuve de
-laves scoriacï¿½es, et nous arrivï¿½mes bientï¿½t ï¿½ la seconde rï¿½gion,
-_regione selvosa_, ou rï¿½gion des bois. Sauf aux endroits que des
-coulï¿½es modernes ont recouverts, le sol, formï¿½ d'une terre poudreuse
-et grisï¿½tre, est peuplï¿½ de chï¿½nes, de hï¿½tres, de figuiers noirs, de
-pruniers sauvages, et dans les parties les plus ï¿½levï¿½es, de sapins, de
-pins et de bouleaux; des touffes de mousses, des fougï¿½res, des mauves,
-des orchys, des fraxinelles, croissent dans cette poussiï¿½re fï¿½conde.
+Nous suivîmes d'abord un chemin pratiqué sur le courant d'un fleuve de
+laves scoriacées, et nous arrivâmes bientôt à la seconde région,
+_regione selvosa_, ou région des bois. Sauf aux endroits que des
+coulées modernes ont recouverts, le sol, formé d'une terre poudreuse
+et grisâtre, est peuplé de chênes, de hêtres, de figuiers noirs, de
+pruniers sauvages, et dans les parties les plus élevées, de sapins, de
+pins et de bouleaux; des touffes de mousses, des fougères, des mauves,
+des orchys, des fraxinelles, croissent dans cette poussière féconde.
 
-Nous prï¿½mes un peu de repos dans une cabane oï¿½ s'arrï¿½tent les gens de
+Nous prîmes un peu de repos dans une cabane où s'arrêtent les gens de
 Catane qui vont chercher la glace.
 
-Le froid commenï¿½ait ï¿½ me pï¿½nï¿½trer; Salvatore fit un peu de feu, je me
-couvris d'un second manteau, et nous repartï¿½mes pour finir la
-traversï¿½e de la rï¿½gion des bois.
+Le froid commençait à me pénétrer; Salvatore fit un peu de feu, je me
+couvris d'un second manteau, et nous repartîmes pour finir la
+traversée de la région des bois.
 
-Tout ï¿½ coup la vï¿½gï¿½tation cessa, et je me trouvai au milieu d'un
-dï¿½sert silencieux et sombre, oï¿½ l'on n'entendait que le pas mesurï¿½ de
-nos mulets, oï¿½ l'on ne distinguait, ï¿½ la lueur de la lune, que les
-flancs pelï¿½s et les rudes arï¿½tes de la montagne. Il fallut gravir
-alors un dï¿½me de scories, appelï¿½ la _Montagnuola_, du sommet duquel
-partent deux bras ouverts du cï¿½tï¿½ de la mer, et circonscrivant une
-vallï¿½e de six ï¿½ sept kilomï¿½tres de diamï¿½tre qu'on nomme _val del
-Bove_. Cette gibbositï¿½ se termine par le _piano del Lago_, surface
-presque plane, oï¿½ se trouvent la _torre del Filosofo_ (ï¿½ 2885 mï¿½tres
+Tout à coup la végétation cessa, et je me trouvai au milieu d'un
+désert silencieux et sombre, où l'on n'entendait que le pas mesuré de
+nos mulets, où l'on ne distinguait, à la lueur de la lune, que les
+flancs pelés et les rudes arêtes de la montagne. Il fallut gravir
+alors un dôme de scories, appelé la _Montagnuola_, du sommet duquel
+partent deux bras ouverts du côté de la mer, et circonscrivant une
+vallée de six à sept kilomètres de diamètre qu'on nomme _val del
+Bove_. Cette gibbosité se termine par le _piano del Lago_, surface
+presque plane, où se trouvent la _torre del Filosofo_ (à 2885 mètres
 au-dessus du niveau de la mer) et la _Casa inglese_. La tour du
 Philosophe, construction grecque ou romaine, se compose de quelques
 assises de laves et de briques.
 
-C'est ï¿½ la Maison anglaise, construite en 1811 par les officiers
-anglais, que nous fï¿½mes notre seconde halte et que nous laissï¿½mes nos
-montures, le reste de l'ascension ne pouvant se faire qu'ï¿½ pied. Un
-peu de repos et de nourriture ayant rendu du ressort ï¿½ mes membres et
-de la chaleur ï¿½ mon sang, nous gagnï¿½mes, sur une coulï¿½e de laves
-raboteuses et mobiles, le pied du cï¿½ne supï¿½rieur du volcan, annexe
-ï¿½phï¿½mï¿½re que chaque ï¿½ruption modifie, ï¿½lï¿½ve ou renverse tour ï¿½ tour.
-De ce point restaient environ cent mï¿½tres ï¿½ gravir, sur une pente
-trï¿½s-rapide; je n'insisterai pas sur les difficultï¿½s, les fatigues,
-les dangers mï¿½me de ce trajet, dont je vins ï¿½ bout ï¿½ grand'peine;
-enfin je pus m'asseoir harassï¿½, les jambes dï¿½chirï¿½es, mais fier comme
+C'est à la Maison anglaise, construite en 1811 par les officiers
+anglais, que nous fîmes notre seconde halte et que nous laissâmes nos
+montures, le reste de l'ascension ne pouvant se faire qu'à pied. Un
+peu de repos et de nourriture ayant rendu du ressort à mes membres et
+de la chaleur à mon sang, nous gagnâmes, sur une coulée de laves
+raboteuses et mobiles, le pied du cône supérieur du volcan, annexe
+éphémère que chaque éruption modifie, élève ou renverse tour à tour.
+De ce point restaient environ cent mètres à gravir, sur une pente
+très-rapide; je n'insisterai pas sur les difficultés, les fatigues,
+les dangers même de ce trajet, dont je vins à bout à grand'peine;
+enfin je pus m'asseoir harassé, les jambes déchirées, mais fier comme
 un vainqueur, sur un point du cercle solide qui termine l'Etna. Le
-soleil se levait. J'avais ï¿½ cï¿½tï¿½ de moi la fumï¿½e sortant du cratï¿½re,
-derriï¿½re une effroyable profondeur et les flancs noirs de la montagne,
+soleil se levait. J'avais à côté de moi la fumée sortant du cratère,
+derrière une effroyable profondeur et les flancs noirs de la montagne,
 en avant l'horreur du chemin que je venais de parcourir et les
-immensitï¿½s de la mer et du ciel.
+immensités de la mer et du ciel.
 
-Le panorama de tous cï¿½tï¿½s n'a de bornes que la portï¿½e de la vue; on
-estime ï¿½ plus de 2ï¿½000 milles la circonfï¿½rence de l'horizon que
-l'oeil peut embrasser. La mer et ses ï¿½les occupent la plus grande
-partie de la scï¿½ne; la Sicile, au centre, prï¿½sente aux regards sa
+Le panorama de tous côtés n'a de bornes que la portée de la vue; on
+estime à plus de 2 000 milles la circonférence de l'horizon que
+l'oeil peut embrasser. La mer et ses îles occupent la plus grande
+partie de la scène; la Sicile, au centre, présente aux regards sa
 surface triangulaire. On distingue le lac de Lentini, le cours du
-Simï¿½the, les montagnes de Madonia, Catane, Messine, Trapani et Palerme
-ï¿½ demi cachï¿½e dans le brouillard. L'Etna lui-mï¿½me paraï¿½t comme un
-monde; ses pentes verdoyantes, les villages dont il est semï¿½ ï¿½ la
-base, ses crï¿½tes arides, ses anfractuositï¿½s profondes, sa fumï¿½e, tout
-est visible; les tons les plus variï¿½s, les contrastes les plus
-bizarres, excitent ï¿½ la fois l'intï¿½rï¿½t et l'admiration.
+Simèthe, les montagnes de Madonia, Catane, Messine, Trapani et Palerme
+à demi cachée dans le brouillard. L'Etna lui-même paraît comme un
+monde; ses pentes verdoyantes, les villages dont il est semé à la
+base, ses crêtes arides, ses anfractuosités profondes, sa fumée, tout
+est visible; les tons les plus variés, les contrastes les plus
+bizarres, excitent à la fois l'intérêt et l'admiration.
 
-J'approchai le plus possible des bords intï¿½rieurs du cï¿½ne renversï¿½ au
-fond duquel est la bouche du volcan. Mais les vapeurs ï¿½taient trop
-ï¿½paisses pour qu'on aperï¿½ï¿½t rien.
+J'approchai le plus possible des bords intérieurs du cône renversé au
+fond duquel est la bouche du volcan. Mais les vapeurs étaient trop
+épaisses pour qu'on aperçût rien.
 
-La descente de l'Etna n'est qu'un jeu, en comparaison de la montï¿½e.
-Vers midi, j'ï¿½tais dans l'auberge de Nicolosi, oï¿½ je retrouvai Luigi
-et le muletier. Le soir nous couchï¿½mes au village des Giarre.
+La descente de l'Etna n'est qu'un jeu, en comparaison de la montée.
+Vers midi, j'étais dans l'auberge de Nicolosi, où je retrouvai Luigi
+et le muletier. Le soir nous couchâmes au village des Giarre.
 
 
-     Taormine. -- Messine. -- Retour ï¿½ Naples.
+     Taormine. -- Messine. -- Retour à Naples.
 
-Au delï¿½ des Giarre, le chemin suit constamment le bord de la mer. On
+Au delà des Giarre, le chemin suit constamment le bord de la mer. On
 traverse le _fleuve di Calatabiano_; puis on quitte les terrains
-volcaniques dont l'Etna est tout entourï¿½, et l'on parvient ï¿½
-_Giardini_, village moderne situï¿½ au pied du mont Taurus, sur le
+volcaniques dont l'Etna est tout entouré, et l'on parvient à
+_Giardini_, village moderne situé au pied du mont Taurus, sur le
 penchant duquel est assise l'antique Taormine (_Tauromenium_),
-dï¿½truite par les tremblements de terre, et qui n'a plus qu'une
-population misï¿½rable de 3ï¿½000 habitants. Il lui reste ses ruines: des
-aqueducs, des rï¿½servoirs, des naumachies, des tombeaux, des temples
-mï¿½me, et les vestiges d'un thï¿½ï¿½tre, l'un des plus beaux de
-l'antiquitï¿½. Le thï¿½ï¿½tre est situï¿½ hors des murs fortifiï¿½s de la ville
-moderne, sur l'extrï¿½mitï¿½ d'une ï¿½minence, et creusï¿½ en partie dans la
-roche vive. Il pouvait contenir 25ï¿½000 personnes. Tout dï¿½gradï¿½ qu'il
+détruite par les tremblements de terre, et qui n'a plus qu'une
+population misérable de 3 000 habitants. Il lui reste ses ruines: des
+aqueducs, des réservoirs, des naumachies, des tombeaux, des temples
+même, et les vestiges d'un théâtre, l'un des plus beaux de
+l'antiquité. Le théâtre est situé hors des murs fortifiés de la ville
+moderne, sur l'extrémité d'une éminence, et creusé en partie dans la
+roche vive. Il pouvait contenir 25 000 personnes. Tout dégradé qu'il
 est maintenant, il produit un effet saisissant. De ses gradins, on
-jouit d'une vue admirable: la mer azurï¿½e et les gracieuses dï¿½coupures
-de ses cï¿½tes, les plaines verdoyantes et parsemï¿½es de villages qui
+jouit d'une vue admirable: la mer azurée et les gracieuses découpures
+de ses côtes, les plaines verdoyantes et parsemées de villages qui
 s'allongent jusqu'aux flots, Giardini et Taormine dressant au pied et
-sur les flancs du Taurus leurs maisons, leurs ï¿½glises et leurs
+sur les flancs du Taurus leurs maisons, leurs églises et leurs
 vieilles tours, et au-dessus, dominant tout, la masse gigantesque de
 l'Etna! (voy. p. 9).
 
-De Taormine ï¿½ Messine, la route traverse des campagnes fertiles oï¿½ les
-villages abondent, et cï¿½toie frï¿½quemment la mer.
+De Taormine à Messine, la route traverse des campagnes fertiles où les
+villages abondent, et côtoie fréquemment la mer.
 
-ï¿½ une certaine distance de Messine, la vie d'une grande ville se fait
-dï¿½jï¿½ sentir.
+À une certaine distance de Messine, la vie d'une grande ville se fait
+déjà sentir.
 
-Disposï¿½e en amphithï¿½ï¿½tre sur la cï¿½te qu'un ï¿½troit bras de mer sï¿½pare
-de l'Italie, construite ï¿½ neuf, peuplï¿½e de prï¿½s de 100ï¿½000 habitants,
-Messine paraï¿½t ï¿½tre un agrï¿½able sï¿½jour.
+Disposée en amphithéâtre sur la côte qu'un étroit bras de mer sépare
+de l'Italie, construite à neuf, peuplée de près de 100 000 habitants,
+Messine paraît être un agréable séjour.
 
-Deux grandes rues parallï¿½le au quai, le Corso et la _via Ferdinanda_,
-la partagent d'une maniï¿½re rï¿½guliï¿½re. Le port, vaste, sï¿½r et commode,
-est le plus frï¿½quentï¿½ de toute la Sicile; une citadelle et plusieurs
-autres ouvrages fortifiï¿½s sont destinï¿½s ï¿½ le protï¿½ger. Le quai, ornï¿½
-de statues et entre autres d'une figure de Neptune, est bordï¿½
-d'ï¿½difices d'une construction ï¿½lï¿½gante, mais inachevï¿½s.
+Deux grandes rues parallèle au quai, le Corso et la _via Ferdinanda_,
+la partagent d'une manière régulière. Le port, vaste, sûr et commode,
+est le plus fréquenté de toute la Sicile; une citadelle et plusieurs
+autres ouvrages fortifiés sont destinés à le protéger. Le quai, orné
+de statues et entre autres d'une figure de Neptune, est bordé
+d'édifices d'une construction élégante, mais inachevés.
 
-La faï¿½ade de la cathï¿½drale, en marbres de diverses couleurs, est
-percï¿½e de trois portes ogivales, et ornï¿½e de bas-reliefs, de
-mosaï¿½ques, de colonnes trï¿½s-ouvragï¿½es, de pinacles, de statuettes et
-de peintures; malheureusement elle est gï¿½tï¿½e par un mur moderne qui la
-surmonte, et par un clocher de mauvais goï¿½t qui l'avoisine ï¿½ gauche. ï¿½
-l'intï¿½rieur, des colonnes antiques, avec des bases et des chapiteaux
-dorï¿½s, divisent l'ï¿½difice en trois nefs et soutiennent des plafonds en
-bois. Les mosaï¿½ques qui couvrent les demi-coupoles des absides et qui
-datent du quatorziï¿½me siï¿½cle, une chaire en marbre sculptï¿½e avec
-beaucoup d'ï¿½lï¿½gance par Antonio Gagini, le maï¿½tre autel, incrustï¿½ de
-pierres dures, et plusieurs mausolï¿½es intï¿½ressants, forment les
-principales richesses de la cathï¿½drale de Messine. On y conserve aussi
-une boucle de cheveux qu'on dit avoir appartenu ï¿½ la Vierge Marie, et
+La façade de la cathédrale, en marbres de diverses couleurs, est
+percée de trois portes ogivales, et ornée de bas-reliefs, de
+mosaïques, de colonnes très-ouvragées, de pinacles, de statuettes et
+de peintures; malheureusement elle est gâtée par un mur moderne qui la
+surmonte, et par un clocher de mauvais goût qui l'avoisine à gauche. À
+l'intérieur, des colonnes antiques, avec des bases et des chapiteaux
+dorés, divisent l'édifice en trois nefs et soutiennent des plafonds en
+bois. Les mosaïques qui couvrent les demi-coupoles des absides et qui
+datent du quatorzième siècle, une chaire en marbre sculptée avec
+beaucoup d'élégance par Antonio Gagini, le maître autel, incrusté de
+pierres dures, et plusieurs mausolées intéressants, forment les
+principales richesses de la cathédrale de Messine. On y conserve aussi
+une boucle de cheveux qu'on dit avoir appartenu à la Vierge Marie, et
 une traduction en latin de la fameuse lettre qu'elle passe pour avoir
-ï¿½crite aux Messinois, et dont j'ai signalï¿½ une copie ï¿½ Palerme (voy.
+écrite aux Messinois, et dont j'ai signalé une copie à Palerme (voy.
 p. 5).
 
-La place, entourï¿½e d'ï¿½difices rï¿½guliers, est ornï¿½e d'une statue
-ï¿½questre de Charles II en bronze, et d'une fontaine agrï¿½ablement
-disposï¿½e et sculptï¿½e, en 1547, par fra Giovanni Angelo, de Florence.
+La place, entourée d'édifices réguliers, est ornée d'une statue
+équestre de Charles II en bronze, et d'une fontaine agréablement
+disposée et sculptée, en 1547, par fra Giovanni Angelo, de Florence.
 
 [Illustration: Stromboli.--Dessin de Rouargue.]
 
-On cï¿½lï¿½bre ï¿½ Messine, au 15 aoï¿½t, la fï¿½te de la _Vara_, oï¿½ les
-processions, les chars gigantesques, les reprï¿½sentations mï¿½langï¿½es de
-la Vierge, des saints, des divinitï¿½s paï¿½ennes, des princes sarrasins
-et normands, les illuminations, font la joie du peuple. La fï¿½te de la
+On célèbre à Messine, au 15 août, la fête de la _Vara_, où les
+processions, les chars gigantesques, les représentations mélangées de
+la Vierge, des saints, des divinités païennes, des princes sarrasins
+et normands, les illuminations, font la joie du peuple. La fête de la
 _Sagra Lettera_, le 5 juin, est aussi fort en honneur.
 
-Les Messinois passent pour ï¿½tre en gï¿½nï¿½ral assez ignorants; la pï¿½che,
-et surtout la pï¿½che de l'espadon, est une de leurs industries
-favorites. L'ambition de la suprï¿½matie, qu'ils contestent ï¿½ Palerme, a
-excitï¿½ chez eux une haine vivace envers les Palermitains.
+Les Messinois passent pour être en général assez ignorants; la pêche,
+et surtout la pêche de l'espadon, est une de leurs industries
+favorites. L'ambition de la suprématie, qu'ils contestent à Palerme, a
+excité chez eux une haine vivace envers les Palermitains.
 
-Cependant le temps fixï¿½ pour mon sï¿½jour en Sicile ï¿½tait ï¿½coulï¿½. Aprï¿½s
-m'ï¿½tre sï¿½parï¿½ trï¿½s-amicalement de mon guide et de mon muletier, je
-pris place sur un bateau ï¿½ vapeur qui devait me ramener ï¿½ Naples.
-Notre navire, forcï¿½ une premiï¿½re fois par la tempï¿½te de rentrer dans
+Cependant le temps fixé pour mon séjour en Sicile était écoulé. Après
+m'être séparé très-amicalement de mon guide et de mon muletier, je
+pris place sur un bateau à vapeur qui devait me ramener à Naples.
+Notre navire, forcé une première fois par la tempête de rentrer dans
 le port de Messine, passa enfin sans accident entre le gouffre
 bouillonnant de Charybde et le redoutable rocher de Scylla; nous
-laissï¿½mes ï¿½ gauche les ï¿½les Lipari, dont la principale, Stromboli,
-s'annonce au loin par les flammes ou les fumï¿½es de son volcan, et nous
-entrï¿½mes le matin du 13 octobre dans la magnifique rade de Naples.
+laissâmes à gauche les îles Lipari, dont la principale, Stromboli,
+s'annonce au loin par les flammes ou les fumées de son volcan, et nous
+entrâmes le matin du 13 octobre dans la magnifique rade de Naples.
 
-                                        Fï¿½lix BOURQUELOT.
+                                        Félix BOURQUELOT.
 
 
 
@@ -1522,268 +1522,268 @@ entrï¿½mes le matin du 13 octobre dans la magnifique rade de Naples.
 GRAVURES.
 
                                                       Dessinateurs.
-  Chapelle de Sainte-Rosalie (prï¿½s Palerme)              Rouargue      1
+  Chapelle de Sainte-Rosalie (près Palerme)              Rouargue      1
   Types et costumes siciliens                            Rouargue      4
-  Ruines ï¿½ Girgenti (Agrigente)                          Rouargue      5
+  Ruines à Girgenti (Agrigente)                          Rouargue      5
   Vue de Syracuse                                        Rouargue      8
   Taormine et l'Etna                                     Rouargue      9
-  La Marine ï¿½ Messine                                    Rouargue     12
+  La Marine à Messine                                    Rouargue     12
   Rocher de Scylla                                       Rouargue     13
   Stromboli                                              Rouargue     16
-  Pigeonnier prï¿½s d'Ispahan                         Jules Laurens     17
-  Pont d'Allah-Verdi-Khan sur le Zend-ï¿½-Roud,
-    ï¿½ Ispahan                                       Jules Laurens     21
-  Collï¿½ge de la Mï¿½re du roi, ï¿½ Ispahan              Jules Laurens     24
+  Pigeonnier près d'Ispahan                         Jules Laurens     17
+  Pont d'Allah-Verdi-Khan sur le Zend-è-Roud,
+    à Ispahan                                       Jules Laurens     21
+  Collége de la Mère du roi, à Ispahan              Jules Laurens     24
   Une peinture indienne dans le palais des
-    Quarante-Colonnes, ï¿½ Ispahan                    Jules Laurens     25
-  Entrï¿½e de Kaschan                                 Jules Laurens     28
+    Quarante-Colonnes, à Ispahan                    Jules Laurens     25
+  Entrée de Kaschan                                 Jules Laurens     28
   Une caravane persane au repos                     Jules Laurens     29
   Types persans                                     Jules Laurens     32
-  Faubourg de Tï¿½hï¿½ran                               Jules Laurens     33
+  Faubourg de Téhéran                               Jules Laurens     33
   La porte de Schah-Abdoulazim                      Jules Laurens     36
-  Dans une cour, ï¿½ Tï¿½hï¿½ran                          Jules Laurens     37
+  Dans une cour, à Téhéran                          Jules Laurens     37
   Types et portraits persans                        Jules Laurens     40
   Groupe de Persans                                 Jules Laurens     41
-  Dans l'Enderoun (appartement intï¿½rieur
-    -- Costumes d'intï¿½rieur et de sortie)           Jules Laurens     44
+  Dans l'Enderoun (appartement intérieur
+    -- Costumes d'intérieur et de sortie)           Jules Laurens     44
   Choix d'armes, d'instruments et objets divers
     persans                                         Jules Laurens     45
-  Le Dï¿½mavend                                       Jules Laurens     48
-  Vue de l'ï¿½le Saint-Thomas                             de Bï¿½rard     49
-  Saint-Pierre, ï¿½ la Martinique                         de Bï¿½rard     52
-  Cataracte de Weinachts (Guyane anglaise)              de Bï¿½rard     53
-  Une sucrerie ï¿½ la Guadeloupe                          de Bï¿½rard     56
-  La Pointe-ï¿½-Pï¿½tre, ï¿½ la Guadeloupe                    de Bï¿½rard     57
-  Le port d'Espagne, ï¿½ la Trinidad                      de Bï¿½rard     60
-  La baie de Panama                                     de Bï¿½rard     61
-  Vue des Bermudes                                      de Bï¿½rard     64
-  Costumes norvï¿½giens d'Hitterdal                          Pelcoq     65
-  La vallï¿½e de Bolkesjï¿½                                      Dorï¿½     68
-  Costumes du Tï¿½lï¿½mark                                     Pelcoq     69
-  La vallï¿½e de Vestfjordal                                   Dorï¿½     72
-  Intï¿½rieur d'auberge ï¿½ Bolkesjï¿½                         Lancelot     73
-  ï¿½glise d'Hitterdal                                      Wormser     75
-  Le Rjukandfoss                                             Dorï¿½     76
-  Un chalet ï¿½ Bamble                                     Lancelot     77
-  Vue du lac Bandak                                          Dorï¿½     80
-  Le lac Flatdal                                             Dorï¿½     81
-  Fjord de Gudvangen                                         Dorï¿½     84
-  ï¿½glise de Bakke                                            Dorï¿½     85
-  Route de Stalheim                                          Dorï¿½     88
-  Le Vï¿½ringfoss                                              Dorï¿½     89
-  Vallï¿½e de l'Heimdal                                        Dorï¿½     92
+  Le Démavend                                       Jules Laurens     48
+  Vue de l'île Saint-Thomas                             de Bérard     49
+  Saint-Pierre, à la Martinique                         de Bérard     52
+  Cataracte de Weinachts (Guyane anglaise)              de Bérard     53
+  Une sucrerie à la Guadeloupe                          de Bérard     56
+  La Pointe-à-Pître, à la Guadeloupe                    de Bérard     57
+  Le port d'Espagne, à la Trinidad                      de Bérard     60
+  La baie de Panama                                     de Bérard     61
+  Vue des Bermudes                                      de Bérard     64
+  Costumes norvégiens d'Hitterdal                          Pelcoq     65
+  La vallée de Bolkesjö                                      Doré     68
+  Costumes du Télémark                                     Pelcoq     69
+  La vallée de Vestfjordal                                   Doré     72
+  Intérieur d'auberge à Bolkesjö                         Lancelot     73
+  Église d'Hitterdal                                      Wormser     75
+  Le Rjukandfoss                                             Doré     76
+  Un chalet à Bamble                                     Lancelot     77
+  Vue du lac Bandak                                          Doré     80
+  Le lac Flatdal                                             Doré     81
+  Fjord de Gudvangen                                         Doré     84
+  Église de Bakke                                            Doré     85
+  Route de Stalheim                                          Doré     88
+  Le Vöringfoss                                              Doré     89
+  Vallée de l'Heimdal                                        Doré     92
   Femme du Sogn                                            Pelcoq     93
-  Une noce en Norvï¿½ge                                      Pelcoq     96
-  Le marchï¿½ aux grains (Suez)                       Karl Girardet     97
+  Une noce en Norvége                                      Pelcoq     96
+  Le marché aux grains (Suez)                       Karl Girardet     97
   Port de Suez                                      Karl Girardet    100
-  Cimetiï¿½re europï¿½en ï¿½ Suez                         Karl Girardet    100
-  Qossï¿½ir                                           Karl Girardet    101
+  Cimetière européen à Suez                         Karl Girardet    100
+  Qosséir                                           Karl Girardet    101
   Djeddah                                           Karl Girardet    101
   Port de Souakin                                   Karl Girardet    101
-  Mosquï¿½e de Salonique                              Karl Girardet    104
-  Femmes albanaises, prï¿½s d'un arabas,
-    ï¿½ Vasilika                                       Villevieille    105
+  Mosquée de Salonique                              Karl Girardet    104
+  Femmes albanaises, près d'un arabas,
+    à Vasilika                                       Villevieille    105
   Un Juif de Salonique                                       Bida    108
   Une Juive de Salonique                                     Bida    109
-  Sceau du monastï¿½re de Kariï¿½s                                       111
-  Vue gï¿½nï¿½rale de mont Athos                         Villevieille    112
-  Le Conseil des ï¿½pistates au mont Athos                Boulanger    113
+  Sceau du monastère de Kariès                                       111
+  Vue générale de mont Athos                         Villevieille    112
+  Le Conseil des Épistates au mont Athos                Boulanger    113
   Saint Georges (fresque de Panselinos dans le
-    Catholicon de Kariï¿½s)                                  Pelcoq    116
-  Monastï¿½re d'Iveron                                Karl Girardet    117
-  L'higoumï¿½ne d'Iveron                                     Pelcoq    120
-  La Phiale ou le Baptistï¿½re du couvent de Lavra         Lancelot    121
-  Croix sculptï¿½e en bois dans le trï¿½sor de Kariï¿½s         Thï¿½rond    124
-  Coffret dans le trï¿½sor de Kariï¿½s                        Thï¿½rond    125
-  Peinture de la trapeza de Lavra: les trois patriarches  Thï¿½rond    128
+    Catholicon de Kariès)                                  Pelcoq    116
+  Monastère d'Iveron                                Karl Girardet    117
+  L'higoumène d'Iveron                                     Pelcoq    120
+  La Phiale ou le Baptistère du couvent de Lavra         Lancelot    121
+  Croix sculptée en bois dans le trésor de Kariès         Thérond    124
+  Coffret dans le trésor de Kariès                        Thérond    125
+  Peinture de la trapeza de Lavra: les trois patriarches  Thérond    128
   La confession                                              Bida    129
-  Bas-relief du couvent de Vatopï¿½di                     A. Proust    130
-  Albanais, soldat de la garde des ï¿½pistates         Villevieille    132
+  Bas-relief du couvent de Vatopédi                     A. Proust    130
+  Albanais, soldat de la garde des Épistates         Villevieille    132
   Vue du couvent d'Esphigmenou                      Karl Girardet    133
-  Intï¿½rieur de la cour principale du couvent slave
+  Intérieur de la cour principale du couvent slave
     de Kiliandari                                        Lancelot    136
-  La rï¿½colte des noisettes au mont Athos             Villevieille    137
-  L'ï¿½le Chatam, dans l'archipel Galapagos            E. de Bï¿½rard    140
-  Baie de la Poste, dans l'ï¿½le Floriana
-    (archipel Galapagos)                             E. de Bï¿½rard    140
-  L'ï¿½le Charles, dans l'archipel Galapagos           E. de Bï¿½rard    141
-  Aiguade de l'ï¿½le Charles (archipel Galapagos)      E. de Bï¿½rard    144
+  La récolte des noisettes au mont Athos             Villevieille    137
+  L'île Chatam, dans l'archipel Galapagos            E. de Bérard    140
+  Baie de la Poste, dans l'île Floriana
+    (archipel Galapagos)                             E. de Bérard    140
+  L'île Charles, dans l'archipel Galapagos           E. de Bérard    141
+  Aiguade de l'île Charles (archipel Galapagos)      E. de Bérard    144
   Oiseaux et reptile (archipel Galapagos)                  Rouyer    145
-  Cï¿½tes de l'ï¿½le Albermale, dans l'archipel
-    Galapagos                                        E. de Bï¿½rard    148
-  Oeno, dans l'archipel Pomotou (ï¿½les ï¿½ coraux)      E. de Bï¿½rard    149
-  Village de Vanou, dans l'ï¿½le de Vanikoro
-    (ï¿½les ï¿½ coraux)                                  E. de Bï¿½rard    149
-  Baie de Manevai, dans l'ï¿½le de Vanikoro
-    (ï¿½les ï¿½ coraux)                                  E. de Bï¿½rard    152
-  Rï¿½cifs et piton de l'ï¿½le de Borabora
-    (ï¿½les ï¿½ coraux)                                  E. de Bï¿½rard    153
-  Rade et pic de l'ï¿½le de Borabora (ï¿½les ï¿½ coraux)   E. de Bï¿½rard    156
-  ï¿½le de Whitsunday, dans l'archipel Pomotou
-    (ï¿½les ï¿½ coraux)                                  E. de Bï¿½rard    157
+  Côtes de l'île Albermale, dans l'archipel
+    Galapagos                                        E. de Bérard    148
+  Oeno, dans l'archipel Pomotou (îles à coraux)      E. de Bérard    149
+  Village de Vanou, dans l'île de Vanikoro
+    (îles à coraux)                                  E. de Bérard    149
+  Baie de Manevai, dans l'île de Vanikoro
+    (îles à coraux)                                  E. de Bérard    152
+  Récifs et piton de l'île de Borabora
+    (îles à coraux)                                  E. de Bérard    153
+  Rade et pic de l'île de Borabora (îles à coraux)   E. de Bérard    156
+  Île de Whitsunday, dans l'archipel Pomotou
+    (îles à coraux)                                  E. de Bérard    157
   Brun-Rollet                                                Fath    160
-  Traï¿½neau yakoute                                    Victor Adam    161
-  Une sorciï¿½re tongouse                               Victor Adam    164
+  Traîneau yakoute                                    Victor Adam    161
+  Une sorcière tongouse                               Victor Adam    164
   Port d'Okhotsk                                      Victor Adam    165
   Bazar de Nertchinsk                                 Victor Adam    168
   Colonie ou village yakoute                          Victor Adam    169
-  Voyageur russe en Sibï¿½rie                           Victor Adam    172
+  Voyageur russe en Sibérie                           Victor Adam    172
   Argali (mouton sauvage)                             Victor Adam    173
   Campement de Tongouses                              Victor Adam    176
   Chamans yakoutes                                    Victor Adam    177
   Femme yakoute                                       Victor Adam    180
-  Poteaux des frontiï¿½res du pays des Yakoutes et
+  Poteaux des frontières du pays des Yakoutes et
     de la Chine                                       Victor Adam    181
-  Types indigï¿½nes (Australie du Sud)                      G. Fath    184
-  Sï¿½pultures australiennes dans les bois                 Lancelot    185
-  Sï¿½pulture australienne au dï¿½sert                           Dorï¿½    189
-  Restes d'un voyageur retrouvï¿½s par ses compagnons
-    dans les dï¿½serts du lac Torrens                          Dorï¿½    192
-  Oasis d'ï¿½deri (Fezzan)                                 Rouargue    193
+  Types indigènes (Australie du Sud)                      G. Fath    184
+  Sépultures australiennes dans les bois                 Lancelot    185
+  Sépulture australienne au désert                           Doré    189
+  Restes d'un voyageur retrouvés par ses compagnons
+    dans les déserts du lac Torrens                          Doré    192
+  Oasis d'Éderi (Fezzan)                                 Rouargue    193
   Mourzouk (capitale du Fezzan)                          Rouargue    196
   Gorge d'Agueri                                         Lancelot    197
-  Vallï¿½e d'Auderaz                                       Rouargue    200
+  Vallée d'Auderaz                                       Rouargue    200
   Vue d'Agadez                                           Lancelot    201
-  Vue de Kano (entrepï¿½t du Soudan central)               Lancelot    204
+  Vue de Kano (entrepôt du Soudan central)               Lancelot    204
   Dendal ou boulevard de Kouka (capitale du Bornou)      Lancelot    205
   Vue du lac Tchad                                       Rouargue    208
   Village marghi                                         Rouargue    209
-  Halte dans une forï¿½t du Marghi                         Rouargue    212
+  Halte dans une forêt du Marghi                         Rouargue    212
   Village mosgou                                         Rouargue    213
   Chef mosgovien                                         Rouargue    216
-  Intï¿½rieur d'une habitation mosgovienne                 Rouargue    217
+  Intérieur d'une habitation mosgovienne                 Rouargue    217
   Chef kanembou                                          Rouargue    220
-  Entrï¿½e du sultan de Baghirmi dans Masï¿½na
+  Entrée du sultan de Baghirmi dans Maséna
     (sa capitale)                                        Rouargue    221
-  Une razzia ï¿½ Barea (Mosgou)                            Rouargue    224
-  Vue du marchï¿½ de Sokoto                                Hadamard    225
-  Bac sur le Niger, ï¿½ Say                                Rouargue    228
+  Une razzia à Barea (Mosgou)                            Rouargue    224
+  Vue du marché de Sokoto                                Hadamard    225
+  Bac sur le Niger, à Say                                Rouargue    228
   Vue des monts Homboris                                 Lancelot    229
   Village sonray                                         Lancelot    232
   Vue de Kabra (port de Tembouctou)                      Rouargue    233
   Camp touareg                                           Lancelot    236
-  Arrivï¿½e ï¿½ Tembouctou                                   Lancelot    237
-  Vue gï¿½nï¿½rale de Tembouctou                             Lancelot    240
+  Arrivée à Tembouctou                                   Lancelot    237
+  Vue générale de Tembouctou                             Lancelot    240
   Portrait en pied du baron de Wogan en costume
     de voyage                                           J. Pelcoq    241
   Grass-Valley                                          J. Pelcoq    244
   Un claim ou atelier de mineur                         J. Pelcoq    245
-  Forï¿½t de _taxodium giganteum_ ou pins gï¿½ants           Lancelot    248
-  Un caï¿½on ou passage de la Sierra-Wah                   Lancelot    249
+  Forêt de _taxodium giganteum_ ou pins géants           Lancelot    248
+  Un cañon ou passage de la Sierra-Wah                   Lancelot    249
   La case du jugement                                   J. Pelcoq    252
   Le poteau de la guerre                                J. Pelcoq    253
   Types d'Indiennes du Rio-Colorado                     J. Pelcoq    256
-  Grande pagode de Rangoun                               Franï¿½ais    257
-  Bateau ï¿½ voile sur l'Irawady                     Clichï¿½ anglais    258
-  Canot de parade                                  Clichï¿½ anglais    259
-  Bateau de commerce                               Clichï¿½ anglais    259
-  Birmans dans une forï¿½t                                J. Pelcoq    261
-  Pattshaing ou tambour-harmonica                  Clichï¿½ anglais    262
-  Pattshaing ï¿½ baguettes                           Clichï¿½ anglais    262
-  Harpe birmane                                    Clichï¿½ anglais    263
-  Harmonica birman                                 Clichï¿½ anglais    263
-  Pagode ï¿½ Pagï¿½n                                   Clichï¿½ anglais    264
-  Reprï¿½sentation thï¿½ï¿½trale dans le royaume d'Ava         Hadamard    265
-  Dagobah ou pagode en forme de cloche             Clichï¿½ anglais    266
-  Intï¿½rieur d'une pagode                           Clichï¿½ anglais    267
-  Maison de l'ambassade ï¿½ Amarapoura               Clichï¿½ anglais    268
-  Vallï¿½e des puits de bitume                        Karl Girardet    269
+  Grande pagode de Rangoun                               Français    257
+  Bateau à voile sur l'Irawady                     Cliché anglais    258
+  Canot de parade                                  Cliché anglais    259
+  Bateau de commerce                               Cliché anglais    259
+  Birmans dans une forêt                                J. Pelcoq    261
+  Pattshaing ou tambour-harmonica                  Cliché anglais    262
+  Pattshaing à baguettes                           Cliché anglais    262
+  Harpe birmane                                    Cliché anglais    263
+  Harmonica birman                                 Cliché anglais    263
+  Pagode à Pagán                                   Cliché anglais    264
+  Représentation théâtrale dans le royaume d'Ava         Hadamard    265
+  Dagobah ou pagode en forme de cloche             Cliché anglais    266
+  Intérieur d'une pagode                           Cliché anglais    267
+  Maison de l'ambassade à Amarapoura               Cliché anglais    268
+  Vallée des puits de bitume                        Karl Girardet    269
   Types de grands seigneurs et hauts fonctionnaires
     birmans                                                 Morin    272
-  Le palais du roi et l'ï¿½lï¿½phant blanc                     Navlet    273
-  Sculptures comiques dans le monastï¿½re royal ï¿½
+  Le palais du roi et l'éléphant blanc                     Navlet    273
+  Sculptures comiques dans le monastère royal à
     Amarapoura                                           Lancelot    276
-  Vue du Maha-Toolut-Boungyo (monastï¿½re royal ï¿½
+  Vue du Maha-Toolut-Boungyo (monastère royal à
     Amarapoura)                                          Lancelot    277
-  Dï¿½tails intï¿½rieurs du Maha-comiye-peima ï¿½ Amarapoura     Navlet    281
-  Une porte ï¿½ Amarapoura                           Clichï¿½ anglais    284
-  Canon birman                                     Clichï¿½ anglais    284
-  Danse des ï¿½lï¿½phants                              Clichï¿½ anglais    284
-  Canal d'irrigation dans le royaume d'Ava         Clichï¿½ anglais    285
+  Détails intérieurs du Maha-comiye-peima à Amarapoura     Navlet    281
+  Une porte à Amarapoura                           Cliché anglais    284
+  Canon birman                                     Cliché anglais    284
+  Danse des éléphants                              Cliché anglais    284
+  Canal d'irrigation dans le royaume d'Ava         Cliché anglais    285
   Jeunes dames birmanes                                     Morin    288
   Le temple du Dragon                                    Lancelot    289
-  Rives de l'Irawady (prï¿½s des mines de rubis)     Clichï¿½ anglais    292
-  Petite pagode ï¿½ Mengoun                          Clichï¿½ anglais    292
+  Rives de l'Irawady (près des mines de rubis)     Cliché anglais    292
+  Petite pagode à Mengoun                          Cliché anglais    292
   Grand temple de Mengoun (depuis le tremblement
     de terre de 1839)                               Karl Girardet    293
-  Vallï¿½e de l'Irawady au confluent du Myit-Nge          Paul Huet    297
-  Temple ruinï¿½ ï¿½ Pagï¿½n                                   Lancelot    300
-  Salces ou volcans de boue ï¿½ Membo                Clichï¿½ anglais    301
-  Cï¿½nes volcaniques dans la plaine de Membo        Clichï¿½ anglais    301
-  Paysans birmans en voyage                        Clichï¿½ anglais    302
-  Statue gigantesque de Bouddha ï¿½ Amarapoura             Lancelot    304
-  Zanzibar vue de la mer                             E. de Bï¿½rard    305
-  Portrait de feu l'iman de Zanzibar                 E. de Bï¿½rard    308
-  Pont de la ville de Zanzibar                       E. de Bï¿½rard    309
+  Vallée de l'Irawady au confluent du Myit-Nge          Paul Huet    297
+  Temple ruiné à Pagán                                   Lancelot    300
+  Salces ou volcans de boue à Membo                Cliché anglais    301
+  Cônes volcaniques dans la plaine de Membo        Cliché anglais    301
+  Paysans birmans en voyage                        Cliché anglais    302
+  Statue gigantesque de Bouddha à Amarapoura             Lancelot    304
+  Zanzibar vue de la mer                             E. de Bérard    305
+  Portrait de feu l'iman de Zanzibar                 E. de Bérard    308
+  Pont de la ville de Zanzibar                       E. de Bérard    309
   Un village de la Mrima                                Lavieille    312
-  Jihouï¿½ la Mkoa ou la roche ronde                 Clichï¿½ anglais    313
+  Jihoué la Mkoa ou la roche ronde                 Cliché anglais    313
   La fontaine qui bout (source thermale dans le
-    Khoutou)                                       Clichï¿½ anglais    313
-  Sycomore africain                                Clichï¿½ anglais    314
-  L'Ougogo                                         Clichï¿½ anglais    315
+    Khoutou)                                       Cliché anglais    313
+  Sycomore africain                                Cliché anglais    314
+  L'Ougogo                                         Cliché anglais    315
   Burton et ses compagnons en marche                    Lavieille    316
-  Chaï¿½ne cï¿½tiï¿½re de l'Afrique occidentale               Lavieille    317
+  Chaîne côtière de l'Afrique occidentale               Lavieille    317
   Passe dans l'Ousagara                                 Lavieille    320
-  Paysage dans l'Ounyamouï¿½zi                            Lavieille    321
+  Paysage dans l'Ounyamouézi                            Lavieille    321
   Noirs de l'Ousumboua                               G. Boulanger    324
-  Huttes ï¿½ Msï¿½nï¿½                                        Lavieille    325
-  Nï¿½gres porteurs                                    G. Boulanger    328
+  Huttes à Mséné                                        Lavieille    325
+  Nègres porteurs                                    G. Boulanger    328
   Noir de l'Ouganda                                  G. Boulanger    329
-  Habitation de Snay ben Amir ï¿½ Kazeh                   Lavieille    332
-  Jeunes dames ï¿½ Kazeh                               G. Boulanger    333
-  Coiffures des indigï¿½nes de l'Ounyanyembï¿½         Clichï¿½ anglais    334
-  Coiffures des indigï¿½nes de l'Oujiji              Clichï¿½ anglais    335
-  Maison des ï¿½trangers ï¿½ Kaouï¿½lï¿½                        Lavieille    336
+  Habitation de Snay ben Amir à Kazeh                   Lavieille    332
+  Jeunes dames à Kazeh                               G. Boulanger    333
+  Coiffures des indigènes de l'Ounyanyembé         Cliché anglais    334
+  Coiffures des indigènes de l'Oujiji              Cliché anglais    335
+  Maison des étrangers à Kaouélé                        Lavieille    336
   Navigation sur le lac Tanganyika                      Lavieille    337
   Le capitaine Burton sur le lac Tanganyika             Lavieille    339
   Habitation au bord du lac Tanganyika                  Lavieille    340
   Le bassin du Maroro                                   Lavieille    341
-  Instruments et ustensiles des Ouajiji            Clichï¿½ anglais    342
-  Riverains du Tanganyika (cï¿½tï¿½ ouest)             Clichï¿½ anglais    343
-  Riverains du Tanganyika (cï¿½tï¿½ sud)               Clichï¿½ anglais    343
+  Instruments et ustensiles des Ouajiji            Cliché anglais    342
+  Riverains du Tanganyika (côté ouest)             Cliché anglais    343
+  Riverains du Tanganyika (côté sud)               Cliché anglais    343
   Le bassin du Kisanga                                  Lavieille    344
-  Vï¿½gï¿½tation de l'Ougogi                                Lavieille    345
-  Passe de l'Ouzagara                              Clichï¿½ anglais    346
-  Rocher de l'ï¿½lï¿½phant prï¿½s du cap Gardafui        Clichï¿½ anglais    347
-  Dernier ï¿½tablissement ï¿½gyptien dans le Fazogl          Lancelot    348
-  Contrï¿½e des Shelouks sur le Saubat                     Lancelot    349
-  Bï¿½lï¿½nia (village bari sur le fleuve Blanc)             Lancelot    352
+  Végétation de l'Ougogi                                Lavieille    345
+  Passe de l'Ouzagara                              Cliché anglais    346
+  Rocher de l'Éléphant près du cap Gardafui        Cliché anglais    347
+  Dernier établissement égyptien dans le Fazogl          Lancelot    348
+  Contrée des Shelouks sur le Saubat                     Lancelot    349
+  Bélénia (village bari sur le fleuve Blanc)             Lancelot    352
   Habitants de la Havane                                    Potin    353
-  Coolies chinois ï¿½ Cuba                                   Pelcoq    356
-  Vue gï¿½nï¿½rale de la Havane (capitale de Cuba)           Lancelot    357
-  Avenue de palmiers devant une habitation de Cuba   E. de Bï¿½rard    360
-  Cathï¿½drale de la Havane                                  Navlet    361
+  Coolies chinois à Cuba                                   Pelcoq    356
+  Vue générale de la Havane (capitale de Cuba)           Lancelot    357
+  Avenue de palmiers devant une habitation de Cuba   E. de Bérard    360
+  Cathédrale de la Havane                                  Navlet    361
   La volante (voiture de la Havane)                   Victor Adam    363
   Vue de Matanzas                                        Lancelot    364
-  Paysage dans l'ï¿½le de Cuba: Loma (coteau)
+  Paysage dans l'île de Cuba: Loma (coteau)
     de Candela                                          Paul Huet    365
-  Paysage dans l'ï¿½le de Cuba (Loma de la Givora)        Paul Huet    368
+  Paysage dans l'île de Cuba (Loma de la Givora)        Paul Huet    368
   Grenoble et les Alpes dauphinoises                Karl Girardet    369
   Les Grands Goulets                                Karl Girardet    372
-  Pont-en-Royans                                             Dorï¿½    373
-  Sainte-Croix et les ruines du chï¿½teau de Quint    Karl Girardet    376
-  Die et la vallï¿½e de Roumeyer (vue prise des
-    hauteurs de Saint-Justin)                            Franï¿½ais    377
+  Pont-en-Royans                                             Doré    373
+  Sainte-Croix et les ruines du château de Quint    Karl Girardet    376
+  Die et la vallée de Roumeyer (vue prise des
+    hauteurs de Saint-Justin)                            Français    377
   Le Mont-Aiguille (vu de Clelles)                       Daubigny    380
   Pontaix                                           Karl Girardet    381
-  Roumeyer et le mont Glandaz                            Franï¿½ais    384
-  Entrï¿½e de la vallï¿½e de Roumeyer                   Karl Girardet    385
-  La vallï¿½e de Lï¿½oncel                              Karl Girardet    388
-  La vallï¿½e de la Vï¿½oure et de la plaine du Rhï¿½ne
+  Roumeyer et le mont Glandaz                            Français    384
+  Entrée de la vallée de Roumeyer                   Karl Girardet    385
+  La vallée de Léoncel                              Karl Girardet    388
+  La vallée de la Véoure et de la plaine du Rhône
     (vue prise des hauteurs de la Vacherie)         Karl Girardet    389
-  Beaufort                                               Franï¿½ais    392
-  La forï¿½t de Saou                                       Sabatier    394
-  Poï¿½t-Cellard                                      Karl Girardet    395
+  Beaufort                                               Français    392
+  La forêt de Saou                                       Sabatier    394
+  Poët-Cellard                                      Karl Girardet    395
   Bourdeaux                                         Karl Girardet    396
   Le Velan et Plan-de-Baix (vue des sources
-    du Ruï¿½doux)                                     Karl Girardet    397
-  Cascade de la Druï¿½se                              Karl Girardet    398
+    du Ruïdoux)                                     Karl Girardet    397
+  Cascade de la Druïse                              Karl Girardet    398
   La gorge de Trente-Pas                            Karl Girardet    400
   Le mont Viso                                           Sabatier    401
   Le pont du Diable                                      Sabatier    405
-  Le lac de l'ï¿½chauda                                    Sabatier    408
+  Le lac de l'Échauda                                    Sabatier    408
   Le Pelvoux                                             Sabatier    409
-  Le mont Aurouze                                        Franï¿½ais    412
+  Le mont Aurouze                                        Français    412
   Les montagnes du Devoluy                          Karl Girardet    413
   Ruines de la Chartreuse de Durbon                 Karl Girardet    416
 
@@ -1796,31 +1796,31 @@ CARTES ET PLANS.
   Carte de la Sicile, par M. A. Vuillemin.                             3
   Carte de la Perse, par M. A. Vuillemin.                             19
   Carte des grandes et petites Antilles, par M. A. Vuillemin.         51
-  Carte du haut Tï¿½lï¿½mark (Norvï¿½ge mï¿½ridionale), d'aprï¿½s
+  Carte du haut Télémark (Norvége méridionale), d'après
     M. Paul Riant.                                                    67
-  Carte de la presqu'ï¿½le de Bergen, d'aprï¿½s M. Paul Riant.            83
+  Carte de la presqu'île de Bergen, d'après M. Paul Riant.            83
   Carte de la Chalcidique, par M. A. Vuillemin.                      115
   Partie du gouvernement d'Yakoutsk, par Piadischeff.                167
   Carte de l'Australie, par M. A. Vuillemin.                         187
   Carte des voyages du docteur Henri Barth en Afrique (partie
-    orientale) d'aprï¿½s M. de Lanoye.                                 195
-  Voyage du docteur Barth (Itinï¿½raire de Sokoto ï¿½ Tembouctou),
+    orientale) d'après M. de Lanoye.                                 195
+  Voyage du docteur Barth (Itinéraire de Sokoto à Tembouctou),
     par M. A. Vuillemin.                                             234
-  Carte du cours infï¿½rieur de l'Irawady comprenant les possessions
-    britanniques et la partie sud du royaume d'Ava, d'aprï¿½s le
+  Carte du cours inférieur de l'Irawady comprenant les possessions
+    britanniques et la partie sud du royaume d'Ava, d'après le
     capitaine H. Yule.                                               260
-  Plan d'Amarapoura et de sa banlieue, d'aprï¿½s les relevï¿½s du
+  Plan d'Amarapoura et de sa banlieue, d'après les relevés du
     major Grant Allan.                                               280
-  Carte du cours supï¿½rieur de l'Irawady et partie nord du royaume
-    d'Ava, d'aprï¿½s le cap. Yule.                                     296
+  Carte du cours supérieur de l'Irawady et partie nord du royaume
+    d'Ava, d'après le cap. Yule.                                     296
   Carte du voyage de Burton et Speke aux grands lacs de l'Afrique
-    orientale (Itinï¿½raire de Zanzibar ï¿½ Kazeh).                      307
+    orientale (Itinéraire de Zanzibar à Kazeh).                      307
   Carte du voyage de Burton et Speke aux grands lacs de l'Afrique
     orientale (2e partie).                                           338
-  Carte de l'ï¿½le de Cuba, par M. A. Vuillemin.                       355
-  Carte du Dauphinï¿½ (partie occidentale: Isï¿½re et Drï¿½me),
+  Carte de l'île de Cuba, par M. A. Vuillemin.                       355
+  Carte du Dauphiné (partie occidentale: Isère et Drôme),
     par M. A. Vuillemin.                                             371
-  Carte du Dauphinï¿½ (partie orientale: Isï¿½re et Hautes-Alpes),
+  Carte du Dauphiné (partie orientale: Isère et Hautes-Alpes),
     par M. A. Vuillemin.                                             404
 
 
@@ -1830,66 +1830,66 @@ ERRATA.
 
 
 I. Sous le titre _Voyage d'un naturaliste_, pages 139 et 146, on
-a imprimï¿½: (1858.--INï¿½DIT).--Cette date et cette qualification ne
-peuvent s'appliquer qu'ï¿½ la traduction.
+a imprimé: (1858.--INÉDIT).--Cette date et cette qualification ne
+peuvent s'appliquer qu'à la traduction.
 
 La note qui commence la page 139 donne la date du voyage (1838)
-et avertit les lecteurs que le texte a ï¿½tï¿½ publiï¿½ en anglais.
+et avertit les lecteurs que le texte a été publié en anglais.
 
 
 II. Dans un certain nombre d'exemplaires, le voyage du capitaine
 Burton AUX GRANDS LACS DE L'AFRIQUE ORIENTALE, 1re partie,
-46e livraison, le mot ORIENTALE se trouve remplacï¿½ par celui
+46e livraison, le mot ORIENTALE se trouve remplacé par celui
 d'OCCIDENTALE.
 
 
 III. On a omis, sous les titres de _Juif_ et _Juive de
 Salonique_, dessins de Bida, pages 108 et 109, la mention
-suivante: d'aprï¿½s M. A. Proust.
+suivante: d'après M. A. Proust.
 
 
-IV. On a ï¿½galement omis de donner, ï¿½ la page 146, la description
-des oiseaux et du reptile de l'archipel des Galapagos reprï¿½sentï¿½s
-sur la page 145. Nous rï¿½parons cette omission:
+IV. On a également omis de donner, à la page 146, la description
+des oiseaux et du reptile de l'archipel des Galapagos représentés
+sur la page 145. Nous réparons cette omission:
 
-1ï¿½ _Tanagra Darwinii_, variï¿½tï¿½ du genre des
-_Tanagras_ trï¿½s-nombreux en Amï¿½rique. Ces oiseaux ne diffï¿½rent de
-nos moineaux, dont ils ont ï¿½ peu prï¿½s les habitudes, que par la
-brillante diversitï¿½ des couleurs et par les ï¿½chancrures de la
-mandibule supï¿½rieure de leur bec.
+1º _Tanagra Darwinii_, variété du genre des
+_Tanagras_ très-nombreux en Amérique. Ces oiseaux ne diffèrent de
+nos moineaux, dont ils ont à peu près les habitudes, que par la
+brillante diversité des couleurs et par les échancrures de la
+mandibule supérieure de leur bec.
 
-2ï¿½ _Cactornis assimilis:_ Darwin le nomme _Tisseim des
-Galapagos_, oï¿½ l'on peut le voir souvent grimper autour des
-fleurs du grand cactus. Il appartient particuliï¿½rement ï¿½ l'ï¿½le
-Saint-Charles. Des treize espï¿½ces du genre _pinson_, que le
-naturaliste trouva dans cet archipel, chacune semble affectï¿½e ï¿½
-une ï¿½le en particulier.
+2º _Cactornis assimilis:_ Darwin le nomme _Tisseim des
+Galapagos_, où l'on peut le voir souvent grimper autour des
+fleurs du grand cactus. Il appartient particulièrement à l'île
+Saint-Charles. Des treize espèces du genre _pinson_, que le
+naturaliste trouva dans cet archipel, chacune semble affectée à
+une île en particulier.
 
-3ï¿½ _Pyrocephalus nanus_, trï¿½s-joli petit oiseau du
+3º _Pyrocephalus nanus_, très-joli petit oiseau du
 sous-genre _muscicapa_, gobe-mouches, tyrans ou moucherolles. Le
-mï¿½le de cette variï¿½tï¿½ a une tï¿½te de feu. Il hante ï¿½ la fois les
-bois humides des plus hautes parties des ï¿½les _Galapagos_ et les
+mâle de cette variété a une tête de feu. Il hante à la fois les
+bois humides des plus hautes parties des îles _Galapagos_ et les
 districts arides et rocailleux.
 
-4ï¿½ _Sylvicola aureola._ Ce charmant oiseau, d'un jaune
-d'or, appartient aux ï¿½les Galapagos.
+4º _Sylvicola aureola._ Ce charmant oiseau, d'un jaune
+d'or, appartient aux îles Galapagos.
 
-5ï¿½ Le _Leiocephalus grayii_ est l'une des nombreuses
-nouveautï¿½s rapportï¿½es par les navigateurs du _Beagle_. Dans le
-pays on le nomme _holotropis_, et moins curieux peut-ï¿½tre que
+5º Le _Leiocephalus grayii_ est l'une des nombreuses
+nouveautés rapportées par les navigateurs du _Beagle_. Dans le
+pays on le nomme _holotropis_, et moins curieux peut-être que
 l'_amblyrhinchus_, il est cependant remarquable en ce que c'est
 un des plus beaux sauriens, sinon le plus beau saurien qui
 existe.
 
 Le saurien _amblyrhinchus cristatus_, que nous reproduisons ici,
-est dï¿½crit dans le texte, page 147.
+est décrit dans le texte, page 147.
 
-[Illustration: _Amblyrhinchus cristatus_, iguane des ï¿½les Galapagos.]
+[Illustration: _Amblyrhinchus cristatus_, iguane des îles Galapagos.]
 
        *       *       *       *       *
 
-IMPRIMERIE Gï¿½Nï¿½RALE DE CH. LAHURE
-Rue de Fleurus, 9, ï¿½ Paris.
+IMPRIMERIE GÉNÉRALE DE CH. LAHURE
+Rue de Fleurus, 9, à Paris.
 
        *       *       *       *       *
 

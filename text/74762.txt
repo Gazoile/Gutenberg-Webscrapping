@@ -1,4 +1,4 @@
-
+﻿
 ERRATA
 
 Page 46, ligne 16. -- Au lieu de: « ... sans valeur intrinsèque. »

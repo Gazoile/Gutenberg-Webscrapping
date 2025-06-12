@@ -16,12 +16,12 @@ Encoding: ISO-8859-1
 
 Source:
 
-Nicolas Boileau-Desprï¿½aux (1636-1711),
-"Oeuvres Complï¿½tes de Boileau-Desprï¿½aux,
-Nouvelle ï¿½dition, Accompagnï¿½e de notes pour l'intelligence du texte,
-et prï¿½cï¿½dï¿½e d'une notice historique sur la vie et les ï¿½crits de l'auteur,
+Nicolas Boileau-Despréaux (1636-1711),
+"Oeuvres Complètes de Boileau-Despréaux,
+Nouvelle édition, Accompagnée de notes pour l'intelligence du texte,
+et précédée d'une notice historique sur la vie et les écrits de l'auteur,
 Avec gravures"
-Paris, B. Renault et Cie, Libraires-ï¿½diteurs, 8, rue Larrey,
+Paris, B. Renault et Cie, Libraires-Éditeurs, 8, rue Larrey,
 1858.
 
 [Text encoding is iso-8859-1.]
@@ -35,267 +35,267 @@ Paris, B. Renault et Cie, Libraires-ï¿½diteurs, 8, rue Larrey,
                                   LE LUTRIN
 
 
-                             Poï¿½me hï¿½roï¿½-comique
+                             Poème héroï-comique
 
 
 CHANT PREMIER
 
 
-Je chante les combats, et ce prï¿½lat terrible
+Je chante les combats, et ce prélat terrible
 Qui par ses longs travaux et sa force invincible,
-Dans une illustre ï¿½glise exerï¿½ant son grand coeur,
-Fit placer ï¿½ la fin un lutrin dans le choeur.
+Dans une illustre église exerçant son grand coeur,
+Fit placer à la fin un lutrin dans le choeur.
 C'est en vain que le chantre, abusant d'un faux titre,
-Deux fois l'en fit ï¿½ter par les mains du chapitre :
-Ce prï¿½lat, sur le banc de son rival altier
+Deux fois l'en fit ôter par les mains du chapitre :
+Ce prélat, sur le banc de son rival altier
 Deux fois le reportant, l'en couvrit tout entier.
 
 Muse redis-mois donc quelle ardeur de vengeance
-De ces hommes sacrï¿½s rompit l'intelligence,
-Et troubla si longtemps deux cï¿½lï¿½bres rivaux.
-Tant de fiel entre-t-il dans l'ï¿½me des dï¿½vots !
+De ces hommes sacrés rompit l'intelligence,
+Et troubla si longtemps deux célèbres rivaux.
+Tant de fiel entre-t-il dans l'âme des dévots !
 
-Et toi, fameux hï¿½ros, dont la sage entremise
-De ce schisme naissant dï¿½barrassa l'Eglise,
+Et toi, fameux héros, dont la sage entremise
+De ce schisme naissant débarrassa l'Eglise,
 Viens d'un regard heureux animer mon projet,
 Et garde-toi de rire en ce grave sujet.
 
 Paris voyait fleurir son antique chapelle :
-Ses chanoines vermeils et brillants de santï¿½
-S'engraissaient d'une longue et sainte oisivetï¿½ ;
+Ses chanoines vermeils et brillants de santé
+S'engraissaient d'une longue et sainte oisiveté ;
 Sans sortir de leurs lits plus doux que des hermines,
-Ces pieux fainï¿½ants faisaient chanter matines,
-Veillaient ï¿½ bien dï¿½ner, et laissaient en leur lieu
-A des chantres gagï¿½s le soin de louer Dieu :
+Ces pieux fainéants faisaient chanter matines,
+Veillaient à bien dîner, et laissaient en leur lieu
+A des chantres gagés le soin de louer Dieu :
 Quand la Discorde, encore toute noire de crimes,
 Sortant des Cordeliers pour aller aux Minimes,
-Avec cet air hideux qui fait frï¿½mir la Paix,
-S'arrï¿½ter prï¿½s d'un arbre au pied de son palais,
-Lï¿½, d'un oeil attentif contemplant son empire,
-A l'aspect du tumulte elle-mï¿½me s'admire.
+Avec cet air hideux qui fait frémir la Paix,
+S'arrêter près d'un arbre au pied de son palais,
+Là, d'un oeil attentif contemplant son empire,
+A l'aspect du tumulte elle-même s'admire.
 Elle y voit par le coche et d'Evreux et du Mans
-Accourir ï¿½ grand flots ses fidï¿½les Normands :
+Accourir à grand flots ses fidèles Normands :
 Elle y voit aborder le marquis, la comtesse,
-Le bourgeois, le manant, le clergï¿½, la noblesse ;
-Et partout des plaideurs les escadrons ï¿½pars
-Faire autour de Thï¿½mis flotter ses ï¿½tendards.
-Mais une ï¿½glise seule ï¿½ ses yeux immobile
+Le bourgeois, le manant, le clergé, la noblesse ;
+Et partout des plaideurs les escadrons épars
+Faire autour de Thémis flotter ses étendards.
+Mais une église seule à ses yeux immobile
 Garde au sein du tumulte une assiette tranquille.
-Elle seule la brave ; elle seule aux procï¿½s
-De ses paisibles murs veut dï¿½fendre l'accï¿½s.
-La Discorde, ï¿½ l'aspect d'un calme qui l'offense,
-Fait siffler ses serpents, s'excite ï¿½ la vengeance
+Elle seule la brave ; elle seule aux procès
+De ses paisibles murs veut défendre l'accès.
+La Discorde, à l'aspect d'un calme qui l'offense,
+Fait siffler ses serpents, s'excite à la vengeance
 Sa bouche se remplit d'un poison odieux,
 Et de longs traits de feu lui sortent par les yeux.
 
 Quoi ! dit-elle d'un ton qui fit trembler les vitres,
 J'aurai pu jusqu'ici brouiller tous les chapitres,
-Diviser Cordeliers, Carmes et Cï¿½lestins ;
-J'aurai fait soutenir un siï¿½ge aux Augustins :
-Et cette ï¿½glise seule, ï¿½ mes ordres rebelle,
-Nourrira dans son sein une paix ï¿½ternelle !
+Diviser Cordeliers, Carmes et Célestins ;
+J'aurai fait soutenir un siège aux Augustins :
+Et cette église seule, à mes ordres rebelle,
+Nourrira dans son sein une paix éternelle !
 Suis-je donc la Discorde ? et, parmi les mortels,
-Qui voudra dï¿½sormais encenser mes autels ?
+Qui voudra désormais encenser mes autels ?
 
-A ces mots, d'un bonnet couvrant sa tï¿½te ï¿½norme,
+A ces mots, d'un bonnet couvrant sa tête énorme,
 Elle prend d'un vieux chantre et la taille et la forme :
 Elle peint de bourgeons son visage guerrier,
-Et s'en va de ce pas trouver le trï¿½sorier.
+Et s'en va de ce pas trouver le trésorier.
 
-Dans le rï¿½duit obscur d'une alcï¿½ve enfoncï¿½e
-S'ï¿½lï¿½ve un lit de plume ï¿½ grand frais amassï¿½e :
+Dans le réduit obscur d'une alcôve enfoncée
+S'élève un lit de plume à grand frais amassée :
 Quatre rideaux pompeux, par un double contour,
-En dï¿½fendent l'entrï¿½e ï¿½ la clartï¿½ du jour.
-Lï¿½, parmi les douceurs d'un tranquille silence,
-Rï¿½gne sur le duvet une heureuse indolence :
-C'est que le prï¿½lat, muni d'un dï¿½jeuner,
-Dormant d'un lï¿½ger somme, attendait le dï¿½ner.
+En défendent l'entrée à la clarté du jour.
+Là, parmi les douceurs d'un tranquille silence,
+Règne sur le duvet une heureuse indolence :
+C'est que le prélat, muni d'un déjeuner,
+Dormant d'un léger somme, attendait le dîner.
 La jeunesse en sa fleur brille sur son visage :
-Son menton sur son sein descend ï¿½ double ï¿½tage ;
-Et son corps ramassï¿½ dans sa courte grosseur
-Fait gï¿½mir les coussins sous sa molle ï¿½paisseur.
+Son menton sur son sein descend à double étage ;
+Et son corps ramassé dans sa courte grosseur
+Fait gémir les coussins sous sa molle épaisseur.
 
-La dï¿½esse en entrant, qui voit la nappe mise,
-Admire un si bel ordre, et reconnaï¿½t l'Eglise :
-Et, marchant ï¿½ grand pas vers le lieu du repos,
-Au prï¿½lat sommeillant elle adresse ces mots :
+La déesse en entrant, qui voit la nappe mise,
+Admire un si bel ordre, et reconnaît l'Eglise :
+Et, marchant à grand pas vers le lieu du repos,
+Au prélat sommeillant elle adresse ces mots :
 
-Tu dors, Prï¿½lat, tu dors, et lï¿½ haut ï¿½ ta place
-Le chantre aux yeux du choeur ï¿½tale son audace,
-Chante les orï¿½mus, fait des processions,
-Et rï¿½pand ï¿½ grands flots les bï¿½nï¿½dictions.
+Tu dors, Prélat, tu dors, et là haut à ta place
+Le chantre aux yeux du choeur étale son audace,
+Chante les orémus, fait des processions,
+Et répand à grands flots les bénédictions.
 Tu dors ! Attends-tu donc que, sans bulle et sans titre,
 Il te ravisse encore le rochet et la mitre ?
-Sort de ce lit oiseux qui te tient attachï¿½,
-Et renonce au repos, ou bien ï¿½ l'ï¿½vï¿½chï¿½.
+Sort de ce lit oiseux qui te tient attaché,
+Et renonce au repos, ou bien à l'évêché.
 
 Elle dit, et, du vent de sa bouche profane,
 Lui souffle avec ces mots l'ardeur de la chicane.
-Le prï¿½lat se rï¿½veille, et, plein d'ï¿½motion,
-Lui donne toutefois la bï¿½nï¿½diction.
+Le prélat se réveille, et, plein d'émotion,
+Lui donne toutefois la bénédiction.
 
-Tel qu'on voit un taureau qu'une guï¿½pe en furie
-A piquï¿½ dans les flancs aux dï¿½pens de sa vie ;
-Le superbe animal, agitï¿½ de tourments,
+Tel qu'on voit un taureau qu'une guêpe en furie
+A piqué dans les flancs aux dépens de sa vie ;
+Le superbe animal, agité de tourments,
 Exhale sa douleur en longs mugissements ;
-Tel le fougueux prï¿½lat, que ce songe ï¿½pouvante,
+Tel le fougueux prélat, que ce songe épouvante,
 Querelle en se levant et laquais et servante ;
 Et, d'un juste courroux rallumant sa vigueur,
-Mï¿½me avant le dï¿½ner, parle d'aller au choeur.
-Le prudent Gilotin, son aumï¿½nier fidï¿½le,
+Même avant le dîner, parle d'aller au choeur.
+Le prudent Gilotin, son aumônier fidèle,
 En vain par ses conseils sagement le rappelle ;
-Lui montre le pï¿½ril ; que midi va sonner ;
-Qu'il va faire, s'il sort, refroidir le dï¿½ner.
+Lui montre le péril ; que midi va sonner ;
+Qu'il va faire, s'il sort, refroidir le dîner.
 
 Quelle fureur, dit-il, quel aveugle caprice,
-Quand le dï¿½ner est prï¿½t, vous appelle ï¿½ l'office ?
-De votre dignitï¿½ soutenez mieux l'ï¿½clat :
-Est-ce pour travailler que vous ï¿½tes prï¿½lat ?
-A quoi bon ce dï¿½goï¿½t et ce zï¿½le inutile ?
-Est-il donc pour jeï¿½ner quatre-temps ou vigile ?
+Quand le dîner est prêt, vous appelle à l'office ?
+De votre dignité soutenez mieux l'éclat :
+Est-ce pour travailler que vous êtes prélat ?
+A quoi bon ce dégoût et ce zèle inutile ?
+Est-il donc pour jeûner quatre-temps ou vigile ?
 reprenez vos esprits et souvenez-vous bien
-Qu'un dï¿½ner rï¿½chauffï¿½ ne valut jamais rien.
+Qu'un dîner réchauffé ne valut jamais rien.
 
 Ainsi dit Gilotin ; et ce ministre sage
-Sur table, au mï¿½me instant, fit servir le potage.
-Le prï¿½lat voit la soupe, et plein d'un saint respect,
-Demeure quelque temps muet ï¿½ cet aspect.
-Il cï¿½de, dï¿½ne enfin : mais, toujours plus farouche,
-Les morceaux trop hï¿½tï¿½s se pressent dans sa bouche.
-Gilotin en frï¿½mit, et, sortant de fureur,
+Sur table, au même instant, fit servir le potage.
+Le prélat voit la soupe, et plein d'un saint respect,
+Demeure quelque temps muet à cet aspect.
+Il cède, dîne enfin : mais, toujours plus farouche,
+Les morceaux trop hâtés se pressent dans sa bouche.
+Gilotin en frémit, et, sortant de fureur,
 Chez tous ses partisans va semer la terreur.
-On voit courir chez lui leurs troupes ï¿½perdues,
+On voit courir chez lui leurs troupes éperdues,
 Comme l'on voit marcher les bataillons de grues
-Quand le Pygmï¿½e altier, redoublant ses efforts,
-De l'Hï¿½bre ou du Styrmon vient d'occuper les bords.
-A l'aspect imprï¿½vu de leur foule agrï¿½able,
-Le prï¿½lat radouci veut se lever de table :
-La couleur lui renaï¿½t, sa voix change de ton ;
+Quand le Pygmée altier, redoublant ses efforts,
+De l'Hèbre ou du Styrmon vient d'occuper les bords.
+A l'aspect imprévu de leur foule agréable,
+Le prélat radouci veut se lever de table :
+La couleur lui renaît, sa voix change de ton ;
 Il fait par Gilotin rapporter un jambon.
-Lui-mï¿½me le premier pour honorer la troupe,
+Lui-même le premier pour honorer la troupe,
 D'un vin pur et vermeil il fait remplir sa coupe ;
 Il l'avale d'un trait : et chacun l'imitant,
 La cruche au large ventre est vide en un instant.
-Sitï¿½t que du nectar la troupe est abreuvï¿½e,
-On dessert : et soudain, la nappe ï¿½tant levï¿½e,
-Le prï¿½lat, d'une voix conforme ï¿½ son malheur,
+Sitôt que du nectar la troupe est abreuvée,
+On dessert : et soudain, la nappe étant levée,
+Le prélat, d'une voix conforme à son malheur,
 Leur confie en ces mots sa trop juste douleur :
 
 Illustres compagnons de mes longues fatigues,
 Qui m'avez soutenu par vos pieuses ligues,
-Et par qui, maï¿½tre enfin d'un chapitre insensï¿½,
-Seul ï¿½ Magnificat je me vois encensï¿½ ;
+Et par qui, maître enfin d'un chapitre insensé,
+Seul à Magnificat je me vois encensé ;
 Souffrirez-vous toujours qu'un orgueilleux m'outrage ;
-Que le chantre ï¿½ vos yeux dï¿½truise votre ouvrage,
-Usurpe tous mes droits, et s'ï¿½galant ï¿½ moi,
-Donne ï¿½ votre lutrin et le ton et la loi ?
-Ce matin mï¿½me encore, ce n'est point un mensonge,
-Une divinitï¿½ me l'a fait voir en songe :
+Que le chantre à vos yeux détruise votre ouvrage,
+Usurpe tous mes droits, et s'égalant à moi,
+Donne à votre lutrin et le ton et la loi ?
+Ce matin même encore, ce n'est point un mensonge,
+Une divinité me l'a fait voir en songe :
 L'insolent s'emparant du fruit de mes travaux,
-A prononcï¿½ pour moi le Benedicat vos !
-Oui, pour mieux m'ï¿½gorger, il prend mes propres armes.
+A prononcé pour moi le Benedicat vos !
+Oui, pour mieux m'égorger, il prend mes propres armes.
 
-Le prï¿½lat ï¿½ ces mots verse un torrent de larmes.
+Le prélat à ces mots verse un torrent de larmes.
 Il veut, mais vainement, poursuivre son discours ;
-Ses sanglots redoublï¿½s en arrï¿½tent le cours.
-Le zï¿½lï¿½ Gilotin, qui prend part ï¿½ sa gloire,
-Pour lui rendre la voix, fait rapporter ï¿½ boire :
-Quand Sidrae, ï¿½ qui l'ï¿½ge allonge le chemin,
-Arrive dans la chambre, un bï¿½ton ï¿½ la main,
-Ce vieillard dans le choeur a dï¿½jï¿½ vu quatre ï¿½ges ;
-Il sait de tous les temps les diffï¿½rents usages :
+Ses sanglots redoublés en arrêtent le cours.
+Le zélé Gilotin, qui prend part à sa gloire,
+Pour lui rendre la voix, fait rapporter à boire :
+Quand Sidrae, à qui l'âge allonge le chemin,
+Arrive dans la chambre, un bâton à la main,
+Ce vieillard dans le choeur a déjà vu quatre âges ;
+Il sait de tous les temps les différents usages :
 Et son rare savoir, de simple marguillier,
-L'ï¿½leva par degrï¿½s au rang de chevecier.
-A l'aspect du prï¿½lat qui tombe en dï¿½faillance,
+L'éleva par degrés au rang de chevecier.
+A l'aspect du prélat qui tombe en défaillance,
 Il devine son mal, il se ride, il s'avance ;
-Et d'un ton paternel rï¿½primant ses douleurs :
+Et d'un ton paternel réprimant ses douleurs :
 
 Laisse au chantre, dit-il, la tristesse et les pleurs,
-Prï¿½lat ; et pour sauver tes droits et ton empire,
+Prélat ; et pour sauver tes droits et ton empire,
 Ecoute seulement ce que le ciel m'inspire.
-Vers cet endroit du choeur oï¿½ le chantre orgueilleux
-Montre, assis ï¿½ ta gauche, un front si sourcilleux,
-Sur ce rang d'ais serrï¿½s qui forment sa clï¿½ture
-Fut jadis un lutrin d'inï¿½gale structure,
-Dont les flancs ï¿½largis de leur vaste contour
+Vers cet endroit du choeur où le chantre orgueilleux
+Montre, assis à ta gauche, un front si sourcilleux,
+Sur ce rang d'ais serrés qui forment sa clôture
+Fut jadis un lutrin d'inégale structure,
+Dont les flancs élargis de leur vaste contour
 Ombrageaient pleinement tous les lieux d'alentour.
-Derriï¿½re ce lutrin, ainsi qu'au fond d'un antre,
+Derrière ce lutrin, ainsi qu'au fond d'un antre,
 A peine sur son banc on discernait le chantre :
-Tandis qu'ï¿½ l'autre banc le prï¿½lat radieux,
-Dï¿½couvert au grand jour, attirait tous les yeux.
-Mais un dï¿½mon, fatal ï¿½ cette ample machine,
-Soit qu'une main la nuit eï¿½t hï¿½tï¿½ sa ruine,
-Soit qu'ainsi de tout temps l'ordonnï¿½t le destin,
-Fit tomber ï¿½ nos yeux le pupitre un matin.
-J'eus beau prendre le ciel et le chantre ï¿½ partie,
+Tandis qu'à l'autre banc le prélat radieux,
+Découvert au grand jour, attirait tous les yeux.
+Mais un démon, fatal à cette ample machine,
+Soit qu'une main la nuit eût hâté sa ruine,
+Soit qu'ainsi de tout temps l'ordonnât le destin,
+Fit tomber à nos yeux le pupitre un matin.
+J'eus beau prendre le ciel et le chantre à partie,
 Il fallut l'emporter dans notre sacristie,
-Oï¿½ depuis trente hivers, sans gloire enseveli,
+Où depuis trente hivers, sans gloire enseveli,
 Il languit tout poudreux dans un honteux oubli.
-Entends-moi donc, Prï¿½lat. Dï¿½s que l'ombre tranquille
-Viendra d'un crï¿½pe noir envelopper la ville,
+Entends-moi donc, Prélat. Dès que l'ombre tranquille
+Viendra d'un crêpe noir envelopper la ville,
 Il faut que trois de nous, sans tumulte et sans bruit,
-Partent, ï¿½ l a faveur de la naissante nuit,
-Et du lutrin rompu rï¿½unissant la masse,
-Aillent d'un zï¿½le adroit le remettre en sa place.
+Partent, à l a faveur de la naissante nuit,
+Et du lutrin rompu réunissant la masse,
+Aillent d'un zèle adroit le remettre en sa place.
 Si le chantre demain ose le renverser,
-Alors de cent arrï¿½ts tu peux le terrasser.
+Alors de cent arrêts tu peux le terrasser.
 Pour soutenir tes droits, que le ciel autorise,
-Abyme tout plutï¿½t : c'est l'esprit de l'Eglise ;
-C'est par lï¿½ qu'un prï¿½lat signale sa vigueur.
-Ne borne pas ta gloire ï¿½ prier dans un choeur :
-Ces vertus dans Aleth peuvent ï¿½tre en usage ;
-Mais dans Paris, plaidons ; c'est lï¿½ notre partage.
-Tes bï¿½nï¿½dictions, dans le trouble croissant,
-Tu pourras les rï¿½pandre et par vingt et par cent ;
-Et, pour braver le chantre en son orgueil extrï¿½me,
-Les rï¿½pandre ï¿½ ses yeux, et le bï¿½nir lui-mï¿½me.
+Abyme tout plutôt : c'est l'esprit de l'Eglise ;
+C'est par là qu'un prélat signale sa vigueur.
+Ne borne pas ta gloire à prier dans un choeur :
+Ces vertus dans Aleth peuvent être en usage ;
+Mais dans Paris, plaidons ; c'est là notre partage.
+Tes bénédictions, dans le trouble croissant,
+Tu pourras les répandre et par vingt et par cent ;
+Et, pour braver le chantre en son orgueil extrême,
+Les répandre à ses yeux, et le bénir lui-même.
 
-Ce discours aussitï¿½t frappe tous les esprits ;
-Et le prï¿½lat charmï¿½ l'approuve par des cris.
+Ce discours aussitôt frappe tous les esprits ;
+Et le prélat charmé l'approuve par des cris.
 Il veut que, sur-le-champ, dans la troupe on choisisse
-Les trois que Dieu destine ï¿½ ce pieux office :
-Mais chacun prï¿½tend part ï¿½ cet illustre emploi.
-Le sort, dit le prï¿½lat, vous servira de loi.
-Que l'on tire au billet ceux que l'on doit ï¿½lire.
-Il dit, on obï¿½it, on se presse d'ï¿½crire.
-Aussitï¿½t trente noms, sur le papier tracï¿½s,
-Sont au fond d'un bonnet par billets entassï¿½s.
+Les trois que Dieu destine à ce pieux office :
+Mais chacun prétend part à cet illustre emploi.
+Le sort, dit le prélat, vous servira de loi.
+Que l'on tire au billet ceux que l'on doit élire.
+Il dit, on obéit, on se presse d'écrire.
+Aussitôt trente noms, sur le papier tracés,
+Sont au fond d'un bonnet par billets entassés.
 Pour tirer ces billets avec moins d'artifice,
-Guillaume, enfant de choeur, prï¿½te sa main novice :
+Guillaume, enfant de choeur, prête sa main novice :
 Son front nouveau tondu, symbole de candeur,
-Rougit, en approchant, d'une honnï¿½te pudeur.
-Cependant le prï¿½lat, l'oeil au ciel, la main nue,
-Bï¿½nit trois fois les noms, et trois fois les remue.
+Rougit, en approchant, d'une honnête pudeur.
+Cependant le prélat, l'oeil au ciel, la main nue,
+Bénit trois fois les noms, et trois fois les remue.
 Il tourne le bonnet : l'enfant tire et Brontin
 Est le premier des noms qu'apporte le destin.
-Le prï¿½lat en conï¿½oit un favorable augure
+Le prélat en conçoit un favorable augure
 Et ce nom dans la troupe excite un doux murmure.
-On se tait ; et bientï¿½t on voit paraï¿½tre au jour
+On se tait ; et bientôt on voit paraître au jour
 Le nom, le fameux nom du perruquier l'Amour.
-Ce nouvel Adonis, ï¿½ la blonde criniï¿½re,
-Est l'unique souci d'Anne sa perruquiï¿½re :
+Ce nouvel Adonis, à la blonde crinière,
+Est l'unique souci d'Anne sa perruquière :
 Ils s'adorent l'un l'autre ; et ce couple charmant
 S'unit longtemps, dit-on, avant le sacrement ;
-Mais, depuis trois moissons, ï¿½ leur saint assemblage
+Mais, depuis trois moissons, à leur saint assemblage
 L'official a joint le nom de mariage.
 Ce perruquier superbe est l'effroi du quartier,
 Et son courage est peint sur son visage altier.
-Un des noms reste encore et le prï¿½lat par grï¿½ce
-Une derniï¿½re fois les brouille et les ressasse.
+Un des noms reste encore et le prélat par grâce
+Une dernière fois les brouille et les ressasse.
 Chacun croit que son nom est le dernier des trois.
-Mais que ne dis-tu point, ï¿½ puissant porte-croix,
-Boirude, sacristain, cher appui de ton maï¿½tre,
-Lorsqu'aux yeux du prï¿½lat tu vis ton nom paraï¿½tre !
+Mais que ne dis-tu point, ô puissant porte-croix,
+Boirude, sacristain, cher appui de ton maître,
+Lorsqu'aux yeux du prélat tu vis ton nom paraître !
 On dit que ton front jaune, et ton teint sans couleur,
-perdit en ce moment son antique pï¿½leur ;
-Et que ton corps goutteux, plein d'une ardeur guerriï¿½re,
-Pour sauter au plancher fit deux pas en arriï¿½re.
-Chacun bï¿½nit tout haut l'arbitre des humains,
+perdit en ce moment son antique pâleur ;
+Et que ton corps goutteux, plein d'une ardeur guerrière,
+Pour sauter au plancher fit deux pas en arrière.
+Chacun bénit tout haut l'arbitre des humains,
 Qui remet leur bon droit en de si bonnes mains.
-Aussitï¿½t on se lï¿½ve ; et l'assemblï¿½e en foule,
-Avec un bruit confus, par les portes s'ï¿½coule.
+Aussitôt on se lève ; et l'assemblée en foule,
+Avec un bruit confus, par les portes s'écoule.
 
-Le prï¿½lat restï¿½ seul calme un peu son dï¿½pit,
+Le prélat resté seul calme un peu son dépit,
 Et jusques au souper se couche et s'assoupit.
 
 
@@ -307,178 +307,178 @@ Et jusques au souper se couche et s'assoupit.
 
 CHANT SECOND
 
-Cependant cet oiseau qui prï¿½ne les merveilles,
-Ce monstre composï¿½ de bouches et d'oreilles,
+Cependant cet oiseau qui prône les merveilles,
+Ce monstre composé de bouches et d'oreilles,
 Qui, sans cesse volant de climats en climats,
 Dit partout ce qu'il sait et ce qu'il ne sait pas ;
-La Renommï¿½e enfin, cette prompte courriï¿½re,
-Va d'un mortel effroi glacer la perruquiï¿½re ;
-Lui dit que son ï¿½poux, d'un faux zï¿½le conduit,
+La Renommée enfin, cette prompte courrière,
+Va d'un mortel effroi glacer la perruquière ;
+Lui dit que son époux, d'un faux zèle conduit,
 Pour placer un lutrin doit veiller cette nuit.
 
-A ce triste rï¿½cit, tremblante, dï¿½solï¿½e,
-Elle accourt, l'oeil en feu, la tï¿½te ï¿½chevelï¿½e,
-Et trop sï¿½re d'un mal qu'on pense lui celer :
+A ce triste récit, tremblante, désolée,
+Elle accourt, l'oeil en feu, la tête échevelée,
+Et trop sûre d'un mal qu'on pense lui celer :
 
-Oses-tu bien encor, traï¿½tre, dissimuler ?
-Dit-elle : et ni la foi que ta main m'a donnï¿½e,
-Ni nos embrassements qu'a suivis l'hymï¿½nï¿½e,
-Ni ton ï¿½pouse enfin toute prï¿½te ï¿½ pï¿½rir,
-Ne sauraient donc t'ï¿½ter cette ardeur de courir ?
-Perfide ! si du moins, ï¿½ ton devoir fidï¿½le,
-Tu veillais pour orner quelque tï¿½te nouvelle !
+Oses-tu bien encor, traître, dissimuler ?
+Dit-elle : et ni la foi que ta main m'a donnée,
+Ni nos embrassements qu'a suivis l'hyménée,
+Ni ton épouse enfin toute prête à périr,
+Ne sauraient donc t'ôter cette ardeur de courir ?
+Perfide ! si du moins, à ton devoir fidèle,
+Tu veillais pour orner quelque tête nouvelle !
 L'espoir d'un juste gain consolant ma langueur
 Pourrait de ton absence adoucir la longueur.
-Mais quel zï¿½le indiscret, quelle aveugle entreprise
-Arme aujourd'hui ton bras en faveur d'une ï¿½glise ?
-Oï¿½ vas-tu cher ï¿½poux, est-ce que tu me fuis ?
-As-tu oubliï¿½ tant de si douces nuits ?
-Quoi ! d'un oeil sans pitiï¿½ vois-tu couler mes larmes ?
+Mais quel zèle indiscret, quelle aveugle entreprise
+Arme aujourd'hui ton bras en faveur d'une église ?
+Où vas-tu cher époux, est-ce que tu me fuis ?
+As-tu oublié tant de si douces nuits ?
+Quoi ! d'un oeil sans pitié vois-tu couler mes larmes ?
 Au nom de nos baisers jadis si plein de charmes,
-Si mon coeur, de tout temps facile ï¿½ tes dï¿½sirs,
-N'a jamais d'un moment diffï¿½rï¿½ tes plaisirs ;
+Si mon coeur, de tout temps facile à tes désirs,
+N'a jamais d'un moment différé tes plaisirs ;
 Si pour te prodiguer mes plus tendres caresses,
-Je n'ai point exigï¿½ ni serments, ni promesses ;
-Si toi seul ï¿½ mon lit enfin eus toujours part ;
-Diffï¿½re au moins d'un jour ce funeste dï¿½part .
+Je n'ai point exigé ni serments, ni promesses ;
+Si toi seul à mon lit enfin eus toujours part ;
+Diffère au moins d'un jour ce funeste départ .
 
-En achevant ces mots cette amante enflammï¿½e
-Sur un placet voisin tombe demi-pï¿½mï¿½e.
-Son ï¿½poux s'en ï¿½meut, et son coeur ï¿½perdu
+En achevant ces mots cette amante enflammée
+Sur un placet voisin tombe demi-pâmée.
+Son époux s'en émeut, et son coeur éperdu
 Entre deux passions demeure suspendu ;
-Mais enfin rappelant son audace premiï¿½re :
+Mais enfin rappelant son audace première :
 
-Ma femme, lui dit-il d'une voix douce et fiï¿½re,
+Ma femme, lui dit-il d'une voix douce et fière,
 Je ne veux point nier les solides bienfaits
-Dont ton amour prodigue a comblï¿½ mes souhaits,
+Dont ton amour prodigue a comblé mes souhaits,
 Et le Rhin de ses flots ira grossir la Loire
-Avant que tes faveurs sortent de ma mï¿½moire ;
-Mais ne prï¿½sume pas qu'en te donnant ma foi
+Avant que tes faveurs sortent de ma mémoire ;
+Mais ne présume pas qu'en te donnant ma foi
 L'hymen m'ait pour jamais asservi sous ta loi.
-Si le ciel en mes mains eï¿½t mis ma destinï¿½e,
-Nous aurions fui tous deux le joug de l'hymï¿½nï¿½e ;
-Et, sans nous opposer ces devoirs prï¿½tendus,
-Nous goï¿½terions encor des plaisirs dï¿½fendus.
-Cesse donc ï¿½ mes yeux d'ï¿½taler un vain titre :
-Ne m'ï¿½te pas l'honneur d'ï¿½lever un pupitre,
-Et toi-mï¿½me, donnant un frein ï¿½ tes dï¿½sirs,
-Raffermis la vertu qu'ï¿½branlent tes soupirs.
+Si le ciel en mes mains eût mis ma destinée,
+Nous aurions fui tous deux le joug de l'hyménée ;
+Et, sans nous opposer ces devoirs prétendus,
+Nous goûterions encor des plaisirs défendus.
+Cesse donc à mes yeux d'étaler un vain titre :
+Ne m'ôte pas l'honneur d'élever un pupitre,
+Et toi-même, donnant un frein à tes désirs,
+Raffermis la vertu qu'ébranlent tes soupirs.
 Que te dirai-je enfin ? C'est le ciel qui m'appelle,
-Une ï¿½glise, un prï¿½lat m'engage en sa querelle,
+Une église, un prélat m'engage en sa querelle,
 Il faut partir : j'y cours. Dissipe tes douleurs ,
 Et ne me trouble plus par ces indignes pleurs.
 
-Il la quitte ï¿½ ces mots. Son amante effarï¿½e
-Demeure le teint pï¿½le, et la vue ï¿½garï¿½e :
+Il la quitte à ces mots. Son amante effarée
+Demeure le teint pâle, et la vue égarée :
 La force l'abandonne ; et sa bouche, trois fois
 Voulant le rappeler, ne trouve plus de voix.
 Elle fuit, et de pleurs inondant son visage,
-Seule pour s'enfermer vole au cinquiï¿½me ï¿½tage.
-Mais d'un bouge prochain accourant ï¿½ ce bruit,
+Seule pour s'enfermer vole au cinquième étage.
+Mais d'un bouge prochain accourant à ce bruit,
 Sa servante Alizon la rattrape et la suit.
 
-Les ombres cependant, sur la ville ï¿½pandues,
-Du faï¿½te des maisons descendent dans les rues .
+Les ombres cependant, sur la ville épandues,
+Du faîte des maisons descendent dans les rues .
 Le souper hors du coeur chasse les chapelains,
 Et de chantres buvant les cabarets sont pleins.
-Le redoutï¿½ Brontin, que son devoir ï¿½veille,
-Sort ï¿½ l'instant, chargï¿½ d'une triple bouteille,
-D'un vin dont Gilotin, qui savait tout prï¿½voir,
+Le redouté Brontin, que son devoir éveille,
+Sort à l'instant, chargé d'une triple bouteille,
+D'un vin dont Gilotin, qui savait tout prévoir,
 Au sortir du conseil eut soin de le pourvoir.
 L'odeur d'un jus si doux lui rend la faim moins rude.
-Il est bientï¿½t suivi du sacristain Boirude ;
+Il est bientôt suivi du sacristain Boirude ;
 Et tous deux, de ce pas, s'en vont avec chaleur
-Du trop lent perruquier rï¿½veiller la valeur.
-Partons, lui dit Brontin : dï¿½jï¿½ le jour plus sombre,
-Dans les eaux s'ï¿½teignant, va faire place ï¿½ l'ombre.
-D'oï¿½ vient ce noir chagrin que je lis dans tes yeux ?
+Du trop lent perruquier réveiller la valeur.
+Partons, lui dit Brontin : déjà le jour plus sombre,
+Dans les eaux s'éteignant, va faire place à l'ombre.
+D'où vient ce noir chagrin que je lis dans tes yeux ?
 Quoi ? le pardon sonnant te retrouve en ces lieux !
-Oï¿½ donc est ce grand coeur dont tantï¿½t l'allï¿½gresse
+Où donc est ce grand coeur dont tantôt l'allégresse
 Semblait du jour trop long accuser la paresse ?
-Marche, et suis nous du moins oï¿½ l'honneur nous attend.
+Marche, et suis nous du moins où l'honneur nous attend.
 
-Le perruquier honteux rougit en l'ï¿½coutant.
-Aussitï¿½t de longs clous il prend une poignï¿½e :
-Sur son ï¿½paule il charge une lourde cognï¿½e ;
-Et derriï¿½re son dos, qui tremble sous le poids,
+Le perruquier honteux rougit en l'écoutant.
+Aussitôt de longs clous il prend une poignée :
+Sur son épaule il charge une lourde cognée ;
+Et derrière son dos, qui tremble sous le poids,
 Il attache une scie en forme de carquois :
-Il sort au mï¿½me instant, il se met ï¿½ leur tï¿½te.
-A suivre ce grand chef l'un et l'autre s'apprï¿½te :
-Leur coeur semble allumï¿½ d'un zï¿½le tout nouveau ;
+Il sort au même instant, il se met à leur tête.
+A suivre ce grand chef l'un et l'autre s'apprête :
+Leur coeur semble allumé d'un zèle tout nouveau ;
 Brontin tient un maillet ; et Boirude un marteau.
-La lune, qui du ciel voit leur dï¿½marche altiï¿½re,
-Retire en leur faveur sa paisible lumiï¿½re.
+La lune, qui du ciel voit leur démarche altière,
+Retire en leur faveur sa paisible lumière.
 La Discorde en sourit, et, les suivant des yeux,
 De joie, en les voyant, pousse un cri dans les cieux.
-L'air, qui gï¿½mit du cri de l'horrible dï¿½esse,
-Va jusque dans Citeaux rï¿½veiller la Mollesse.
-C'est lï¿½ qu'en un dortoir elle fait son sï¿½jour :
-Les Plaisirs nonchalants folï¿½trent ï¿½ l'entour ;
-L'un pï¿½trit dans un coin l'embonpoint des chanoines ;
+L'air, qui gémit du cri de l'horrible déesse,
+Va jusque dans Citeaux réveiller la Mollesse.
+C'est là qu'en un dortoir elle fait son séjour :
+Les Plaisirs nonchalants folâtrent à l'entour ;
+L'un pétrit dans un coin l'embonpoint des chanoines ;
 L'autre broie en riant le vermillon des moines :
-La Voluptï¿½ la sert avec des yeux dï¿½vots,
+La Volupté la sert avec des yeux dévots,
 Et toujours le Sommeil lui verse des pavots.
 Ce soir, plus que jamais, en vain il les redouble.
-La Mollesse ï¿½ ce bruit se rï¿½veille, se trouble :
-Quand la Nuit, qui dï¿½jï¿½ va tout envelopper,
-D'un funeste rï¿½cit vient encor la frapper ;
-Lui conte du prï¿½lat l'entreprise nouvelle :
-Aux pieds des murs sacrï¿½s d'une sainte chapelle,
+La Mollesse à ce bruit se réveille, se trouble :
+Quand la Nuit, qui déjà va tout envelopper,
+D'un funeste récit vient encor la frapper ;
+Lui conte du prélat l'entreprise nouvelle :
+Aux pieds des murs sacrés d'une sainte chapelle,
 Elle a vu trois guerriers, ennemis de la paix,
-Marcher ï¿½ la faveur de ses voiles ï¿½pais.
-La Discorde en ces lieux menace de s'accroï¿½tre :
-Demain avec l'aurore un lutrin va paraï¿½tre,
+Marcher à la faveur de ses voiles épais.
+La Discorde en ces lieux menace de s'accroître :
+Demain avec l'aurore un lutrin va paraître,
 Qui doit y soulever un peuple de mutins :
-Ainsi le ciel l'ï¿½crit au livre des destins.
+Ainsi le ciel l'écrit au livre des destins.
 
-A ce triste discours, qu'un long soupir achï¿½ve,
-La Mollesse, en pleurant, sur un bras se relï¿½ve,
+A ce triste discours, qu'un long soupir achève,
+La Mollesse, en pleurant, sur un bras se relève,
 Ouvre un oeil languissant, et, d'un faible voix,
 Laisse tomber ces mots qu'elle interrompt vingt fois :
-O Nuit ! que m'as-tu dit ? quel dï¿½mon sur la terre
+O Nuit ! que m'as-tu dit ? quel démon sur la terre
 Souffle dans tous les coeurs la fatigue et la guerre ?
-Hï¿½las ! qu'est devenu ce temps, cet heureux temps,
-Oï¿½ les rois s'honoraient du nom de fainï¿½ants,
-S'endormaient sur le trï¿½ne, et me servant sans honte
+Hélas ! qu'est devenu ce temps, cet heureux temps,
+Où les rois s'honoraient du nom de fainéants,
+S'endormaient sur le trône, et me servant sans honte
 Laissaient leur sceptre aux mains d'un maire ou d'un comte !
 Aucun soin n'approchait de leur paisible cour :
 On reposait la nuit, on dormait tout le jour.
 Seulement au printemps, quand Flore dans les plaines
 Faisait taire des vents les bruyantes haleines,
-Quatre boeufs attelï¿½s, d'un pas tranquille et lent,
+Quatre boeufs attelés, d'un pas tranquille et lent,
 Promenaient dans Paris le monarque indolent.
-Ce doux siï¿½cle n'est plus. Le ciel impitoyable
-A placï¿½ sur le trï¿½ne un prince infatigable.
-Il brave mes douceurs, il est sourd ï¿½ ma voix :
-Tous les jours il m'ï¿½veille du bruit de ses exploits.
-Rien ne peut arrï¿½ter sa vigilante audace :
-L'ï¿½tï¿½ n'a point de feux, l'hiver n'a point de glace.
-J'entends ï¿½ son seul nom tous mes sujets frï¿½mir
+Ce doux siècle n'est plus. Le ciel impitoyable
+A placé sur le trône un prince infatigable.
+Il brave mes douceurs, il est sourd à ma voix :
+Tous les jours il m'éveille du bruit de ses exploits.
+Rien ne peut arrêter sa vigilante audace :
+L'été n'a point de feux, l'hiver n'a point de glace.
+J'entends à son seul nom tous mes sujets frémir
 En vain deux fois la paix a voulu l'endormir ;
-Loin de moi son courage, entraï¿½nï¿½ par la gloire,
-Ne se plaï¿½t qu'ï¿½ courir de victoire en victoire.
+Loin de moi son courage, entraîné par la gloire,
+Ne se plaît qu'à courir de victoire en victoire.
 Je me fatiguerais de te tracer le cours
 Des outrages cruels qu'il me fait tous les jours.
-Je croyais, loin des lieux oï¿½ ce prince m'exile,
+Je croyais, loin des lieux où ce prince m'exile,
 Que l'Eglise du moins m'assurait un asile.
-Mais qu'en vain j'espï¿½rais y rï¿½gner sans effroi :
-Moines, abbï¿½s prieurs, tout s'arme contre moi.
+Mais qu'en vain j'espérais y régner sans effroi :
+Moines, abbés prieurs, tout s'arme contre moi.
 Par mon exil honteux la Trappe est ennoblie ;
-J'ai vu dans Saint Denys la rï¿½forme ï¿½tablie ;
+J'ai vu dans Saint Denys la réforme établie ;
 La Carme, le Feuillant, s'endurcit aux travaux ;
-Et la rï¿½gle dï¿½jï¿½ se remet dans Clairvaux.
+Et la règle déjà se remet dans Clairvaux.
 Citeaux dormait encor, et la sainte Chapelle
-Conservait du vieux temps l'oisivetï¿½ fidï¿½le :
-Et voici qu'un lutrin, prï¿½t ï¿½ tout renverser,
-D'un sï¿½jour si chï¿½ri vient encor me chasser !
+Conservait du vieux temps l'oisiveté fidèle :
+Et voici qu'un lutrin, prêt à tout renverser,
+D'un séjour si chéri vient encor me chasser !
 O toi, de mon repos, compagne aimable et sombre,
-A de si noirs forfaits prï¿½teras-tu ton ombre ?
+A de si noirs forfaits prêteras-tu ton ombre ?
 Ah ! Nuit, si tant de fois, dans les bras de l'amour,
 Je t'admis aux plaisirs que je cachais au jour,
-Du moins ne permets pas... La Mollesse oppressï¿½e
-Dans sa bouche ï¿½ ce mot sent sa langue glacï¿½e ;
+Du moins ne permets pas... La Mollesse oppressée
+Dans sa bouche à ce mot sent sa langue glacée ;
 Et, lasse de parler, succombant sous l'effort,
-Soupire, ï¿½tend les bras, ferme l'oeil et s'endort.
+Soupire, étend les bras, ferme l'oeil et s'endort.
 
 
 
@@ -492,187 +492,187 @@ Soupire, ï¿½tend les bras, ferme l'oeil et s'endort.
 CHANT TROISIEME
 
 
-Mais la nuit aussitï¿½t de ses ailes affreuses
+Mais la nuit aussitôt de ses ailes affreuses
 Couvre des Bourguignons les campagnes vineuses,
-Revole vers Paris, et, hï¿½tant son retour,
-Dï¿½jï¿½ de Mont-Lhï¿½ri voit la fameuse tour.
-Ses murs, dont le sommet se dï¿½robe ï¿½ la vue,
+Revole vers Paris, et, hâtant son retour,
+Déjà de Mont-Lhéri voit la fameuse tour.
+Ses murs, dont le sommet se dérobe à la vue,
 Sur la cime d'un roc s'allongent dans la nue,
-Et prï¿½sentant de loin leur objet ennuyeux,
+Et présentant de loin leur objet ennuyeux,
 Du passant qui le fuit semblent le suivre des yeux.
-Mille oiseaux effrayants, mille corbeaux funï¿½bres,
-De ces murs dï¿½sertï¿½s habitent les tï¿½nï¿½bres.
-Lï¿½, depuis trente hivers, un hibou retirï¿½
-Trouvait contre le jour un refuge assurï¿½.
-Des dï¿½sastres fameux ce messager fidï¿½le
-Sait toujours des malheurs la premiï¿½re nouvelle,
-Et, tout prï¿½t d'en semer le prï¿½sage odieux,
+Mille oiseaux effrayants, mille corbeaux funèbres,
+De ces murs désertés habitent les ténèbres.
+Là, depuis trente hivers, un hibou retiré
+Trouvait contre le jour un refuge assuré.
+Des désastres fameux ce messager fidèle
+Sait toujours des malheurs la première nouvelle,
+Et, tout prêt d'en semer le présage odieux,
 Il attendait la nuit dans ces sauvages lieux.
-Aux cris qu'ï¿½ son abord vers le ciel il envoie,
-Il rend tous ses voisins attristï¿½s de sa joie.
-La plaintive Prognï¿½e de douleur en frï¿½mit ;
-Et, dans les bois prochains, Philomï¿½ne en gï¿½mit.
-Suis-moi, lui dit la Nuit. L'oiseau plein d'allï¿½gresse
-Reconnaï¿½t ï¿½ ce ton la voix de sa maï¿½tresse.
-Il la suit : et tous deux, d'un cours prï¿½cipitï¿½,
-De Paris ï¿½ l'instant ils abordent la citï¿½ ;
-Lï¿½, s'ï¿½lanï¿½ant d'un vol que le vent favorise,
-Ils montent au sommet de la fatale ï¿½glise.
+Aux cris qu'à son abord vers le ciel il envoie,
+Il rend tous ses voisins attristés de sa joie.
+La plaintive Prognée de douleur en frémit ;
+Et, dans les bois prochains, Philomène en gémit.
+Suis-moi, lui dit la Nuit. L'oiseau plein d'allégresse
+Reconnaît à ce ton la voix de sa maîtresse.
+Il la suit : et tous deux, d'un cours précipité,
+De Paris à l'instant ils abordent la cité ;
+Là, s'élançant d'un vol que le vent favorise,
+Ils montent au sommet de la fatale église.
 La Nuit baisse la vue, et, du haut du clocher,
 Observe les guerriers, les regarde marcher.
-Elle voit le barbier qui, d'une main lï¿½gï¿½re,
-Tient un verre de vin qui rit dans la fougï¿½re ;
-Et chacun, tour ï¿½ tour s'inondant de ce jus,
-Cï¿½lï¿½brer, en riant, Gilotin et Bacchus.
-Ils triomphent, dit-elle, et leur ï¿½me abusï¿½e
-Se promet dans mon ombre une victoire aisï¿½e :
+Elle voit le barbier qui, d'une main légère,
+Tient un verre de vin qui rit dans la fougère ;
+Et chacun, tour à tour s'inondant de ce jus,
+Célébrer, en riant, Gilotin et Bacchus.
+Ils triomphent, dit-elle, et leur âme abusée
+Se promet dans mon ombre une victoire aisée :
 Mais allons ; il est temps qu'il connaissent la Nuit.
 A ces mots, regardant le hibou qui la suit,
-Elle perce les murs de la voï¿½te sacrï¿½e ;
-Jusqu'ï¿½ la sacristie elle s'ouvre une entrï¿½e
+Elle perce les murs de la voûte sacrée ;
+Jusqu'à la sacristie elle s'ouvre une entrée
 Et, dans le ventre creux du pupitre fatal,
 Va placer de ce pas le sinistre animal.
 
 Mais les trois champions, pleins de vin et d'audace,
 Du palais cependant passent la grande place ;
-Et, suivant de Bacchus les auspices sacrï¿½s,
-De l'auguste chapelle ils montent les degrï¿½s.
-Ils atteignaient dï¿½jï¿½ le superbe portique
-Oï¿½ Ribou le libraire, au fond de sa boutique,
-Sous vingt fidï¿½les clefs, garde et tient en dï¿½pï¿½t
-L'amas toujours entier des ï¿½crits de Haynaut :
-Quand Boirude, qui voit que le pï¿½ril approche,
-Les arrï¿½te, et, tirant un fusil de sa poche,
-Des veines d'un caillou, qu'il frappe au mï¿½me instant,
-Il fait jaillir un feu qui pï¿½tille en sortant ;
-Et bientï¿½t, au brasier d'une mï¿½che enflammï¿½e,
-Montre, ï¿½ l'aide du soufre, une cire allumï¿½e.
+Et, suivant de Bacchus les auspices sacrés,
+De l'auguste chapelle ils montent les degrés.
+Ils atteignaient déjà le superbe portique
+Où Ribou le libraire, au fond de sa boutique,
+Sous vingt fidèles clefs, garde et tient en dépôt
+L'amas toujours entier des écrits de Haynaut :
+Quand Boirude, qui voit que le péril approche,
+Les arrête, et, tirant un fusil de sa poche,
+Des veines d'un caillou, qu'il frappe au même instant,
+Il fait jaillir un feu qui pétille en sortant ;
+Et bientôt, au brasier d'une mèche enflammée,
+Montre, à l'aide du soufre, une cire allumée.
 Cet astre tremblotant, dont le jour les conduit,
 Est pour eux un soleil au milieu de la nuit.
-Le temple ï¿½ sa faveur est ouvert par Boirude :
+Le temple à sa faveur est ouvert par Boirude :
 Ils passent de la nef la vaste solitude,
 Et dans la sacristie entrant, non sans terreur,
-En percent jusqu'au fond la tï¿½nï¿½breuse horreur.
+En percent jusqu'au fond la ténébreuse horreur.
 
-C'est lï¿½ que du lutrin gï¿½t la machine ï¿½norme :
+C'est là que du lutrin gît la machine énorme :
 La troupe quelque temps en admire la forme.
-Mais le barbier, qui tient les moments prï¿½cieux :
+Mais le barbier, qui tient les moments précieux :
 Ce spectacle n'est pas pour amuser nos yeux,
 Dit-il : ce temps est cher, portons-le dans le temple :
-C'est lï¿½ qu'il faut demain qu'un prï¿½lat le contemple.
-Et d'un bras, ï¿½ ces mots, qui peut tout ï¿½branler,
-Lui-mï¿½me, se courbant, s'apprï¿½te ï¿½ le rouler.
-Mais ï¿½ peine il y touche, ï¿½ prodige incroyable !
+C'est là qu'il faut demain qu'un prélat le contemple.
+Et d'un bras, à ces mots, qui peut tout ébranler,
+Lui-même, se courbant, s'apprête à le rouler.
+Mais à peine il y touche, ô prodige incroyable !
 Que du pupitre sort une voix effroyable.
-Brontin en est ï¿½mu, le sacristain pï¿½lit ;
-Le perruquier commence ï¿½ regretter son lit.
+Brontin en est ému, le sacristain pâlit ;
+Le perruquier commence à regretter son lit.
 Dans son hardi projet toutefois il s'obstine ;
 Lorsque des flanc poudreux de la vaste machine
-L'oiseau sort en courroux, et, d'un cri menaï¿½ant,
-Achï¿½ve d'ï¿½tonner le barbier frï¿½missant :
-De ses ailes dans l'air secouant la poussiï¿½re,
-Dans la main de Boirude il ï¿½teint la lumiï¿½re.
-Les guerriers ï¿½ ce coup demeurent confondus ;
-Ils regagnent la nef, de frayeur ï¿½perdus :
+L'oiseau sort en courroux, et, d'un cri menaçant,
+Achève d'étonner le barbier frémissant :
+De ses ailes dans l'air secouant la poussière,
+Dans la main de Boirude il éteint la lumière.
+Les guerriers à ce coup demeurent confondus ;
+Ils regagnent la nef, de frayeur éperdus :
 Sous leurs corps tremblotants leurs genoux s'affaiblissent,
-D'une subite horreur leurs cheveux se hï¿½rissent ;
-Et bientï¿½t, au travers des ombres de la nuit,
+D'une subite horreur leurs cheveux se hérissent ;
+Et bientôt, au travers des ombres de la nuit,
 Le timide escadron se dissipe et s'enfuit.
 
 Ainsi lorsqu'en un coin, qui leur tient lieu d'asile,
-D'ï¿½coliers libertins une troupe indocile,
-Loin des yeux d'un prï¿½fet au travail assidu
-Va tenir quelquefois un brelan dï¿½fendu :
+D'écoliers libertins une troupe indocile,
+Loin des yeux d'un préfet au travail assidu
+Va tenir quelquefois un brelan défendu :
 Si du vaillant Argas la figure effrayante
-Dans l'ardeur du plaisir ï¿½ leurs yeux se prï¿½sente,
-Le jeu cesse ï¿½ l'instant, l'asile est dï¿½sertï¿½,
-Et tout fuit ï¿½ grand pas le tyran redoutï¿½.
+Dans l'ardeur du plaisir à leurs yeux se présente,
+Le jeu cesse à l'instant, l'asile est déserté,
+Et tout fuit à grand pas le tyran redouté.
 
-La Discorde, qui voit leur honteuse disgrï¿½ce,
-Dans les airs, cependant tonne, ï¿½clate, menace,
-Et, malgrï¿½ la frayeur dont leurs coeurs sont glacï¿½s,
-S'apprï¿½te ï¿½ rï¿½unir ses soldats dispersï¿½s.
-Aussitï¿½t de Sidrac elle emprunte l'image :
+La Discorde, qui voit leur honteuse disgrâce,
+Dans les airs, cependant tonne, éclate, menace,
+Et, malgré la frayeur dont leurs coeurs sont glacés,
+S'apprête à réunir ses soldats dispersés.
+Aussitôt de Sidrac elle emprunte l'image :
 Elle ride son front, allonge son visage,
-Sur un bï¿½ton noueux laisse courber son corps,
+Sur un bâton noueux laisse courber son corps,
 Dont la chicane semble animer les ressorts ;
-Prend un cierge en sa main, et d'une voix cassï¿½e,
-Vient ainsi gourmander la troupe terrassï¿½e.
+Prend un cierge en sa main, et d'une voix cassée,
+Vient ainsi gourmander la troupe terrassée.
 
-Lï¿½ches, oï¿½ fuyez-vous ? quelle peur vous abat ?
-Aux cris du vil oiseau vous cï¿½dez sans combat ?
-Oï¿½ sont ces beaux discours jadis si pleins d'audace ?
+Lâches, où fuyez-vous ? quelle peur vous abat ?
+Aux cris du vil oiseau vous cédez sans combat ?
+Où sont ces beaux discours jadis si pleins d'audace ?
 Craignez-vous d'un hibou l'impuissante grimace ?
-Que feriez-vous, hï¿½las, si quelque exploit nouveau
-Chaque jour, comme moi, vous traï¿½nait au barreau ;
+Que feriez-vous, hélas, si quelque exploit nouveau
+Chaque jour, comme moi, vous traînait au barreau ;
 S'il fallait, sans amis, briguant une audience,
-D'un magistrat glacï¿½ soutenir la prï¿½sence,
-Ou, d'un nouveau procï¿½s, hardi solliciteur,
+D'un magistrat glacé soutenir la présence,
+Ou, d'un nouveau procès, hardi solliciteur,
 Aborder sans argent un clerc de rapporteur ?
-Croyez-moi, mes enfants, je vous parle ï¿½ bon titre :
-J'ai moi seul autrefois plaidï¿½ tout un chapitre ;
+Croyez-moi, mes enfants, je vous parle à bon titre :
+J'ai moi seul autrefois plaidé tout un chapitre ;
 Et le barreau n'a point de monstres si hagards,
 Dont mon oeil n'ait cent fois soutenu les regards.
-Tous les jours sans trembler j'assiï¿½geais leurs passages.
-L'Eglise ï¿½tait alors fertile en grands courages :
+Tous les jours sans trembler j'assiégeais leurs passages.
+L'Eglise était alors fertile en grands courages :
 Le moindre d'entre nous, sans argent, sans appui,
-Eï¿½t plaidï¿½ le prï¿½lat, et le chantre avec lui.
-Le monde, de qui l'ï¿½ge avance les ruines,
-Ne peut plus enfanter de ces ï¿½mes divines :
+Eût plaidé le prélat, et le chantre avec lui.
+Le monde, de qui l'âge avance les ruines,
+Ne peut plus enfanter de ces âmes divines :
 Mais que vos coeurs, du moins, imitant leurs vertus,
 De l'aspect d'un hibou ne soient pas abattus.
-Songez quel dï¿½shonneur va souiller votre gloire,
+Songez quel déshonneur va souiller votre gloire,
 Quand le chantre demain entendra sa victoire.
 Vous verrez tous les jours le chanoine insolent,
 Au seul mot de hibou, vous sourire en parlant.
-Votre ï¿½me, ï¿½ ce penser, de colï¿½re murmure :
-Allez donc de ce pas en prï¿½venir l'injure ;
-Mï¿½ritez les lauriers qui vous sont rï¿½servï¿½s,
-Et ressouvenez-vous quel prï¿½lat vous servez.
-Mais dï¿½jï¿½ la fureur dans vos yeux ï¿½tincelle.
-Marchez, courez, volez oï¿½ l'honneur vous appelle.
-Que le prï¿½lat, surpris d'un changement si prompt,
-Apprenne la vengeance aussitï¿½t que l'affront.
+Votre âme, à ce penser, de colère murmure :
+Allez donc de ce pas en prévenir l'injure ;
+Méritez les lauriers qui vous sont réservés,
+Et ressouvenez-vous quel prélat vous servez.
+Mais déjà la fureur dans vos yeux étincelle.
+Marchez, courez, volez où l'honneur vous appelle.
+Que le prélat, surpris d'un changement si prompt,
+Apprenne la vengeance aussitôt que l'affront.
 
-En achevant ces mots, la dï¿½esse guerriï¿½re
-De son pied trace en l'air un sillon de lumiï¿½re ;
-rend aux trois champions leur intrï¿½piditï¿½,
-Et les laisse tout pleins de sa divinitï¿½.
+En achevant ces mots, la déesse guerrière
+De son pied trace en l'air un sillon de lumière ;
+rend aux trois champions leur intrépidité,
+Et les laisse tout pleins de sa divinité.
 
-C'est ainsi, grand Condï¿½, qu'en ce combat cï¿½lï¿½bre,
-Oï¿½ ton bras fit trembler le Rhin, l'Escaut et l'Ebre,
-Lorsqu'aux plaines de Lens nos bataillons poussï¿½s
-Furent presque ï¿½ tes yeux ouverts ou renversï¿½s,
-Ta valeur, arrï¿½tant les troupes fugitives,
+C'est ainsi, grand Condé, qu'en ce combat célèbre,
+Où ton bras fit trembler le Rhin, l'Escaut et l'Ebre,
+Lorsqu'aux plaines de Lens nos bataillons poussés
+Furent presque à tes yeux ouverts ou renversés,
+Ta valeur, arrêtant les troupes fugitives,
 Rallia d'un regard leurs cohortes craintives ;
-Rï¿½pandit dans leurs rangs ton esprit belliqueux,
-Et forï¿½a la victoire ï¿½ te suivre avec eux.
+Répandit dans leurs rangs ton esprit belliqueux,
+Et força la victoire à te suivre avec eux.
 
-La colï¿½re ï¿½ l'instant succï¿½dant ï¿½ la crainte,
-Ils rallument le feu de leur bougie ï¿½teinte :
+La colère à l'instant succédant à la crainte,
+Ils rallument le feu de leur bougie éteinte :
 Ils rentrent ; l'oiseau sort : l'escadron raffermi
-Rit du honteux dï¿½part d'un si faible ennemi.
-Aussitï¿½t dans le choeur la machine emportï¿½e
-Est sur le banc du chantre ï¿½ grand bruit remontï¿½e.
-Ses ais demi-pourris, que l'ï¿½ge a relï¿½chï¿½s,
-Sont ï¿½ coups de maillet unis et rapprochï¿½s.
-Sous les coups redoublï¿½s tous les bancs retentissent,
-Les murs en sont ï¿½mus, les voï¿½tes en mugissent.
-Et l'orgue mï¿½me en pousse un long gï¿½missement.
+Rit du honteux départ d'un si faible ennemi.
+Aussitôt dans le choeur la machine emportée
+Est sur le banc du chantre à grand bruit remontée.
+Ses ais demi-pourris, que l'âge a relâchés,
+Sont à coups de maillet unis et rapprochés.
+Sous les coups redoublés tous les bancs retentissent,
+Les murs en sont émus, les voûtes en mugissent.
+Et l'orgue même en pousse un long gémissement.
 
-Que fais-tu, chantre, hï¿½las ! dans ce triste moment ?
+Que fais-tu, chantre, hélas ! dans ce triste moment ?
 Tu dors d'un profond somme, et ton coeur sans alarmes
-Ne sait pas qu'on bï¿½tit l'instrument de tes larmes !
-Oh ! que si quelque bruit, par un heureux rï¿½veil,
-T'annonï¿½ait du lutrin le funeste appareil ;
-Avant que de souffrir qu'on en posï¿½t la masse,
-Tu viendrais en apï¿½tre expirer dans ta place ;
+Ne sait pas qu'on bâtit l'instrument de tes larmes !
+Oh ! que si quelque bruit, par un heureux réveil,
+T'annonçait du lutrin le funeste appareil ;
+Avant que de souffrir qu'on en posât la masse,
+Tu viendrais en apôtre expirer dans ta place ;
 Et, martyr glorieux d'un point d'honneur nouveau
-Offrir ton corps aux clous et ta tï¿½te au marteau.
+Offrir ton corps aux clous et ta tête au marteau.
 
-Mais dï¿½jï¿½ sur ton banc la machine enclavï¿½e
-Est, durant ton sommeil, ï¿½ ta honte ï¿½levï¿½e.
-Le sacristain achï¿½ve en deux coups de rabot ;
+Mais déjà sur ton banc la machine enclavée
+Est, durant ton sommeil, à ta honte élevée.
+Le sacristain achève en deux coups de rabot ;
 Et le pupitre enfin tourne sur son pivot.
 
 
@@ -688,247 +688,247 @@ CHANT QUATRIEME
 
 
 Les cloches, dans les airs, de leurs voix argentines,
-Appelaient ï¿½ grand bruit les chantres ï¿½ matines ;
-Quand leur chef, agitï¿½ d'un sommeil effrayant,
-Encor tout en sueur se rï¿½veille en criant.
-Aux ï¿½lans redoublï¿½s de sa voix douloureuse,
+Appelaient à grand bruit les chantres à matines ;
+Quand leur chef, agité d'un sommeil effrayant,
+Encor tout en sueur se réveille en criant.
+Aux élans redoublés de sa voix douloureuse,
 Tous ses valets tremblants quittent la plume oiseuse ;
-Le vigilant Girot court ï¿½ lui le premier :
-C'est d'un maï¿½tre si saint le plus digne officier ;
-La porte dans le choeur ï¿½ sa garde est commise :
-Valet souple au logis, fier huissier ï¿½ l'ï¿½glise.
+Le vigilant Girot court à lui le premier :
+C'est d'un maître si saint le plus digne officier ;
+La porte dans le choeur à sa garde est commise :
+Valet souple au logis, fier huissier à l'église.
 
 Quel chagrin, lui dit-il, trouble votre sommeil ?
-Quoi ! voulez-vous au choeur prï¿½venir le soleil ?
-Ah ! dormez, et laissez ï¿½ des chantres vulgaires
-Le soin d'aller sitï¿½t mï¿½riter leurs salaires.
+Quoi ! voulez-vous au choeur prévenir le soleil ?
+Ah ! dormez, et laissez à des chantres vulgaires
+Le soin d'aller sitôt mériter leurs salaires.
 
-Ami, lui dit le chantre encor pï¿½le d'horreur,
-N'insulte point, de grï¿½ce, ï¿½ ma juste terreur :
-Mï¿½le plutï¿½t ici tes soupirs ï¿½ mes plaintes,
-Et tremble en ï¿½coutant le sujet de mes craintes.
-Pour la seconde fois un sommeil grï¿½cieux
+Ami, lui dit le chantre encor pâle d'horreur,
+N'insulte point, de grâce, à ma juste terreur :
+Mêle plutôt ici tes soupirs à mes plaintes,
+Et tremble en écoutant le sujet de mes craintes.
+Pour la seconde fois un sommeil grâcieux
 Avait sous ses pavots appesanti mes yeux ;
-Quand, l'esprit enivrï¿½ d'une douce fumï¿½e,
-J'ai cru remplir au choeur ma place accoutumï¿½e.
-Lï¿½, triomphant aux yeux des chantres impuissant,
-Je bï¿½nissais le peuple, et j'avalais l'encens ;
-Lorsque du fond cachï¿½ de notre sacristie
-Une ï¿½paisse nuï¿½e ï¿½ longs flots est sortie,
-Qui, s'ouvrant ï¿½ mes yeux, dans un bleuï¿½tre ï¿½clat
-M'a fait voir un serpent conduit par le prï¿½lat.
+Quand, l'esprit enivré d'une douce fumée,
+J'ai cru remplir au choeur ma place accoutumée.
+Là, triomphant aux yeux des chantres impuissant,
+Je bénissais le peuple, et j'avalais l'encens ;
+Lorsque du fond caché de notre sacristie
+Une épaisse nuée à longs flots est sortie,
+Qui, s'ouvrant à mes yeux, dans un bleuâtre éclat
+M'a fait voir un serpent conduit par le prélat.
 Du corps de ce dragon, plein de soufre et de nitre,
-Une tï¿½te sortait en forme de pupitre,
-Dont le triangle affreux, tout hï¿½rissï¿½ de crins,
-Surpassait en grosseur nos plus ï¿½pais lutrins.
-Animï¿½ par son guide, en sifflant il s'avance :
-Contre moi sur mon banc je le vois qui s'ï¿½lance.
-J'ai criï¿½, mais en vain : et, fuyant sa fureur,
-Je me suis rï¿½veillï¿½ plein de trouble et d'horreur.
+Une tête sortait en forme de pupitre,
+Dont le triangle affreux, tout hérissé de crins,
+Surpassait en grosseur nos plus épais lutrins.
+Animé par son guide, en sifflant il s'avance :
+Contre moi sur mon banc je le vois qui s'élance.
+J'ai crié, mais en vain : et, fuyant sa fureur,
+Je me suis réveillé plein de trouble et d'horreur.
 
-Le chantre, s'arrï¿½tant ï¿½ cet endroit funeste,
-A ses yeux effrayï¿½s laisse dire le reste.
+Le chantre, s'arrêtant à cet endroit funeste,
+A ses yeux effrayés laisse dire le reste.
 Girot en vain l'assure, et, riant de sa peur,
 Nomme sa vision l'effet d'une vapeur :
-Le dï¿½solï¿½ vieillard, qui hait la raillerie,
-Lui dï¿½fend de parler, sort du lit en furie.
-On apporte ï¿½ l'instant ses somptueux habits,
-Oï¿½ sur l'ouate molle ï¿½clata le tabis.
+Le désolé vieillard, qui hait la raillerie,
+Lui défend de parler, sort du lit en furie.
+On apporte à l'instant ses somptueux habits,
+Où sur l'ouate molle éclata le tabis.
 D'une longue soutane il endosse la moire,
 Prend ses gants violets, les marques de sa gloire ;
 Et saisit, en pleurant, ce rochet qu'autrefois
-Le prï¿½lat trop jaloux lui rogna de trois doigts.
-Aussitï¿½t d'un bonnet ornant sa tï¿½te grise,
-Dï¿½jï¿½ l'aumuce en main il marche vers l'ï¿½glise,
-Et, hï¿½tant de ses ans l'importune langueur,
+Le prélat trop jaloux lui rogna de trois doigts.
+Aussitôt d'un bonnet ornant sa tête grise,
+Déjà l'aumuce en main il marche vers l'église,
+Et, hâtant de ses ans l'importune langueur,
 Court, vole, et, le premier, arrive dans le choeur.
 
 O toi qui, sur ces bords qu'une eau dormante mouille
 Vit combattre autrefois le rat et la grenouille ;
 Qui, par les traits hardis d'un bizarre pinceau,
 Mit l'Italie en feu pour la perte d'un seau ;
-Muse, prï¿½te ï¿½ ma bouche une voix plus sauvage,
-Pour chanter le dï¿½pit, la colï¿½re, la rage,
+Muse, prête à ma bouche une voix plus sauvage,
+Pour chanter le dépit, la colère, la rage,
 Que le chantre sentit allumer dans son sang
-A l'aspect du pupitre ï¿½levï¿½ sur son banc.
-D'abord pï¿½le et muet, de colï¿½re immobile,
+A l'aspect du pupitre élevé sur son banc.
+D'abord pâle et muet, de colère immobile,
 A force de douleur, il demeura tranquille ;
-Mais sa voix s'ï¿½chappant au travers des sanglots
-Dans sa bouche ï¿½ la fin fit passage ï¿½ ces mots :
-La voilï¿½ donc, Girot, cette hydre ï¿½pouvantable
-Que m'a fait voir un songe, hï¿½las ! trop vï¿½ritable !
-Je le vois ce dragon tout prï¿½t ï¿½ m'ï¿½gorger,
+Mais sa voix s'échappant au travers des sanglots
+Dans sa bouche à la fin fit passage à ces mots :
+La voilà donc, Girot, cette hydre épouvantable
+Que m'a fait voir un songe, hélas ! trop véritable !
+Je le vois ce dragon tout prêt à m'égorger,
 Ce pupitre fatal qui me doit ombrager !
-Prï¿½lat, que t'ai-je fait ? quelle rage envieuse
-Rend pour me tourmenter ton ï¿½me ingï¿½nieuse ?
-Quoi ! mï¿½me dans ton lit, cruel, entre deux draps,
+Prélat, que t'ai-je fait ? quelle rage envieuse
+Rend pour me tourmenter ton âme ingénieuse ?
+Quoi ! même dans ton lit, cruel, entre deux draps,
 Ta profane fureur ne se repose pas !
 O ciel ! quoi ! sur mon banc une honteuse masse
-Dï¿½sormais me va faire un cachot de ma place !
-Inconnu dans l'ï¿½glise, ignorï¿½ dans ce lieu,
-Je ne pourrai donc plus ï¿½tre vu que de Dieu !
-Ah ! plutï¿½t qu'un moment cet affront m'obscurcisse,
-Renonï¿½ons ï¿½ l'autel, abandonnons l'office ;
+Désormais me va faire un cachot de ma place !
+Inconnu dans l'église, ignoré dans ce lieu,
+Je ne pourrai donc plus être vu que de Dieu !
+Ah ! plutôt qu'un moment cet affront m'obscurcisse,
+Renonçons à l'autel, abandonnons l'office ;
 Et, sans lasser le ciel par de chants superflus,
-Ne voyons plus un choeur oï¿½ l'on ne nous voit plus.
+Ne voyons plus un choeur où l'on ne nous voit plus.
 Sortons... Mais cependant mon ennemi tranquille
 Jouira sur son banc de ma rage inutile,
-Et verra dans le choeur le pupitre exhaussï¿½
-Tourner sur le pivot oï¿½ sa main l'a placï¿½ !
+Et verra dans le choeur le pupitre exhaussé
+Tourner sur le pivot où sa main l'a placé !
 Non, s'il n'est abattu, je ne saurais plus vivre.
-A moi, Girot, je veux que mon bras l'en dï¿½livre.
-Pï¿½rissons s'il le faut, mais de ses ais brisï¿½s
-Entraï¿½nons, en mourant, les restes divisï¿½s.
+A moi, Girot, je veux que mon bras l'en délivre.
+Périssons s'il le faut, mais de ses ais brisés
+Entraînons, en mourant, les restes divisés.
 
 A ces mots, d'une main par la rage affermie,
-Il saisissait dï¿½jï¿½ la machine ennemie.
-Lorsqu'en ce sacrï¿½ lieu, par un heureux hasard,
+Il saisissait déjà la machine ennemie.
+Lorsqu'en ce sacré lieu, par un heureux hasard,
 Entre Jean le choriste, et le sonneur Girard
-Deux Manseaux renommï¿½s, en qui l'expï¿½rience
-Pour les procï¿½s est jointe ï¿½ la vaste science.
-L'un et l'autre aussitï¿½t prend part ï¿½ son affront.
+Deux Manseaux renommés, en qui l'expérience
+Pour les procès est jointe à la vaste science.
+L'un et l'autre aussitôt prend part à son affront.
 Toutefois condamnant un mouvement trop prompt
 Du lutrin, disent-ils, abattons la machine :
 Mais ne nous chargeons pas tous seuls de sa ruine ;
-Et que tantï¿½t, aux yeux du chapitre assemblï¿½,
-Il soit sous trente mains en plein jour accablï¿½.
+Et que tantôt, aux yeux du chapitre assemblé,
+Il soit sous trente mains en plein jour accablé.
 
 Ces mots des mains du chantre arrachent le pupitre.
 J'y consens, leur dit-il ; assemblons le chapitre.
 Allez donc de ce pas, par de saints hurlements,
-Vous-mï¿½mes appeler les chanoines dormants.
+Vous-mêmes appeler les chanoines dormants.
 Partez. Mais ce discours les surprend et les glace.
 Nous ! qu'en ce vain projet, pleins d'une folle audace,
 Nous allions, dit Girard, la nuit nous engager !
 De notre complaisance osez-vous l'exiger ?
-Hï¿½ ! seigneur ! quand nos cris pourraient, du fond des rues,
+Hé ! seigneur ! quand nos cris pourraient, du fond des rues,
 De leurs appartements percer les avenues,
-Rï¿½veiller ces valets autour d'eux ï¿½tendus,
-De leurs sacrï¿½s repos ministres assidus,
-Et pï¿½nï¿½trer des lits aux bruits inaccessibles ;
+Réveiller ces valets autour d'eux étendus,
+De leurs sacrés repos ministres assidus,
+Et pénétrer des lits aux bruits inaccessibles ;
 Pensez-vous, au moment que les ombres paisibles
 A ces lits enchanteurs ont su les attacher.
 Que la voix d'un mortel les en puisse arracher ?
 Deux chantres feront-ils, dans l'ardeur de vous plaire,
 Ce que depuis trente ans six cloches n'ont pu faire ?
 
-Ah ! je vois bien oï¿½ tend tout ce discours trompeur,
-Reprend le chaud vieillard : le prï¿½lat vous fait peur.
-Je vous ai vus cent fois, sous sa main bï¿½nissante,
-Courber servilement une ï¿½paule tremblante.
-Hï¿½ bien ! allez ; sous lui flï¿½chissez les genoux :
-Je saurai rï¿½veiller les chanoines sans vous.
-Viens, Girot, seul ami qui me reste fidï¿½le :
-Prenons du saint jeudi la bruyante crï¿½celle.
-Suis-moi. Qu'ï¿½ son lever le soleil aujourd'hui
-trouve tout le chapitre ï¿½veillï¿½ devant lui.
+Ah ! je vois bien où tend tout ce discours trompeur,
+Reprend le chaud vieillard : le prélat vous fait peur.
+Je vous ai vus cent fois, sous sa main bénissante,
+Courber servilement une épaule tremblante.
+Hé bien ! allez ; sous lui fléchissez les genoux :
+Je saurai réveiller les chanoines sans vous.
+Viens, Girot, seul ami qui me reste fidèle :
+Prenons du saint jeudi la bruyante crécelle.
+Suis-moi. Qu'à son lever le soleil aujourd'hui
+trouve tout le chapitre éveillé devant lui.
 
-Il dit. Du fond poudreux d'une armoire sacrï¿½e
-Par les mains de Girot la crï¿½celle est tirï¿½e.
-Ils sortent ï¿½ l'instant, et, par d'heureux efforts,
+Il dit. Du fond poudreux d'une armoire sacrée
+Par les mains de Girot la crécelle est tirée.
+Ils sortent à l'instant, et, par d'heureux efforts,
 Du lugubre instrument font crier les ressorts.
 Pour augmenter l'effroi, la Discorde infernale
 Monte dans le palais, entre dans la grand'salle,
 Et, du fond de cet antre, au travers de la nuit,
-Fait sortir le dï¿½mon du tumulte et du bruit.
-Le quartier alarmï¿½ n'a plus d'yeux qui sommeillent ;
-Dï¿½jï¿½ de toutes parts les chanoines s'ï¿½veillent
-L'on croit que le tonnerre est tombï¿½ sur les toits,
-Et que l'ï¿½glise brï¿½le une seconde fois ;
-L'autre, encor agitï¿½ de vapeurs plus funï¿½bres,
-Pense ï¿½tre au jeudi saint, croit que l'on dit tï¿½nï¿½bres,
-Et dï¿½jï¿½ tout confus, tenant midi sonnï¿½,
-En soi-mï¿½me frï¿½mit de n'avoir point dï¿½nï¿½.
+Fait sortir le démon du tumulte et du bruit.
+Le quartier alarmé n'a plus d'yeux qui sommeillent ;
+Déjà de toutes parts les chanoines s'éveillent
+L'on croit que le tonnerre est tombé sur les toits,
+Et que l'église brûle une seconde fois ;
+L'autre, encor agité de vapeurs plus funèbres,
+Pense être au jeudi saint, croit que l'on dit ténèbres,
+Et déjà tout confus, tenant midi sonné,
+En soi-même frémit de n'avoir point dîné.
 
-Ainsi, lorsque tout prï¿½t ï¿½ briser cent murailles
+Ainsi, lorsque tout prêt à briser cent murailles
 Louis, la foudre en main abandonnant Versailles,
-Au retour du soleil et des zï¿½phyrs nouveaux,
-Fait dans les champs de Mars dï¿½ployer les drapeaux ;
-Au seul bruit rï¿½pandu de sa marche ï¿½tonnante,
-Le Danube s'ï¿½meut, le Tage s'ï¿½pouvante,
+Au retour du soleil et des zéphyrs nouveaux,
+Fait dans les champs de Mars déployer les drapeaux ;
+Au seul bruit répandu de sa marche étonnante,
+Le Danube s'émeut, le Tage s'épouvante,
 Bruxelles attend le coup qui la doit foudroyer,
-Et le Batave encore est prï¿½t ï¿½ se noyer.
+Et le Batave encore est prêt à se noyer.
 
 Mais en vain dans leurs lits un juste effroi les presse :
 Aucun ne laisse encor la plume enchanteresse.
-Pour les en arracher Girot s'inquiï¿½tant
+Pour les en arracher Girot s'inquiétant
 Va crier qu'au chapitre un repas les attend.
-Ce mot, dans tous les coeurs rï¿½pand la vigilance.
-Tout s'ï¿½branle, tout sort, tout marche en diligence.
+Ce mot, dans tous les coeurs répand la vigilance.
+Tout s'ébranle, tout sort, tout marche en diligence.
 Ils courent au chapitre, et chacun se pressant
-Flatte d'un doux espoir son appï¿½tit naissant.
-Mais, ï¿½ d'un dï¿½jeuner vaine et frivole attente !
+Flatte d'un doux espoir son appétit naissant.
+Mais, ô d'un déjeuner vaine et frivole attente !
 A peine ils sont assis, que, d'une voix dolente,
-Le chantre dï¿½solï¿½, lamentant son malheur,
-Fait mourir l'appï¿½tit et naï¿½tre la douleur.
+Le chantre désolé, lamentant son malheur,
+Fait mourir l'appétit et naître la douleur.
 Le seul chanoine Evrard, d'abstinence incapable,
 Ose encor proposer qu'on apporte la table.
-Mais il a beau presser, aucun ne lui rï¿½pond :
+Mais il a beau presser, aucun ne lui répond :
 Quand le premier rompant ce silence profond,
-Alain tousse et se lï¿½ve ; Alain, ce savant homme,
+Alain tousse et se lève ; Alain, ce savant homme,
 Qui de Bauny vingt fois a lu toute la somme,
-Qui possï¿½de Abï¿½li, qui sait tout Raconis,
-Et mï¿½me entend, dit-on, le latin d'A-Kempis.
+Qui possède Abéli, qui sait tout Raconis,
+Et même entend, dit-on, le latin d'A-Kempis.
 
 N'en doutez point, leur dit ce savant canoniste,
-Ce coup part, j'en suis sï¿½r, d'une main jansï¿½niste.
-Mes yeux en sont tï¿½moins : j'ai vu moi-mï¿½me hier
-Entrer chez le prï¿½lat le chapelain Garnier.
-Arnaud, cet hï¿½rï¿½tique ardent ï¿½ nous dï¿½truire,
-Par ce ministre adroit tente de le sï¿½duire :
+Ce coup part, j'en suis sûr, d'une main janséniste.
+Mes yeux en sont témoins : j'ai vu moi-même hier
+Entrer chez le prélat le chapelain Garnier.
+Arnaud, cet hérétique ardent à nous détruire,
+Par ce ministre adroit tente de le séduire :
 Sans doute il aura lu dans son saint Augustin
-Qu'autrefois saint Louis ï¿½rigea ce lutrin ;
+Qu'autrefois saint Louis érigea ce lutrin ;
 Il va nous inonder des torrents de sa plume.
-Il faut, pour lui rï¿½pondre, ouvrir plus d'un volume.
-Consultons sur ce point quelque auteur signalï¿½ ;
-Voyons si des lutrins Bauny n'a point parlï¿½
+Il faut, pour lui répondre, ouvrir plus d'un volume.
+Consultons sur ce point quelque auteur signalé ;
+Voyons si des lutrins Bauny n'a point parlé
 Etudions enfin, il en est temps encor ;
-Et, pour ce grand projet, tantï¿½t dï¿½s que l'aurore
+Et, pour ce grand projet, tantôt dès que l'aurore
 Rallumera le jour dans l'onde enseveli,
-Que chacun prenne en main le moelleux Abï¿½li.
+Que chacun prenne en main le moelleux Abéli.
 
-Ce conseil imprï¿½vu de nouveau les ï¿½tonne :
-Surtout le gras Evrard d'ï¿½pouvante en frissonne.
-Moi, dit-il, qu'ï¿½ mon ï¿½ge, ï¿½colier tout nouveau,
+Ce conseil imprévu de nouveau les étonne :
+Surtout le gras Evrard d'épouvante en frissonne.
+Moi, dit-il, qu'à mon âge, écolier tout nouveau,
 J'aille pour un lutrin me troubler le cerveau !
-O le plaisant conseil ! Non, non, songeons ï¿½ vivre :
-Va maigrir, si tu veux, et sï¿½cher sur un livre.
+O le plaisant conseil ! Non, non, songeons à vivre :
+Va maigrir, si tu veux, et sécher sur un livre.
 Pour moi, je lis la bible autant que l'alcoran :
 Je sais ce qu'un fermier nous doit rendre par an ;
-Sur quelle vigne ï¿½ Reims nous avons hypothï¿½que :
-Vingt muids rangï¿½s chez moi font ma bibliothï¿½que.
-En plaï¿½ant un pupitre on croit nous rabaisser :
+Sur quelle vigne à Reims nous avons hypothèque :
+Vingt muids rangés chez moi font ma bibliothèque.
+En plaçant un pupitre on croit nous rabaisser :
 Mon bras seul sans latin saura le renverser.
 Que m'importe qu'Arnaud me condamne ou m'approuve ?
-J'abats ce qui me nuit partout oï¿½ je le trouve :
-C'est lï¿½ mon sentiments. A quoi bon tant d'apprï¿½ts ?
-Du reste dï¿½jeï¿½nons, messieurs, et buvons frais.
+J'abats ce qui me nuit partout où je le trouve :
+C'est là mon sentiments. A quoi bon tant d'apprêts ?
+Du reste déjeûnons, messieurs, et buvons frais.
 
 Ce discours, que soutient l'embonpoint du visage,
-Rï¿½tablit l'appï¿½tit, rï¿½chauffe le courage.
-Mais le chantre surtout en paraï¿½t rassurï¿½,
-Oui, dit-il, le pupitre a dï¿½jï¿½ trop durï¿½.
+Rétablit l'appétit, réchauffe le courage.
+Mais le chantre surtout en paraît rassuré,
+Oui, dit-il, le pupitre a déjà trop duré.
 Allons sur sa ruine assurer ma vengeance :
-Donnons ï¿½ ce grand oeuvre une heure d'abstinence,
-Et qu'au retour tantï¿½t un ample dï¿½jeï¿½ner
-Longtemps nous tienne ï¿½ table, et s'unisse au dï¿½ner.
+Donnons à ce grand oeuvre une heure d'abstinence,
+Et qu'au retour tantôt un ample déjeûner
+Longtemps nous tienne à table, et s'unisse au dîner.
 
-Aussitï¿½t il se lï¿½ve, et la troupe fidï¿½le
-Par ces mots attirants sent redoubler son zï¿½le.
+Aussitôt il se lève, et la troupe fidèle
+Par ces mots attirants sent redoubler son zèle.
 Ils marchent droit au coeur d'un pas audacieux.
-Et bientï¿½t le lutrin se fait voir ï¿½ leurs yeux.
+Et bientôt le lutrin se fait voir à leurs yeux.
 A ce terrible objet aucun d'eux ne consulte,
 Sur l'ennemi commun ils fondent en tumulte,
-Ils sapent le pivot, qui se dï¿½fend en vain ;
+Ils sapent le pivot, qui se défend en vain ;
 Chacun sur lui d'un coup veut honorer sa main.
 Enfin sous tant d'efforts la machine succombe,
-Et son corps entr'ouvert chancelle, ï¿½clate et tombe :
-Tel sur les monts glacï¿½s des farouches Gï¿½lons
-Tombe un chï¿½ne battu des voisins aquilons ;
-Ou tel, abandonnï¿½ de ses poutres usï¿½es,
-Fond enfin un vieux toit sous ses tuiles brisï¿½s.
-La masse est emportï¿½e, et ses ais arrachï¿½s
-Sont aux yeux des mortels chez le chantre cachï¿½s.
+Et son corps entr'ouvert chancelle, éclate et tombe :
+Tel sur les monts glacés des farouches Gélons
+Tombe un chêne battu des voisins aquilons ;
+Ou tel, abandonné de ses poutres usées,
+Fond enfin un vieux toit sous ses tuiles brisés.
+La masse est emportée, et ses ais arrachés
+Sont aux yeux des mortels chez le chantre cachés.
 
 
 
@@ -944,267 +944,267 @@ CHANT CINQUIEME
 
 
 
-L'Aurore cependant, d'un juste effroi troublï¿½e,
-Des chanoines levï¿½s voit la troupe assemblï¿½e,
+L'Aurore cependant, d'un juste effroi troublée,
+Des chanoines levés voit la troupe assemblée,
 Et contemple longtemps, avec des yeux confus,
 Ces visages fleuris qu'elle n'a jamais vus.
-Chez Sidrac aussitï¿½t Brontin d'un pied fidï¿½le
+Chez Sidrac aussitôt Brontin d'un pied fidèle
 Du pupitre abattu va porter la nouvelle.
-Le vieillard de ses soins bï¿½nit l'heureux succï¿½s,
-Et sur le bois dï¿½truit bï¿½tit mille procï¿½s.
-L'espoir d'un doux tumulte ï¿½chauffant son courage,
-Il ne sent plus le poids ni les glaces de l'ï¿½ge ;
-Et chez le trï¿½sorier, de ce pas, ï¿½ grand bruit,
-Vient ï¿½clater au jour les crimes de la nuit.
+Le vieillard de ses soins bénit l'heureux succès,
+Et sur le bois détruit bâtit mille procès.
+L'espoir d'un doux tumulte échauffant son courage,
+Il ne sent plus le poids ni les glaces de l'âge ;
+Et chez le trésorier, de ce pas, à grand bruit,
+Vient éclater au jour les crimes de la nuit.
 
-Au rï¿½cit imprï¿½vu de l'horrible insolence,
-Le prï¿½lat hors du lit impï¿½tueux s'ï¿½lance
-Vainement d'un breuvage ï¿½ deux mains apportï¿½
-Gilotin avant tout le veut voir humectï¿½ :
-Il veut partir ï¿½ jeun. Il se peigne, il s'apprï¿½te ;
-L'ivoire trop hï¿½tï¿½ deux fois rompt sur sa tï¿½te,
+Au récit imprévu de l'horrible insolence,
+Le prélat hors du lit impétueux s'élance
+Vainement d'un breuvage à deux mains apporté
+Gilotin avant tout le veut voir humecté :
+Il veut partir à jeun. Il se peigne, il s'apprête ;
+L'ivoire trop hâté deux fois rompt sur sa tête,
 Et deux fois de sa main le buis tombe en morceaux ;
 Tel Hercule filant rompait tous les fuseaux,
-Il sort demi-parï¿½. Mais dï¿½jï¿½ sur sa porte
+Il sort demi-paré. Mais déjà sur sa porte
 Il voit de saints guerriers une ardente cohorte,
-Qui tous, remplis pour lui d'une ï¿½gale vigueur,
-Sont prï¿½ts, pour le servir, ï¿½ dï¿½serter le choeur.
+Qui tous, remplis pour lui d'une égale vigueur,
+Sont prêts, pour le servir, à déserter le choeur.
 Mais le vieillard condamne un projet inutile.
-Nos destins sont, dit-il, ï¿½crits chez la Sibylle :
+Nos destins sont, dit-il, écrits chez la Sibylle :
 Son antre n'est pas loin ; allons la consulter,
 Et subissons la loi qu'elle nous va dicter.
-Il dit : ï¿½ ce conseil, oï¿½ la raison domine,
+Il dit : à ce conseil, où la raison domine,
 Sur ses pas au barreau la troupe s'achemine,
-Et bientï¿½t dans le temple, entend, non sans frï¿½mir,
-De l'antre redoutï¿½ les soupiraux gï¿½mir.
+Et bientôt dans le temple, entend, non sans frémir,
+De l'antre redouté les soupiraux gémir.
 
 Entre ces vieux appuis dont l'affreuse grand'salle
-Soutient l'ï¿½norme poids de sa voï¿½te infernale,
-Est un pilier fameux, des plaideurs respectï¿½,
-Et toujours de Normands ï¿½ midi frï¿½quentï¿½.
-Lï¿½, sur des tas poudreux de sacs et de pratique,
-Hurle tous les matins une Sibylle ï¿½tique :
+Soutient l'énorme poids de sa voûte infernale,
+Est un pilier fameux, des plaideurs respecté,
+Et toujours de Normands à midi fréquenté.
+Là, sur des tas poudreux de sacs et de pratique,
+Hurle tous les matins une Sibylle étique :
 On l'appelle Chicane ; et ce monstre odieux
-Jamais pour l'ï¿½quitï¿½ n'eut d'oreilles ni d'yeux.
-La Disette au teint blï¿½me, et la triste Famine,
-Les Chagrins dï¿½vorants, et l'infï¿½me Ruine,
-Enfants infortunï¿½s de ses raffinements,
-Troublent l'air d'alentour de longs gï¿½missements.
+Jamais pour l'équité n'eut d'oreilles ni d'yeux.
+La Disette au teint blême, et la triste Famine,
+Les Chagrins dévorants, et l'infâme Ruine,
+Enfants infortunés de ses raffinements,
+Troublent l'air d'alentour de longs gémissements.
 Sans cesse feuilletant les lois et la coutume,
 Pour consumer autrui, le monstre se consume ;
-Et, dï¿½vorant maison, palais, chï¿½teaux entiers,
+Et, dévorant maison, palais, châteaux entiers,
 Rend pour des monceaux d'or de vains tas de papiers.
 Sous le coupable effort de ta noire insolence,
-Thï¿½mis a vu cent fois chanceler sa balance.
-Incessamment il va de dï¿½tour en dï¿½tour.
-Comme un hibou, souvent il se dï¿½robe au jour :
-Tantï¿½t, les yeux en feu, c'est un lion superbe ;
-Tantï¿½t, humble serpent, il se glisse sous l'herbe.
+Thémis a vu cent fois chanceler sa balance.
+Incessamment il va de détour en détour.
+Comme un hibou, souvent il se dérobe au jour :
+Tantôt, les yeux en feu, c'est un lion superbe ;
+Tantôt, humble serpent, il se glisse sous l'herbe.
 En vain, pour le dompter, le plus juste des rois
-Fit rï¿½gler le chaos des tï¿½nï¿½breuses lois ;
+Fit régler le chaos des ténébreuses lois ;
 Ses griffes vainement par Pussort accourcies,
-Se rallongent dï¿½jï¿½, toujours d'encre noircies ;
-Et ses ruses, perï¿½ant et digues et remparts,
-Par cent brï¿½ches dï¿½jï¿½ rentrent de toutes parts.
+Se rallongent déjà, toujours d'encre noircies ;
+Et ses ruses, perçant et digues et remparts,
+Par cent brèches déjà rentrent de toutes parts.
 
 Le vieillard humblement l'aborde et le salue,
-Et faisant, avant tout, briller l'or ï¿½ sa vue :
-Reine des longs procï¿½s, dit-il, dont le savoir
+Et faisant, avant tout, briller l'or à sa vue :
+Reine des longs procès, dit-il, dont le savoir
 Rend la force inutile, et les lois sans pouvoir,
 Toi, pour qui dans le Mans le laboureur moissonne,
-Pour qui naissent ï¿½ Caen tous les fruits de l'automne :
-Si, dï¿½s mes premiers ans, heurtant tous les mortels,
-L'encre a toujours pour loi coulï¿½ sur tes autels,
-Daigne encor me connaï¿½tre en ma saison derniï¿½re ;
-D'un prï¿½lat qui t'implore exauce la priï¿½re.
-Un rival orgueilleux, de sa gloire offensï¿½,
-A dï¿½truit le lutrin par nos mains redressï¿½.
+Pour qui naissent à Caen tous les fruits de l'automne :
+Si, dès mes premiers ans, heurtant tous les mortels,
+L'encre a toujours pour loi coulé sur tes autels,
+Daigne encor me connaître en ma saison dernière ;
+D'un prélat qui t'implore exauce la prière.
+Un rival orgueilleux, de sa gloire offensé,
+A détruit le lutrin par nos mains redressé.
 Epuise en sa faveur ta science fatale :
-Du digeste et du code ouvre-nous le dï¿½dale;
+Du digeste et du code ouvre-nous le dédale;
 Et montre-nous cet art, connu de tes amis,
-Qui, dans ses propres lois, embarrasse Thï¿½mis.
+Qui, dans ses propres lois, embarrasse Thémis.
 
-La Sibylle, ï¿½ ces mots, dï¿½jï¿½ hors d'elle-mï¿½me,
-Fait lire sa fureur sur son visage blï¿½me,
-Et, pleine du dï¿½mon qui la vient oppresser,
-Par ces mots ï¿½tonnants tï¿½che ï¿½ le repousser.
+La Sibylle, à ces mots, déjà hors d'elle-même,
+Fait lire sa fureur sur son visage blême,
+Et, pleine du démon qui la vient oppresser,
+Par ces mots étonnants tâche à le repousser.
 
-Chantres, ne craignez plus une audace insensï¿½e.
-Je vois, je vois au choeur la masse replacï¿½e :
-Mais il faut des combats. Tel est l'arrï¿½t du sort,
-Et surtout ï¿½vitez un dangereux accord.
+Chantres, ne craignez plus une audace insensée.
+Je vois, je vois au choeur la masse replacée :
+Mais il faut des combats. Tel est l'arrêt du sort,
+Et surtout évitez un dangereux accord.
 
-Lï¿½ bornant son discours, encor tout ï¿½cumante,
+Là bornant son discours, encor tout écumante,
 Elle souffle aux guerriers l'esprit qui la tourmente ;
-Et dans leurs coeurs brï¿½lants de la soif de plaider
-Verse l'amour de nuire, et la peur de cï¿½der.
+Et dans leurs coeurs brûlants de la soif de plaider
+Verse l'amour de nuire, et la peur de céder.
 
-Pour tracer ï¿½ loisir une longue requï¿½te,
-A retourner chez soi leur brigade s'apprï¿½te.
-Sous leurs pas diligents le chemin disparaï¿½t,
-Et le pilier, loin d'eux, dï¿½jï¿½ baisse et dï¿½croï¿½t.
+Pour tracer à loisir une longue requête,
+A retourner chez soi leur brigade s'apprête.
+Sous leurs pas diligents le chemin disparaît,
+Et le pilier, loin d'eux, déjà baisse et décroît.
 
-Loin du bruit cependant les chanoines ï¿½ table
-Immolent trente mets ï¿½ leur faim indomptable.
-Leur appï¿½tit fougueux, par l'objet excitï¿½,
-Parcourt tous les recoins d'un monstrueux pï¿½tï¿½ ;
-Par le sel irritant la soif est allumï¿½e :
-Lorsque d'un pied lï¿½ger la prompte Renommï¿½e,
-Semant partout l'effroi, vient au chantre ï¿½perdu
-Conter l'affreux dï¿½tail de l'oracle rendu.
-Il se lï¿½ve, enflammï¿½ de muscat et de bile,
-Et prï¿½tend ï¿½ son tour consulter la Sibylle.
-Evrard a beau gï¿½mir du repas dï¿½sertï¿½,
-Lui-mï¿½me est au barreau par le nombre emportï¿½.
-Par les dï¿½tours ï¿½troits d'une barriï¿½re oblique,
-Ils gagnent les degrï¿½s, et le perron antique
-Oï¿½ sans cesse, ï¿½talant bons et mï¿½chants ï¿½crits,
-Barbin vend aux passants les auteurs ï¿½ tout prix.
+Loin du bruit cependant les chanoines à table
+Immolent trente mets à leur faim indomptable.
+Leur appétit fougueux, par l'objet excité,
+Parcourt tous les recoins d'un monstrueux pâté ;
+Par le sel irritant la soif est allumée :
+Lorsque d'un pied léger la prompte Renommée,
+Semant partout l'effroi, vient au chantre éperdu
+Conter l'affreux détail de l'oracle rendu.
+Il se lève, enflammé de muscat et de bile,
+Et prétend à son tour consulter la Sibylle.
+Evrard a beau gémir du repas déserté,
+Lui-même est au barreau par le nombre emporté.
+Par les détours étroits d'une barrière oblique,
+Ils gagnent les degrés, et le perron antique
+Où sans cesse, étalant bons et méchants écrits,
+Barbin vend aux passants les auteurs à tout prix.
 
-Lï¿½ le chantre ï¿½ grand bruit arrive et se fait place,
-Dans le fatal instant que, d'un ï¿½gale audace,
-Le prï¿½lat et sa troupe , ï¿½ pas tumultueux,
+Là le chantre à grand bruit arrive et se fait place,
+Dans le fatal instant que, d'un égale audace,
+Le prélat et sa troupe , à pas tumultueux,
 Descendaient du palais l'escalier tortueux.
-L'un et l'autre rival, s'arrï¿½tant au passage,
+L'un et l'autre rival, s'arrêtant au passage,
 Se mesure des yeux, s'observe, s'envisage ;
-Une ï¿½gale fureur anime les esprits :
-Tels deux fougueux taureaux, de jalousie ï¿½pris
-Auprï¿½s d'une gï¿½nisse au front large et superbe
-Oubliant tous les jours le pï¿½turage et l'herbe,
-A l'aspect l'un de l'autre, embrasï¿½s, furieux,
-Dï¿½jï¿½ le front baissï¿½, se menacent des yeux.
-Mais Evrard, en passant coudoyï¿½ par Boirude,
-Ne sait point contenir son aigre inquiï¿½tude ;
-Il entre chez Barbin, et, d'un bras irritï¿½,
-Saisissant du Cyrus un volume ï¿½cartï¿½,
-Il lance au sacristain le tome ï¿½pouvantable.
+Une égale fureur anime les esprits :
+Tels deux fougueux taureaux, de jalousie épris
+Auprès d'une génisse au front large et superbe
+Oubliant tous les jours le pâturage et l'herbe,
+A l'aspect l'un de l'autre, embrasés, furieux,
+Déjà le front baissé, se menacent des yeux.
+Mais Evrard, en passant coudoyé par Boirude,
+Ne sait point contenir son aigre inquiétude ;
+Il entre chez Barbin, et, d'un bras irrité,
+Saisissant du Cyrus un volume écarté,
+Il lance au sacristain le tome épouvantable.
 Boirude fuit le coup : le volume effroyable
 Lui rase le visage, et, droit dans l'estomac,
-Va frapper en sifflant l'infortunï¿½ Sidrac.
-Le vieillard, accablï¿½ de l'horrible Artamï¿½ne,
-Tombe aux pieds du prï¿½lat, sans pouls et sans haleine.
-Sa troupe le croit mort, et chacun empressï¿½
-Se croit frappï¿½ du coup dont il le voit blessï¿½.
-Aussitï¿½t contre Evrard vingt champions s'ï¿½lancent ;
+Va frapper en sifflant l'infortuné Sidrac.
+Le vieillard, accablé de l'horrible Artamène,
+Tombe aux pieds du prélat, sans pouls et sans haleine.
+Sa troupe le croit mort, et chacun empressé
+Se croit frappé du coup dont il le voit blessé.
+Aussitôt contre Evrard vingt champions s'élancent ;
 Pour soutenir leur choc les chanoine s'avancent.
 La Discorde triomphe, et du combat fatal
 Par un cri donne en l'air l'effroyable signal.
 
-Chez le libraire absent tout entre, tout se mï¿½le :
-Les livres sur Evrard fondent comme la grï¿½le
-Qui, dans un grand jardin, ï¿½ coups impï¿½tueux,
+Chez le libraire absent tout entre, tout se mêle :
+Les livres sur Evrard fondent comme la grêle
+Qui, dans un grand jardin, à coups impétueux,
 Abat l'honneur naissant des rameaux fructueux.
 Chacun s'arme au hasard du livre qu'il rencontre :
 L'un tient l'Edit d'amour, l'autre en saisit la Montre ;
-L'un prend le seul Jonas qu'on ait vu reliï¿½ ;
-L'autre un Tasse franï¿½ais, en naissant oubliï¿½.
-L'ï¿½lï¿½ve de Barbin, commis ï¿½ la boutique,
-veut en vain s'opposer ï¿½ leur fureur gothique :
-Les volumes, sans choix ï¿½ la tï¿½te jetï¿½s,
-Sur le perron poudreux volent de tous cï¿½tï¿½s :
-Lï¿½, prï¿½s d'un Guarini, Tï¿½rence tombe ï¿½ terre ;
-Lï¿½, Xï¿½nophon dans l'air heurte contre un la Serre,
-Oh ! que d'ï¿½crits obscurs, de livres ignorï¿½s,
-Furent en ce grand jour de la poudre tirï¿½s !
-Vous en fï¿½tes tirï¿½s, Almerinde et Simandre :
+L'un prend le seul Jonas qu'on ait vu relié ;
+L'autre un Tasse français, en naissant oublié.
+L'élève de Barbin, commis à la boutique,
+veut en vain s'opposer à leur fureur gothique :
+Les volumes, sans choix à la tête jetés,
+Sur le perron poudreux volent de tous côtés :
+Là, près d'un Guarini, Térence tombe à terre ;
+Là, Xénophon dans l'air heurte contre un la Serre,
+Oh ! que d'écrits obscurs, de livres ignorés,
+Furent en ce grand jour de la poudre tirés !
+Vous en fûtes tirés, Almerinde et Simandre :
 Et toi, rebut du peuple, inconnu Caloandre,
 Dans ton repos, dit-on, saisi par Gaillerbois,
-Tu vis le jour alors pour la premiï¿½re fois.
+Tu vis le jour alors pour la première fois.
 Chaque coup sur la chair laisse une meurtrissure :
-Dï¿½jï¿½ plus d'un guerrier se plaint d'une blessure.
-D'un le Vayer ï¿½pais Giraut est renversï¿½ :
-Marineau, d'un Brï¿½beuf ï¿½ l'ï¿½paule blessï¿½,
-En sent par tout le bras une douleur amï¿½re,
-Et maudit le Pharsale aux provinces si chï¿½re.
-D'un Pinchï¿½ne in-quarto Dodillon ï¿½tourdi
-A longtemps le teint pï¿½le et le coeur affadi.
+Déjà plus d'un guerrier se plaint d'une blessure.
+D'un le Vayer épais Giraut est renversé :
+Marineau, d'un Brébeuf à l'épaule blessé,
+En sent par tout le bras une douleur amère,
+Et maudit le Pharsale aux provinces si chère.
+D'un Pinchêne in-quarto Dodillon étourdi
+A longtemps le teint pâle et le coeur affadi.
 Au plus fort du combat le chapelain Garagne,
 Vers le sommet du front atteint d'un Charlemagne,
-(Des vers de ce poï¿½me effet prodigieux)!
-Tout prï¿½t ï¿½ s'endormir, bï¿½ille, et ferme les yeux.
-A plus d'un combattant la Clï¿½lie est fatale :
-Girou dix fois par elle ï¿½clate et se signale.
-Mais tout cï¿½de aux efforts du chanoine Fabri.
-Ce guerrier, dans l'ï¿½glise aux querelles nourri,
+(Des vers de ce poème effet prodigieux)!
+Tout prêt à s'endormir, bâille, et ferme les yeux.
+A plus d'un combattant la Clélie est fatale :
+Girou dix fois par elle éclate et se signale.
+Mais tout cède aux efforts du chanoine Fabri.
+Ce guerrier, dans l'église aux querelles nourri,
 Est robuste de corps, terrible de visage,
 Et de l'eau dans son vin n'a jamais su l'usage.
 Il terrasse lui seul et Guilbert et Grasset,
 Et Gorillon la basse, et Grandin le fausset,
-Et Gerbais l'agrï¿½able, et Guerin l'insipide.
+Et Gerbais l'agréable, et Guerin l'insipide.
 
-Des chantres dï¿½sormais la brigade timide
-S'ï¿½carte, et du palais regagne les chemins :
-Telle, ï¿½ l'aspect d'un loup, terreur des champs voisins,
-Fuit d'agneaux effrayï¿½s une troupe bï¿½lante ;
+Des chantres désormais la brigade timide
+S'écarte, et du palais regagne les chemins :
+Telle, à l'aspect d'un loup, terreur des champs voisins,
+Fuit d'agneaux effrayés une troupe bêlante ;
 Ou tels devant Achille, aux campagnes de Xanthe,
-Les Troyens se sauvaient ï¿½ l'abri de leurs tours,
-Quand Brontin ï¿½ Boirude adresse ce discours :
+Les Troyens se sauvaient à l'abri de leurs tours,
+Quand Brontin à Boirude adresse ce discours :
 
-Illustre porte-croix, par qui notre banniï¿½re
-N'a jamais en marchant fait un pas en arriï¿½re,
-Un chanoine lui seul triomphant du prï¿½lat
-Du rochet ï¿½ nos yeux ternira-t-il l'ï¿½clat ?
+Illustre porte-croix, par qui notre bannière
+N'a jamais en marchant fait un pas en arrière,
+Un chanoine lui seul triomphant du prélat
+Du rochet à nos yeux ternira-t-il l'éclat ?
 Non, non : pour te couvrir de sa main redoutable,
-Accepte de mon corps l'ï¿½paisseur favorable.
-Viens, et, sous ce rempart, ï¿½ ce guerrier hautain
-Fais voler ce Quinault qui me reste ï¿½ la main.
+Accepte de mon corps l'épaisseur favorable.
+Viens, et, sous ce rempart, à ce guerrier hautain
+Fais voler ce Quinault qui me reste à la main.
 A ces mots, il lui tend le doux et tendre ouvrage.
-Le sacristain, bouillant de zï¿½le et de courage,
+Le sacristain, bouillant de zèle et de courage,
 Le prend, se cache, approche, et, droit entre le syeux,
-Frappe du noble ï¿½crit l'athlï¿½te audacieux.
-Mais c'est pour l'ï¿½branler une faible tempï¿½te,
-Le livre sans vigueur mollit contre sa tï¿½te.
-Le chanoine les voit, de colï¿½re embrasï¿½ :
-Attendez, leur dit-il, couple lï¿½che et rusï¿½,
+Frappe du noble écrit l'athlète audacieux.
+Mais c'est pour l'ébranler une faible tempête,
+Le livre sans vigueur mollit contre sa tête.
+Le chanoine les voit, de colère embrasé :
+Attendez, leur dit-il, couple lâche et rusé,
 Et jugez si ma main, aux grands exploits novice,
-Lance ï¿½ mes ennemis un livre qui mollisse.
+Lance à mes ennemis un livre qui mollisse.
 A ces mots il saisit un vieil Infortiat,
 Grossi des visions d'Accurse et d'Alciat,
-Inutile ramas de gothique ï¿½criture,
+Inutile ramas de gothique écriture,
 Dont quatre ais mal unis formaient la couverture,
-Entourï¿½ ï¿½ demi d'un vieux parchemin noir,
-Oï¿½ pendait ï¿½ trois clous un reste de fermoir.
-Sur l'ais qui le soutient auprï¿½s d'un Avicenne,
-Deux des plus forts mortels l'ï¿½branleraient ï¿½ peine :
-Le chanoine pourtant l'enlï¿½ve sans effort,
-Et, sur le couple pï¿½le et dï¿½jï¿½ demi-mort,
-Fait tomber ï¿½ deux mains l'effroyable tonnerre.
+Entouré à demi d'un vieux parchemin noir,
+Où pendait à trois clous un reste de fermoir.
+Sur l'ais qui le soutient auprès d'un Avicenne,
+Deux des plus forts mortels l'ébranleraient à peine :
+Le chanoine pourtant l'enlève sans effort,
+Et, sur le couple pâle et déjà demi-mort,
+Fait tomber à deux mains l'effroyable tonnerre.
 Les guerriers de ce coup vont mesurer la terre,
-Et, du bois et des clous meurtris et dï¿½chirï¿½s,
-Longtemps, loin du perron, roulent sur les degrï¿½s.
+Et, du bois et des clous meurtris et déchirés,
+Longtemps, loin du perron, roulent sur les degrés.
 
-Au spectacle ï¿½tonnant de leur chute imprï¿½vue,
-Le prï¿½lat pousse un cri qui pï¿½nï¿½tre la nue.
-Il maudit dans son coeur le dï¿½mon des combats,
+Au spectacle étonnant de leur chute imprévue,
+Le prélat pousse un cri qui pénètre la nue.
+Il maudit dans son coeur le démon des combats,
 Et de l'horreur du coup il recule six pas.
-Mais bientï¿½t rappelant son antique prouesse
+Mais bientôt rappelant son antique prouesse
 Il tire du manteau sa dextre vengeresse ;
-Il part, et, de ses doigts saintement allongï¿½s,
-Bï¿½nit tous les passants, en deux files rangï¿½s.
+Il part, et, de ses doigts saintement allongés,
+Bénit tous les passants, en deux files rangés.
 Il sait que l'ennemi, que ce coup va surprendre,
-Dï¿½sormais sur ses pieds ne l'oserait attendre,
-Et dï¿½jï¿½ voit pour lui tout ce peuple en courroux
-Crier aux combattants : Profanes, ï¿½ genoux !
+Désormais sur ses pieds ne l'oserait attendre,
+Et déjà voit pour lui tout ce peuple en courroux
+Crier aux combattants : Profanes, à genoux !
 Le chantre, qui de loin voit approcher l'orage,
-Dans son coeur ï¿½perdu cherche en vain du courage :
-Sa fiertï¿½ l'abandonne, il tremble, il cï¿½de, il fuit.
-Le long des sacrï¿½s murs sa brigade le suit :
-Tout s'ï¿½carte ï¿½ l'instant ; mais aucun n'en rï¿½chappe ;
+Dans son coeur éperdu cherche en vain du courage :
+Sa fierté l'abandonne, il tremble, il cède, il fuit.
+Le long des sacrés murs sa brigade le suit :
+Tout s'écarte à l'instant ; mais aucun n'en réchappe ;
 Partout le doigt vainqueur les suit et les rattrape.
-Evrard seul, en un coin prudemment retirï¿½,
-Se croyait ï¿½ couvert de l'insulte sacrï¿½ :
-Mais le prï¿½lat vers lui fait une marche adroite,
+Evrard seul, en un coin prudemment retiré,
+Se croyait à couvert de l'insulte sacré :
+Mais le prélat vers lui fait une marche adroite,
 Il l'observe de l'oeil ; et tirant vers la droite,
-Tout d'un coup tourne ï¿½ gauche, et d'un bras fortunï¿½
-Bï¿½nit subitement le guerrier consternï¿½.
+Tout d'un coup tourne à gauche, et d'un bras fortuné
+Bénit subitement le guerrier consterné.
 Le chanoine, surpris de la foudre mortelle,
-Se dresse, et lï¿½ve en vain une tï¿½te rebelle ;
-Sur ses genoux tremblants il tombe ï¿½ cet aspect,
-Et donne ï¿½ la frayeur ce qu'il doit au respect.
-Dans le temple aussitï¿½t le prï¿½lat plein de gloire
-Va goï¿½ter les doux fruits de sa sainte victoire ;
+Se dresse, et lève en vain une tête rebelle ;
+Sur ses genoux tremblants il tombe à cet aspect,
+Et donne à la frayeur ce qu'il doit au respect.
+Dans le temple aussitôt le prélat plein de gloire
+Va goûter les doux fruits de sa sainte victoire ;
 Et de leur vain projet les chanoines punis
-S'en retournent chez eux, ï¿½perdus et bï¿½nis.
+S'en retournent chez eux, éperdus et bénis.
 
 
 
@@ -1219,191 +1219,191 @@ CHANT SIXIEME
 
 
 
-Tandis que tout conspire ï¿½ la guerre sacrï¿½e,
-La Piï¿½tï¿½ sincï¿½re, aux Alpes retirï¿½e,
-Du fond de son dï¿½sert entend les tristes cris,
-De ses sujets cachï¿½s dans les murs de Paris.
-Elle quitte ï¿½ l'instant sa retraite divine
+Tandis que tout conspire à la guerre sacrée,
+La Piété sincère, aux Alpes retirée,
+Du fond de son désert entend les tristes cris,
+De ses sujets cachés dans les murs de Paris.
+Elle quitte à l'instant sa retraite divine
 La Foi, d'un pas certain, devant elle chemine ;
-L'Espï¿½rance au front gai l'appuie et la conduit ;
-Et, la bourse ï¿½ la main, la Charitï¿½ la suit.
+L'Espérance au front gai l'appuie et la conduit ;
+Et, la bourse à la main, la Charité la suit.
 Vers Paris elle vole, et d'une audace sainte,
-Vient aux pieds de Thï¿½mis profï¿½rer cette plainte :
+Vient aux pieds de Thémis proférer cette plainte :
 
-Vierge, effroi des mï¿½chants, appui de mes autels,
-Qui, la balance en main, rï¿½gle tous les mortels,
+Vierge, effroi des méchants, appui de mes autels,
+Qui, la balance en main, règle tous les mortels,
 Ne viendrai-je jamais en tes bras salutaires
-Que pousser des soupirs et pleurer mes misï¿½res !
-Ce n'est donc pas assez qu'au mï¿½pris de tes lois
+Que pousser des soupirs et pleurer mes misères !
+Ce n'est donc pas assez qu'au mépris de tes lois
 L'Hypocrisie ait pris et mon nom et ma voix ;
-Que, sous ce nom sacrï¿½, partout ses mains avares
-Cherchent ï¿½ me ravir crosses, mitres, tiares !
+Que, sous ce nom sacré, partout ses mains avares
+Cherchent à me ravir crosses, mitres, tiares !
 Faudra-t-il voir encor cent monstres furieux
-Ravager mes ï¿½tats usurpï¿½s ï¿½ tes yeux !
+Ravager mes états usurpés à tes yeux !
 Dans les temps orageux de mon naissant empire,
-Au sortir de baptï¿½me on courait au martyre.
+Au sortir de baptême on courait au martyre.
 Chacun, plein de mon nom, ne respirait que moi :
-Le fidï¿½le, attentif aux rï¿½gles de sa loi,
-Fuyant des vanitï¿½s la dangereuse amorce,
-Aux honneurs appelï¿½, n'y montait que par force :
-Ces coeurs, que les bourreaux ne faisaient point frï¿½mir,
-A l'offre d'une mitre ï¿½taient prï¿½ts ï¿½ gï¿½mir ;
+Le fidèle, attentif aux règles de sa loi,
+Fuyant des vanités la dangereuse amorce,
+Aux honneurs appelé, n'y montait que par force :
+Ces coeurs, que les bourreaux ne faisaient point frémir,
+A l'offre d'une mitre étaient prêts à gémir ;
 Et, sans peur des travaux, sur mes traces divines
-Couraient chercher le ciel au travers des ï¿½pines.
+Couraient chercher le ciel au travers des épines.
 Mais, depuis que l'Eglise eut, aux yeux des mortels,
-De son sang en tous lieux cimentï¿½ ses autels,
-Le calme dangereux succï¿½dant aux orages,
-Une lï¿½che tiï¿½deur s'empara des courages,
-De leur zï¿½le brï¿½lant l'ardeur se ralentit.
-Sous le joug des pï¿½chï¿½s leur foi s'appesantit :
+De son sang en tous lieux cimenté ses autels,
+Le calme dangereux succédant aux orages,
+Une lâche tiédeur s'empara des courages,
+De leur zèle brûlant l'ardeur se ralentit.
+Sous le joug des péchés leur foi s'appesantit :
 Le moine secoua la cilice et la haire,
-Le chanoine indolent apprit ï¿½ ne rien faire ;
-Le prï¿½lat, par la brigue aux honneurs parvenu,
+Le chanoine indolent apprit à ne rien faire ;
+Le prélat, par la brigue aux honneurs parvenu,
 Ne sut plus qu'abuser d'un humble revenu,
 Et pour toutes vertus fit, au dos d'un carrosse,
-A cï¿½tï¿½ d'une mitre armorier sa crosse ;
-L'Ambition partout chassa l'Humilitï¿½ ;
-Dans la crasse du froc logea la Vanitï¿½.
-Alors de tous les coeurs l'union fut dï¿½truite.
-Dans mes cloï¿½tres sacrï¿½s la Discorde introduite
-Y bï¿½tit de mon bien ses plus sï¿½rs arsenaux ;
-Traï¿½ne tous mes sujets au pied des tribunaux.
-En vain ï¿½ ses fureurs j'opposai mes priï¿½res ;
-L'insolente, ï¿½ mes yeux, marcha sous mes banniï¿½res.
-Pour comble de misï¿½re, un tas de faux docteurs
-Vint flatter les pï¿½chï¿½s de discours imposteurs ;
-Infectant les esprits d'exï¿½crables maximes,
-Voulut faire ï¿½ Dieu mï¿½me approuver tous les crimes.
-Une servile peur leur tint lieu de charitï¿½,
-Le besoin d'aimer Dieu passa pour nouveautï¿½ ;
-Et chacun ï¿½ mes pieds, conservant sa malice,
+A côté d'une mitre armorier sa crosse ;
+L'Ambition partout chassa l'Humilité ;
+Dans la crasse du froc logea la Vanité.
+Alors de tous les coeurs l'union fut détruite.
+Dans mes cloîtres sacrés la Discorde introduite
+Y bâtit de mon bien ses plus sûrs arsenaux ;
+Traîne tous mes sujets au pied des tribunaux.
+En vain à ses fureurs j'opposai mes prières ;
+L'insolente, à mes yeux, marcha sous mes bannières.
+Pour comble de misère, un tas de faux docteurs
+Vint flatter les péchés de discours imposteurs ;
+Infectant les esprits d'exécrables maximes,
+Voulut faire à Dieu même approuver tous les crimes.
+Une servile peur leur tint lieu de charité,
+Le besoin d'aimer Dieu passa pour nouveauté ;
+Et chacun à mes pieds, conservant sa malice,
 N'apporta de vertu que l'aveu de son vice.
 
-Pour ï¿½viter l'affront de ces noirs attentats,
-J'allai chercher le calme au sï¿½jour des frimas,
-Sur ces monts entourï¿½s d'une ï¿½ternelle glace
-Oï¿½ jamais au printemps les hivers n'ont fait place.
-Mais, jusques dans la nuit de mes sacrï¿½s dï¿½serts,
+Pour éviter l'affront de ces noirs attentats,
+J'allai chercher le calme au séjour des frimas,
+Sur ces monts entourés d'une éternelle glace
+Où jamais au printemps les hivers n'ont fait place.
+Mais, jusques dans la nuit de mes sacrés déserts,
 Le bruit de mes malheurs fait retentir les airs.
-Aujourd'hui mï¿½me encore une voix trop fidï¿½le
-M'a d'un triste dï¿½sastre apportï¿½ la nouvelle :
-J'apprends que, dans ce temple oï¿½ le plus saint des rois
+Aujourd'hui même encore une voix trop fidèle
+M'a d'un triste désastre apporté la nouvelle :
+J'apprends que, dans ce temple où le plus saint des rois
 Consacra tout le fruit de ses pieux exploits,
 Et signala pour moi sa pompeuse largesse,
-L'implacable Discorde et l'infï¿½me Mollesse,
+L'implacable Discorde et l'infâme Mollesse,
 Foulant aux pieds les lois, l'honneur et le devoir,
 Usurpent en mon nom le souverain pouvoir.
 Souffriras-tu, ma soeur, une action si noire ?
-Quoi ! ce temple, ï¿½ ta porte, ï¿½levï¿½ pour ma gloire,
-Oï¿½ jadis des humains j'attirais tous les voeux,
-Sera de leurs combats le thï¿½ï¿½tre honteux !
-Non, non, il faut enfin que ma vengeance ï¿½clate :
-Assez et trop longtemps l'impunitï¿½ les flatte.
+Quoi ! ce temple, à ta porte, élevé pour ma gloire,
+Où jadis des humains j'attirais tous les voeux,
+Sera de leurs combats le théâtre honteux !
+Non, non, il faut enfin que ma vengeance éclate :
+Assez et trop longtemps l'impunité les flatte.
 Prends ton glaive, et, fondant sur ces audacieux,
 Viens aux yeux des mortels justifier les cieux.
 
-Ainsi parle ï¿½ sa soeur cette vierge enflammï¿½e :
-La grï¿½ce est dans ses yeux d'un feu pur allumï¿½e.
-Thï¿½mis sans diffï¿½rer lui promet son secours,
+Ainsi parle à sa soeur cette vierge enflammée :
+La grâce est dans ses yeux d'un feu pur allumée.
+Thémis sans différer lui promet son secours,
 La flatte, la rassure et lui tient ce discours :
 
-Chï¿½re et divine soeur, dont les mains secourables
-Ont tant de fois sï¿½chï¿½ les pleurs des misï¿½rables,
-Pourquoi toi-mï¿½me, en proie ï¿½ tes vives douleurs,
-Cherches-tu sans raison ï¿½ grossir tes malheurs ?
+Chère et divine soeur, dont les mains secourables
+Ont tant de fois séché les pleurs des misérables,
+Pourquoi toi-même, en proie à tes vives douleurs,
+Cherches-tu sans raison à grossir tes malheurs ?
 En vain de tes sujets l'ardeur est ralentie ;
-D'un ciment ï¿½ternel ton Eglise est bï¿½tie,
-Et jamais de l'enfer les noirs frï¿½missements
-N'en sauraient ï¿½branler les fermes fondements.
+D'un ciment éternel ton Eglise est bâtie,
+Et jamais de l'enfer les noirs frémissements
+N'en sauraient ébranler les fermes fondements.
 Au milieu des combats, des troubles, des querelles,
-Ton nom encor chï¿½ri vit au sein des fidï¿½les.
-Crois-moi, dans ce lieu mï¿½me oï¿½ l'on veut t'opprimer,
-Le trouble qui t'ï¿½tonne est facile ï¿½ calmer ;
-Et, pour y rappeler la paix tant dï¿½sirï¿½e,
-Je vais t'ouvrir, ma soeur, une route assurï¿½e.
-Prï¿½te-moi donc l'oreille, et retiens tes soupirs.
+Ton nom encor chéri vit au sein des fidèles.
+Crois-moi, dans ce lieu même où l'on veut t'opprimer,
+Le trouble qui t'étonne est facile à calmer ;
+Et, pour y rappeler la paix tant désirée,
+Je vais t'ouvrir, ma soeur, une route assurée.
+Prête-moi donc l'oreille, et retiens tes soupirs.
 
-Vers ce temple fameux, si chers ï¿½ tes dï¿½sirs
-Oï¿½ le ciel fut pour toi si prodigue en miracles,
-Non loin de ce palais oï¿½ je rends mes oracles,
-Est un vaste sï¿½jour des mortels rï¿½vï¿½rï¿½,
-Et de clients soumis ï¿½ toute heure entourï¿½,
-Lï¿½, sous le faix pompeux de ma pourpre honorable,
+Vers ce temple fameux, si chers à tes désirs
+Où le ciel fut pour toi si prodigue en miracles,
+Non loin de ce palais où je rends mes oracles,
+Est un vaste séjour des mortels révéré,
+Et de clients soumis à toute heure entouré,
+Là, sous le faix pompeux de ma pourpre honorable,
 Veille au soin de ma gloire un homme incomparable,
 Ariste, dont le Ciel et Louis ont fait choix
-Pour rï¿½gler ma balance et dispenser mes lois.
-Par lui dans le barreau sur mon trï¿½ne affermie
+Pour régler ma balance et dispenser mes lois.
+Par lui dans le barreau sur mon trône affermie
 Je vois hurler en vain la chicane ennemie ;
-Par lui la vï¿½ritï¿½ ne craint plus l'imposteur,
-Et l'orphelin n'est plus dï¿½vorï¿½ du tuteur.
+Par lui la vérité ne craint plus l'imposteur,
+Et l'orphelin n'est plus dévoré du tuteur.
 Mais pourquoi vainement t'en retracer l'image ?
 Tu le connais assez : Ariste est ton ouvrage.
-C'est toi qui le formas dï¿½s ses plus jeunes ans :
-Son mï¿½rite sans tache est un de tes prï¿½sents.
-Tes divines leï¿½ons, avec le lait sucï¿½es,
-Allumï¿½rent l'ardeur de ses nobles pensï¿½es.
-Aussi son coeur, pour toi brï¿½lant d'un si beau feu,
-N'en fit point dans le monde un lï¿½che dï¿½saveu ;
-Et son zï¿½le hardi, toujours prï¿½t ï¿½ paraï¿½tre,
-N'alla point se cacher dans le sombres d'un cloï¿½tre.
+C'est toi qui le formas dès ses plus jeunes ans :
+Son mérite sans tache est un de tes présents.
+Tes divines leçons, avec le lait sucées,
+Allumèrent l'ardeur de ses nobles pensées.
+Aussi son coeur, pour toi brûlant d'un si beau feu,
+N'en fit point dans le monde un lâche désaveu ;
+Et son zèle hardi, toujours prêt à paraître,
+N'alla point se cacher dans le sombres d'un cloître.
 Va le trouver, ma soeur a ton auguste nom,
 Tout s'ouvrira d'abord en sa sainte maison.
 Ton visage est connu de sa noble famille.
 Tout y garde tes lois, enfants, soeurs, femme, fille.
-Tes yeux d'un seul regard sauront le pï¿½nï¿½trer ;
-Et, pour obtenir tout, tu n'as qu'ï¿½ te montrer.
+Tes yeux d'un seul regard sauront le pénétrer ;
+Et, pour obtenir tout, tu n'as qu'à te montrer.
 
-Lï¿½ s'arrï¿½ta Thï¿½mis. La Piï¿½tï¿½ charmï¿½e
-Sent renaï¿½tre la joie en son ï¿½me calmï¿½e.
-Elle court chez Ariste ; Et s'offrant ï¿½ ses yeux :
+Là s'arrêta Thémis. La Piété charmée
+Sent renaître la joie en son âme calmée.
+Elle court chez Ariste ; Et s'offrant à ses yeux :
 
 Que me sert, lui dit-elle, Ariste qu'en tous lieux
-Tu signales pour moi ton zï¿½le et ton courage,
-Si la Discorde impie ï¿½ ma porte m'outrage ?
-Dans ces murs, autrefois si saints, si renommï¿½s,
-A mes sacrï¿½s autels font un profane insulte,
+Tu signales pour moi ton zèle et ton courage,
+Si la Discorde impie à ma porte m'outrage ?
+Dans ces murs, autrefois si saints, si renommés,
+A mes sacrés autels font un profane insulte,
 Remplissent tout d'effroi, de trouble et de tumulte.
-De leur crime ï¿½ leurs yeux va-t-en peindre l'horreur :
+De leur crime à leurs yeux va-t-en peindre l'horreur :
 Sauve-moi, sauve-les de leur propre fureur.
 
-Elle sort ï¿½ ces mots. Le hï¿½ros en priï¿½re
-Demeure tout couvert de feux et de lumiï¿½re.
-De la cï¿½leste fille il reconnaï¿½t l'ï¿½clat,
-Et mande au mï¿½me instant le chantre et le prï¿½lat.
+Elle sort à ces mots. Le héros en prière
+Demeure tout couvert de feux et de lumière.
+De la céleste fille il reconnaît l'éclat,
+Et mande au même instant le chantre et le prélat.
 
-Muse, c'est ï¿½ ce coup que mon esprit timide
-Dans sa course ï¿½levï¿½e a besoin qu'on le guide.
+Muse, c'est à ce coup que mon esprit timide
+Dans sa course élevée a besoin qu'on le guide.
 Pour chanter par quels soins, par quels nobles travaux
-Un mortel sut flï¿½chir ces superbes rivaux.
+Un mortel sut fléchir ces superbes rivaux.
 
-Mais plutï¿½t, toi qui fis ce merveilleux ouvrage,
-Ariste, c'est ï¿½ toi d'en instruire nï¿½tre ï¿½ge.
-Seul tu peux rï¿½vï¿½ler par quel art tout puissant
-Tu rendis tout-ï¿½-coup le chantre obï¿½issant.
+Mais plutôt, toi qui fis ce merveilleux ouvrage,
+Ariste, c'est à toi d'en instruire nôtre âge.
+Seul tu peux révéler par quel art tout puissant
+Tu rendis tout-à-coup le chantre obéissant.
 Tu sais par quel conseil rassemblant le chapitre
-Lui-mï¿½me, de sa main, reporta le pupitre ;
-Et comment le prï¿½lat, de ses respects content,
-Le fit du banc fatal enlever ï¿½ l'instant.
-Parle donc : c'est ï¿½ toi d'ï¿½claircir ces merveilles.
+Lui-même, de sa main, reporta le pupitre ;
+Et comment le prélat, de ses respects content,
+Le fit du banc fatal enlever à l'instant.
+Parle donc : c'est à toi d'éclaircir ces merveilles.
 Il me suffit pour moi d'avoir su, par mes veilles
-Jusqu'au sixiï¿½me chant pousser ma fiction,
+Jusqu'au sixième chant pousser ma fiction,
 Et fait d'un vain pupitre un second Ilion.
 Finissons. Aussi bien, quelque ardeur qui m'inspire,
-Quand je songe au hï¿½ros qui me reste ï¿½ dï¿½crire,
-Qu'il faut parler de toi, mon esprit ï¿½perdu
+Quand je songe au héros qui me reste à décrire,
+Qu'il faut parler de toi, mon esprit éperdu
 Demeure sans parole, interdit, confondu.
 
-Ariste, c'est ainsi qu'en ce sï¿½nat illustre
-Oï¿½ Thï¿½mis, par tes soins, reprend son premier lustre,
-Quand, la premiï¿½re fois, un athlï¿½te nouveau
+Ariste, c'est ainsi qu'en ce sénat illustre
+Où Thémis, par tes soins, reprend son premier lustre,
+Quand, la première fois, un athlète nouveau
 Vient combattre en champ clos aux joutes du barreau,
-Souvent sans y penser ton auguste prï¿½sence
-Troublant par trop d'ï¿½clat sa timide ï¿½loquence,
-Le nouveau Cicï¿½ron, tremblant, dï¿½colorï¿½,
-Cherche en vain son discours sur sa langue ï¿½garï¿½ :
+Souvent sans y penser ton auguste présence
+Troublant par trop d'éclat sa timide éloquence,
+Le nouveau Cicéron, tremblant, décoloré,
+Cherche en vain son discours sur sa langue égaré :
 En vain, pour gagner temps, dans ses transes affreuses,
-Traï¿½ne d'un dernier mot les syllabes honteuses ;
-Il hï¿½site, il bï¿½gaie ; et le triste orateur
+Traîne d'un dernier mot les syllabes honteuses ;
+Il hésite, il bégaie ; et le triste orateur
 Demeure enfin muet aux yeux du spectateur.
 
 

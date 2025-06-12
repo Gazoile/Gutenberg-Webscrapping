@@ -1,4 +1,4 @@
-Project by Carlo Traverso and Mireille Harmelin
+﻿Project by Carlo Traverso and Mireille Harmelin
 This file was produced from images generously made available by the
 Bibliothèque nationale de France (BnF/Gallica) at http://gallica.bnf.fr. 
 

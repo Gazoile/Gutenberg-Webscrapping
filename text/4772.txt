@@ -1,8 +1,4 @@
 
-Nous remercions la Bibliothï¿½que Nationale de France qui a mis ï¿½
-dispositions les images dans www://gallica.bnf.fr, et a donnï¿½
-l'authorization ï¿½ les utilizer pour preparer ce texte.
-
 
 
 
@@ -17,7 +13,7 @@ l'authorization ï¿½ les utilizer pour preparer ce texte.
 
 	      DE L' IMPRIMERIE DE A.  FIRMIN DIDOT,
 
-			RUE JACOB, Nï¿½ 24.
+			RUE JACOB, N° 24.
 
 
 
@@ -28,7 +24,7 @@ l'authorization ï¿½ les utilizer pour preparer ce texte.
 
 			    VOLTAIRE
 
-	      PRï¿½FACES, AVERTISSEMENTS, NOTES, ETC.
+	      PRÉFACES, AVERTISSEMENTS, NOTES, ETC.
 
 			PAR  M. BEUCHOT.
 
@@ -38,11 +34,11 @@ l'authorization ï¿½ les utilizer pour preparer ce texte.
 
 			    A PARIS,
 
-		     CHEZ LEFï¿½VRE, LIBRAIRE,
+		     CHEZ LEFÈVRE, LIBRAIRE,
 
-	 RUE DE L'ï¿½PERON, Kï¿½ 6.  WERDET ET LEQUIEN FILS,
+	 RUE DE L'ÉPERON, K° 6.  WERDET ET LEQUIEN FILS,
 
-		     RUE DU BATTOIR, Nï¿½ 2O.
+		     RUE DU BATTOIR, N° 2O.
 
 			   MDCCCXXIX.
 
@@ -53,7 +49,7 @@ l'authorization ï¿½ les utilizer pour preparer ce texte.
 
 
 
-Prï¿½face de l'ï¿½diteur
+Préface de l'Éditeur
 
 
 
@@ -64,16 +60,16 @@ Guillaume Fade.
 
 				------
 
-Les notes sans signature, et qui sont indiquï¿½es par des lettres,
+Les notes sans signature, et qui sont indiquées par des lettres,
 sont de Voltaire.
 
-Les notes signï¿½es d'un K sont des ï¿½diteurs de Kehl, MM. Condorcet
+Les notes signées d'un K sont des éditeurs de Kehl, MM. Condorcet
 et Decroix.  Il est impossible de faire rigoureusement la part de
 chacun.
 
 Les additions que j'ai faites aux notes de Voltaire ou aux notes
-des ï¿½diteurs de Kehl, en sont sï¿½parï¿½es par un--, et sont, comme
-mes notes, signï¿½es de l'initiale de mon nom.
+des éditeurs de Kehl, en sont séparées par un--, et sont, comme
+mes notes, signées de l'initiale de mon nom.
 
                                                  BEUCHOT.
 
@@ -88,339 +84,339 @@ mes notes, signï¿½es de l'initiale de mon nom.
 
 
 
-Plusieurs personnes dignes de foi ont vu Jeannot et Colin ï¿½
-l'ï¿½cole dans la ville d'Issoire, en Auvergne, ville fameuse dans
-tout l'univers par son collï¿½ge et par ses chaudrons.  Jeannot
-ï¿½tait fils d'un marchand de mulets trï¿½s renommï¿½; Colin devait le
-jour ï¿½ un brave laboureur des environs, qui cultivait la terre
-avec quatre mulets, et qui, aprï¿½s avoir payï¿½ la taille, le
+Plusieurs personnes dignes de foi ont vu Jeannot et Colin à
+l'école dans la ville d'Issoire, en Auvergne, ville fameuse dans
+tout l'univers par son collège et par ses chaudrons.  Jeannot
+était fils d'un marchand de mulets très renommé; Colin devait le
+jour à un brave laboureur des environs, qui cultivait la terre
+avec quatre mulets, et qui, après avoir payé la taille, le
 taillon, les aides et gabelles, le sou pour livre, la capitation,
-et les vingtiï¿½mes, ne se trouvait pas puissamment riche au bout
-de l'annï¿½e.
+et les vingtièmes, ne se trouvait pas puissamment riche au bout
+de l'année.
 
-Jeannot et Colin ï¿½taient fort jolis pour des Auvergnats; ils
+Jeannot et Colin étaient fort jolis pour des Auvergnats; ils
 s'aimaient beaucoup; et ils avaient ensemble de petites
-privautï¿½s, de petites familiaritï¿½s, dont on se ressouvient
-toujours avec agrï¿½ment quand on se rencontre ensuite dans le
+privautés, de petites familiarités, dont on se ressouvient
+toujours avec agrément quand on se rencontre ensuite dans le
 monde.
 
-Le temps de leurs ï¿½tudes ï¿½tait sur le point de finir, quand un
-tailleur apporta ï¿½ Jeannot un habit de velours ï¿½ trois couleurs,
-avec une veste de Lyon de fort bon goï¿½t; le tout ï¿½tait accompagnï¿½
-d'une lettre ï¿½ M. de La Jeannotiï¿½re.  Colin admira l'habit, et ne
-fut point jaloux; mais Jeannot prit un air de supï¿½rioritï¿½ qui
-affligea Colin.  Dï¿½s ce moment Jeannot n'ï¿½tudia plus, se regarda
-au miroir, et mï¿½prisa tout le monde.  Quelque temps aprï¿½s un
-valet de chambre arrive en poste, et apporte une seconde lettre ï¿½
-monsieur le marquis de La Jeannotiï¿½re; c'ï¿½tait un ordre de
-monsieur son pï¿½re de faire venir monsieur son fils ï¿½ Paris.
-Jeannot monta en chaise en tendant la main ï¿½ Colin avec un
-sourire de protection assez noble.  Colin sentit son nï¿½ant, et
+Le temps de leurs études était sur le point de finir, quand un
+tailleur apporta à Jeannot un habit de velours à trois couleurs,
+avec une veste de Lyon de fort bon goût; le tout était accompagné
+d'une lettre à M. de La Jeannotière.  Colin admira l'habit, et ne
+fut point jaloux; mais Jeannot prit un air de supériorité qui
+affligea Colin.  Dès ce moment Jeannot n'étudia plus, se regarda
+au miroir, et méprisa tout le monde.  Quelque temps après un
+valet de chambre arrive en poste, et apporte une seconde lettre à
+monsieur le marquis de La Jeannotière; c'était un ordre de
+monsieur son père de faire venir monsieur son fils à Paris.
+Jeannot monta en chaise en tendant la main à Colin avec un
+sourire de protection assez noble.  Colin sentit son néant, et
 pleura.  Jeannot partit dans toute la pompe de sa gloire.
 
-Les lecteurs qui aiment ï¿½ s'instruire doivent savoir que
-M. Jeannot, le pï¿½re, avait acquis assez rapidement des biens
+Les lecteurs qui aiment à s'instruire doivent savoir que
+M. Jeannot, le père, avait acquis assez rapidement des biens
 immenses dans les affaires.  Vous demandez comment on fait ces
 grandes fortunes?  C'est parcequ'on est heureux.  M. Jeannot
-ï¿½tait bien fait, sa femme aussi, et elle avait encore de la
-fraï¿½cheur.  Ils allï¿½rent ï¿½ Paris pour un procï¿½s qui les ruinait,
-lorsque la fortune, qui ï¿½lï¿½ve et qui abaisse les hommes ï¿½ son
-grï¿½, les prï¿½senta ï¿½ la femme d'un entrepreneur des hï¿½pitaux des
-armï¿½es, homme d'un grand talent, et qui pouvait se vanter d'avoir
-tuï¿½ plus de soldats en un an que le canon n'en fait pï¿½rir en dix.
-Jeannot plut ï¿½ madame; la femme de Jeannot plut ï¿½ monsieur.
-Jeannot fut bientï¿½t de part dans l'entreprise; il entra dans
-d'autres affaires.  Dï¿½s qu'on est dans le fil de l'eau, il n'y a
-qu'ï¿½ se laisser aller; on fait sans peine une fortune immense.
-Les gredins, qui du rivage vous regardent voguer ï¿½ pleines
-voiles, ouvrent des yeux ï¿½tonnï¿½s; ils ne savent comment vous avez
+était bien fait, sa femme aussi, et elle avait encore de la
+fraîcheur.  Ils allèrent à Paris pour un procès qui les ruinait,
+lorsque la fortune, qui élève et qui abaisse les hommes à son
+gré, les présenta à la femme d'un entrepreneur des hôpitaux des
+armées, homme d'un grand talent, et qui pouvait se vanter d'avoir
+tué plus de soldats en un an que le canon n'en fait périr en dix.
+Jeannot plut à madame; la femme de Jeannot plut à monsieur.
+Jeannot fut bientôt de part dans l'entreprise; il entra dans
+d'autres affaires.  Dès qu'on est dans le fil de l'eau, il n'y a
+qu'à se laisser aller; on fait sans peine une fortune immense.
+Les gredins, qui du rivage vous regardent voguer à pleines
+voiles, ouvrent des yeux étonnés; ils ne savent comment vous avez
 pu parvenir; ils vous envient au hasard, et font contre vous des
-brochures que vous ne lisez point.  C'est ce qui arriva ï¿½ Jeannot
-le pï¿½re, qui fut bientï¿½t M. de La Jeannotiï¿½re, et qui, ayant
-achetï¿½ un marquisat au bout de six mois, retira de l'ï¿½cole
-monsieur le marquis son fils, pour le mettre ï¿½ Paris dans le beau
+brochures que vous ne lisez point.  C'est ce qui arriva à Jeannot
+le père, qui fut bientôt M. de La Jeannotière, et qui, ayant
+acheté un marquisat au bout de six mois, retira de l'école
+monsieur le marquis son fils, pour le mettre à Paris dans le beau
 monde.
 
-Colin, toujours tendre, ï¿½crivit une lettre de compliments ï¿½ son
+Colin, toujours tendre, écrivit une lettre de compliments à son
 ancien camarade, et lui fit ces lignes pour le congratuler.  Le
-petit marquis ne lui fit point de rï¿½ponse: Colin en fut malade de
+petit marquis ne lui fit point de réponse: Colin en fut malade de
 douleur.
 
-Le pï¿½re et la mï¿½re donnï¿½rent d'abord un gouverneur au jeune
-marquis: ce gouverneur, qui ï¿½tait un homme du bel air, et qui ne
-savait rien, ne put rien enseigner ï¿½ son pupille.  Monsieur
-voulait que son fils apprï¿½t le latin, madame ne le voulait pas.
-Ils prirent pour arbitre un auteur qui ï¿½tait cï¿½lï¿½bre alors par
-des ouvrages agrï¿½ables.  Il fut priï¿½ ï¿½ dï¿½ner.  Le maï¿½tre de la
-maison commenï¿½a par lui dire: Monsieur, comme vous savez le
-latin, et que vous ï¿½tes un homme de la cour....  Moi, monsieur,
-du latin!  je n'en sais pas un mot, rï¿½pondit le bel esprit, et
+Le père et la mère donnèrent d'abord un gouverneur au jeune
+marquis: ce gouverneur, qui était un homme du bel air, et qui ne
+savait rien, ne put rien enseigner à son pupille.  Monsieur
+voulait que son fils apprît le latin, madame ne le voulait pas.
+Ils prirent pour arbitre un auteur qui était célèbre alors par
+des ouvrages agréables.  Il fut prié à dîner.  Le maître de la
+maison commença par lui dire: Monsieur, comme vous savez le
+latin, et que vous êtes un homme de la cour....  Moi, monsieur,
+du latin!  je n'en sais pas un mot, répondit le bel esprit, et
 bien m'en a pris: il est clair qu'on parle beaucoup mieux sa
 langue quand on ne partage pas son application entre elle et les
-langues ï¿½trangï¿½res.  Voyez toutes nos dames, elles ont l'esprit
-plus agrï¿½able que les hommes; leurs lettres sont ï¿½crites avec
-cent fois plus de grï¿½ce; elles n'ont sur nous cette supï¿½rioritï¿½
+langues étrangères.  Voyez toutes nos dames, elles ont l'esprit
+plus agréable que les hommes; leurs lettres sont écrites avec
+cent fois plus de grâce; elles n'ont sur nous cette supériorité
 que parcequ'elles ne savent pas le latin.
 
 Eh bien!  n'avais-je pas raison?  dit madame.  Je veux que mon
-fils soit un homme d'esprit, qu'il rï¿½ussisse dans le monde; et
+fils soit un homme d'esprit, qu'il réussisse dans le monde; et
 vous voyez bien que, s'il savait le latin, il serait perdu.
-Joue-t-on, s'il vous plaï¿½t, la comï¿½die et l'opï¿½ra en latin?
-plaide-t-on en latin quand on a un procï¿½s?  fait-on l'amour en
-latin?  Monsieur, ï¿½bloui de ces raisons, passa condamnation, et
-il fut conclu que le jeune marquis ne perdrait point son temps ï¿½
-connaï¿½tre Cicï¿½ron, Horace, et Virgile.  Mais qu'apprendra-t-il
+Joue-t-on, s'il vous plaît, la comédie et l'opéra en latin?
+plaide-t-on en latin quand on a un procès?  fait-on l'amour en
+latin?  Monsieur, ébloui de ces raisons, passa condamnation, et
+il fut conclu que le jeune marquis ne perdrait point son temps à
+connaître Cicéron, Horace, et Virgile.  Mais qu'apprendra-t-il
 donc?  car encore faut-il qu'il sache quelque chose; ne
-pourrait-on pas lui montrer un peu de gï¿½ographie?  A quoi, cela
-lui servira-t-il?  rï¿½pondit le gouverneur.  Quand monsieur le
+pourrait-on pas lui montrer un peu de géographie?  A quoi, cela
+lui servira-t-il?  répondit le gouverneur.  Quand monsieur le
 marquis ira dans ses terres, les postillons ne sauront-ils pas
-les chemins?  ils ne l'ï¿½gareront certainement pas.  On n'a pas
-besoin d'un quart de cercle pour voyager, et on va trï¿½s
-commodï¿½ment de Paris en Auvergne, sans qu'il soit besoin de
+les chemins?  ils ne l'égareront certainement pas.  On n'a pas
+besoin d'un quart de cercle pour voyager, et on va très
+commodément de Paris en Auvergne, sans qu'il soit besoin de
 savoir sous quelle latitude on se trouve.
 
-Vous avez raison, rï¿½pliqua le pï¿½re; mais j'ai entendu parler
+Vous avez raison, répliqua le père; mais j'ai entendu parler
 d'une belle science qu'on appelle, je crois, l'astronomie.
-Quelle pitiï¿½!  repartit le gouverneur; se conduit-on par les
+Quelle pitié!  repartit le gouverneur; se conduit-on par les
 astres dans ce monde?  et faudra-t-il que monsieur le marquis se
-tue ï¿½ calculer une ï¿½clipse, quand il la trouve ï¿½ point nommï¿½ dans
-l'almanach, qui lui enseigne de plus les fï¿½tes mobiles, l'ï¿½ge de
+tue à calculer une éclipse, quand il la trouve à point nommé dans
+l'almanach, qui lui enseigne de plus les fêtes mobiles, l'âge de
 la lune, et celui de toutes les princesses de l'Europe?
 
-Madame fut entiï¿½rement de l'avis du gouverneur.  Le petit marquis
-ï¿½tait au comble de la joie; le pï¿½re ï¿½tait trï¿½s indï¿½cis.  Que
-faudra-t-il donc apprendre ï¿½ mon fils?  disait-il.  A ï¿½tre
-aimable, rï¿½pondit l'ami que l'on consultait; et s'il sait les
+Madame fut entièrement de l'avis du gouverneur.  Le petit marquis
+était au comble de la joie; le père était très indécis.  Que
+faudra-t-il donc apprendre à mon fils?  disait-il.  A être
+aimable, répondit l'ami que l'on consultait; et s'il sait les
 moyens de plaire, il saura tout: c'est un art qu'il apprendra
-chez madame sa mï¿½re, sans que ni l'un ni l'autre se donnent la
+chez madame sa mère, sans que ni l'un ni l'autre se donnent la
 moindre peine.
 
-Madame, ï¿½ ce discours, embrassa le gracieux ignorant, et lui dit:
-On voit bien, monsieur, que vous ï¿½tes l'homme du monde le plus
-savant; mon fils vous devra toute son ï¿½ducation: je m'imagine
-pourtant qu'il ne serait pas mal qu'il sï¿½t un peu d'histoire.
-Hï¿½las!  madame, ï¿½ quoi cela est-il bon?  rï¿½pondit-il; il n'y a
-certainement d'agrï¿½able et d'utile que l'histoire du jour.
+Madame, à ce discours, embrassa le gracieux ignorant, et lui dit:
+On voit bien, monsieur, que vous êtes l'homme du monde le plus
+savant; mon fils vous devra toute son éducation: je m'imagine
+pourtant qu'il ne serait pas mal qu'il sût un peu d'histoire.
+Hélas!  madame, à quoi cela est-il bon?  répondit-il; il n'y a
+certainement d'agréable et d'utile que l'histoire du jour.
 Toutes les histoires anciennes, comme le disait un de nos beaux
 esprits[1], ne sont que des fables convenues; et pour les
-modernes, c'est un chaos qu'on ne peut dï¿½brouiller.  Qu'importe ï¿½
-monsieur votre fils que Charlemagne ait instituï¿½ les douze pairs
-de France, et que son successeur ait ï¿½tï¿½ bï¿½gue?
+modernes, c'est un chaos qu'on ne peut débrouiller.  Qu'importe à
+monsieur votre fils que Charlemagne ait institué les douze pairs
+de France, et que son successeur ait été bègue?
 
   [1] Fontenelle.  B.
 
 
-Rien n'est mieux dit!  s'ï¿½cria le gouverneur: on ï¿½touffe l'esprit
+Rien n'est mieux dit!  s'écria le gouverneur: on étouffe l'esprit
 des enfants sous un amas de connaissances inutiles; mais de
-toutes les sciences la plus absurde, ï¿½ mon avis, et celle qui est
-la plus capable d'ï¿½touffer toute espï¿½ce de gï¿½nie, c'est la
-gï¿½omï¿½trie.  Cette science ridicule a pour objet des surfaces ,
+toutes les sciences la plus absurde, à mon avis, et celle qui est
+la plus capable d'étouffer toute espèce de génie, c'est la
+géométrie.  Cette science ridicule a pour objet des surfaces ,
 des lignes, et des points, qui n'existent pas dans la nature.  On
 fait passer en esprit cent mille lignes courbes entre un cercle
-et une ligne droite qui le touche, quoique dans la rï¿½alitï¿½ on n'y
-puisse pas passer un fï¿½tu.  La gï¿½omï¿½trie, en vï¿½ritï¿½, n'est qu'une
+et une ligne droite qui le touche, quoique dans la réalité on n'y
+puisse pas passer un fétu.  La géométrie, en vérité, n'est qu'une
 mauvaise plaisanterie.
 
 Monsieur et madame n'entendaient pas trop ce que le gouverneur
-voulait dire; mais ils furent entiï¿½rement de son avis.
+voulait dire; mais ils furent entièrement de son avis.
 
 Un seigneur comme monsieur le marquis, continua-t-il , ne doit
-pas se dessï¿½cher le cerveau dans ces vaines ï¿½tudes.  Si un jour
-il a besoin d'un gï¿½omï¿½tre sublime, pour lever le plan de ses
+pas se dessécher le cerveau dans ces vaines études.  Si un jour
+il a besoin d'un géomètre sublime, pour lever le plan de ses
 terres, il les fera arpenter pour son argent.  S'il veut
-dï¿½brouiller l'antiquitï¿½ de sa noblesse, qui remonte aux temps les
-plus reculï¿½s, il enverra chercher un bï¿½nï¿½dictin.  Il en est de
-mï¿½me de tous les arts.  Un jeune seigneur heureusement nï¿½ n'est
+débrouiller l'antiquité de sa noblesse, qui remonte aux temps les
+plus reculés, il enverra chercher un bénédictin.  Il en est de
+même de tous les arts.  Un jeune seigneur heureusement né n'est
 ni peintre, ni musicien, ni architecte, ni sculpteur; mais il
 fait fleurir tous ces arts en les encourageant par sa
-magnificence.  Il vaut sans doute mieux les protï¿½ger que de les
-exercer; il suffit que monsieur le marquis ait du goï¿½t; c'est aux
-artistes ï¿½ travailler pour lui; et c'est en quoi on a trï¿½s grande
-raison de dire que les gens de qualitï¿½ (j'entends ceux qui sont
-trï¿½s riches) savent tout sans avoir rien appris, parcequ'en effet
-ils savent ï¿½ la longue juger de toutes les choses qu'ils
+magnificence.  Il vaut sans doute mieux les protéger que de les
+exercer; il suffit que monsieur le marquis ait du goût; c'est aux
+artistes à travailler pour lui; et c'est en quoi on a très grande
+raison de dire que les gens de qualité (j'entends ceux qui sont
+très riches) savent tout sans avoir rien appris, parcequ'en effet
+ils savent à la longue juger de toutes les choses qu'ils
 commandent et qu'ils paient.
 
-L'aimable ignorant prit alors la parole, et dit: Vous avez trï¿½s
-bien remarquï¿½, madame, que la grande fin de l'homme est de
-rï¿½ussir dans la sociï¿½tï¿½.  De bonne foi, est-ce par les sciences
-qu'on obtient ce succï¿½s?  s'est-on jamais avisï¿½ dans la bonne
-compagnie de parler de gï¿½omï¿½trie?  demande-t-on jamais ï¿½ un
-honnï¿½te homme quel astre se lï¿½ve aujourd'hui avec le soleil?
-s'informe-t-on ï¿½ souper si Clodion-le-Chevelu passa le Rhin?
-Non, sans doute, s'ï¿½cria la marquise de La Jeannotiï¿½re, que ses
-charmes avaient initiï¿½e quelquefois dans le beau monde, et
-monsieur mon fils ne doit point ï¿½teindre son gï¿½nie par l'ï¿½tude de
+L'aimable ignorant prit alors la parole, et dit: Vous avez très
+bien remarqué, madame, que la grande fin de l'homme est de
+réussir dans la société.  De bonne foi, est-ce par les sciences
+qu'on obtient ce succès?  s'est-on jamais avisé dans la bonne
+compagnie de parler de géométrie?  demande-t-on jamais à un
+honnête homme quel astre se lève aujourd'hui avec le soleil?
+s'informe-t-on à souper si Clodion-le-Chevelu passa le Rhin?
+Non, sans doute, s'écria la marquise de La Jeannotière, que ses
+charmes avaient initiée quelquefois dans le beau monde, et
+monsieur mon fils ne doit point éteindre son génie par l'étude de
 tous ces fatras; mais enfin que lui apprendra-t-on?  car il est
 bon qu'un jeune seigneur puisse briller dans l'occasion, comme
-dit monsieur mon mari.  Je me souviens d'avoir ouï¿½ dire ï¿½ un abbï¿½
-que la plus agrï¿½able des sciences ï¿½tait une chose dont j'ai
-oubliï¿½ le nom, mais qui commence par un _B_.--Par un _B_, madame?
-ne serait-ce point la botanique?--Non, ce n'ï¿½tait point de
-botanique qu'il me parlait; elle commenï¿½ait, vous dis-je, par un
+dit monsieur mon mari.  Je me souviens d'avoir ouï dire à un abbé
+que la plus agréable des sciences était une chose dont j'ai
+oublié le nom, mais qui commence par un _B_.--Par un _B_, madame?
+ne serait-ce point la botanique?--Non, ce n'était point de
+botanique qu'il me parlait; elle commençait, vous dis-je, par un
 _B_, et finissait par un _on_.--Ah!  j'entends, madame; c'est le
-blason: c'est, ï¿½ la vï¿½ritï¿½, une science fort profonde; mais elle
-n'est plus ï¿½ la mode depuis qu'on a perdu l'habitude de faire
-peindre ses armes aux portiï¿½res de son carrosse; c'ï¿½tait la chose
-du monde la plus utile dans un ï¿½tat bien policï¿½.  D'ailleurs
-cette ï¿½tude serait infinie; il n'y a point aujourd'hui de barbier
+blason: c'est, à la vérité, une science fort profonde; mais elle
+n'est plus à la mode depuis qu'on a perdu l'habitude de faire
+peindre ses armes aux portières de son carrosse; c'était la chose
+du monde la plus utile dans un état bien policé.  D'ailleurs
+cette étude serait infinie; il n'y a point aujourd'hui de barbier
 qui n'ait ses armoiries; et vous savez que tout ce qui devient
-commun est peu fï¿½tï¿½.  Enfin, aprï¿½s avoir examinï¿½ le fort et le
-faible des sciences, il fut dï¿½cidï¿½ que monsieur le marquis
-apprendrait ï¿½ danser.
+commun est peu fêté.  Enfin, après avoir examiné le fort et le
+faible des sciences, il fut décidé que monsieur le marquis
+apprendrait à danser.
 
-La nature, qui fait tout, lui avait donnï¿½ un talent qui se
-dï¿½veloppa bientï¿½t avec un succï¿½s prodigieux; c'ï¿½tait de chanter
-agrï¿½ablement des vaudevilles.  Les grï¿½ces de la jeunesse, jointes
-ï¿½ ce don supï¿½rieur, le firent regarder comme le jeune homme de la
-plus grande espï¿½rance.  Il fut aimï¿½ des femmes; et ayant la tï¿½te
-toute pleine de chansons, il en fit pour ses maï¿½tresses.  Il
+La nature, qui fait tout, lui avait donné un talent qui se
+développa bientôt avec un succès prodigieux; c'était de chanter
+agréablement des vaudevilles.  Les grâces de la jeunesse, jointes
+à ce don supérieur, le firent regarder comme le jeune homme de la
+plus grande espérance.  Il fut aimé des femmes; et ayant la tête
+toute pleine de chansons, il en fit pour ses maîtresses.  Il
 pillait _Bacchus_ et _l'Amour_ dans un vaudeville, la nuit et le
-jour dans un autre, les charmes et les alarmes dans un troisiï¿½me;
+jour dans un autre, les charmes et les alarmes dans un troisième;
 mais, comme il y avait toujours dans ses vers quelques pieds de
 plus ou de moins qu'il ne fallait, il les fesait corriger
 moyennant vingt louis d'or par chanson; et il fut mis dans
-l'_Annï¿½e_ littï¿½raire au rang des La Fare, des Chaulieu, des
+l'_Année_ littéraire au rang des La Fare, des Chaulieu, des
 Hamilton, des Sarrasin, et des Voiture.
 
-Madame la marquise crut alors ï¿½tre la mï¿½re d'un bel esprit, et
-donna ï¿½ souper aux beaux esprits de Paris.  La tï¿½te du jeune
-homme fut bientï¿½t renversï¿½e; il acquit l'art de parler sans
-s'entendre, et se perfectionna dans l'habitude de n'ï¿½tre propre ï¿½
-rien.  Quand son pï¿½re le vit si ï¿½loquent, il regretta vivement de
+Madame la marquise crut alors être la mère d'un bel esprit, et
+donna à souper aux beaux esprits de Paris.  La tête du jeune
+homme fut bientôt renversée; il acquit l'art de parler sans
+s'entendre, et se perfectionna dans l'habitude de n'être propre à
+rien.  Quand son père le vit si éloquent, il regretta vivement de
 ne lui avoir pas fait apprendre le latin, car il lui aurait
-achetï¿½ une grande charge dans la robe.  La mï¿½re, qui avait des
-sentiments plus nobles, se chargea de solliciter un rï¿½giment pour
+acheté une grande charge dans la robe.  La mère, qui avait des
+sentiments plus nobles, se chargea de solliciter un régiment pour
 son fils; et en attendant il fit l'amour.  L'amour est
-quelquefois plus cher qu'un rï¿½giment.  Il dï¿½pensa beaucoup,
-pendant que ses parents s'ï¿½puisaient encore davantage ï¿½ vivre en
+quelquefois plus cher qu'un régiment.  Il dépensa beaucoup,
+pendant que ses parents s'épuisaient encore davantage à vivre en
 grands seigneurs.
 
-Une jeune veuve de qualitï¿½, leur voisine, qui n'avait qu'une
-fortune mï¿½diocre, voulut bien se rï¿½soudre ï¿½ mettre en sï¿½retï¿½ les
-grands biens de monsieur et de madame de La Jeannotiï¿½re, en se
-les appropriant, et en ï¿½pousant le jeune marquis.  Elle l'attira
-chez elle, se laissa aimer, lui fit entrevoir qu'il ne lui ï¿½tait
-pas indiffï¿½rent, le conduisit par degrï¿½s, l'enchanta, le subjugua
-sans peine.  Elle lui donnait tantï¿½t des ï¿½loges, tantï¿½t des
-conseils; elle devint la meilleure amie du pï¿½re et de la mï¿½re.
-Une vieille voisine proposa le mariage; les parents, ï¿½blouis de
-la splendeur de cette alliance, acceptï¿½rent avec joie la
-proposition: ils donnï¿½rent leur fils unique ï¿½ leur amie intime.
-Le jeune marquis allait ï¿½pouser une femme qu'il adorait et dont
-il ï¿½tait aimï¿½; les amis de la maison le fï¿½licitaient; on allait
-rï¿½diger les articles, en travaillant aux habits de noce et ï¿½
-l'ï¿½pithalame.
+Une jeune veuve de qualité, leur voisine, qui n'avait qu'une
+fortune médiocre, voulut bien se résoudre à mettre en sûreté les
+grands biens de monsieur et de madame de La Jeannotière, en se
+les appropriant, et en épousant le jeune marquis.  Elle l'attira
+chez elle, se laissa aimer, lui fit entrevoir qu'il ne lui était
+pas indifférent, le conduisit par degrés, l'enchanta, le subjugua
+sans peine.  Elle lui donnait tantôt des éloges, tantôt des
+conseils; elle devint la meilleure amie du père et de la mère.
+Une vieille voisine proposa le mariage; les parents, éblouis de
+la splendeur de cette alliance, acceptèrent avec joie la
+proposition: ils donnèrent leur fils unique à leur amie intime.
+Le jeune marquis allait épouser une femme qu'il adorait et dont
+il était aimé; les amis de la maison le félicitaient; on allait
+rédiger les articles, en travaillant aux habits de noce et à
+l'épithalame.
 
-Il ï¿½tait un matin aux genoux de la charmante ï¿½pouse que l'amour,
-l'estime, et l'amitiï¿½, allaient lui donner; ils goï¿½taient, dans
-une conversation tendre et animï¿½e, les prï¿½mices de leur bonheur;
-ils s'arrangeaient pour mener une vie dï¿½licieuse, lorsqu'un valet
-de chambre de madame la mï¿½re arrive tout effarï¿½.  Voici bien
-d'autres nouvelles, dit-il; des huissiers dï¿½mï¿½nagent la maison de
-monsieur et de madame; tout est saisi par des crï¿½anciers; on
+Il était un matin aux genoux de la charmante épouse que l'amour,
+l'estime, et l'amitié, allaient lui donner; ils goûtaient, dans
+une conversation tendre et animée, les prémices de leur bonheur;
+ils s'arrangeaient pour mener une vie délicieuse, lorsqu'un valet
+de chambre de madame la mère arrive tout effaré.  Voici bien
+d'autres nouvelles, dit-il; des huissiers déménagent la maison de
+monsieur et de madame; tout est saisi par des créanciers; on
 parle de prise de corps, et je vais faire mes diligences pour
-ï¿½tre payï¿½ de mes gages.  Voyons un peu, dit le marquis, ce que
-c'est que ï¿½a, ce que c'est que cette aventure-lï¿½.  Oui, dit la
-veuve, allez punir ces coquins-lï¿½, allez vite.  Il y court, il
-arrive ï¿½ la maison; son pï¿½re ï¿½tait dï¿½jï¿½ emprisonnï¿½: tous les
-domestiques avaient fui chacun de leur cï¿½tï¿½, en emportant tout ce
-qu'ils avaient pu.  Sa mï¿½re ï¿½tait seule, sans secours, sans
-consolation , noyï¿½e dans les larmes; il ne lui restait rien que
-le souvenir de sa fortune, de sa beautï¿½, de ses fautes, et de ses
-folles dï¿½penses.
+être payé de mes gages.  Voyons un peu, dit le marquis, ce que
+c'est que ça, ce que c'est que cette aventure-là.  Oui, dit la
+veuve, allez punir ces coquins-là, allez vite.  Il y court, il
+arrive à la maison; son père était déjà emprisonné: tous les
+domestiques avaient fui chacun de leur côté, en emportant tout ce
+qu'ils avaient pu.  Sa mère était seule, sans secours, sans
+consolation , noyée dans les larmes; il ne lui restait rien que
+le souvenir de sa fortune, de sa beauté, de ses fautes, et de ses
+folles dépenses.
 
-Aprï¿½s que le fils eut long-temps pleurï¿½ avec la mï¿½re, il lui dit
-enfin: Ne nous dï¿½sespï¿½rons pas; cette jeune veuve m'aime
-ï¿½perdument; elle est plus gï¿½nï¿½reuse encore que riche, je rï¿½ponds
-d'elle; je vole ï¿½ elle, et je vais vous l'amener.  Il retourne
-donc chez sa maï¿½tresse, il la trouve tï¿½te ï¿½ tï¿½te avec un jeune
-officier fort aimable.  Quoi!  c'est vous, M. de La Jeannotiï¿½re;
-que venez-vous faire ici?  abandonne-t-on ainsi sa mï¿½re?  Allez
+Après que le fils eut long-temps pleuré avec la mère, il lui dit
+enfin: Ne nous désespérons pas; cette jeune veuve m'aime
+éperdument; elle est plus généreuse encore que riche, je réponds
+d'elle; je vole à elle, et je vais vous l'amener.  Il retourne
+donc chez sa maîtresse, il la trouve tête à tête avec un jeune
+officier fort aimable.  Quoi!  c'est vous, M. de La Jeannotière;
+que venez-vous faire ici?  abandonne-t-on ainsi sa mère?  Allez
 chez cette pauvre femme, et dites-lui que je lui veux toujours du
 bien: j'ai besoin d'une femme de chambre, et je lui donnerai la
-prï¿½fï¿½rence.  Mon garï¿½on, tu me parais assez bien tournï¿½, lui dit
+préférence.  Mon garçon, tu me parais assez bien tourné, lui dit
 l'officier; si tu veux entrer dans ma compagnie, je te donnerai
 un bon engagement.
 
-Le marquis stupï¿½fait, la rage dans le coeur, alla chercher son
-ancien gouverneur, dï¿½posa ses douleurs dans son sein, et lui
+Le marquis stupéfait, la rage dans le coeur, alla chercher son
+ancien gouverneur, déposa ses douleurs dans son sein, et lui
 demanda des conseils.  Celui-ci lui proposa de se faire, comme
-lui, gouverneur d'enfants.  Hï¿½las!  je ne sais rien, vous ne
-m'avez rien appris, et vous ï¿½tes la premiï¿½re cause de mon
+lui, gouverneur d'enfants.  Hélas!  je ne sais rien, vous ne
+m'avez rien appris, et vous êtes la première cause de mon
 malheur; et il sanglotait en lui parlant ainsi.  Faites des
-romans, lui dit un bel esprit qui ï¿½tait lï¿½; c'est une excellente
-ressource ï¿½ Paris.
+romans, lui dit un bel esprit qui était là; c'est une excellente
+ressource à Paris.
 
-Le jeune homme, plus dï¿½sespï¿½rï¿½ que jamais, courut chez le
-confesseur de sa mï¿½re; c'ï¿½tait un thï¿½atin trï¿½s accrï¿½ditï¿½, qui ne
-dirigeait que les femmes de la premiï¿½re considï¿½ration; dï¿½s qu'il
-le vit, il se prï¿½cipita vers lui.  Eh!  mon Dieu!  monsieur le
-marquis, oï¿½ est votre carrosse?  comment se porte la respectable
-madame la marquise votre mï¿½re?  Le pauvre malheureux lui conta le
-dï¿½sastre de sa famille.  A mesure qu'il s'expliquait, le thï¿½atin
-prenait une mine plus grave, plus indiffï¿½rente, plus imposante:
-Mon fils, voilï¿½ oï¿½ Dieu vous voulait; les richesses ne servent
-qu'ï¿½ corrompre le coeur; Dieu a donc fait la grï¿½ce ï¿½ votre mï¿½re
-de la rï¿½duire ï¿½ la mendicitï¿½?
+Le jeune homme, plus désespéré que jamais, courut chez le
+confesseur de sa mère; c'était un théatin très accrédité, qui ne
+dirigeait que les femmes de la première considération; dès qu'il
+le vit, il se précipita vers lui.  Eh!  mon Dieu!  monsieur le
+marquis, où est votre carrosse?  comment se porte la respectable
+madame la marquise votre mère?  Le pauvre malheureux lui conta le
+désastre de sa famille.  A mesure qu'il s'expliquait, le théatin
+prenait une mine plus grave, plus indifférente, plus imposante:
+Mon fils, voilà où Dieu vous voulait; les richesses ne servent
+qu'à corrompre le coeur; Dieu a donc fait la grâce à votre mère
+de la réduire à la mendicité?
 
-Oui, monsieur.--Tant mieux, elle est sï¿½re de son salut.--Mais,
-mon pï¿½re, en attendant, n'y aurait-il pas moyen d'obtenir
+Oui, monsieur.--Tant mieux, elle est sûre de son salut.--Mais,
+mon père, en attendant, n'y aurait-il pas moyen d'obtenir
 quelques secours dans ce monde?--Adieu, mon fils; il y a une dame
-de la cour qui m'attend.  Le marquis fut prï¿½t ï¿½ s'ï¿½vanouir; il
-fut traitï¿½ ï¿½ peu prï¿½s de mï¿½me par tous ses amis, et apprit mieux
-ï¿½ connaï¿½tre le monde dans une demi-journï¿½e que dans tout le reste
+de la cour qui m'attend.  Le marquis fut prêt à s'évanouir; il
+fut traité à peu près de même par tous ses amis, et apprit mieux
+à connaître le monde dans une demi-journée que dans tout le reste
 de sa vie.
 
-Comme il ï¿½tait plongï¿½ dans l'accablement du dï¿½sespoir, il vit
-avancer une chaise roulante, ï¿½ l'antique, espï¿½ce de tombereau
-couvert, accompagnï¿½ de rideaux de cuir, suivi de quatre
-charrettes ï¿½normes toutes chargï¿½es.  Il y avait dans la chaise un
-jeune homme grossiï¿½rement vï¿½tu; c'ï¿½tait un visage rond et frais
-qui respirait la douceur et la gaietï¿½.  Sa petite femme brune, et
-assez grossiï¿½rement agrï¿½able, ï¿½tait cahotï¿½e ï¿½ cï¿½tï¿½ de lui.  La
-voiture n'allait pas comme le char d'un petit-maï¿½tre: le voyageur
-eut tout le temps de contempler le marquis immobile, abï¿½mï¿½ dans
-sa douleur.  Eh!  mon Dieu!  s'ï¿½cria-t-il, je crois que c'est lï¿½
-Jeannot.  A ce nom le marquis lï¿½ve les yeux, la voiture s'arrï¿½te:
-C'est Jeannot lui-mï¿½me, c'est Jeannot.  Le petit homme rebondi ne
+Comme il était plongé dans l'accablement du désespoir, il vit
+avancer une chaise roulante, à l'antique, espèce de tombereau
+couvert, accompagné de rideaux de cuir, suivi de quatre
+charrettes énormes toutes chargées.  Il y avait dans la chaise un
+jeune homme grossièrement vêtu; c'était un visage rond et frais
+qui respirait la douceur et la gaieté.  Sa petite femme brune, et
+assez grossièrement agréable, était cahotée à côté de lui.  La
+voiture n'allait pas comme le char d'un petit-maître: le voyageur
+eut tout le temps de contempler le marquis immobile, abîmé dans
+sa douleur.  Eh!  mon Dieu!  s'écria-t-il, je crois que c'est là
+Jeannot.  A ce nom le marquis lève les yeux, la voiture s'arrête:
+C'est Jeannot lui-même, c'est Jeannot.  Le petit homme rebondi ne
 fait qu'un saut, et court embrasser son ancien camarade.  Jeannot
 reconnut Colin; la honte et les pleurs couvrirent son visage.  Tu
-m'as abandonnï¿½, dit Colin; mais tu as beau ï¿½tre grand seigneur,
+m'as abandonné, dit Colin; mais tu as beau être grand seigneur,
 je t'aimerai toujours.  Jeannot, confus et attendri, lui conta,
 en sanglotant, une partie de son histoire.  Viens dans
-l'hï¿½tellerie oï¿½ je loge me conter le reste, lui dit Colin;
-embrasse ma petite femme, et allons dï¿½ner ensemble.
+l'hôtellerie où je loge me conter le reste, lui dit Colin;
+embrasse ma petite femme, et allons dîner ensemble.
 
-Ils vont tous trois ï¿½ pied, suivis du bagage.  Qu'est-ce donc que
-tout cet attirail?  vous appartient-il?--Oui, tout est ï¿½ moi et ï¿½
-ma femme.  Nous arrivons du pays; je suis ï¿½ la tï¿½te d'une bonne
-manufacture de fer ï¿½tamï¿½ et de cuivre.  J'ai ï¿½pousï¿½ la fille d'un
-riche nï¿½gociant en ustensiles nï¿½cessaires aux grands et aux
-petits; nous travaillons beaucoup; Dieu nous bï¿½nit; nous n'avons
-point changï¿½ d'ï¿½tat, nous sommes heureux, nous aiderons notre ami
+Ils vont tous trois à pied, suivis du bagage.  Qu'est-ce donc que
+tout cet attirail?  vous appartient-il?--Oui, tout est à moi et à
+ma femme.  Nous arrivons du pays; je suis à la tête d'une bonne
+manufacture de fer étamé et de cuivre.  J'ai épousé la fille d'un
+riche négociant en ustensiles nécessaires aux grands et aux
+petits; nous travaillons beaucoup; Dieu nous bénit; nous n'avons
+point changé d'état, nous sommes heureux, nous aiderons notre ami
 Jeannot.  Ne sois plus marquis; toutes les grandeurs de ce monde
 ne valent pas un bon ami.  Tu reviendras avec moi au pays, je
-t'apprendrai le mï¿½tier, il n'est pas bien difficile; je te
+t'apprendrai le métier, il n'est pas bien difficile; je te
 mettrai de part, et nous vivrons gaiement dans le coin de terre
-oï¿½ nous sommes nï¿½s.
+où nous sommes nés.
 
-Jeannot ï¿½perdu se sentait partagï¿½ entre la douleur et la joie, la
+Jeannot éperdu se sentait partagé entre la douleur et la joie, la
 tendresse et la honte; et il se disait tout bas: Tous mes amis du
-bel air m'ont trahi, et Colin, que j'ai mï¿½prisï¿½, vient seul ï¿½ mon
-secours.  Quelle instruction!  La bontï¿½ d'ï¿½me de Colin dï¿½veloppe
+bel air m'ont trahi, et Colin, que j'ai méprisé, vient seul à mon
+secours.  Quelle instruction!  La bonté d'âme de Colin développe
 dans le coeur de Jeannot le germe du bon naturel, que le monde
-n'avait pas encore ï¿½touffï¿½.  Il sentit qu'il ne pouvait
-abandonner son pï¿½re et sa mï¿½re.  Nous aurons soin de ta mï¿½re, dit
-Colin; et quant ï¿½ ton bon-homme de pï¿½re, qui est en prison,
-j'entends un peu les affaires; ses crï¿½anciers, voyant qu'il n'a
+n'avait pas encore étouffé.  Il sentit qu'il ne pouvait
+abandonner son père et sa mère.  Nous aurons soin de ta mère, dit
+Colin; et quant à ton bon-homme de père, qui est en prison,
+j'entends un peu les affaires; ses créanciers, voyant qu'il n'a
 plus rien, s'accommoderont pour peu de chose; je me charge de
-tout.  Colin fit tant qu'il tira le pï¿½re de prison.  Jeannot
+tout.  Colin fit tant qu'il tira le père de prison.  Jeannot
 retourna dans sa patrie avec ses parents , qui reprirent leur
-premiï¿½re profession.  Il ï¿½pousa une soeur de Colin, laquelle
-ï¿½tant de mï¿½me humeur que le frï¿½re, le rendit trï¿½s heureux.  Et
-Jeannot le pï¿½re, et Jeannotte la mï¿½re, et Jeannot le fils, virent
-que le bonheur n'est pas dans la vanitï¿½.
+première profession.  Il épousa une soeur de Colin, laquelle
+étant de même humeur que le frère, le rendit très heureux.  Et
+Jeannot le père, et Jeannotte la mère, et Jeannot le fils, virent
+que le bonheur n'est pas dans la vanité.
 
 FIN DE JEANNOT ET COLIN.
 

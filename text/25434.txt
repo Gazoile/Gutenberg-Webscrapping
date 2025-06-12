@@ -1,6 +1,6 @@
 Online Distributed Proofreading Team at https://www.pgdp.net
 (This file was produced from images generously made
-available by the Bibliothï¿½que nationale de France
+available by the Bibliothèque nationale de France
 (BnF/Gallica) at http://gallica.bnf.fr)
 
 
@@ -9,14 +9,14 @@ available by the Bibliothï¿½que nationale de France
 
 [Note au lecteur de ce fichier digital:
 
-Seules les erreurs clairement introduites par le typographe ont ï¿½tï¿½
-corrigï¿½es.
+Seules les erreurs clairement introduites par le typographe ont été
+corrigées.
 
 Ce fichier est un extrait du recueil du journal "Le Tour du monde:
-Journal des voyages et des voyageurs" (2ï¿½me semestre 1860).
+Journal des voyages et des voyageurs" (2ème semestre 1860).
 
-Les articles ont ï¿½tï¿½ regroupï¿½s dans des fichiers correspondant
-aux diffï¿½rentes zones gï¿½ographiques, ce fichier contient les articles sur
+Les articles ont été regroupés dans des fichiers correspondant
+aux différentes zones géographiques, ce fichier contient les articles sur
 Cuba.
 
 Chaque fichier contient l'index complet du recueil dont ces
@@ -30,8 +30,8 @@ articles sont originaires.]
 
 
 
-            IMPRIMERIE Gï¿½Nï¿½RALE DE CH. LAHURE
-               Rue de Fleurus, 9, ï¿½ Paris
+            IMPRIMERIE GÉNÉRALE DE CH. LAHURE
+               Rue de Fleurus, 9, à Paris
 
 
 
@@ -40,17 +40,17 @@ articles sont originaires.]
 
                NOUVEAU JOURNAL DES VOYAGES
 
-                PUBLIï¿½ SOUS LA DIRECTION
+                PUBLIÉ SOUS LA DIRECTION
 
-                 DE M. ï¿½DOUARD CHARTON
+                 DE M. ÉDOUARD CHARTON
 
-        ET ILLUSTRï¿½ PAR NOS PLUS Cï¿½Lï¿½BRES ARTISTES
+        ET ILLUSTRÉ PAR NOS PLUS CÉLÈBRES ARTISTES
 
 
 
 
                          1860
-                   DEUXIï¿½ME SEMESTRE
+                   DEUXIÈME SEMESTRE
 
             LIBRAIRIE DE L. HACHETTE ET Cie
          PARIS, BOULEVARD SAINT-GERMAIN, No 77
@@ -62,151 +62,151 @@ articles sont originaires.]
 
 
 
-TABLE DES MATIï¿½RES.
+TABLE DES MATIÈRES.
 
 
-UN MOIS EN SICILE (1843.--Inï¿½dit.), par M. Fï¿½lix BOURQUELOT.
+UN MOIS EN SICILE (1843.--Inédit.), par M. Félix BOURQUELOT.
 
-  Arrivï¿½e en Sicile. -- Palerme et ses habitants. -- Les monuments
-    de Palerme. -- La cathï¿½drale de Monreale. -- De Palerme ï¿½
+  Arrivée en Sicile. -- Palerme et ses habitants. -- Les monuments
+    de Palerme. -- La cathédrale de Monreale. -- De Palerme à
     Trapani. -- Partenico. -- Alcamo. -- Calatafimi. -- Ruines de
-    Sï¿½geste. -- Trapani. -- La sï¿½pulture du couvent des capucins. --
-    Le mont ï¿½ryx. -- De Trapani ï¿½ Girgenti. -- La Lettica. --
-    Castelvetrano. -- Ruines de Sï¿½linonte. -- Sciacca. -- Girgenti
-    (Agrigente). -- De Girgenti ï¿½ Castrogiovanni. -- Caltanizzetta.
-    -- Castrogiovanni. -- Le lac Pergusa et l'enlï¿½vement de
-    Proserpine. -- De Castrogiovanni ï¿½ Syracuse. -- Calatagirone. --
-    Vezzini. -- Syracuse. -- De Syracuse ï¿½ Catane. -- Lentini. --
+    Ségeste. -- Trapani. -- La sépulture du couvent des capucins. --
+    Le mont Éryx. -- De Trapani à Girgenti. -- La Lettica. --
+    Castelvetrano. -- Ruines de Sélinonte. -- Sciacca. -- Girgenti
+    (Agrigente). -- De Girgenti à Castrogiovanni. -- Caltanizzetta.
+    -- Castrogiovanni. -- Le lac Pergusa et l'enlèvement de
+    Proserpine. -- De Castrogiovanni à Syracuse. -- Calatagirone. --
+    Vezzini. -- Syracuse. -- De Syracuse à Catane. -- Lentini. --
     Catane. -- Ascension de l'Etna. -- Taormine. -- Messine. --
-    Retour ï¿½ Naples.                                                 1
+    Retour à Naples.                                                 1
 
 
 VOYAGE EN PERSE, fragments par M. le comte A. de GOBINEAU (1855-1858),
-dessins inï¿½dits de M. Jules LAURENS.
+dessins inédits de M. Jules LAURENS.
 
-  Arrivï¿½e ï¿½ Ispahan. -- Le gouverneur. -- Aspect de la ville. -- Le
-    Tchï¿½har-Bï¿½gh. -- Le collï¿½ge de la Mï¿½re du roi. -- La mosquï¿½e du
-    roi. -- Les quarante colonnes. -- Prï¿½sentations. -- Le pont du
-    Zend-ï¿½-Roub. -- Un dï¿½ner ï¿½ Ispahan. -- La danse et la comï¿½die. --
-    Les habitants d'Ispahan. -- D'Ispahan ï¿½ Kaschan. -- Kaschan. --
+  Arrivée à Ispahan. -- Le gouverneur. -- Aspect de la ville. -- Le
+    Tchéhar-Bâgh. -- Le collége de la Mère du roi. -- La mosquée du
+    roi. -- Les quarante colonnes. -- Présentations. -- Le pont du
+    Zend-è-Roub. -- Un dîner à Ispahan. -- La danse et la comédie. --
+    Les habitants d'Ispahan. -- D'Ispahan à Kaschan. -- Kaschan. --
     Ses fabriques. -- Son imprimerie lithographique. -- Ses
-    scorpions. -- Une lï¿½gende. -- Les bazars. -- Le collï¿½ge. -- De
-    Kaschan ï¿½ la plaine de Tï¿½hï¿½ran. -- Koum. -- Feux d'artifice. --
-    Le pont du Barbier. -- Le dï¿½sert de Khavï¿½r. -- Houzï¿½-Sultan. --
-    La plaine de Tï¿½hï¿½ran. -- Tï¿½hï¿½ran. -- Notre entrï¿½e dans la ville.
+    scorpions. -- Une légende. -- Les bazars. -- Le collége. -- De
+    Kaschan à la plaine de Téhéran. -- Koum. -- Feux d'artifice. --
+    Le pont du Barbier. -- Le désert de Khavèr. -- Houzé-Sultan. --
+    La plaine de Téhéran. -- Téhéran. -- Notre entrée dans la ville.
     -- Notre habitation.                                            16
 
-  Une audience du roi de Perse. -- Nouvelles constructions ï¿½
-    Tï¿½hï¿½ran. -- Tempï¿½rature. -- Longï¿½vitï¿½. -- Les nomades. -- Deux
-    pï¿½lerins. -- Le culte du feu. -- La police. -- Les ponts. -- Le
+  Une audience du roi de Perse. -- Nouvelles constructions à
+    Téhéran. -- Température. -- Longévité. -- Les nomades. -- Deux
+    pèlerins. -- Le culte du feu. -- La police. -- Les ponts. -- Le
     laisser aller administratif. -- Les amusements d'un bazar persan.
-    -- Les fianï¿½ailles. -- Le divorce. -- La journï¿½e d'une Persane.
-    -- La journï¿½e d'un Persan. -- Les visites. -- Formules de
+    -- Les fiançailles. -- Le divorce. -- La journée d'une Persane.
+    -- La journée d'un Persan. -- Les visites. -- Formules de
     politesses. -- La peinture et la calligraphie persanes. -- Les
     chansons royales. -- Les conteurs d'histoires. -- Les spectacles:
-    drames historiques. -- ï¿½pilogue. -- Le Dï¿½mavend. -- L'enfant qui
-    cherche un trï¿½sor.                                              34
+    drames historiques. -- Épilogue. -- Le Démavend. -- L'enfant qui
+    cherche un trésor.                                              34
 
 
 VOYAGES AUX INDES OCCIDENTALES, par M. Anthony TROLLOPE
-(1858-1859); dessins inï¿½dits de M. A. de Bï¿½RARD.
+(1858-1859); dessins inédits de M. A. de BÉRARD.
 
-  L'ï¿½le Saint-Thomas. -- La Jamaï¿½que: Kingston; Spanish-Town; les
-    _rï¿½serves_; la vï¿½gï¿½tation. -- Les planteurs et les nï¿½gres. --
-    Plaintes d'une Ariane noire. -- La toilette des nï¿½gresses. --
-    Avenir des mulï¿½tres. -- Les petites Antilles. -- La Martinique.
+  L'île Saint-Thomas. -- La Jamaïque: Kingston; Spanish-Town; les
+    _réserves_; la végétation. -- Les planteurs et les nègres. --
+    Plaintes d'une Ariane noire. -- La toilette des négresses. --
+    Avenir des mulâtres. -- Les petites Antilles. -- La Martinique.
     -- La Guadeloupe. -- Grenada. -- La Guyane anglaise. -- Une
     sucrerie. -- Barbados. -- La Trinidad. -- La Nouvelle-Grenade. --
-    Sainte-Marthe. -- Carthagï¿½ne. -- Le chemin de fer de Panama. --
-    Costa Rica: San Josï¿½; le Mont-Blanco. -- Le Serapiqui. --
+    Sainte-Marthe. -- Carthagène. -- Le chemin de fer de Panama. --
+    Costa Rica: San José; le Mont-Blanco. -- Le Serapiqui. --
     Greytown.                                                       49
 
 
-VOYAGE DANS LES ï¿½TATS SCANDINAVES, par M. Paul RIANT. (Le
-Tï¿½lï¿½mark et l'ï¿½vï¿½chï¿½ de Bergen.) (1858.--Inï¿½dit.)
+VOYAGE DANS LES ÉTATS SCANDINAVES, par M. Paul RIANT. (Le
+Télémark et l'évêché de Bergen.) (1858.--Inédit.)
 
-  LE Tï¿½Lï¿½MARK. -- Christiania. -- Dï¿½part pour le Tï¿½lï¿½mark. -- Mode
-    de voyager. -- Paysage. -- La vallï¿½e et la ville de Drammen. --
-    De Drammen ï¿½ Kongsberg. -- Le cheval norvï¿½gien. -- Kongsberg et
-    ses gisements mï¿½tallifï¿½res. -- Les montagnes du Tï¿½lï¿½mark. --
-    Leurs habitants. -- Hospitalitï¿½ des _gaards_ et des _sï¿½ters_. --
-    Une sorciï¿½re. -- Les lacs Tinn et Mjï¿½s. -- Le Westfjord. -- La
-    chute du Rjukan. -- Lï¿½gende de la belle Marie. -- Dal. -- Le
-    livre des ï¿½trangers. -- L'ï¿½glise d'Hitterdal. -- L'ivresse en
-    Norvï¿½ge. -- Le chï¿½telain aubergiste. -- Les lacs Sillegjord et
+  LE TÉLÉMARK. -- Christiania. -- Départ pour le Télémark. -- Mode
+    de voyager. -- Paysage. -- La vallée et la ville de Drammen. --
+    De Drammen à Kongsberg. -- Le cheval norvégien. -- Kongsberg et
+    ses gisements métallifères. -- Les montagnes du Télémark. --
+    Leurs habitants. -- Hospitalité des _gaards_ et des _sæters_. --
+    Une sorcière. -- Les lacs Tinn et Mjös. -- Le Westfjord. -- La
+    chute du Rjukan. -- Légende de la belle Marie. -- Dal. -- Le
+    livre des étrangers. -- L'église d'Hitterdal. -- L'ivresse en
+    Norvége. -- Le châtelain aubergiste. -- Les lacs Sillegjord et
     Bandak. -- Le ravin des Corbeaux.                               65
 
-  --_Le Saint-Olaf_ et ses pareils. -- Navigation intï¿½rieure. --
-    Retour ï¿½ Christiania par Skien.                                 82
+  --_Le Saint-Olaf_ et ses pareils. -- Navigation intérieure. --
+    Retour à Christiania par Skien.                                 82
 
-  L'ï¿½Vï¿½CHï¿½ DE BERGEN. -- La presqu'ï¿½le de Bergen. -- Lï¿½rdal. -- Le
-    Sognefjord. -- Vosse-Vangen. -- Le Vï¿½ringfoss. -- Le
-    Hardangerfjord. -- De Vikoï¿½r ï¿½ Sammanger et ï¿½ Bergen.           85
+  L'ÉVÊCHÉ DE BERGEN. -- La presqu'île de Bergen. -- Lærdal. -- Le
+    Sognefjord. -- Vosse-Vangen. -- Le Vöringfoss. -- Le
+    Hardangerfjord. -- De Vikoër à Sammanger et à Bergen.           85
 
 
 VOYAGE DE M. GUILLAUME LEJEAN DANS L'AFRIQUE ORIENTALE
-(1860.--Texte et dessins inï¿½dits.)--Lettre au Directeur du _Tour
+(1860.--Texte et dessins inédits.)--Lettre au Directeur du _Tour
 du monde_ (Khartoum, 10 mai 1860).
 
-  D'ALEXANDRIE ï¿½ SOUAKIN. -- L'ï¿½gypte. -- Le dï¿½sert. -- Le simoun.
-    -- Suez. -- Un danger. -- Le mirage. -- Tor. -- Qossï¿½ir. --
+  D'ALEXANDRIE À SOUAKIN. -- L'Égypte. -- Le désert. -- Le simoun.
+    -- Suez. -- Un danger. -- Le mirage. -- Tor. -- Qosséir. --
     Djambo. -- Djeddah.                                             97
 
 
-VOYAGE AU MONT ATHOS, par M. A. PROUST (1858.--Inï¿½dit.)
+VOYAGE AU MONT ATHOS, par M. A. PROUST (1858.--Inédit.)
 
-  Salonique. -- Juifs, Grecs et Bulgares. -- Les mosquï¿½es. --
-    L'Albanais Rabottas. -- Prï¿½paratifs de dï¿½part. -- Vasilika. --
+  Salonique. -- Juifs, Grecs et Bulgares. -- Les mosquées. --
+    L'Albanais Rabottas. -- Préparatifs de départ. -- Vasilika. --
     Galatz. -- Nedgesalar. -- L'Athos. -- Saint-Nicolas. -- Le P.
-    Gï¿½dï¿½on. -- Le couvent russe. -- La messe chez les Grecs. --
-    Kariï¿½s et la rï¿½publique de l'Athos. -- Le voï¿½vode turc. -- Le
-    peintre Anthimï¿½s et le pappas Manuel. -- M. de Sï¿½vastiannoff.  103
+    Gédéon. -- Le couvent russe. -- La messe chez les Grecs. --
+    Kariès et la république de l'Athos. -- Le voïvode turc. -- Le
+    peintre Anthimès et le pappas Manuel. -- M. de Sévastiannoff.  103
 
-  Ermites indï¿½pendants. -- Le monastï¿½re de Koutloumousis. -- Les
-    bibliothï¿½ques. -- La peinture. -- Manuel Panselinos et les
-    peintres modernes. -- Le monastï¿½re d'Iveron. -- Les carï¿½mes. --
+  Ermites indépendants. -- Le monastère de Koutloumousis. -- Les
+    bibliothèques. -- La peinture. -- Manuel Panselinos et les
+    peintres modernes. -- Le monastère d'Iveron. -- Les carêmes. --
     Peintres et peintures. -- Stavronikitas. -- Miracles. -- Un
-    Vroukolakas. -- Les bibliothï¿½ques. -- Les mulets. -- Philotheos.
-    -- Les moines et la guerre de l'Indï¿½pendance. -- Karacallos. --
-    L'union des deux ï¿½glises. -- Les pï¿½nitences et les fautes.     114
+    Vroukolakas. -- Les bibliothèques. -- Les mulets. -- Philotheos.
+    -- Les moines et la guerre de l'Indépendance. -- Karacallos. --
+    L'union des deux Églises. -- Les pénitences et les fautes.     114
 
-  La lï¿½gende d'Arcadius. -- Le pappas de Smyrne. -- Esphigmenou. --
-    Thï¿½odose le Jeune. -- L'ex-patriarche Anthymos et l'ï¿½glise
-    grecque. -- L'isthme de l'Athos et Xerxï¿½s. -- Les monastï¿½res
-    bulgares: Kiliandari et Zographos. -- La lï¿½gende du peintre. --
-    Beautï¿½ du paysage. -- Castamoniti. -- Une femme au mont Athos. --
-    Dokiarios. -- La secte des Palamites. -- Saint-Xï¿½nophon. -- La
-    pï¿½che aux ï¿½ponges. -- Retour ï¿½ Kariï¿½s. -- Xiropotamos, le couvent
-    du Fleuve Sec. -- Dï¿½part de Daphnï¿½. -- Marino le chanteur.     130
+  La légende d'Arcadius. -- Le pappas de Smyrne. -- Esphigmenou. --
+    Théodose le Jeune. -- L'ex-patriarche Anthymos et l'Église
+    grecque. -- L'isthme de l'Athos et Xerxès. -- Les monastères
+    bulgares: Kiliandari et Zographos. -- La légende du peintre. --
+    Beauté du paysage. -- Castamoniti. -- Une femme au mont Athos. --
+    Dokiarios. -- La secte des Palamites. -- Saint-Xénophon. -- La
+    pêche aux éponges. -- Retour à Kariès. -- Xiropotamos, le couvent
+    du Fleuve Sec. -- Départ de Daphné. -- Marino le chanteur.     130
 
 
 VOYAGE D'UN NATURALISTE (Charles DARWIN).--L'archipel Galapagos
-et les attoles ou ï¿½les de coraux.--(1838).
+et les attoles ou îles de coraux.--(1838).
 
   L'ARCHIPEL GALAPAGOS. -- Groupe volcanique. -- Innombrables
-    cratï¿½res. -- Aspect bizarre de la vï¿½gï¿½tation. -- L'ï¿½le Chatam. --
-    Colonie de l'ï¿½le Charles. -- L'ï¿½le James. -- Lac salï¿½ dans un
-    cratï¿½re. -- Histoire naturelle de ce groupe d'ï¿½les. --
-    Mammifï¿½res; souris indigï¿½ne. -- Ornithologie; familiaritï¿½ des
+    cratères. -- Aspect bizarre de la végétation. -- L'île Chatam. --
+    Colonie de l'île Charles. -- L'île James. -- Lac salé dans un
+    cratère. -- Histoire naturelle de ce groupe d'îles. --
+    Mammifères; souris indigène. -- Ornithologie; familiarité des
     oiseaux; terreur de l'homme; instinct acquis. -- Reptiles;
     tortues de terre; leurs habitudes.                             139
 
-  Encore les tortues de terre; lï¿½zard aquatique se nourrissant de
-    plantes marines; lï¿½zard terrestre herbivore, se creusant un
-    terrier. -- Importance des reptiles dans cet archipel oï¿½ ils
-    remplacent les mammifï¿½res. -- Diffï¿½rences entre les espï¿½ces qui
-    habitent les diverses ï¿½les. -- Aspect gï¿½nï¿½ral amï¿½ricain.       146
+  Encore les tortues de terre; lézard aquatique se nourrissant de
+    plantes marines; lézard terrestre herbivore, se creusant un
+    terrier. -- Importance des reptiles dans cet archipel où ils
+    remplacent les mammifères. -- Différences entre les espèces qui
+    habitent les diverses îles. -- Aspect général américain.       146
 
-  LES ATTOLES OU ï¿½LES DE CORAUX. -- ï¿½le Keeling. -- Aspect
-    merveilleux. -- Flore exiguï¿½. -- Voyage des graines. -- Oiseaux.
-    -- Insectes. -- Sources ï¿½ flux et reflux. -- Chasse aux tortues.
-    -- Champs de coraux morts. -- Pierres transportï¿½es par les
+  LES ATTOLES OU ÎLES DE CORAUX. -- Île Keeling. -- Aspect
+    merveilleux. -- Flore exiguë. -- Voyage des graines. -- Oiseaux.
+    -- Insectes. -- Sources à flux et reflux. -- Chasse aux tortues.
+    -- Champs de coraux morts. -- Pierres transportées par les
     racines des arbres. -- Grand crabe. -- Corail piquant. --
     Poissons se nourrissant de coraux. -- Formation des attoles. --
-    Profondeur ï¿½ laquelle le corail peut vivre. -- Vastes espaces
-    parsemï¿½s d'ï¿½les de corail. -- Abaissement de leurs fondations. --
-    Barriï¿½res. -- Franges de rï¿½cifs. -- Changement des franges en
-    barriï¿½res et des barriï¿½res en attoles.                         151
+    Profondeur à laquelle le corail peut vivre. -- Vastes espaces
+    parsemés d'îles de corail. -- Abaissement de leurs fondations. --
+    Barrières. -- Franges de récifs. -- Changement des franges en
+    barrières et des barrières en attoles.                         151
 
 
 BIOGRAPHIE.--Brun-Rollet.                                          159
@@ -216,214 +216,214 @@ VOYAGE AU PAYS DES YAKOUTES (Russie asiatique), par OUVAROVSKI
 (1830-1839).
 
   Djigansk. -- Mes premiers souvenirs. -- Brigandages. -- Le
-    paysage de Djigansk. -- Les habitants. -- La pï¿½che. -- Si les
-    poissons morts sont bons ï¿½ manger. -- La sorciï¿½re Agrippine. --
-    Mon premier voyage. -- Killï¿½m et ses environs. -- Malheurs. --
-    Les Yakoutes. -- La chasse et la pï¿½che. -- Yakoutsk. -- Mon
-    premier emploi. -- J'avance. -- Derniï¿½res recommandations de ma
-    mï¿½re. -- Irkoutsk. -- Voyage. -- Oudskoï¿½. -- Mes bagages. --
-    Campement. -- Le froid. -- La riviï¿½re Outchour. -- L'Aldan. --
-    Voyage dans la neige et dans la glace. -- L'ï¿½gnï¿½. -- Un Tongouse
+    paysage de Djigansk. -- Les habitants. -- La pêche. -- Si les
+    poissons morts sont bons à manger. -- La sorcière Agrippine. --
+    Mon premier voyage. -- Killæm et ses environs. -- Malheurs. --
+    Les Yakoutes. -- La chasse et la pêche. -- Yakoutsk. -- Mon
+    premier emploi. -- J'avance. -- Dernières recommandations de ma
+    mère. -- Irkoutsk. -- Voyage. -- Oudskoï. -- Mes bagages. --
+    Campement. -- Le froid. -- La rivière Outchour. -- L'Aldan. --
+    Voyage dans la neige et dans la glace. -- L'Ægnæ. -- Un Tongouse
     qui pleure son chien. -- Obstacles et fatigues. -- Les guides. --
-    Ascension du Diougdjour. -- Stratagï¿½me pour prendre un oiseau. --
-    La ville d'Oudskoï¿½. -- La pï¿½che ï¿½ l'embouchure du fleuve Ut. --
-    Navigation pï¿½nible. -- Boroukan. -- Une halte dans la neige. --
-    Les rennes. -- Le mont Byraya. -- Retour ï¿½ Oudskoï¿½ et ï¿½
+    Ascension du Diougdjour. -- Stratagème pour prendre un oiseau. --
+    La ville d'Oudskoï. -- La pêche à l'embouchure du fleuve Ut. --
+    Navigation pénible. -- Boroukan. -- Une halte dans la neige. --
+    Les rennes. -- Le mont Byraya. -- Retour à Oudskoï et à
     Yakoutsk.                                                      161
 
-  Viliouisk. -- Sel tricolore. -- Bois pï¿½trifiï¿½. -- Le Sountar. --
+  Viliouisk. -- Sel tricolore. -- Bois pétrifié. -- Le Sountar. --
     Nouveau voyage. -- Description du pays des Yakoutes. -- Climat.
-    -- Population. -- Caractï¿½res. -- Aptitudes. -- Les femmes
+    -- Population. -- Caractères. -- Aptitudes. -- Les femmes
     yakoutes.                                                      177
 
 
-DE SYDNEY ï¿½ ADï¿½LAï¿½DE (Australie du Sud), notes extraites d'une
-correspondance particuliï¿½re (1860).
+DE SYDNEY À ADÉLAÏDE (Australie du Sud), notes extraites d'une
+correspondance particulière (1860).
 
   Les Alpes australiennes. -- Le bassin du Murray. -- Ce qui reste
-    des anciens maï¿½tres du sol. -- Navigation sur le Murray. --
-    Frontiï¿½res de l'Australie du Sud. -- Le lac Alexandrina. -- Le
-    Kanguroo rouge. -- La colonie de l'Australie du Sud. -- Adï¿½laï¿½de.
+    des anciens maîtres du sol. -- Navigation sur le Murray. --
+    Frontières de l'Australie du Sud. -- Le lac Alexandrina. -- Le
+    Kanguroo rouge. -- La colonie de l'Australie du Sud. -- Adélaïde.
     -- Culture et mines.                                           182
 
 
-VOYAGES ET Dï¿½COUVERTES AU CENTRE DE L'AFRIQUE, journal du docteur
+VOYAGES ET DÉCOUVERTES AU CENTRE DE L'AFRIQUE, journal du docteur
 BARTH (1849-1855).
 
-  Henry Barth. -- But de l'expï¿½dition de Richardson. -- Dï¿½part. --
-    Le Fezzan. -- Mourzouk. -- Le dï¿½sert. -- Le palais des dï¿½mons. --
-    Barth s'ï¿½gare; torture et agonie. -- Oasis. -- Les Touaregs. --
+  Henry Barth. -- But de l'expédition de Richardson. -- Départ. --
+    Le Fezzan. -- Mourzouk. -- Le désert. -- Le palais des démons. --
+    Barth s'égare; torture et agonie. -- Oasis. -- Les Touaregs. --
     Dunes. -- Afalesselez. -- Bubales et moufflons. -- Ouragan. --
-    Frontiï¿½res de l'Asben. -- Extorsions. -- Dï¿½luge ï¿½ une latitude oï¿½
-    il ne doit pas pleuvoir. -- La Suisse du dï¿½sert. -- Sombre vallï¿½e
-    de Taghist. -- Riante vallï¿½e d'Auderas. -- Agadez. -- Sa
-    dï¿½cadence. -- Entrevue de Barth et du sultan. -- Pouvoir
+    Frontières de l'Asben. -- Extorsions. -- Déluge à une latitude où
+    il ne doit pas pleuvoir. -- La Suisse du désert. -- Sombre vallée
+    de Taghist. -- Riante vallée d'Auderas. -- Agadez. -- Sa
+    décadence. -- Entrevue de Barth et du sultan. -- Pouvoir
     despotique. -- Coup d'oeil sur les moeurs. -- Habitat de la
-    girafe. -- Le Soudan; le Damergou. -- Architecture. -- Katchï¿½na;
-    Barth est prisonnier. -- Pï¿½nurie d'argent. -- Kano. -- Son
-    aspect, son industrie, sa population. -- De Kano ï¿½ Kouka. -- Mort
-    de Richardson. -- Arrivï¿½e ï¿½ Kouka. -- Difficultï¿½s croissantes. --
-    L'ï¿½nergie du voyageur en triomphe. -- Ses visiteurs. -- Un vieux
+    girafe. -- Le Soudan; le Damergou. -- Architecture. -- Katchéna;
+    Barth est prisonnier. -- Pénurie d'argent. -- Kano. -- Son
+    aspect, son industrie, sa population. -- De Kano à Kouka. -- Mort
+    de Richardson. -- Arrivée à Kouka. -- Difficultés croissantes. --
+    L'énergie du voyageur en triomphe. -- Ses visiteurs. -- Un vieux
     courtisan. -- Le vizir et ses quatre cents femmes. -- Description
-    de la ville, son marchï¿½, ses habitants. -- Le Dendal. --
+    de la ville, son marché, ses habitants. -- Le Dendal. --
     Excursion. -- Angornou. -- Le lac Tchad.                       193
 
-  Dï¿½part. -- Aspect dï¿½solï¿½ du pays. -- Les Ghouas. -- Mabani. -- Le
-    mont Dï¿½labï¿½da. -- Forgeron en plein vent. -- Dï¿½vastation. --
+  Départ. -- Aspect désolé du pays. -- Les Ghouas. -- Mabani. -- Le
+    mont Délabéda. -- Forgeron en plein vent. -- Dévastation. --
     Orage. -- Baobab. -- Le Mendif. -- Les Marghis. -- L'Adamaoua. --
     Mboutoudi. -- Proposition de mariage. -- Installation de vive
-    force chez le fils du gouverneur de Soulleri. -- Le Bï¿½nouï¿½. --
-    Yola. -- Mauvais accueil. -- Renvoi subit. -- Les Ouï¿½lad-Sliman.
-    -- Situation politique du Bornou. -- La ville de Yo. -- Ngï¿½gimi
-    ou Ingï¿½gimi. -- Chute dans un bourbier. -- Territoire ennemi. --
-    Razzia. -- Nouvelle expï¿½dition. -- Troisiï¿½me dï¿½part de Kouka. --
-    Le chef de la police. -- Aspect de l'armï¿½e. -- Dikoua. -- Marche
-    de l'armï¿½e. -- Le Mosgou. -- Adishen et son escorte. -- Beautï¿½ du
-    pays. -- Chasse ï¿½ l'homme. -- Erreur des Europï¿½ens sur le centre
+    force chez le fils du gouverneur de Soulleri. -- Le Bénoué. --
+    Yola. -- Mauvais accueil. -- Renvoi subit. -- Les Ouélad-Sliman.
+    -- Situation politique du Bornou. -- La ville de Yo. -- Ngégimi
+    ou Ingégimi. -- Chute dans un bourbier. -- Territoire ennemi. --
+    Razzia. -- Nouvelle expédition. -- Troisième départ de Kouka. --
+    Le chef de la police. -- Aspect de l'armée. -- Dikoua. -- Marche
+    de l'armée. -- Le Mosgou. -- Adishen et son escorte. -- Beauté du
+    pays. -- Chasse à l'homme. -- Erreur des Européens sur le centre
     de l'Afrique. -- Incendies. -- Baga. -- Partage du butin. --
-    Entrï¿½e dans le Baghirmi. -- Refus de passage. -- Traversï¿½e du
-    Chari. -- ï¿½ travers champs. -- Dï¿½fense d'aller plus loin. --
-    Hospitalitï¿½ de Bou-Bakr-Sadik. -- Barth est arrï¿½tï¿½. -- On lui met
-    les fers aux pieds. -- Dï¿½livrï¿½ par Sadik. -- Masï¿½na. -- Un
+    Entrée dans le Baghirmi. -- Refus de passage. -- Traversée du
+    Chari. -- À travers champs. -- Défense d'aller plus loin. --
+    Hospitalité de Bou-Bakr-Sadik. -- Barth est arrêté. -- On lui met
+    les fers aux pieds. -- Délivré par Sadik. -- Maséna. -- Un
     savant. -- Les femmes de Baghirmi. -- Combat avec des fourmis. --
-    Cortï¿½ge du sultan. -- Dï¿½pï¿½ches de Londres.                     209
+    Cortége du sultan. -- Dépêches de Londres.                     209
 
-  De Katchï¿½na au Niger. -- Le district de Mouniyo. -- Lacs
-    remarquables. -- Aspect curieux de Zinder. -- Route pï¿½rilleuse.
-    -- Activitï¿½ des fourmis. -- Le Ghaladina de Sokoto. -- Marche
-    forcï¿½e de trente heures. -- L'ï¿½mir Aliyou. -- Vourno. --
-    Situation du pays. -- Cortï¿½ge nuptial. -- Sokoto. -- Caprice
-    d'une boï¿½te ï¿½ musique. -- Gando. -- Khalilou. -- Un chevalier
-    d'industrie. -- Exactions. -- Pluie. -- Dï¿½solation et fï¿½conditï¿½.
-    -- Zogirma. -- La vallï¿½e de Foga. -- Le Niger. -- La ville de
-    Say. -- Rï¿½gion mystï¿½rieuse. -- Orage. -- Passage de la Sirba. --
-    Fin du rhamadan ï¿½ Sebba. -- Bijoux en cuivre. -- De l'eau
-    partout. -- Barth dï¿½guisï¿½ en schï¿½rif. -- Horreur des chiens. --
+  De Katchéna au Niger. -- Le district de Mouniyo. -- Lacs
+    remarquables. -- Aspect curieux de Zinder. -- Route périlleuse.
+    -- Activité des fourmis. -- Le Ghaladina de Sokoto. -- Marche
+    forcée de trente heures. -- L'émir Aliyou. -- Vourno. --
+    Situation du pays. -- Cortége nuptial. -- Sokoto. -- Caprice
+    d'une boîte à musique. -- Gando. -- Khalilou. -- Un chevalier
+    d'industrie. -- Exactions. -- Pluie. -- Désolation et fécondité.
+    -- Zogirma. -- La vallée de Foga. -- Le Niger. -- La ville de
+    Say. -- Région mystérieuse. -- Orage. -- Passage de la Sirba. --
+    Fin du rhamadan à Sebba. -- Bijoux en cuivre. -- De l'eau
+    partout. -- Barth déguisé en schérif. -- Horreur des chiens. --
     Montagnes du Hombori. -- Protection des Touaregs. -- Bambara. --
-    Priï¿½res pour la pluie. -- Sur l'eau. -- Kabara. -- Visites
+    Prières pour la pluie. -- Sur l'eau. -- Kabara. -- Visites
     importunes. -- Dangereux passage. -- Tinboctoue, Tomboctou ou
     Tembouctou. -- El Bakay. -- Menaces. -- Le camp du cheik. --
-    Irritation croissante. -- Sus au chrï¿½tien! -- Les Foullanes
-    veulent assiï¿½ger la ville. -- Dï¿½part. -- Un preux chez les
-    Touaregs. -- Zone rocheuse. -- Lenteurs dï¿½sespï¿½rantes. -- Gogo.
+    Irritation croissante. -- Sus au chrétien! -- Les Foullanes
+    veulent assiéger la ville. -- Départ. -- Un preux chez les
+    Touaregs. -- Zone rocheuse. -- Lenteurs désespérantes. -- Gogo.
     -- Gando. -- Kano. -- Retour.                                  226
 
 
 VOYAGES ET AVENTURES DU BARON DE WOGAN EN CALIFORNIE
-(1850-1852.--Inï¿½dit).
+(1850-1852.--Inédit).
 
-  Arrivï¿½e ï¿½ San-Francisco. -- Description de cette ville. -- Dï¿½part
-    pour les placers. -- Le claim. -- Premiï¿½re dï¿½ception. -- La
-    solitude. -- Mineur et chasseur. -- Dï¿½part pour l'intï¿½rieur. --
-    L'ours gris. -- Reconnaissance des sauvages. -- Captivitï¿½. --
+  Arrivée à San-Francisco. -- Description de cette ville. -- Départ
+    pour les placers. -- Le claim. -- Première déception. -- La
+    solitude. -- Mineur et chasseur. -- Départ pour l'intérieur. --
+    L'ours gris. -- Reconnaissance des sauvages. -- Captivité. --
     Jugement. -- Le poteau de la guerre. -- L'Anglais chef de tribu.
-    -- Dï¿½livrance.                                                 242
+    -- Délivrance.                                                 242
 
 
 VOYAGE DANS LE ROYAUME D'AVA (empire des Birmans), par le
-capitaine Henri YULE, du corps du gï¿½nie bengalais (1855).
+capitaine Henri YULE, du corps du génie bengalais (1855).
 
-  Dï¿½part de Rangoun. -- Frontiï¿½res anglaises et birmanes. -- Aspect
-    du fleuve et de ses bords. -- La ville de Magwï¿½. -- Musique,
+  Départ de Rangoun. -- Frontières anglaises et birmanes. -- Aspect
+    du fleuve et de ses bords. -- La ville de Magwé. -- Musique,
     concert et drames birmans. -- Sources de naphte; leur
-    exploitation. -- Un monastï¿½re et ses habitants. -- La ville de
-    Pagï¿½n. -- Myeen-Kyan. -- Amarapoura. -- Paysage. -- Arrivï¿½e ï¿½
+    exploitation. -- Un monastère et ses habitants. -- La ville de
+    Pagán. -- Myeen-Kyan. -- Amarapoura. -- Paysage. -- Arrivée à
     Amarapoura.                                                    258
 
-  Amarapoura; ses palais, ses temples. -- L'ï¿½lï¿½phant blanc. --
+  Amarapoura; ses palais, ses temples. -- L'éléphant blanc. --
     Population de la ville. -- Recensement suspect. -- Audience du
-    roi. -- Prï¿½sents offerts et reï¿½us. -- Le prince hï¿½ritier
-    prï¿½somptif et la princesse royale. -- Incident diplomatique. --
+    roi. -- Présents offerts et reçus. -- Le prince héritier
+    présomptif et la princesse royale. -- Incident diplomatique. --
     Religion bouddhique. -- Visites aux grands fonctionnaires. -- Les
     dames birmanes.                                                273
 
-  Comment on dompte les ï¿½lï¿½phants en Birmanie. -- Excursions autour
-    d'Amarapoura. -- Gï¿½ologie de la vallï¿½e de l'Irawady. -- Les
+  Comment on dompte les éléphants en Birmanie. -- Excursions autour
+    d'Amarapoura. -- Géologie de la vallée de l'Irawady. -- Les
     poissons familiers. -- Le serpent hamadryade. -- Les Shans et
-    autres peuples indigï¿½nes du royaume d'Ava. -- Les femmes chez les
-    Birmans et chez les Karens. -- Fï¿½tes birmanes. -- Audience de
-    congï¿½. -- Refus de signer un traitï¿½. -- Lettre royale. -- Dï¿½part
-    d'Amarapoura et retour ï¿½ Rangoun. -- Coup d'oeil rï¿½trospectif sur
+    autres peuples indigènes du royaume d'Ava. -- Les femmes chez les
+    Birmans et chez les Karens. -- Fêtes birmanes. -- Audience de
+    congé. -- Refus de signer un traité. -- Lettre royale. -- Départ
+    d'Amarapoura et retour à Rangoun. -- Coup d'oeil rétrospectif sur
     la Birmanie.                                                   280
 
 
 VOYAGE AUX GRANDS LACS DE L'AFRIQUE ORIENTALE, par le capitaine
 BURTON (1857-1859).
 
-  But de l'expï¿½dition. -- Le capitaine Burton. -- Zanzibar. --
-    Aspect de la cï¿½te. -- Un village. -- Les Bï¿½loutchis. -- Ouamrima.
-    -- Fertilitï¿½ du sol. -- Dï¿½goï¿½t inspirï¿½ par le pantalon. -- Vallï¿½e
+  But de l'expédition. -- Le capitaine Burton. -- Zanzibar. --
+    Aspect de la côte. -- Un village. -- Les Béloutchis. -- Ouamrima.
+    -- Fertilité du sol. -- Dégoût inspiré par le pantalon. -- Vallée
     de la mort. -- Supplice de M. Maizan. -- Hallucination de
-    l'assassin. -- Horreur du paysage. -- Humiditï¿½. -- Zoungomï¿½ro. --
-    Effets de la traite. -- Personnel de la caravane. -- Mï¿½tis
+    l'assassin. -- Horreur du paysage. -- Humidité. -- Zoungoméro. --
+    Effets de la traite. -- Personnel de la caravane. -- Métis
     arabes, Hindous, jeunes gens mis en gage par leurs familles. --
-    ï¿½nes de selle et de bï¿½t. -- Chaï¿½ne de l'Ousagara. --
+    Ânes de selle et de bât. -- Chaîne de l'Ousagara. --
     Transformation du climat. -- Nouvelles plaines insalubres. --
-    Contraste. -- Ruine d'un village. -- Fourmis noires. -- Troisiï¿½me
+    Contraste. -- Ruine d'un village. -- Fourmis noires. -- Troisième
     rampe de l'Ousagara. -- La Passe terrible. -- L'Ougogo. --
-    L'Ougogi. -- ï¿½pines. -- Le Zihoua. -- Caravanes. -- Curiositï¿½ des
-    indigï¿½nes. -- Faune. -- Un despote. -- La plaine embrasï¿½e. --
-    Coup d'oeil sur la vallï¿½e d'Ougogo. -- Ariditï¿½. -- Kraals. --
-    Absence de combustible. -- Gï¿½ologie. -- Climat. -- Printemps. --
-    Indigï¿½nes. -- District de Toula. -- Le chef Maoula. -- Forï¿½t
+    L'Ougogi. -- Épines. -- Le Zihoua. -- Caravanes. -- Curiosité des
+    indigènes. -- Faune. -- Un despote. -- La plaine embrasée. --
+    Coup d'oeil sur la vallée d'Ougogo. -- Aridité. -- Kraals. --
+    Absence de combustible. -- Géologie. -- Climat. -- Printemps. --
+    Indigènes. -- District de Toula. -- Le chef Maoula. -- Forêt
     dangereuse.                                                    305
 
-  Arrivï¿½e ï¿½ Kazeh. -- Accueil hospitalier. -- Snay ben Amir. --
-    ï¿½tablissements des Arabes. -- Leur maniï¿½re de vivre. -- Le Tembï¿½.
+  Arrivée à Kazeh. -- Accueil hospitalier. -- Snay ben Amir. --
+    Établissements des Arabes. -- Leur manière de vivre. -- Le Tembé.
     -- Chemins de l'Afrique orientale. -- Caravanes. -- Porteurs. --
-    Une journï¿½e de marche. -- Costume du guide. -- Le Mganga. --
-    Coiffures. -- Halte. -- Danse. -- Sï¿½jour ï¿½ Kazeh. -- Aviditï¿½ des
-    Bï¿½loutchis. -- Saison pluvieuse. -- Yombo. -- Coucher du soleil.
-    -- Jolies fumeuses. -- Le Msï¿½nï¿½. -- Orgies. -- Kajjanjï¿½ri. --
-    Maladie. -- Passage du Malagarazi. -- Tradition. -- Beautï¿½ de la
-    Terre de la Lune. -- Soirï¿½e de printemps. -- Orage. -- Faune. --
-    Cynocï¿½phales, chiens sauvages, oiseaux d'eau. -- Ouakimbou. --
-    Ouanyamouï¿½zi. -- Toilette. -- Naissances. -- ï¿½ducation. --
-    Funï¿½railles. -- Mobilier. -- Lieu public. -- Gouvernement. --
-    Ordalie. -- Rï¿½gion insalubre et fï¿½conde. -- Aspect du Tanganyika.
-    -- Ravissements. -- Kaouï¿½lï¿½.                                   321
+    Une journée de marche. -- Costume du guide. -- Le Mganga. --
+    Coiffures. -- Halte. -- Danse. -- Séjour à Kazeh. -- Avidité des
+    Béloutchis. -- Saison pluvieuse. -- Yombo. -- Coucher du soleil.
+    -- Jolies fumeuses. -- Le Mséné. -- Orgies. -- Kajjanjéri. --
+    Maladie. -- Passage du Malagarazi. -- Tradition. -- Beauté de la
+    Terre de la Lune. -- Soirée de printemps. -- Orage. -- Faune. --
+    Cynocéphales, chiens sauvages, oiseaux d'eau. -- Ouakimbou. --
+    Ouanyamouézi. -- Toilette. -- Naissances. -- Éducation. --
+    Funérailles. -- Mobilier. -- Lieu public. -- Gouvernement. --
+    Ordalie. -- Région insalubre et féconde. -- Aspect du Tanganyika.
+    -- Ravissements. -- Kaouélé.                                   321
 
-    Tatouage. -- Cosmï¿½tiques. -- Maniï¿½re originale de priser. --
-    Caractï¿½re des Ouajiji; leur cï¿½rï¿½monial. -- Autres riverains du
-    lac. -- Ouatata, vie nomade, conquï¿½tes, maniï¿½re de se battre,
-    hospitalitï¿½. -- Installation ï¿½ Kaouï¿½lï¿½. -- Visite de Kannï¿½na. --
+    Tatouage. -- Cosmétiques. -- Manière originale de priser. --
+    Caractère des Ouajiji; leur cérémonial. -- Autres riverains du
+    lac. -- Ouatata, vie nomade, conquêtes, manière de se battre,
+    hospitalité. -- Installation à Kaouélé. -- Visite de Kannéna. --
     Tribulations. -- Maladies. -- Sur le lac. -- Bourgades de
-    pï¿½cheurs. -- Ouafanya. -- Le chef Kanoni. -- Cï¿½te inhospitaliï¿½re.
-    -- L'ï¿½le d'Oubouari. -- Anthropophages. -- Accueil flatteur des
-    Ouavira. -- Pas d'issue au Tanganyika. -- Tempï¿½te. -- Retour.  337
+    pêcheurs. -- Ouafanya. -- Le chef Kanoni. -- Côte inhospitalière.
+    -- L'île d'Oubouari. -- Anthropophages. -- Accueil flatteur des
+    Ouavira. -- Pas d'issue au Tanganyika. -- Tempête. -- Retour.  337
 
 
 FRAGMENT D'UN VOYAGE AU SAUBAT (affluent du Nil Blanc), par M.
 Andrea DEBONO (1855)                                               348
 
 
-VOYAGE ï¿½ L'ï¿½LE DE CUBA, par M. Richard DANA (1859).
+VOYAGE À L'ÎLE DE CUBA, par M. Richard DANA (1859).
 
-  Dï¿½part de New-York. -- Une nuit en mer. -- Premiï¿½re vue de Cuba.
+  Départ de New-York. -- Une nuit en mer. -- Première vue de Cuba.
     -- Le Morro. -- Aspect de la Havane. -- Les rues. -- La volante.
-    -- La place d'Armes. -- La promenade d'Isabelle II. -- L'hï¿½tel Le
+    -- La place d'Armes. -- La promenade d'Isabelle II. -- L'hôtel Le
     Grand. -- Bains dans les rochers. -- Coolies chinois. -- Quartier
-    pauvre ï¿½ la Havane. -- La promenade de Tacon. -- Les surnoms ï¿½ la
-    Havane. -- Matanzas. -- La Plaza. -- Limossar. -- L'intï¿½rieur de
-    l'ï¿½le. -- La vï¿½gï¿½tation. -- Les champs de canne ï¿½ sucre. -- Une
-    plantation. -- Le cafï¿½. -- La vie dans une plantation de sucre.
-    -- Le Cumbre. -- Le passage. -- Retour ï¿½ la Havane. -- La
-    population de Cuba. -- Les noirs libres. -- Les mystï¿½res de
+    pauvre à la Havane. -- La promenade de Tacon. -- Les surnoms à la
+    Havane. -- Matanzas. -- La Plaza. -- Limossar. -- L'intérieur de
+    l'île. -- La végétation. -- Les champs de canne à sucre. -- Une
+    plantation. -- Le café. -- La vie dans une plantation de sucre.
+    -- Le Cumbre. -- Le passage. -- Retour à la Havane. -- La
+    population de Cuba. -- Les noirs libres. -- Les mystères de
     l'esclavage. -- Les productions naturelles. -- Le climat.      353
 
 
-EXCURSIONS DANS LE DAUPHINï¿½, par M. Adolphe JOANNE (1850-1860).
+EXCURSIONS DANS LE DAUPHINÉ, par M. Adolphe JOANNE (1850-1860).
 
-  Le pic de Belledon. -- Le Dauphinï¿½. -- Les Goulets.              369
+  Le pic de Belledon. -- Le Dauphiné. -- Les Goulets.              369
 
-  Les gorges d'Omblï¿½ze. -- Die. -- La vallï¿½e de Roumeyer. -- La
-    forï¿½t de Saou. -- Le col de la Cochette.                       385
+  Les gorges d'Omblèze. -- Die. -- La vallée de Roumeyer. -- La
+    forêt de Saou. -- Le col de la Cochette.                       385
 
 
-EXCURSIONS DANS LE DAUPHINï¿½, par M. ï¿½lisï¿½e RECLUS (1850-1860).
+EXCURSIONS DANS LE DAUPHINÉ, par M. Élisée RECLUS (1850-1860).
 
   La Grave. -- L'Aiguille du midi. -- Le clapier de
-    Saint-Christophe. -- Le pont du Diable. -- La Bï¿½rarde. -- Le col
+    Saint-Christophe. -- Le pont du Diable. -- La Bérarde. -- Le col
     de la Tempe. -- La Vallouise. -- Le Pertuis-Rostan. -- Le village
     des Claux. -- Le mont Pelvoux. -- La Balme-Chapelu. -- Moeurs des
     habitants.                                                     402
@@ -443,968 +443,968 @@ ERRATA.                                                            427
 
 
 
-VOYAGE ï¿½ L'ï¿½LE DE CUBA,
+VOYAGE À L'ÎLE DE CUBA,
 
 PAR M. RICHARD DANA[1].
 
 1859
 
          [Note 1: _To Cuba and back._--By Richard Henry Dana.
-         Londres, 1859.--M. Richard Dana est un auteur amï¿½ricain qui a
-         conquis aux ï¿½tats-Unis une immense popularitï¿½ par un petit
-         livre intitulï¿½: _Deux ans devant le mï¿½t_, oï¿½ se trouve
-         dï¿½peinte l'existence d'un simple matelot. M. Dana avait voulu
-         mener lui-mï¿½me cette vie d'aventure, et ce sont ses propres
+         Londres, 1859.--M. Richard Dana est un auteur américain qui a
+         conquis aux États-Unis une immense popularité par un petit
+         livre intitulé: _Deux ans devant le mât_, où se trouve
+         dépeinte l'existence d'un simple matelot. M. Dana avait voulu
+         mener lui-même cette vie d'aventure, et ce sont ses propres
          souvenirs qu'il consigne dans ce curieux volume que tout le
-         monde a lu en Amï¿½rique et en Angleterre. Son livre actuel sur
-         Cuba est le deuxiï¿½me ouvrage sorti de sa plume; nous en
-         prï¿½sentons une sorte de rï¿½sumï¿½, oï¿½ de longs extraits
-         littï¿½raux sont reliï¿½s par quelques parties abrï¿½gï¿½es.]
+         monde a lu en Amérique et en Angleterre. Son livre actuel sur
+         Cuba est le deuxième ouvrage sorti de sa plume; nous en
+         présentons une sorte de résumé, où de longs extraits
+         littéraux sont reliés par quelques parties abrégées.]
 
 
-     Dï¿½part de New-York. -- Une nuit en mer. -- Premiï¿½re vue de Cuba.
+     Départ de New-York. -- Une nuit en mer. -- Première vue de Cuba.
      -- Le Morro.
 
-Le samedi, 12 fï¿½vrier 1859, je quitte New-York sur le paquebot-poste
-amï¿½ricain _Cahawba_; nous passons devant les hauteurs de Neversink. La
+Le samedi, 12 février 1859, je quitte New-York sur le paquebot-poste
+américain _Cahawba_; nous passons devant les hauteurs de Neversink. La
 nuit descend sur la mer, triste, froide et neigeuse; nos signaux, l'un
-rouge, l'autre blanc, le troisiï¿½me vert, brillent dans les
-brouillards; la chaudiï¿½re jette sa rouge lueur, gaie ou terrible,
-suivant l'humeur du spectateur; les longues lames lï¿½vent ou abaissent
-la poupe et la proue et balancent le navire ï¿½ droite et ï¿½ gauche; les
-cloches commencent ï¿½ sonner sur leur ton ï¿½trange les demi-heures;
-l'humiditï¿½ et la nuit chassent tout le monde sous le pont: notre
-premiï¿½re nuit de mer a commencï¿½.
+rouge, l'autre blanc, le troisième vert, brillent dans les
+brouillards; la chaudière jette sa rouge lueur, gaie ou terrible,
+suivant l'humeur du spectateur; les longues lames lèvent ou abaissent
+la poupe et la proue et balancent le navire à droite et à gauche; les
+cloches commencent à sonner sur leur ton étrange les demi-heures;
+l'humidité et la nuit chassent tout le monde sous le pont: notre
+première nuit de mer a commencé.
 
 Le lendemain, nous ne faisons aucune rencontre, nous voyons seulement
-le steamer _Columbia_, en route pour Charleston, qui disparaï¿½t bientï¿½t
-derriï¿½re l'horizon. Nous passons le cap Hatteras; il fait nuit et le
-phare de Hatteras lance sa brillante aigrette de lumiï¿½re jusqu'ï¿½
-trente milles de distance sur cette mer, oï¿½ tant de marins ont trouvï¿½
-leur tombeau. Nous approchons bientï¿½t du Gulf-Stream. On jette un seau
-ï¿½ la mer pour en tirer de l'eau, elle marque 42ï¿½ Fahrenheit; quinze
-minutes aprï¿½s on le jette de nouveau, et elle marque dï¿½jï¿½ 72ï¿½. Nous
-sommes dans le Gulf-Stream[2]. Dï¿½s le lendemain, nous l'avions dï¿½jï¿½
+le steamer _Columbia_, en route pour Charleston, qui disparaît bientôt
+derrière l'horizon. Nous passons le cap Hatteras; il fait nuit et le
+phare de Hatteras lance sa brillante aigrette de lumière jusqu'à
+trente milles de distance sur cette mer, où tant de marins ont trouvé
+leur tombeau. Nous approchons bientôt du Gulf-Stream. On jette un seau
+à la mer pour en tirer de l'eau, elle marque 42° Fahrenheit; quinze
+minutes après on le jette de nouveau, et elle marque déjà 72°. Nous
+sommes dans le Gulf-Stream[2]. Dès le lendemain, nous l'avions déjà
 franchi; deux fois encore nous le traversons pour arriver en face du
 cap de la Floride.
 
-         [Note 2: ï¿½Les eaux de l'Ocï¿½an se rï¿½chauffent
+         [Note 2: «Les eaux de l'Océan se réchauffent
          naturellement dans le golfe du Mexique et la mer des
-         Antilles; elles donnent ainsi naissance ï¿½ un torrent d'eau
-         chaude qui, sous le nom de _Gulf-Stream_, va se prï¿½cipiter
-         sur les rï¿½cifs de l'archipel de Bahama, coule le long de la
-         cï¿½te de Floride, et conserve une direction parallï¿½le ï¿½ la
-         cï¿½te d'Amï¿½rique, en ne s'ï¿½loignant que fort peu, jusqu'ï¿½ la
-         hauteur du cap Hatteras. Lï¿½, rencontrant le courant d'eau
+         Antilles; elles donnent ainsi naissance à un torrent d'eau
+         chaude qui, sous le nom de _Gulf-Stream_, va se précipiter
+         sur les récifs de l'archipel de Bahama, coule le long de la
+         côte de Floride, et conserve une direction parallèle à la
+         côte d'Amérique, en ne s'éloignant que fort peu, jusqu'à la
+         hauteur du cap Hatteras. Là, rencontrant le courant d'eau
          froide venu du nord et le grand banc de Terre-Neuve, il
-         s'ï¿½largit, gagne en surface, s'ï¿½lï¿½ve vers le nord, puis sa
-         bande ainsi plus ï¿½tendue va rejoindre les Aï¿½ores, d'oï¿½ elle
-         se courbe vers le sud, revenant ï¿½ la cï¿½te d'Afrique et
-         recommenï¿½ant le mï¿½me circuit.ï¿½ (Alfred MAURY, _la Terre et
+         s'élargit, gagne en surface, s'élève vers le nord, puis sa
+         bande ainsi plus étendue va rejoindre les Açores, d'où elle
+         se courbe vers le sud, revenant à la côte d'Afrique et
+         recommençant le même circuit.» (Alfred MAURY, _la Terre et
          l'Homme_. Hachette. 1857.)]
 
-Rien ne peut peindre la beautï¿½ des nuits en mer dans ces latitudes
-mï¿½ridionales, ces clairs de lune, la mer sereine, ces brillantes
-ï¿½toiles, les lï¿½gers nuages emportï¿½s par les vents alizï¿½s, la douceur
+Rien ne peut peindre la beauté des nuits en mer dans ces latitudes
+méridionales, ces clairs de lune, la mer sereine, ces brillantes
+étoiles, les légers nuages emportés par les vents alizés, la douceur
 de l'air et ces sensations qui s'emparent sous les tropiques de celui
 qui vient de quitter la neige et les glaces de la Nouvelle-Angleterre.
-Il y a dans la clartï¿½ du ciel bleu et chaud des tropiques, quelque
-chose qui enlï¿½ve l'ï¿½tranger au sentiment de la rï¿½alitï¿½. D'oï¿½ viennent
-ces navires, qui sortent de la mer ï¿½ l'horizon? oï¿½ vont-ils quand ils
-s'y enfoncent de nouveau, ï¿½ l'autre bout du ciel? Ces taches bleues
-qu'on aperï¿½oit, sont-ce bien des ï¿½les ï¿½ l'ancre au fond des mers, avec
-des hommes, des enfants, des chevaux, des machines, des ï¿½coles, des
-journaux, ou flottent-elles et sont-elles seulement visitï¿½es par les
+Il y a dans la clarté du ciel bleu et chaud des tropiques, quelque
+chose qui enlève l'étranger au sentiment de la réalité. D'où viennent
+ces navires, qui sortent de la mer à l'horizon? où vont-ils quand ils
+s'y enfoncent de nouveau, à l'autre bout du ciel? Ces taches bleues
+qu'on aperçoit, sont-ce bien des îles à l'ancre au fond des mers, avec
+des hommes, des enfants, des chevaux, des machines, des écoles, des
+journaux, ou flottent-elles et sont-elles seulement visitées par les
 habitants de l'air?
 
-Le 17 fï¿½vrier, nous apercevons pour la premiï¿½re fois les hauteurs de
-Cuba; la premiï¿½re qui se montre, est le Pain de Matanzas; nous voici ï¿½
+Le 17 février, nous apercevons pour la première fois les hauteurs de
+Cuba; la première qui se montre, est le Pain de Matanzas; nous voici à
 soixante milles de la Havane. Nous ne pouvons y arriver avant la nuit,
-et aucun navire ne peut passer devant le _Morro_ aprï¿½s le coucher du
-soleil. Nous apercevons la cï¿½te septentrionale de Cuba, ce ne sont pas
-des bancs de sables, des plaines unies comme le long de nos ï¿½tats du
-sud; le pays ondulï¿½ descend vers la mer et s'ï¿½tage dans le lointain en
-lignes de plus en plus ï¿½levï¿½es. ï¿½Voilï¿½ le Morro!ï¿½
+et aucun navire ne peut passer devant le _Morro_ après le coucher du
+soleil. Nous apercevons la côte septentrionale de Cuba, ce ne sont pas
+des bancs de sables, des plaines unies comme le long de nos États du
+sud; le pays ondulé descend vers la mer et s'étage dans le lointain en
+lignes de plus en plus élevées. «Voilà le Morro!»
 
-Voilï¿½ bien, en effet, le Morro, un majestueux rocher qui s'ï¿½lï¿½ve
+Voilà bien, en effet, le Morro, un majestueux rocher qui s'élève
 perpendiculairement de la mer, avec ses murs, ses parapets et ses
-tours sur le sommet, ses banniï¿½res et ses signaux flottants et le
-phare ï¿½levï¿½ qui le domine. La colline n'est pas trï¿½s-haute, mais
-domine entiï¿½rement la mer. Tout prï¿½s est la citï¿½, ï¿½tendue le long de
-la cï¿½te, avec ses maisons qui descendent jusqu'aux rï¿½cifs de l'Ocï¿½an.
-Oï¿½ est le port? oï¿½ sont les quais? les voilï¿½. Nous arrivons devant
-l'entrï¿½e, profonde et ï¿½troite, qui sï¿½pare le Morro de la Punta; et par
-l'entrï¿½e nous voyons le port ï¿½tendu devant nous avec ses innombrables
-mï¿½ts. Mais la nuit descend, le canon qui donne le signal du coucher du
-soleil s'est fait entendre, nous entendons mourir les derniï¿½res
+tours sur le sommet, ses bannières et ses signaux flottants et le
+phare élevé qui le domine. La colline n'est pas très-haute, mais
+domine entièrement la mer. Tout près est la cité, étendue le long de
+la côte, avec ses maisons qui descendent jusqu'aux récifs de l'Océan.
+Où est le port? où sont les quais? les voilà. Nous arrivons devant
+l'entrée, profonde et étroite, qui sépare le Morro de la Punta; et par
+l'entrée nous voyons le port étendu devant nous avec ses innombrables
+mâts. Mais la nuit descend, le canon qui donne le signal du coucher du
+soleil s'est fait entendre, nous entendons mourir les dernières
 fanfares des trompettes dans les fortifications, et le phare commence
-ï¿½ jeter sa lueur sur la mer silencieuse, des lumiï¿½res ï¿½tincellent dans
-la citï¿½; il est trop tard pour pï¿½nï¿½trer dans le port. Lentement et
-comme ï¿½ regret, le vaisseau tourne sa proue vers la mer, la machine
-souffle lourdement, nous sommes balancï¿½s sur la mer. La Croix du Sud
-est au-dessus de l'horizon; et toute la nuit deux flots de lumiï¿½re
-dï¿½coupent leurs lignes sur la mer, l'une d'or, venant du phare;
+à jeter sa lueur sur la mer silencieuse, des lumières étincellent dans
+la cité; il est trop tard pour pénétrer dans le port. Lentement et
+comme à regret, le vaisseau tourne sa proue vers la mer, la machine
+souffle lourdement, nous sommes balancés sur la mer. La Croix du Sud
+est au-dessus de l'horizon; et toute la nuit deux flots de lumière
+découpent leurs lignes sur la mer, l'une d'or, venant du phare;
 l'autre d'argent, de la lune. Quel enchantement! qui peut regretter le
-dï¿½lai qui nous retient oï¿½ nous sommes, et le voisinage d'un quai
-vulgaire de dï¿½barquement?
+délai qui nous retient où nous sommes, et le voisinage d'un quai
+vulgaire de débarquement?
 
 
      Aspect de la Havane. -- Les rues. -- La volante. -- La place
-     d'Armes. -- La promenade d'Isabelle II. -- L'hï¿½tel Le Grand. --
+     d'Armes. -- La promenade d'Isabelle II. -- L'hôtel Le Grand. --
      Bains dans les rochers.
 
-Au lever du soleil, nous faisons notre entrï¿½e; de tous cï¿½tï¿½s on entend
+Au lever du soleil, nous faisons notre entrée; de tous côtés on entend
 les trompettes et tambours, du Morro, de la Punta, de la longue
-Cabaï¿½a, de la Casa Blanca. Quel monde de vaisseaux! les mï¿½ts sont
-serrï¿½s en vï¿½ritable forï¿½t, le long de la ville, la proue tournï¿½e vers
-les maisons, comme des chevaux ï¿½ la mangeoire; pendant que d'autres
-vaisseaux ï¿½ l'ancre remplissent presque entiï¿½rement tous les passages
-vers les baies qui s'ï¿½tendent plus loin. Voilï¿½ le pavillon ï¿½ raies
+Cabaña, de la Casa Blanca. Quel monde de vaisseaux! les mâts sont
+serrés en véritable forêt, le long de la ville, la proue tournée vers
+les maisons, comme des chevaux à la mangeoire; pendant que d'autres
+vaisseaux à l'ancre remplissent presque entièrement tous les passages
+vers les baies qui s'étendent plus loin. Voilà le pavillon à raies
 rouges et jaunes de l'Espagne; le pavillon tricolore de la grande
-nation; les croix de Saint-Georges de la Grande-Bretagne; les ï¿½toiles
-et les raies de la grande rï¿½publique, quelques pavillons de la
-Hollande, du Portugal, des ï¿½tats du nord de l'Italie, du Brï¿½sil et des
-rï¿½publiques de l'Amï¿½rique centrale. Nous avanï¿½ons prudemment ï¿½
-l'ancre, et venons prendre place dans la baie de Rï¿½gla; l'officier de
-santï¿½ inspecte le navire, on examine les passeports; et peu de temps
-aprï¿½s, me voilï¿½ installï¿½ dans une _volante_, conduit par un postillon
-nï¿½gre, dans les rues ï¿½troites de cette surprenante citï¿½.
+nation; les croix de Saint-Georges de la Grande-Bretagne; les étoiles
+et les raies de la grande république, quelques pavillons de la
+Hollande, du Portugal, des États du nord de l'Italie, du Brésil et des
+républiques de l'Amérique centrale. Nous avançons prudemment à
+l'ancre, et venons prendre place dans la baie de Régla; l'officier de
+santé inspecte le navire, on examine les passeports; et peu de temps
+après, me voilà installé dans une _volante_, conduit par un postillon
+nègre, dans les rues étroites de cette surprenante cité.
 
-Les rues sont si serrï¿½es et les maisons bï¿½ties si prï¿½s les unes des
-autres, qu'on croit ï¿½tre plutï¿½t entre deux murs que dans une rue. Il
+Les rues sont si serrées et les maisons bâties si près les unes des
+autres, qu'on croit être plutôt entre deux murs que dans une rue. Il
 semble impossible que deux voitures puissent passer de front; elles le
 font pourtant, mais il y a constamment des embarras de voitures. Dans
-certains endroits, des voiles sont tendues sur la rue entiï¿½re, de
-maison en maison, et l'on passe sous une longue tente. Quel ï¿½trange
-vï¿½hicule que la volante! une paire de longs et minces timons; ï¿½ un
-bout, une paire d'immenses roues, ï¿½ l'autre, un cheval avec sa queue
-tressï¿½e, relevï¿½e et attachï¿½e ï¿½ la selle; une chaise ouverte appuyï¿½e
-sur les timons, ï¿½ un tiers de la distance des roues au cheval; sur le
-cheval, un nï¿½gre avec de grandes bottes de postillon, de longs ï¿½perons
-et une brillante jaquette: voilï¿½ la volante. C'est un vï¿½hicule commode
-pour celui qui s'y trouve, mais il doit ï¿½tre sensiblement pï¿½nible pour
-le cheval. Nous rencontrons en passant des volantes de maï¿½tre,
-distinguï¿½es par de riches ornements d'argent et la livrï¿½e des
-postillons; quelques-unes ont deux chevaux; l'argent, la livrï¿½e, et
-les longs timons, qui se balancent, une ï¿½trangetï¿½ gï¿½nï¿½rale, leur
+certains endroits, des voiles sont tendues sur la rue entière, de
+maison en maison, et l'on passe sous une longue tente. Quel étrange
+véhicule que la volante! une paire de longs et minces timons; à un
+bout, une paire d'immenses roues, à l'autre, un cheval avec sa queue
+tressée, relevée et attachée à la selle; une chaise ouverte appuyée
+sur les timons, à un tiers de la distance des roues au cheval; sur le
+cheval, un nègre avec de grandes bottes de postillon, de longs éperons
+et une brillante jaquette: voilà la volante. C'est un véhicule commode
+pour celui qui s'y trouve, mais il doit être sensiblement pénible pour
+le cheval. Nous rencontrons en passant des volantes de maître,
+distinguées par de riches ornements d'argent et la livrée des
+postillons; quelques-unes ont deux chevaux; l'argent, la livrée, et
+les longs timons, qui se balancent, une étrangeté générale, leur
 donnent quelque chose de plaisant. Dans la plupart, on voit un
-monsieur ï¿½ demi couchï¿½, le cigare ï¿½ la bouche; dans d'autres, un flot
-gonflï¿½, de mousseline bleue ou rose, ï¿½tendu des deux cï¿½tï¿½s jusqu'aux
-timons, et derriï¿½re, quelque indice d'une tï¿½te vivante.
+monsieur à demi couché, le cigare à la bouche; dans d'autres, un flot
+gonflé, de mousseline bleue ou rose, étendu des deux côtés jusqu'aux
+timons, et derrière, quelque indice d'une tête vivante.
 
 Voici la place d'Armes avec son jardin plein de riches fleurs devant
-le palais du gouverneur. ï¿½ un des coins est la chapelle ï¿½levï¿½e sur
-l'endroit oï¿½, sous les auspices de Christophe Colomb, la messe fut
-pour la premiï¿½re fois cï¿½lï¿½brï¿½e dans l'ï¿½le. Nous arrivons au _Paseo de
-Isabel Segunda_, grande avenue qui s'ï¿½tend de la ville ï¿½ la baie, avec
-deux promenades parallï¿½les pour les voitures et deux autres pour les
-piï¿½tons, toutes bordï¿½es d'arbres en pleine floraison. Nous voici
-arrivï¿½s au thï¿½ï¿½tre de Tacon, et la volante s'arrï¿½te devant une ligne
+le palais du gouverneur. À un des coins est la chapelle élevée sur
+l'endroit où, sous les auspices de Christophe Colomb, la messe fut
+pour la première fois célébrée dans l'île. Nous arrivons au _Paseo de
+Isabel Segunda_, grande avenue qui s'étend de la ville à la baie, avec
+deux promenades parallèles pour les voitures et deux autres pour les
+piétons, toutes bordées d'arbres en pleine floraison. Nous voici
+arrivés au théâtre de Tacon, et la volante s'arrête devant une ligne
 de grandes maisons dont la hauteur contraste avec les autres maisons
-de la ville, qui sont uniformï¿½ment ï¿½ un ï¿½tage. Nous sommes ï¿½ l'hï¿½tel
+de la ville, qui sont uniformément à un étage. Nous sommes à l'hôtel
 Le Grand.
 
-Le Grand est un Franï¿½ais; son hï¿½tel est un restaurant avec des
+Le Grand est un Français; son hôtel est un restaurant avec des
 chambres pour les voyageurs. Le restaurant est excellentes, les
-chambres sont mï¿½diocres. Les lits n'ont point de matelas: on dort sur
-une toile tendue, sous un filet ï¿½ mosquites. Il faut fermer les
-fenï¿½tres la nuit, parce que le changement de tempï¿½rature qui prï¿½cï¿½de
-l'aube pourrait ï¿½tre dangereux. On vous prï¿½vient aussi qu'il ne faut
-pas marcher pieds nus sur le parquet, ï¿½ cause d'un petit insecte nommï¿½
-_nigua_ qui pï¿½nï¿½tre dans la chair, y fait ses oeufs, et occasionne des
+chambres sont médiocres. Les lits n'ont point de matelas: on dort sur
+une toile tendue, sous un filet à mosquites. Il faut fermer les
+fenêtres la nuit, parce que le changement de température qui précède
+l'aube pourrait être dangereux. On vous prévient aussi qu'il ne faut
+pas marcher pieds nus sur le parquet, à cause d'un petit insecte nommé
+_nigua_ qui pénètre dans la chair, y fait ses oeufs, et occasionne des
 tourments souvent insupportables.
 
-[Illustration: CARTE DE L'ï¿½LE DE CUBA par A. Vuillemin.
-Gravï¿½ chez Erhard R. Bonaparte 42.]
+[Illustration: CARTE DE L'ÎLE DE CUBA par A. Vuillemin.
+Gravé chez Erhard R. Bonaparte 42.]
 
-Aprï¿½s dï¿½ner, je me promï¿½ne le long du _Paseo de Isabel Segunda_, pour
-voir la promenade qui commence ï¿½ cinq heures environ et finit ï¿½ la
+Après dîner, je me promène le long du _Paseo de Isabel Segunda_, pour
+voir la promenade qui commence à cinq heures environ et finit à la
 nuit tombante. La voiture la plus ordinaire est la volante, mais il y
-a des ï¿½quipages dans le style anglais, avec des domestiques en livrï¿½e.
-J'ai un faible pour la volante ï¿½ deux chevaux. Le postillon, les longs
-timons qui oscillent, l'argent prodiguï¿½ dans les harnachements,
-donnent ï¿½ l'ensemble un style qui ï¿½clipse le respectable ï¿½quipage
-anglais. Les dames se promï¿½nent en grande toilette, dï¿½colletï¿½es, sans
-chapeau. Les domestiques, sur les voitures, sont tous nï¿½gres. On se
-promï¿½ne le long du _Paseo de Isabel_, ï¿½ travers le champ de Mars, et
-puis sur le _Paseo de Tacon_, qui mï¿½ne jusqu'ï¿½ la campagne, en ligne
+a des équipages dans le style anglais, avec des domestiques en livrée.
+J'ai un faible pour la volante à deux chevaux. Le postillon, les longs
+timons qui oscillent, l'argent prodigué dans les harnachements,
+donnent à l'ensemble un style qui éclipse le respectable équipage
+anglais. Les dames se promènent en grande toilette, décolletées, sans
+chapeau. Les domestiques, sur les voitures, sont tous nègres. On se
+promène le long du _Paseo de Isabel_, à travers le champ de Mars, et
+puis sur le _Paseo de Tacon_, qui mène jusqu'à la campagne, en ligne
 droite.
 
-ï¿½ huit heures je m'arrï¿½te sur la place d'Armes, un grand carrï¿½ qui
-s'ï¿½tend devant la maison du gouverneur, pour entendre la musique
+À huit heures je m'arrête sur la place d'Armes, un grand carré qui
+s'étend devant la maison du gouverneur, pour entendre la musique
 militaire de la retraite. La lune est claire et s'avance au milieu du
-champ ï¿½toilï¿½ et ï¿½tincelant du ciel; l'air est pur et embaumï¿½; la
+champ étoilé et étincelant du ciel; l'air est pur et embaumé; la
 musique lance ses accords sous les palmiers et les mangos; les
-promenades sont encombrï¿½es de monde, et l'on se presse autour des
-voitures pour saluer les dames. Peu de dames se promï¿½nent ï¿½ pied sur
-la place; ce sont sans doute des ï¿½trangï¿½res. L'ï¿½tiquette ne permet pas
-aux dames de marcher en public ï¿½ la Havane.
+promenades sont encombrées de monde, et l'on se presse autour des
+voitures pour saluer les dames. Peu de dames se promènent à pied sur
+la place; ce sont sans doute des étrangères. L'étiquette ne permet pas
+aux dames de marcher en public à la Havane.
 
 Je rentre lentement, pour voir la ville de nuit. Le soir est l'heure
-brillante des boutiques. On fait ses achats quand le gaz est allumï¿½.
-Les volantes et les voitures vont en tous sens, s'arrï¿½tent ï¿½ la porte
+brillante des boutiques. On fait ses achats quand le gaz est allumé.
+Les volantes et les voitures vont en tous sens, s'arrêtent à la porte
 des magasins. Les gardiens se tiennent au coin des rues, chacun tenant
-une longue pique et une lanterne. Les cafï¿½s sont ouverts. C'est aussi
+une longue pique et une lanterne. Les cafés sont ouverts. C'est aussi
 l'heure des visites.
 
-Une ï¿½trange habitude est observï¿½e dans toutes les maisons. Dans la
-chambre principale sont placï¿½es deux rangï¿½es de chaises, face ï¿½ face,
-trois ou quatre de chaque cï¿½tï¿½, et toujours ï¿½ angle droit avec le mur
-qui fait face sur la rue. En passant, on aperï¿½oit ces rangï¿½es de
-chaises. La famille et les visiteurs y prennent place mï¿½thodiquement.
-Comme les fenï¿½tres sont ouvertes, profondes et trï¿½s-larges, sans
-glaces, avec des barreaux trï¿½s-espacï¿½s, on peut inspecter tout cet
-arrangement intï¿½rieur dans tous les salons havanais, ï¿½tudier la
-toilette des dames, et savoir qui elles reï¿½oivent.
+Une étrange habitude est observée dans toutes les maisons. Dans la
+chambre principale sont placées deux rangées de chaises, face à face,
+trois ou quatre de chaque côté, et toujours à angle droit avec le mur
+qui fait face sur la rue. En passant, on aperçoit ces rangées de
+chaises. La famille et les visiteurs y prennent place méthodiquement.
+Comme les fenêtres sont ouvertes, profondes et très-larges, sans
+glaces, avec des barreaux très-espacés, on peut inspecter tout cet
+arrangement intérieur dans tous les salons havanais, étudier la
+toilette des dames, et savoir qui elles reçoivent.
 
-On se lï¿½ve de bonne heure pour jouir des meilleures heures de la
-journï¿½e. On m'avait appris qu'il y a des bains creusï¿½s dans le roc,
-prï¿½s de la Punta. Je pars pour m'y rendre ï¿½ six heures, et me promï¿½ne
+On se lève de bonne heure pour jouir des meilleures heures de la
+journée. On m'avait appris qu'il y a des bains creusés dans le roc,
+près de la Punta. Je pars pour m'y rendre à six heures, et me promène
 sous les arbres vers le Presidio; Quel est ce son retentissant? Est-ce
-la cavalerie qui marcherait ï¿½ pied, les sabres traï¿½nants? Non; c'est
+la cavalerie qui marcherait à pied, les sabres traînants? Non; c'est
 une foule de malheureux qui se forment en ligne devant le Presidio. Ce
-sont des forï¿½ats! chacun a une bande de fer rivï¿½e autour de la
-cheville, une autre autour de la ceinture, et une chaï¿½ne s'attache par
-les deux bouts ï¿½ ces deux bandes. Ils ont ainsi le libre usage de
-leurs bras et mï¿½me de tout le corps, la chaï¿½ne est seulement un poids
-et une marque dont ils ne peuvent se dï¿½barrasser. On la garde nuit et
+sont des forçats! chacun a une bande de fer rivée autour de la
+cheville, une autre autour de la ceinture, et une chaîne s'attache par
+les deux bouts à ces deux bandes. Ils ont ainsi le libre usage de
+leurs bras et même de tout le corps, la chaîne est seulement un poids
+et une marque dont ils ne peuvent se débarrasser. On la garde nuit et
 jour, en travaillant, en mangeant, en dormant. Dans certains cas, deux
-condamnï¿½s sont enchaï¿½nï¿½s ensemble.
+condamnés sont enchaînés ensemble.
 
-[Illustration: Coolies chinois, ï¿½ Cuba.--Dessin de Pelcoq d'aprï¿½s une
+[Illustration: Coolies chinois, à Cuba.--Dessin de Pelcoq d'après une
 photographie.]
 
-J'arrive aux _Baï¿½os de Mar_. Ce sont des compartiments dont chacun a
-environ douze pieds carrï¿½s et six ou huit pieds de profondeur, et
-coupï¿½s dans la falaise avec des escaliers de pierre; chaque
-compartiment a deux ouvertures par oï¿½ les flots entrent et sortent
-librement. Cet arrangement est nï¿½cessaire, parce que les requins sont
-si abondants, que le bain en pleine mer est fort pï¿½rilleux. La beautï¿½
-du rocher, le va-et-vient de l'eau donnent beaucoup d'agrï¿½ment ï¿½ ces
-bains, et l'eau, qui est celle du Gulf-Stream, a une tempï¿½rature de
-72ï¿½ Fahrenheit. Les bains sont voï¿½tï¿½s au sommet et fermï¿½s en partie du
-cï¿½tï¿½ de la terre, mais ouverts du cï¿½tï¿½ de la mer, pour laisser la vue
+J'arrive aux _Baños de Mar_. Ce sont des compartiments dont chacun a
+environ douze pieds carrés et six ou huit pieds de profondeur, et
+coupés dans la falaise avec des escaliers de pierre; chaque
+compartiment a deux ouvertures par où les flots entrent et sortent
+librement. Cet arrangement est nécessaire, parce que les requins sont
+si abondants, que le bain en pleine mer est fort périlleux. La beauté
+du rocher, le va-et-vient de l'eau donnent beaucoup d'agrément à ces
+bains, et l'eau, qui est celle du Gulf-Stream, a une température de
+72° Fahrenheit. Les bains sont voûtés au sommet et fermés en partie du
+côté de la terre, mais ouverts du côté de la mer, pour laisser la vue
 libre; et pendant qu'on se baigne, on voit les lourds navires
-flotter sur le Gulf-Stream, ce grand chemin de la mer ï¿½quinoxiale.
-L'eau dans les bains se tient ï¿½ une profondeur de trois ï¿½ cinq pieds,
+flotter sur le Gulf-Stream, ce grand chemin de la mer Équinoxiale.
+L'eau dans les bains se tient à une profondeur de trois à cinq pieds,
 et ils sont assez grands pour qu'on puisse un peu y nager. Le fond est
-en sable et en coquilles. Ces bains ont ï¿½tï¿½ construits aux frais de
-l'ï¿½tat et sont libres. Quelques-uns sont rï¿½servï¿½s aux femmes, et
+en sable et en coquilles. Ces bains ont été construits aux frais de
+l'État et sont libres. Quelques-uns sont réservés aux femmes, et
 d'autres _per la gente de color_.
 
-[Illustration: Vue gï¿½nï¿½rale de la Havane, capitale de Cuba.--Dessin de
+[Illustration: Vue générale de la Havane, capitale de Cuba.--Dessin de
 Lancelot.]
 
 
-     Coolies chinois. -- Quartier pauvre ï¿½ la Havane. -- La promenade
+     Coolies chinois. -- Quartier pauvre à la Havane. -- La promenade
      de Tacon.
 
-Je ne fus pas longtemps ï¿½ la Havane sans remarquer dans les rues et
+Je ne fus pas longtemps à la Havane sans remarquer dans les rues et
 les maisons des hommes de complexion indienne, avec de grossiers
-cheveux noirs. Je demandai si c'ï¿½taient des natifs indiens ou des
-hommes de sang mï¿½lï¿½. Non; ce sont des coolies. Leurs cheveux portï¿½s
-longs et leur costume ne m'avaient point rï¿½vï¿½lï¿½ les Chinois; pourtant
-leurs formes et l'expression de leurs yeux auraient dï¿½ me l'indiquer.
+cheveux noirs. Je demandai si c'étaient des natifs indiens ou des
+hommes de sang mêlé. Non; ce sont des coolies. Leurs cheveux portés
+longs et leur costume ne m'avaient point révélé les Chinois; pourtant
+leurs formes et l'expression de leurs yeux auraient dû me l'indiquer.
 Ce sont les victimes de ce nouveau commerce dont nous entendons tant
-parler. On m'informe qu'il y en a deux cent mille ï¿½ Cuba, et qu'ils y
-ont ï¿½tï¿½ importï¿½s dans l'espace de sept ans. J'ai rencontrï¿½ les
-nouveaux et derniers venus en costume chinois, la tï¿½te rasï¿½e; mais la
+parler. On m'informe qu'il y en a deux cent mille à Cuba, et qu'ils y
+ont été importés dans l'espace de sept ans. J'ai rencontré les
+nouveaux et derniers venus en costume chinois, la tête rasée; mais la
 plupart portent ensuite des pantalons, des jaquettes et des chapeaux
 de paille, et laissent pousser leurs cheveux.
 
-Je me rendis, peu de jours aprï¿½s mon arrivï¿½e, au _Jesus del Monte_,
-pour prï¿½senter une lettre d'introduction ï¿½ l'ï¿½vï¿½que. Le chemin, en
+Je me rendis, peu de jours après mon arrivée, au _Jesus del Monte_,
+pour présenter une lettre d'introduction à l'évêque. Le chemin, en
 passant par la _Calzada de Jesus del Monte_, traverse une partie
-misï¿½rable, je dirais volontiers la plus misï¿½rable de la Havane, par
-des lignes sans fin de bouges ï¿½ un ï¿½tage en bois et en pisï¿½, ï¿½ peine
-habitables pour des nï¿½gres, et entremï¿½lï¿½s d'une quantitï¿½ de cabarets.
-Chevaux, mulets, ï¿½nes, poules, enfants, grandes personnes, tout le
-monde entre par la mï¿½me porte; et par derriï¿½re on dï¿½couvre d'horribles
-amas d'ordures. L'aspect des hommes, les chevaux attachï¿½s aux portes,
+misérable, je dirais volontiers la plus misérable de la Havane, par
+des lignes sans fin de bouges à un étage en bois et en pisé, à peine
+habitables pour des nègres, et entremêlés d'une quantité de cabarets.
+Chevaux, mulets, ânes, poules, enfants, grandes personnes, tout le
+monde entre par la même porte; et par derrière on découvre d'horribles
+amas d'ordures. L'aspect des hommes, les chevaux attachés aux portes,
 les mules avec leurs paniers de fruits et de feuilles qui descendent
-jusqu'ï¿½ terre, tout me parle de Gil Blas et de ce que j'ai lu sur la
-vie en Espagne. Les petits nï¿½grillons s'en vont tout nus, aussi peu
-soucieux de vï¿½tements que des petits chiens. Mais c'est ce qu'on voit
-dans la ville entiï¿½re. Ce matin, dans la grande salle de l'hï¿½tel Le
-Grand, je voyais une dame, tout habillï¿½e de blanc et en grande
-toilette, tenir par la main un petit nï¿½grillon nu de deux ï¿½ trois ans,
+jusqu'à terre, tout me parle de Gil Blas et de ce que j'ai lu sur la
+vie en Espagne. Les petits négrillons s'en vont tout nus, aussi peu
+soucieux de vêtements que des petits chiens. Mais c'est ce qu'on voit
+dans la ville entière. Ce matin, dans la grande salle de l'hôtel Le
+Grand, je voyais une dame, tout habillée de blanc et en grande
+toilette, tenir par la main un petit négrillon nu de deux à trois ans,
 blotti dans les plis de sa robe.
 
-Nous commenï¿½ons ï¿½ nous ï¿½lever sur les hauteurs de _Jesus del Monte_.
-Les maisons ont meilleure apparence: elles ont toujours un seul ï¿½tage,
-mais sont hautes et en pierre, avec des pavï¿½s de marbre et des toits
+Nous commençons à nous élever sur les hauteurs de _Jesus del Monte_.
+Les maisons ont meilleure apparence: elles ont toujours un seul étage,
+mais sont hautes et en pierre, avec des pavés de marbre et des toits
 en tuiles, des cours pleines de gazon et d'arbres; et par les grilles
-des grandes fenï¿½tres, hautes et larges, on voit un mobilier ï¿½lï¿½gant,
-une double rangï¿½e de fauteuils, et des dames bien mises faisant jouer
-l'ï¿½ventail.
+des grandes fenêtres, hautes et larges, on voit un mobilier élégant,
+une double rangée de fauteuils, et des dames bien mises faisant jouer
+l'éventail.
 
-Arrivï¿½ au sommet, on jouit d'une vue admirable. Voilï¿½ la Havane, ville
+Arrivé au sommet, on jouit d'une vue admirable. Voilà la Havane, ville
 et faubourg; le _Morro_, avec ses batteries et son phare; la ligne de
-fortifications qu'on nomme la _Cabaï¿½a_ et _Casa Blanca_; le chï¿½teau
-d'_Ataves_, tout auprï¿½s, un parfait cï¿½ne tronquï¿½, fortifiï¿½ au sommet;
-le chï¿½teau _del Principe_, plus lointain et plus ï¿½levï¿½, et autour de
-tout cela ï¿½le dï¿½sert gris et mï¿½lancolique du vieil Ocï¿½an.ï¿½ Non, non!
-il est toujours jeune! l'Ocï¿½an bleu, brillant; il donne la joie au
-coeur, il inspire! Ai-je jamais contemplï¿½ une vue aussi grandiose? La
-vue de Quï¿½bec, du pied des cataractes de Montmorency, peut rivaliser
-avec celle-ci, mais ne la dï¿½passe pas. Pour moi, je prï¿½fï¿½re la Havane,
-car rien, pas mï¿½me le Saint-Laurent, si large qu'il soit, ne peut
+fortifications qu'on nomme la _Cabaña_ et _Casa Blanca_; le château
+d'_Ataves_, tout auprès, un parfait cône tronqué, fortifié au sommet;
+le château _del Principe_, plus lointain et plus élevé, et autour de
+tout cela «le désert gris et mélancolique du vieil Océan.» Non, non!
+il est toujours jeune! l'Océan bleu, brillant; il donne la joie au
+coeur, il inspire! Ai-je jamais contemplé une vue aussi grandiose? La
+vue de Québec, du pied des cataractes de Montmorency, peut rivaliser
+avec celle-ci, mais ne la dépasse pas. Pour moi, je préfère la Havane,
+car rien, pas même le Saint-Laurent, si large qu'il soit, ne peut
 remplacer cette mer, l'horizon sans bornes, la vue des voiles qui
 brillent dans la distance, les larges contours du port, et ces longs
 bras qui l'embrassent.
 
 Je reviens par le _Paseo de Tacon_, que je parcours dans toute sa
-longueur; cette promenade, bien plantï¿½e, n'a pas moins de trois milles
-d'ï¿½tendue; elle s'ï¿½tend depuis le champ de Mars, qui est hors des
-murs, ï¿½ un grand jardin oï¿½ il y a une fontaine et une statue, et qui
+longueur; cette promenade, bien plantée, n'a pas moins de trois milles
+d'étendue; elle s'étend depuis le champ de Mars, qui est hors des
+murs, à un grand jardin où il y a une fontaine et une statue, et qui
 est tout rempli des arbres et des fleurs les plus admirables. Aucune
-ville en Amï¿½rique ne possï¿½de une aussi belle avenue. Comme beaucoup
-d'autres choses ï¿½ la Havane, elle porte le nom du gï¿½nï¿½ral Tacon, dont
-l'ï¿½nergie a tant fait pour la belle colonie espagnole.
+ville en Amérique ne possède une aussi belle avenue. Comme beaucoup
+d'autres choses à la Havane, elle porte le nom du général Tacon, dont
+l'énergie a tant fait pour la belle colonie espagnole.
 
 
-     Les surnoms ï¿½ la Havane. -- Matanzas. -- La Plaza. -- Limossar.
-     -- L'intï¿½rieur de l'ï¿½le. -- La vï¿½gï¿½tation.
+     Les surnoms à la Havane. -- Matanzas. -- La Plaza. -- Limossar.
+     -- L'intérieur de l'île. -- La végétation.
 
-Les Cubains ont un goï¿½t prononcï¿½ pour les noms bien ronflants. Chaque
-boutique, jusqu'ï¿½ la plus humble, a son nom particulier. On leur donne
-les noms du soleil, de la lune, des dieux, des dï¿½esses, des demi-dieux
-et des hï¿½ros; des fruits, des fleurs, des pierres prï¿½cieuses; des noms
+Les Cubains ont un goût prononcé pour les noms bien ronflants. Chaque
+boutique, jusqu'à la plus humble, a son nom particulier. On leur donne
+les noms du soleil, de la lune, des dieux, des déesses, des demi-dieux
+et des héros; des fruits, des fleurs, des pierres précieuses; des noms
 favoris de femmes, avec des additions pleines de fantaisie; et enfin
 les noms de toutes les perfections possibles, de tous les plaisirs des
-sens et de l'esprit. Les prisons et les hï¿½pitaux ont tous leurs noms
+sens et de l'esprit. Les prisons et les hôpitaux ont tous leurs noms
 plus ou moins patriotiques; les douze canons du Morro ont ceux des
-apï¿½tres. Chaque ville a le nom d'un apï¿½tre ou d'un saint, ou de
-quelque objet sacrï¿½. Le nom complet de la Havane, en l'honneur de
+apôtres. Chaque ville a le nom d'un apôtre ou d'un saint, ou de
+quelque objet sacré. Le nom complet de la Havane, en l'honneur de
 Christophe Colomb, est _San Cristobal de la Habana_; celui de Matanzas
-est _San Carlos Alcazar de Matanzas_. Il est singulier que l'ï¿½le
-elle-mï¿½me ait dï¿½fiï¿½ toutes les tentatives faites pour en changer le
-nom. Elle avait ï¿½tï¿½ solennellement baptisï¿½e de celui de _Juana_,
-d'aprï¿½s la fille de Ferdinand et d'Isabelle; puis de _Ferdinand_,
-d'aprï¿½s ce monarque lui-mï¿½me; puis de _Santiago d'Ave Maria_, mais on
-est toujours revenu au nom indien de Cuba. Pour satisfaire les goï¿½ts
+est _San Carlos Alcazar de Matanzas_. Il est singulier que l'île
+elle-même ait défié toutes les tentatives faites pour en changer le
+nom. Elle avait été solennellement baptisée de celui de _Juana_,
+d'après la fille de Ferdinand et d'Isabelle; puis de _Ferdinand_,
+d'après ce monarque lui-même; puis de _Santiago d'Ave Maria_, mais on
+est toujours revenu au nom indien de Cuba. Pour satisfaire les goûts
 hyperboliques de la race qui l'a conquise, on se contente de dire,
-dans les cï¿½rï¿½monies et les grandes occasions, _la siempre fidelisima
+dans les cérémonies et les grandes occasions, _la siempre fidelisima
 isla de Cuba_.
 
-Comme il n'y a pas de plantations ï¿½ voir ï¿½ la Havane, je pris le parti
-d'aller ï¿½ Matanzas; tout autour de cette ville, les travaux sont en
-pleine activitï¿½ dans cette saison. Un bateau ï¿½ vapeur quitte la Havane
-tous les soirs ï¿½ dix heures, et arrive ï¿½ Matanzas avant le jour; la
-distance par mer est de cinquante ï¿½ soixante milles.
+Comme il n'y a pas de plantations à voir à la Havane, je pris le parti
+d'aller à Matanzas; tout autour de cette ville, les travaux sont en
+pleine activité dans cette saison. Un bateau à vapeur quitte la Havane
+tous les soirs à dix heures, et arrive à Matanzas avant le jour; la
+distance par mer est de cinquante à soixante milles.
 
-Le steamer part ponctuellement ï¿½ dix heures et sort du port. Les eaux
-noires sont illuminï¿½es par la lumiï¿½re phosphorescente. Le cï¿½ble qui
-retient les vaisseaux ï¿½ l'ancre se dessine comme un filet d'argent.
-Chaque bateau, qui glisse silencieusement de vaisseau ï¿½ vaisseau, de
-rivage ï¿½ rivage, laisse un sillon d'argent derriï¿½re son gouvernail, et
-soulï¿½ve ï¿½ l'avant un flot argentï¿½, pendant que les rames soulï¿½vent de
-l'argent liquide qui s'ï¿½coule et retombe dans la profondeur opaque de
-l'eau. Une fois sorti du port, je m'endors et ne me rï¿½veille qu'ï¿½
+Le steamer part ponctuellement à dix heures et sort du port. Les eaux
+noires sont illuminées par la lumière phosphorescente. Le câble qui
+retient les vaisseaux à l'ancre se dessine comme un filet d'argent.
+Chaque bateau, qui glisse silencieusement de vaisseau à vaisseau, de
+rivage à rivage, laisse un sillon d'argent derrière son gouvernail, et
+soulève à l'avant un flot argenté, pendant que les rames soulèvent de
+l'argent liquide qui s'écoule et retombe dans la profondeur opaque de
+l'eau. Une fois sorti du port, je m'endors et ne me réveille qu'à
 trois heures du matin dans la baie de Matanzas.
 
-Nous mettons ï¿½ l'ancre ï¿½ un mille environ de la jetï¿½e; de petits
-bateaux viennent nous chercher et nous conduisent ï¿½ la ville. Matanzas
-diffï¿½re de la Havane par le genre de constructions, les voitures, les
+Nous mettons à l'ancre à un mille environ de la jetée; de petits
+bateaux viennent nous chercher et nous conduisent à la ville. Matanzas
+diffère de la Havane par le genre de constructions, les voitures, les
 coutumes, la largeur des rues, et a moins l'air d'une ville des
-tropiques. Elle a environ vingt-cinq mille habitants, et est situï¿½e au
-point oï¿½ deux petites riviï¿½res, le Yumuri et le San Juan, qu'on
+tropiques. Elle a environ vingt-cinq mille habitants, et est située au
+point où deux petites rivières, le Yumuri et le San Juan, qu'on
 traverse par de beaux ponts de pierre, se jettent dans la mer. La
-ville se trouve ainsi divisï¿½e en trois parties. Les vaisseaux restent
-ï¿½ l'ancre ï¿½ deux ou trois milles de la citï¿½; celle-ci est sur un
-terrain uni et brï¿½lant, mais les collines environnantes sont
-pittoresques et fertiles. ï¿½ l'ouest de la ville s'ï¿½lï¿½ve une chaï¿½ne qui
+ville se trouve ainsi divisée en trois parties. Les vaisseaux restent
+à l'ancre à deux ou trois milles de la cité; celle-ci est sur un
+terrain uni et brûlant, mais les collines environnantes sont
+pittoresques et fertiles. À l'ouest de la ville s'élève une chaîne qui
 borde la mer, et qu'on nomme le _Cumbre_; on va y admirer de
-trï¿½s-beaux points de vue.
+très-beaux points de vue.
 
-Dans ma premiï¿½re promenade, je rencontrai une troupe de coolies
-portant, sous un soleil ardent, des pierres pour bï¿½tir une maison,
-sous les yeux d'un surveillant assis ï¿½ l'ombre. Ils sont nus jusqu'ï¿½
-la ceinture, avec des pantalons de coton courts qui s'arrï¿½tent au
-genou. Quelques uns de ces hommes sont fortement, un ou deux mï¿½me
-puissamment constituï¿½s; mais beaucoup paraissent trï¿½s-frï¿½les. On
-m'informe, ce que j'avais dï¿½jï¿½ entendu dire ï¿½ la Havane, que
-l'importateur de coolies reï¿½oit deux mille francs par tï¿½te de
+Dans ma première promenade, je rencontrai une troupe de coolies
+portant, sous un soleil ardent, des pierres pour bâtir une maison,
+sous les yeux d'un surveillant assis à l'ombre. Ils sont nus jusqu'à
+la ceinture, avec des pantalons de coton courts qui s'arrêtent au
+genou. Quelques uns de ces hommes sont fortement, un ou deux même
+puissamment constitués; mais beaucoup paraissent très-frêles. On
+m'informe, ce que j'avais déjà entendu dire à la Havane, que
+l'importateur de coolies reçoit deux mille francs par tête de
 l'acheteur, et que celui-ci doit donner aux coolies vingt francs de
-gages par mois, qu'ils peuvent rï¿½clamer tous les mois, si cela leur
+gages par mois, qu'ils peuvent réclamer tous les mois, si cela leur
 convient; ils sont tenus au service pour huit ans, et, pendant cette
-pï¿½riode, assujettis aux travaux ordinaires qu'on demande aux esclaves.
+période, assujettis aux travaux ordinaires qu'on demande aux esclaves.
 Ils sont, dit-on, plus intelligents et peuvent faire un travail plus
-variï¿½ que les noirs. Il ne serait pas bon de fouetter un coolie. Ils
-ont, sur la dignitï¿½ de leur personne, des opinions qui ne leur
-permettent pas de se soumettre ï¿½ la dï¿½gradation d'un chï¿½timent
-corporel. Si un coolie est fouettï¿½, il faut que quelqu'un meure, ou le
-coolie lui-mï¿½me, car ils sont terriblement enclins au suicide, ou
-celui qui a ordonnï¿½ la punition, ou quelque autre personne, ce qui
-revient ï¿½ peu prï¿½s au mï¿½me dans leurs ï¿½tranges principes de chï¿½timent
-indirect. Nï¿½anmoins, la valeur de la main-d'oeuvre ï¿½ Cuba est telle,
-qu'un habitant est prï¿½t ï¿½ donner deux mille francs en argent comptant,
-pour la chance de pouvoir imposer huit ans de travail ï¿½ vingt francs
-par mois ï¿½ un homme qui parle une langue ï¿½trangï¿½re, qui adore d'autres
-dieux, qui considï¿½re le suicide comme une vertu, et qui est gouvernï¿½
-par des lois morales tout autres que celles de son maï¿½tre, sans
-compter que sa valeur est encore diminuï¿½e par les chances de mort
-naturelle, de maladie, d'accidents, de fuite, de punition, imposï¿½e par
+varié que les noirs. Il ne serait pas bon de fouetter un coolie. Ils
+ont, sur la dignité de leur personne, des opinions qui ne leur
+permettent pas de se soumettre à la dégradation d'un châtiment
+corporel. Si un coolie est fouetté, il faut que quelqu'un meure, ou le
+coolie lui-même, car ils sont terriblement enclins au suicide, ou
+celui qui a ordonné la punition, ou quelque autre personne, ce qui
+revient à peu près au même dans leurs étranges principes de châtiment
+indirect. Néanmoins, la valeur de la main-d'oeuvre à Cuba est telle,
+qu'un habitant est prêt à donner deux mille francs en argent comptant,
+pour la chance de pouvoir imposer huit ans de travail à vingt francs
+par mois à un homme qui parle une langue étrangère, qui adore d'autres
+dieux, qui considère le suicide comme une vertu, et qui est gouverné
+par des lois morales tout autres que celles de son maître, sans
+compter que sa valeur est encore diminuée par les chances de mort
+naturelle, de maladie, d'accidents, de fuite, de punition, imposée par
 les lois du pays, qu'il peut d'autant plus facilement violer qu'il ne
-les connaï¿½t ni ne les comprend.
+les connaît ni ne les comprend.
 
 La _Plaza_ est, dans le style ordinaire, un jardin clos avec des
-murailles; devant s'ï¿½lï¿½ve le palais du gouvernement. C'est ici, dans
+murailles; devant s'élève le palais du gouvernement. C'est ici, dans
 ce lieu si beau et en plein soleil de midi, que tomba, il y a quatorze
-ans, sous le feu des soldats espagnols, le patriote et poï¿½te, l'un des
-rares poï¿½tes populaires de Cuba, Gabriel de la Concepcion Valdez.
-Accusï¿½ d'ï¿½tre ï¿½ la tï¿½te d'un mouvement organisï¿½ pour dï¿½livrer les
-esclaves, qui jeta la terreur ï¿½ Cuba en 1844, il fut condamnï¿½ ï¿½ mort
-et fusillï¿½. Son nom et son histoire sont populaires ï¿½ Cuba. Il ï¿½tait
-surtout connu sous le nom de Placido, sous lequel il ï¿½crivait. C'ï¿½tait
-un homme de talent et un brave, mais c'ï¿½tait un mulï¿½tre!
+ans, sous le feu des soldats espagnols, le patriote et poëte, l'un des
+rares poëtes populaires de Cuba, Gabriel de la Concepcion Valdez.
+Accusé d'être à la tête d'un mouvement organisé pour délivrer les
+esclaves, qui jeta la terreur à Cuba en 1844, il fut condamné à mort
+et fusillé. Son nom et son histoire sont populaires à Cuba. Il était
+surtout connu sous le nom de Placido, sous lequel il écrivait. C'était
+un homme de talent et un brave, mais c'était un mulâtre!
 
 Je pars en chemin de fer pour Limossar; en quittant Matanzas, nous
-nous ï¿½levons sur un plan inclinï¿½; la baie et la citï¿½ s'ï¿½tendent
+nous élevons sur un plan incliné; la baie et la cité s'étendent
 au-dessous de nous. La baie est profonde sur le bord occidental, sous
-les hauteurs du Cumbre, et c'est lï¿½ que les vaisseaux se tiennent ï¿½
+les hauteurs du Cumbre, et c'est là que les vaisseaux se tiennent à
 l'ancre; ailleurs, elle est peu profonde, et l'eau y est d'un vert
-clair. Des bateaux ï¿½ rames et ï¿½ voile font le trajet entre les navires
+clair. Des bateaux à rames et à voile font le trajet entre les navires
 et les quais.
 
-Je vais maintenant voir pour la premiï¿½re fois l'intï¿½rieur de Cuba. On
+Je vais maintenant voir pour la première fois l'intérieur de Cuba. On
 ne saurait avoir un jour plus favorable. L'air est transparent et
-n'est pas excessivement chaud. Des nuages doux flottent ï¿½ demi-hauteur
+n'est pas excessivement chaud. Des nuages doux flottent à demi-hauteur
 dans un ciel serein; le soleil est brillant, et la luxuriante flore
-d'un ï¿½tï¿½ perpï¿½tuel couvre tout le pays. Partout s'ï¿½lï¿½vent ces ï¿½tranges
+d'un été perpétuel couvre tout le pays. Partout s'élèvent ces étranges
 palmiers! je ne puis m'y habituer. Beaucoup d'autres arbres
-ressemblent aux nï¿½tres, et l'on croirait qu'ils peuvent venir dans
+ressemblent aux nôtres, et l'on croirait qu'ils peuvent venir dans
 notre pays. Mais le palmier royal a l'air tropical par excellence: il
-ne peut croï¿½tre hors d'une ï¿½troite ceinture qui court autour du globe.
-Son tronc, long, mince, si droit et si uni, emmaillottï¿½ depuis le pied
-dans le bandage serrï¿½ d'une toile grise, montre un cou d'un vert
-foncï¿½, et au-dessus une crï¿½te et un plumage de feuilles de la mï¿½me
-couleur. Il ne donne pas d'ombre, et ne porte pas de fruits estimï¿½s de
-l'homme. Il n'a aucune beautï¿½ particuliï¿½re pour faire pardonner son
-inutilitï¿½. Pourtant il a quelque chose de plus que la beautï¿½, il
-exerce sur le regard une fascination ï¿½trange, et on sent, quand on l'a
+ne peut croître hors d'une étroite ceinture qui court autour du globe.
+Son tronc, long, mince, si droit et si uni, emmaillotté depuis le pied
+dans le bandage serré d'une toile grise, montre un cou d'un vert
+foncé, et au-dessus une crête et un plumage de feuilles de la même
+couleur. Il ne donne pas d'ombre, et ne porte pas de fruits estimés de
+l'homme. Il n'a aucune beauté particulière pour faire pardonner son
+inutilité. Pourtant il a quelque chose de plus que la beauté, il
+exerce sur le regard une fascination étrange, et on sent, quand on l'a
 vu, qu'on ne peut plus l'oublier.
 
-Quels sont ces bouquets qui semblent du maï¿½s tendant ï¿½ prendre les
-proportions d'un arbuste? La tige paraï¿½t devenue tronc, la dï¿½licate
-pellicule externe une ï¿½corce, et les grains de maï¿½s se transforment en
+Quels sont ces bouquets qui semblent du maïs tendant à prendre les
+proportions d'un arbuste? La tige paraît devenue tronc, la délicate
+pellicule externe une écorce, et les grains de maïs se transforment en
 melons? Ce sont les bananiers et les plantains, comme le montrent,
-quand on approche, leurs grappes de fruits verts et jaunes. Et lï¿½-bas,
-cet arbre penchï¿½, avec ses longues feuilles qui tombent ï¿½ terre, et
+quand on approche, leurs grappes de fruits verts et jaunes. Et là-bas,
+cet arbre penché, avec ses longues feuilles qui tombent à terre, et
 des fruits verts comme des melons? J'interromps mon voisin qui fume
-son dixiï¿½me cigarrito, pour lui en demander le nom. C'est le cocoa! Ce
+son dixième cigarrito, pour lui en demander le nom. C'est le cocoa! Ce
 melon vert deviendra la dure noix que nous cassons avec un marteau.
 
 
-     Les champs de canne ï¿½ sucre. -- Une plantation. -- Le cafï¿½. --La
+     Les champs de canne à sucre. -- Une plantation. -- Le café. --La
      vie dans une plantation de sucre.
 
-Nous arrivons bientï¿½t ï¿½ des champs de canne ï¿½ sucre, qui de loin
-ressemblent ï¿½ des champs de blï¿½ gigantesque. Ils s'ï¿½lï¿½vent ï¿½ huit ou
-dix pieds de hauteur et sont trï¿½s-fourrï¿½s. Une armï¿½e pourrait s'y
-cacher. Le sol porte toutes les traces d'une intense fertilitï¿½.
+Nous arrivons bientôt à des champs de canne à sucre, qui de loin
+ressemblent à des champs de blé gigantesque. Ils s'élèvent à huit ou
+dix pieds de hauteur et sont très-fourrés. Une armée pourrait s'y
+cacher. Le sol porte toutes les traces d'une intense fertilité.
 
-Lï¿½-bas, au bout d'une avenue de palmiers, dans un nid d'arbres
-ombreux, est un groupe de bï¿½timents blancs entourï¿½s d'une mer de
-champs de cannes ï¿½ sucre, avec une haute cheminï¿½e qui vomit des filets
-de fumï¿½e noire. C'est une plantation de sucre, le premier _ingenio_
-que j'aperï¿½oive. Des chars traï¿½nï¿½s par des boeufs, chargï¿½s de cannes,
+Là-bas, au bout d'une avenue de palmiers, dans un nid d'arbres
+ombreux, est un groupe de bâtiments blancs entourés d'une mer de
+champs de cannes à sucre, avec une haute cheminée qui vomit des filets
+de fumée noire. C'est une plantation de sucre, le premier _ingenio_
+que j'aperçoive. Des chars traînés par des boeufs, chargés de cannes,
 traversent lentement les champs; et autour des maisons, dans les
-champs, dans toutes les attitudes du travail, on voit les nï¿½gres,
+champs, dans toutes les attitudes du travail, on voit les nègres,
 hommes, femmes, enfants, les uns coupant les cannes, les autres
-chargeant les chars; c'est une scï¿½ne d'activitï¿½ industrielle sous le
+chargeant les chars; c'est une scène d'activité industrielle sous le
 soleil d'un jour accablant et plein de langueur.
 
 [Illustration: Avenue de palmiers devant une habitation de
-Cuba.--Dessin de E. de Bï¿½rard.]
+Cuba.--Dessin de E. de Bérard.]
 
-Les groupes de maisons blanches ï¿½ un ï¿½tage deviennent plus frï¿½quents,
-quelquefois ils sont trï¿½s-rapprochï¿½s les uns des autres; tous ont le
-mï¿½me caractï¿½re, ils ne diffï¿½rent que par la vï¿½gï¿½tation qui les
+Les groupes de maisons blanches à un étage deviennent plus fréquents,
+quelquefois ils sont très-rapprochés les uns des autres; tous ont le
+même caractère, ils ne diffèrent que par la végétation qui les
 entoure. Les uns ont de larges avenues de palmiers, de mangos, ou
-d'orangers, et sont entourï¿½s de jardins, abritï¿½s sous des bouquets
+d'orangers, et sont entourés de jardins, abrités sous des bouquets
 d'arbres; d'autres brillent sous le soleil ardent, sur une plaine unie
-de cannes; ï¿½ peine une petite oasis de verdure s'ï¿½lï¿½ve aux alentours.
+de cannes; à peine une petite oasis de verdure s'élève aux alentours.
 
-[Illustration: Cathï¿½drale de Havane.--Dessin de Navlet.]
+[Illustration: Cathédrale de Havane.--Dessin de Navlet.]
 
-Je commence ï¿½ sentir que je suis bien dans Cuba; dans la riche,
-tropicale Cuba, qui fait du sucre et est cultivï¿½e par des esclaves: la
-vie cubaine doit ï¿½tre ï¿½tudiï¿½e dans les plantations. J'arrive ï¿½ la
-station, oï¿½ je dois m'arrï¿½ter pour aller ï¿½ la plantation de Seï¿½or
-C.... On me montre ï¿½ une petite distance, sous de grands arbres, une
-maison oï¿½ l'on arrive entre des orangers. Tout autour de moi, je ne
-vois qu'une riche verdure, sur un sol doucement ondulï¿½; ï¿½a et lï¿½, une
-haute colline ï¿½ l'horizon, et d'un cï¿½tï¿½ une chaï¿½ne lointaine de
+Je commence à sentir que je suis bien dans Cuba; dans la riche,
+tropicale Cuba, qui fait du sucre et est cultivée par des esclaves: la
+vie cubaine doit être étudiée dans les plantations. J'arrive à la
+station, où je dois m'arrêter pour aller à la plantation de Señor
+C.... On me montre à une petite distance, sous de grands arbres, une
+maison où l'on arrive entre des orangers. Tout autour de moi, je ne
+vois qu'une riche verdure, sur un sol doucement ondulé; ça et là, une
+haute colline à l'horizon, et d'un côté une chaîne lointaine de
 basses montagnes. On n'entend d'autre son que le chant des oiseaux;
 des fleurs sauvages, de toute forme et de toute odeur, couvrent le sol
-et les buissons. Voici la fameuse terre rouge si renommï¿½e pour sa
-fertilitï¿½. Il semblerait que l'avenue a ï¿½tï¿½ couverte de briques
-pulvï¿½risï¿½es, et la poussiï¿½re elle-mï¿½me a une couleur rouge. Voici la
-haute maison ï¿½ un seul ï¿½tage, avec ses longues, hautes piazzas. Ici la
-haute muraille, peinte de blanc, qui enceint un grand carrï¿½, ne
-s'ouvre que par une porte, et donne ï¿½ l'habitation l'air d'un fort;
-lï¿½-bas sont les cases des noirs; plus loin la fabrique de sucre, la
-cheminï¿½e qui fume, et les chars avec leurs boeufs. Par la porte, je
-puis apercevoir deux messieurs ï¿½ table, et deux nï¿½gresses, dont l'une
-sert, et l'autre est occupï¿½e ï¿½ chasser les mouches. Le nï¿½gre qui
-m'accompagne et porte mon bagage, met la main ï¿½ son chapeau, et attend
+et les buissons. Voici la fameuse terre rouge si renommée pour sa
+fertilité. Il semblerait que l'avenue a été couverte de briques
+pulvérisées, et la poussière elle-même a une couleur rouge. Voici la
+haute maison à un seul étage, avec ses longues, hautes piazzas. Ici la
+haute muraille, peinte de blanc, qui enceint un grand carré, ne
+s'ouvre que par une porte, et donne à l'habitation l'air d'un fort;
+là-bas sont les cases des noirs; plus loin la fabrique de sucre, la
+cheminée qui fume, et les chars avec leurs boeufs. Par la porte, je
+puis apercevoir deux messieurs à table, et deux négresses, dont l'une
+sert, et l'autre est occupée à chasser les mouches. Le nègre qui
+m'accompagne et porte mon bagage, met la main à son chapeau, et attend
 qu'on lui donne la permission d'entrer sur la piazza; car dans les
-plantations les nï¿½gres ne peuvent approcher la porte de la maison sans
-en avoir reï¿½u la permission. Ma lettre d'introduction lue, on me
-reï¿½oit avec la plus cordiale hospitalitï¿½.
+plantations les nègres ne peuvent approcher la porte de la maison sans
+en avoir reçu la permission. Ma lettre d'introduction lue, on me
+reçoit avec la plus cordiale hospitalité.
 
-La plantation oï¿½ je suis se nommait le Labyrinthe ï¿½El Labarinto;ï¿½
-pendant trente ans elle a ï¿½tï¿½ un _cafetal_ (plantation ï¿½ cafï¿½)
-trï¿½s-prospï¿½re. Les causes qui ont amenï¿½ la chute des cafetals ï¿½ Cuba
-ont agi ici comme ailleurs; et on a crï¿½ï¿½ maintenant une plantation de
-cannes ï¿½ sucre ï¿½ la place, sous le nom nouveau de _la Ariadne_.
+La plantation où je suis se nommait le Labyrinthe «El Labarinto;»
+pendant trente ans elle a été un _cafetal_ (plantation à café)
+très-prospère. Les causes qui ont amené la chute des cafetals à Cuba
+ont agi ici comme ailleurs; et on a créé maintenant une plantation de
+cannes à sucre à la place, sous le nom nouveau de _la Ariadne_.
 
-La conversion des plantations ï¿½ cafï¿½ en plantations ï¿½ sucre, du
-_cafetal_ en _ingenio_, a trï¿½s-sï¿½rieusement affectï¿½ les conditions
-sociales et ï¿½conomiques de l'ï¿½le de Cuba. Le cafï¿½ doit venir ï¿½
-l'ombre; en consï¿½quence, un cafetal ï¿½tait une plantation d'arbres;
-l'ï¿½conomie et le goï¿½t ï¿½ la fois avaient amenï¿½ les planteurs, qui
-presque tous ï¿½taient des rï¿½fugiï¿½s de Saint-Domingue, ï¿½ choisir des
-arbres fruitiers, avec des arbres dont le bois ï¿½tait recherchï¿½, aussi
-bien que ceux qui ï¿½taient remarquables par leur beautï¿½. Sous ce
-manteau d'arbres croissait le cafï¿½ier, plante toujours verte, et
+La conversion des plantations à café en plantations à sucre, du
+_cafetal_ en _ingenio_, a très-sérieusement affecté les conditions
+sociales et économiques de l'île de Cuba. Le café doit venir à
+l'ombre; en conséquence, un cafetal était une plantation d'arbres;
+l'économie et le goût à la fois avaient amené les planteurs, qui
+presque tous étaient des réfugiés de Saint-Domingue, à choisir des
+arbres fruitiers, avec des arbres dont le bois était recherché, aussi
+bien que ceux qui étaient remarquables par leur beauté. Sous ce
+manteau d'arbres croissait le caféier, plante toujours verte, et
 presque toujours en fleurs, avec des baies de teintes changeantes, qui
-deux fois l'annï¿½e, donnent les grains de cafï¿½. Pour exploiter la
-plantation, il fallait y percer, ï¿½ des intervalles assez nombreux, des
-avenues assez larges pour les voitures. La plantation ï¿½tait par
-consï¿½quent dï¿½coupï¿½e comme un jardin, avec des avenues, des sentiers,
-sous l'ombre des arbres les plus admirables; l'espace qui sï¿½parait les
-avenues ï¿½tait un immense verger, ï¿½ l'ombre duquel s'ï¿½levait, jusqu'ï¿½
-cinq ou six pieds de hauteur, la plante ï¿½ cafï¿½. Le travail consistait
-ï¿½ soigner la plante, ï¿½ recueillir le cafï¿½, et les fruits; on cultivait
-en outre des lï¿½gumes, on ï¿½levait des moutons, des chevaux et des
-boeufs. C'ï¿½tait de l'horticulture, sur la plus vaste ï¿½chelle possible.
-Il fallait beaucoup de temps pour crï¿½er le jardin, les Cubains disent
-volontiers ï¿½le paradis d'un cafetal;ï¿½ une fois achevï¿½, c'ï¿½tait un
-sï¿½jour dï¿½licieux et aimï¿½. On n'avait besoin d'aucune aide mï¿½canique,
-on se passait de la vapeur, de la science; il suffisait de connaï¿½tre
+deux fois l'année, donnent les grains de café. Pour exploiter la
+plantation, il fallait y percer, à des intervalles assez nombreux, des
+avenues assez larges pour les voitures. La plantation était par
+conséquent découpée comme un jardin, avec des avenues, des sentiers,
+sous l'ombre des arbres les plus admirables; l'espace qui séparait les
+avenues était un immense verger, à l'ombre duquel s'élevait, jusqu'à
+cinq ou six pieds de hauteur, la plante à café. Le travail consistait
+à soigner la plante, à recueillir le café, et les fruits; on cultivait
+en outre des légumes, on élevait des moutons, des chevaux et des
+boeufs. C'était de l'horticulture, sur la plus vaste échelle possible.
+Il fallait beaucoup de temps pour créer le jardin, les Cubains disent
+volontiers «le paradis d'un cafetal;» une fois achevé, c'était un
+séjour délicieux et aimé. On n'avait besoin d'aucune aide mécanique,
+on se passait de la vapeur, de la science; il suffisait de connaître
 les sols, la culture de quelques plantes et de quelques arbres.
 
-Il a fallu vingt ans et plus pour dï¿½montrer aux Cubains, que le
-Brï¿½sil, les Antilles, qui sont ï¿½ une latitude plus mï¿½ridionale que
-Cuba, et les ï¿½tats de l'Amï¿½rique centrale, peuvent produire le cafï¿½
+Il a fallu vingt ans et plus pour démontrer aux Cubains, que le
+Brésil, les Antilles, qui sont à une latitude plus méridionale que
+Cuba, et les États de l'Amérique centrale, peuvent produire le café
 avec plus d'avantage. Les ouragans successifs et terribles de 1843 et
-1845, qui dï¿½truisirent et ravagï¿½rent tant de cafetals, joints au
-systï¿½me colonial de la mï¿½tropole, qui n'accordait aucune protection
-efficace ï¿½ Cuba, ont mis fin ï¿½ l'ï¿½re des plantations ï¿½ cafï¿½. Ces
-motifs n'ont sans doute fait que hï¿½ter une rï¿½solution nï¿½cessaire. Les
-mï¿½mes causes qui produisaient l'infï¿½rioritï¿½ de Cuba, au point de vue
-de la production du cafï¿½, lui ont assurï¿½ une supï¿½rioritï¿½ marquï¿½e pour
-la production du sucre. Les plantations dï¿½truites ont ï¿½tï¿½ consacrï¿½es ï¿½
+1845, qui détruisirent et ravagèrent tant de cafetals, joints au
+système colonial de la métropole, qui n'accordait aucune protection
+efficace à Cuba, ont mis fin à l'ère des plantations à café. Ces
+motifs n'ont sans doute fait que hâter une résolution nécessaire. Les
+mêmes causes qui produisaient l'infériorité de Cuba, au point de vue
+de la production du café, lui ont assuré une supériorité marquée pour
+la production du sucre. Les plantations détruites ont été consacrées à
 la culture de la canne; et graduellement, d'abord dans les parties
-occidentales et septentrionales, puis chaque jour plus avant du cï¿½tï¿½
-de l'est et du sud sur l'ï¿½le entiï¿½re, les ravissants cafetals ont ï¿½tï¿½
-abattus, les arbres coupï¿½s, la charrue a passï¿½ sur les avenues et les
-sentiers, et le pays dï¿½nudï¿½ n'est plus qu'une mer de cannes.
+occidentales et septentrionales, puis chaque jour plus avant du côté
+de l'est et du sud sur l'île entière, les ravissants cafetals ont été
+abattus, les arbres coupés, la charrue a passé sur les avenues et les
+sentiers, et le pays dénudé n'est plus qu'une mer de cannes.
 
 
-     La vie dans une plantation de cannes ï¿½ sucre.
+     La vie dans une plantation de cannes à sucre.
 
-La canne ï¿½ sucre ne s'accommode point de l'ombre. Pour en rendre la
+La canne à sucre ne s'accommode point de l'ombre. Pour en rendre la
 culture profitable, il faut la cultiver aussi en grand que possible.
-Avoir des arbres fruitiers, serait une mauvaise ï¿½conomie pour le
+Avoir des arbres fruitiers, serait une mauvaise économie pour le
 planteur. La plupart des fruits, surtout l'orange, qui s'exporte le
-plus, arrivent ï¿½ maturitï¿½ au milieu de la saison sucriï¿½re, et tous les
-bras sont alors requis. La canne ne mï¿½rit qu'une fois l'annï¿½e. Tout le
-travail doit ï¿½tre accompli pendant la pï¿½riode oï¿½ elle commence ï¿½ ï¿½tre
-assez mï¿½re pour ï¿½tre portï¿½e au moulin et le moment oï¿½ la chaleur et
-les pluies commencent ï¿½ la gï¿½ter. Dans la Louisiane cette pï¿½riode ne
-dï¿½passe pas huit semaines. ï¿½ Cuba, elle est de quatre mois pleins.
-Cette diffï¿½rence donne ï¿½ Cuba un grand avantage. Pourtant ces quatre
-mois sont encore trop courts; et pendant ce temps la cheminï¿½e fume et
-les fourneaux sont allumï¿½s jour et nuit.
+plus, arrivent à maturité au milieu de la saison sucrière, et tous les
+bras sont alors requis. La canne ne mûrit qu'une fois l'année. Tout le
+travail doit être accompli pendant la période où elle commence à être
+assez mûre pour être portée au moulin et le moment où la chaleur et
+les pluies commencent à la gâter. Dans la Louisiane cette période ne
+dépasse pas huit semaines. À Cuba, elle est de quatre mois pleins.
+Cette différence donne à Cuba un grand avantage. Pourtant ces quatre
+mois sont encore trop courts; et pendant ce temps la cheminée fume et
+les fourneaux sont allumés jour et nuit.
 
 Une plantation de sucre n'est ni un jardin, ni un verger. Ce n'est
-plus le sï¿½jour aimï¿½ dont s'enorgueillissait la famille du planteur.
-Aussi les plantations souffrent-elles des maux de l'absentï¿½isme, et
-les propriï¿½taires habitent aujourd'hui les environs de la Havane, de
-Matanzas, ou mï¿½me New-York. L'esclavage a perdu par lï¿½ ce qu'il avait
-encore de patriarcal. Le maï¿½tre n'est plus le chef de la famille ï¿½ la
-fois juge, mï¿½decin, prï¿½tre, pï¿½re, comme nous le reprï¿½sentent
+plus le séjour aimé dont s'enorgueillissait la famille du planteur.
+Aussi les plantations souffrent-elles des maux de l'absentéisme, et
+les propriétaires habitent aujourd'hui les environs de la Havane, de
+Matanzas, ou même New-York. L'esclavage a perdu par là ce qu'il avait
+encore de patriarcal. Le maître n'est plus le chef de la famille à la
+fois juge, médecin, prêtre, père, comme nous le représentent
 quelquefois les avocats de l'esclavage. Des surveillants, des
-administrateurs sont aujourd'hui placï¿½s entre lui et les esclaves. Les
-sentiments que fait naï¿½tre une existence commune, les souvenirs de
-l'enfance, de longues et intimes relations, un amour partagï¿½ pour la
+administrateurs sont aujourd'hui placés entre lui et les esclaves. Les
+sentiments que fait naître une existence commune, les souvenirs de
+l'enfance, de longues et intimes relations, un amour partagé pour la
 maison, la terre, les animaux domestiques, les oiseaux;--les
-sympathies qui s'ï¿½veillent par les naissances, les maladies, par la
-mort mï¿½me, les devoirs religieux accomplis en commun;--tout ce qui
-pouvait amï¿½liorer les rapports sociaux, tout cela disparaï¿½t de plus en
+sympathies qui s'éveillent par les naissances, les maladies, par la
+mort même, les devoirs religieux accomplis en commun;--tout ce qui
+pouvait améliorer les rapports sociaux, tout cela disparaît de plus en
 plus.
 
-Je dï¿½couvre que l'ingï¿½nieur qui a le soin de la machine ï¿½ vapeur de
-la sucrerie est un Amï¿½ricain: il appartient ï¿½ une classe de
-machinistes que la culture du sucre amï¿½ne tous les ans ï¿½ Cuba. Ils
-quittent les ï¿½tats-Unis en automne, s'engagent pour la saison, mettent
-les appareils en bon ï¿½tat, restent quatre ou cinq mois occupï¿½s, puis
+Je découvre que l'ingénieur qui a le soin de la machine à vapeur de
+la sucrerie est un Américain: il appartient à une classe de
+machinistes que la culture du sucre amène tous les ans à Cuba. Ils
+quittent les États-Unis en automne, s'engagent pour la saison, mettent
+les appareils en bon état, restent quatre ou cinq mois occupés, puis
 s'en reviennent au printemps dans leurs pays. Ce sont des gens fort
-habiles, et capables de faire toutes les rï¿½parations nï¿½cessaires: ils
-sont trï¿½s-bien payï¿½s, mais sont constamment occupï¿½s pendant quatre
-mois, sans aucune distraction ni rï¿½crï¿½ation. Celui avec qui je fais
-connaissance connaï¿½t trï¿½s-bien Cuba, oï¿½ il est dï¿½jï¿½ venu plusieurs
+habiles, et capables de faire toutes les réparations nécessaires: ils
+sont très-bien payés, mais sont constamment occupés pendant quatre
+mois, sans aucune distraction ni récréation. Celui avec qui je fais
+connaissance connaît très-bien Cuba, où il est déjà venu plusieurs
 fois: il m'apprend que dans toutes les plantations, pendant la saison
-sucriï¿½re, les noirs n'ont que quatre heures de sommeil sur les
-vingt-quatre heures, une heure pour dï¿½ner, une demi-heure pour
-dï¿½jeuner. La nuit est divisï¿½e en trois pï¿½riodes de trois heures, les
+sucrière, les noirs n'ont que quatre heures de sommeil sur les
+vingt-quatre heures, une heure pour dîner, une demi-heure pour
+déjeuner. La nuit est divisée en trois périodes de trois heures, les
 noirs ont, par tiers, leur tour de sommeil.
 
-Les employï¿½s les plus importants dans une plantation sont le _mayoral_
-ou _mayordomo_. Le premier a la surveillance gï¿½nï¿½rale des noirs et
-doit ï¿½tablir parmi eux une stricte discipline. Le majordome est
+Les employés les plus importants dans une plantation sont le _mayoral_
+ou _mayordomo_. Le premier a la surveillance générale des noirs et
+doit établir parmi eux une stricte discipline. Le majordome est
 l'homme d'affaires de la plantation. Sous les ordres du mayoral sont
-un certain nombre de _contra-mayorales_, qui correspondent ï¿½ ce qu'on
-nomme les _drivers_ dans les plantations des ï¿½tats-Unis. L'un d'eux
-accompagne toujours un groupe de nï¿½gres ï¿½ l'ouvrage, dans les champs
+un certain nombre de _contra-mayorales_, qui correspondent à ce qu'on
+nomme les _drivers_ dans les plantations des États-Unis. L'un d'eux
+accompagne toujours un groupe de nègres à l'ouvrage, dans les champs
 ou ailleurs, les surveille, les dirige, et les fait travailler. Ils
 portent constamment sous le bras un fouet court, le signe de leur
-office. Ce sont presque toujours des nï¿½gres, et gï¿½nï¿½ralement les noirs
-ne montrent pas plus d'humanitï¿½ dans ces fonctions que les blancs de
-bas ï¿½tage.
+office. Ce sont presque toujours des nègres, et généralement les noirs
+ne montrent pas plus d'humanité dans ces fonctions que les blancs de
+bas étage.
 
 [Illustration: La Volante, voiture de la Havane.--Dessin de Victor
 Adam.]
 
 Chaque soir, le majordome distribue des provisions aux noirs, sous la
 surveillance de l'administrateur. Les feux s'allument ensuite dans les
-cases, et on y prï¿½pare le repas du soir. J'allai les visiter avant que
-le quartier nï¿½gre ne fï¿½t fermï¿½. Une haute muraille entoure une cour
-carrï¿½e oï¿½ sont les cases. Il n'y a qu'une porte d'entrï¿½e, qui se ferme
-ï¿½ la nuit; quitter le quartier aprï¿½s la fermeture serait un dï¿½lit
-trï¿½s-grave. Les huttes sont simples, mais assez bien disposï¿½es. Dans
-quelques-unes est allumï¿½ un feu autour duquel, mï¿½me dans cette saison
-chaude, les nï¿½gres aiment ï¿½ se grouper. Cette visite laissa une
-ï¿½trange impression dans mon esprit. Rentrï¿½ dans ma chambre ï¿½ coucher,
-dans le silence de la nuit, je m'endormis en songeant que j'ï¿½tais, ï¿½
-Cuba, l'hï¿½te d'un planteur, au milieu de tous les effets de cet
-ï¿½trange systï¿½me oï¿½ un homme s'arroge tous les droits sur d'autres,
-amenï¿½s ï¿½ travers l'Ocï¿½an. J'entendais encore le chant des nï¿½gres
+cases, et on y prépare le repas du soir. J'allai les visiter avant que
+le quartier nègre ne fût fermé. Une haute muraille entoure une cour
+carrée où sont les cases. Il n'y a qu'une porte d'entrée, qui se ferme
+à la nuit; quitter le quartier après la fermeture serait un délit
+très-grave. Les huttes sont simples, mais assez bien disposées. Dans
+quelques-unes est allumé un feu autour duquel, même dans cette saison
+chaude, les nègres aiment à se grouper. Cette visite laissa une
+étrange impression dans mon esprit. Rentré dans ma chambre à coucher,
+dans le silence de la nuit, je m'endormis en songeant que j'étais, à
+Cuba, l'hôte d'un planteur, au milieu de tous les effets de cet
+étrange système où un homme s'arroge tous les droits sur d'autres,
+amenés à travers l'Océan. J'entendais encore le chant des nègres
 chargeant les chars dans les champs de cannes et leurs modulations
 barbares: _Na-nu, A-ya--Na-ne, A-ya_.
 
-Une fois je me rï¿½veillai au milieu de la nuit, et de loin j'entendis
-le bruit des travailleurs occupï¿½s dans les champs, sous la clartï¿½ des
-ï¿½toiles.
+Une fois je me réveillai au milieu de la nuit, et de loin j'entendis
+le bruit des travailleurs occupés dans les champs, sous la clarté des
+étoiles.
 
 
-     Le Cumbre. -- Le passage. -- Retour ï¿½ la Havane.
+     Le Cumbre. -- Le passage. -- Retour à la Havane.
 
-Revenu ï¿½ Matanzas, je vais visiter la montagne du Cumbre. Je pars ï¿½
-cheval avec un noir pour guide; nous nous ï¿½levons peu ï¿½ peu au-dessus
-de la ville. La baie, les maisons, le port, sont ï¿½ nos pieds; le _Pan_
-s'ï¿½lï¿½ve, dans la distance, ï¿½ la hauteur de mille mï¿½tres. L'Ocï¿½an est
-devant nous, et derriï¿½re la paisible vallï¿½e de l'Yumuri; je reviens
-par cette pittoresque vallï¿½e, sans avoir le temps de visiter aucune
-des cavernes ï¿½ stalactites qui y sont trï¿½s-nombreuses et
-trï¿½s-profondes.
+Revenu à Matanzas, je vais visiter la montagne du Cumbre. Je pars à
+cheval avec un noir pour guide; nous nous élevons peu à peu au-dessus
+de la ville. La baie, les maisons, le port, sont à nos pieds; le _Pan_
+s'élève, dans la distance, à la hauteur de mille mètres. L'Océan est
+devant nous, et derrière la paisible vallée de l'Yumuri; je reviens
+par cette pittoresque vallée, sans avoir le temps de visiter aucune
+des cavernes à stalactites qui y sont très-nombreuses et
+très-profondes.
 
-Pour retourner ï¿½ la Havane, je ne pris pas la route de mer, mais le
-chemin de fer qui unit ces deux villes. Bien que la distance ï¿½ vol
+Pour retourner à la Havane, je ne pris pas la route de mer, mais le
+chemin de fer qui unit ces deux villes. Bien que la distance à vol
 d'oiseau soit seulement de soixante milles, la ligne a environ cent
-milles ï¿½ cause des nombreux dï¿½tours qu'elle fait pour atteindre les
+milles à cause des nombreux détours qu'elle fait pour atteindre les
 plus importantes plantations. Le voyage est plus long, mais il gagne
-aussi en intï¿½rï¿½t. Je ne puis me lasser de cette scï¿½ne ï¿½trange, et je
-contemple avec un intï¿½rï¿½t qui ne se refroidit pas, les stations avec
+aussi en intérêt. Je ne puis me lasser de cette scène étrange, et je
+contemple avec un intérêt qui ne se refroidit pas, les stations avec
 leurs groupes de noirs, de marchands de fruits, les amas de sucre et
-de mï¿½lasse qui y sont accumulï¿½s; les ingenios brillant sous les rayons
-du soleil, avec leurs cheminï¿½es ï¿½levï¿½es; les champs interminables de
-cannes; les boeufs lents qui traï¿½nent les chars; les intervalles de
-sol non dï¿½frichï¿½; les jungles ornï¿½es de fleurs sauvages; les bouquets
+de mélasse qui y sont accumulés; les ingenios brillant sous les rayons
+du soleil, avec leurs cheminées élevées; les champs interminables de
+cannes; les boeufs lents qui traînent les chars; les intervalles de
+sol non défriché; les jungles ornées de fleurs sauvages; les bouquets
 de cocos aux branches pendantes et pleureuses; les palmiers; les
-orangers roides, avec leurs pommes d'or, ï¿½ï¿½ et lï¿½ les restes d'un
-cafetal, avec des cafiers sauvages et non coupï¿½s, sous des bosquets
+orangers roides, avec leurs pommes d'or, çà et là les restes d'un
+cafetal, avec des cafiers sauvages et non coupés, sous des bosquets
 luxuriants de bananiers. L'oeil peut-il jamais se fatiguer de ce
 spectacle?
 
-Un peu plus tard, dans l'aprï¿½s-midi, le caractï¿½re de la vue commence ï¿½
+Un peu plus tard, dans l'après-midi, le caractère de la vue commence à
 changer. Les ingenios et les champs de cannes deviennent moins
-frï¿½quents, puis disparaissent entiï¿½rement, et les maisons ont plutï¿½t
+fréquents, puis disparaissent entièrement, et les maisons ont plutôt
 l'air de villas que de fabriques. Sur les routes on voit des files de
-mulets et de chevaux chargï¿½s de paniers de fruits, ou balayant le sol
-avec le fourrage vert dont ils sont chargï¿½s; tout cela se dirige vers
-la Havane. Bientï¿½t on voit le chï¿½teau d'Alavar et le Principe, puis le
-port et la mer, la forï¿½t de mï¿½ts, la longue ligne des fortifications,
+mulets et de chevaux chargés de paniers de fruits, ou balayant le sol
+avec le fourrage vert dont ils sont chargés; tout cela se dirige vers
+la Havane. Bientôt on voit le château d'Alavar et le Principe, puis le
+port et la mer, la forêt de mâts, la longue ligne des fortifications,
 les maisons bleues, blanches et jaunes; il me semble que je suis
-revenu chez moi aprï¿½s une trï¿½s-longue absence; je n'ai pourtant ï¿½tï¿½
+revenu chez moi après une très-longue absence; je n'ai pourtant été
 que pendant quelques jours sur les plantations, mais les impressions
-que j'y ai reï¿½ues ont ï¿½tï¿½ si nouvelles et si ï¿½tranges!
+que j'y ai reçues ont été si nouvelles et si étranges!
 
-[Illustration: Vue de Matanzas.--Dessin de Lancelot d'aprï¿½s F.
+[Illustration: Vue de Matanzas.--Dessin de Lancelot d'après F.
 Mialhe.]
 
 
-     La population de Cuba. -- Les noirs libres. -- Les mystï¿½res de
+     La population de Cuba. -- Les noirs libres. -- Les mystères de
      l'esclavage. -- Les productions naturelles. -- Le climat.
 
-Il faut prï¿½senter maintenant les rï¿½sultats les plus importants de mes
-observations sur l'ï¿½tat actuel de l'ï¿½le de Cuba. Les renseignements
-que j'ai reï¿½us ont ï¿½tï¿½ quelquefois contradictoires, mais par cela mï¿½me
-il est plus aisï¿½ de les contrï¿½ler les uns par les autres.
+Il faut présenter maintenant les résultats les plus importants de mes
+observations sur l'état actuel de l'île de Cuba. Les renseignements
+que j'ai reçus ont été quelquefois contradictoires, mais par cela même
+il est plus aisé de les contrôler les uns par les autres.
 
-Il y a trois classes de personnes ï¿½ Cuba, sans compter les esclaves:
-ce sont les Cubains, les Espagnols et les ï¿½trangers des autres
-nations. Par Cubains, j'entends les crï¿½oles ou les personnes nï¿½es ï¿½
-Cuba. Par Espagnols, les Pï¿½ninsulaires ou natifs de la vieille
-Espagne. La troisiï¿½me classe comprend les Amï¿½ricains, les Anglais, les
-Franï¿½ais, les Allemands. Cette derniï¿½re classe est nombreuse, possï¿½de
+Il y a trois classes de personnes à Cuba, sans compter les esclaves:
+ce sont les Cubains, les Espagnols et les étrangers des autres
+nations. Par Cubains, j'entends les créoles ou les personnes nées à
+Cuba. Par Espagnols, les Péninsulaires ou natifs de la vieille
+Espagne. La troisième classe comprend les Américains, les Anglais, les
+Français, les Allemands. Cette dernière classe est nombreuse, possède
 beaucoup de richesses, et se compose de marchands, de banquiers et de
-commerï¿½ants. Les Espagnols composent l'armï¿½e et la marine, remplissent
+commerçants. Les Espagnols composent l'armée et la marine, remplissent
  toutes les fonctions publiques: la justice, l'administration,
-l'ï¿½ducation, le fisc, les postes, la police, le haut clergï¿½ leur
+l'éducation, le fisc, les postes, la police, le haut clergé leur
 appartiennent, et on y compte en outre une nombreuse et riche classe
 de marchands, de banquiers, de boutiquiers et d'ouvriers.
 
-[Illustration: Paysage dans l'ï¿½le de Cuba: Loma (cï¿½te) de
-Canuela.--Dessin de Paul Huet d'aprï¿½s F. Mialhe.]
+[Illustration: Paysage dans l'île de Cuba: Loma (côte) de
+Canuela.--Dessin de Paul Huet d'après F. Mialhe.]
 
 Le nombre des esclaves n'est pas connu avec exactitude. Le recensement
-de 1857 le fixe ï¿½ trois cent soixante-quinze mille; mais on ne peut se
-fier ï¿½ ce chiffre. Comme les esclaves sont taxï¿½s pour l'impï¿½t, le
-gouvernement a beaucoup de peine ï¿½ obtenir une statistique exacte.
-Presque tout le monde, ï¿½ Cuba, s'accorde ï¿½ dire qu'il y a au moins
-cinq cent mille esclaves; quelques-uns ï¿½lï¿½vent le chiffre jusqu'ï¿½ sept
-cent mille. Je suis moi-mï¿½me disposï¿½ ï¿½ croire que celui de six cent
-mille se rapproche le plus de la vï¿½ritï¿½.
+de 1857 le fixe à trois cent soixante-quinze mille; mais on ne peut se
+fier à ce chiffre. Comme les esclaves sont taxés pour l'impôt, le
+gouvernement a beaucoup de peine à obtenir une statistique exacte.
+Presque tout le monde, à Cuba, s'accorde à dire qu'il y a au moins
+cinq cent mille esclaves; quelques-uns élèvent le chiffre jusqu'à sept
+cent mille. Je suis moi-même disposé à croire que celui de six cent
+mille se rapproche le plus de la vérité.
 
-Les noirs libres, d'aprï¿½s le recensement de 1857, sont au nombre de
+Les noirs libres, d'après le recensement de 1857, sont au nombre de
 cent vingt-cinq mille; mais ce chiffre est trop faible. La population
-blanche comprend sept cent mille ï¿½mes. Il y a ï¿½ peu prï¿½s un noir libre
-pour trois esclaves; et leur nombre total est un peu supï¿½rieur ï¿½ celui
+blanche comprend sept cent mille âmes. Il y a à peu près un noir libre
+pour trois esclaves; et leur nombre total est un peu supérieur à celui
 des blancs.
 
 Le fait qu'il y a un noir libre sur quatre indique suffisamment que
-les lois qui sont faites en Espagne favorisent l'ï¿½mancipation. Elles
-favorisent aussi le noir ï¿½mancipï¿½. L'ï¿½tranger qui visite la Havane
-verra un rï¿½giment de mille volontaires noirs, paradant avec les
+les lois qui sont faites en Espagne favorisent l'émancipation. Elles
+favorisent aussi le noir émancipé. L'étranger qui visite la Havane
+verra un régiment de mille volontaires noirs, paradant avec les
 troupes de ligne et les volontaires blancs; quand on songe que le port
-des armes est considï¿½rï¿½ comme un honneur et un privilï¿½ge, et n'est pas
-permis aux blancs crï¿½oles, exceptï¿½ ï¿½ un trï¿½s-petit nombre qui sont en
-faveur, la signification d'un tel fait ne peut ï¿½chapper ï¿½ personne.
+des armes est considéré comme un honneur et un privilége, et n'est pas
+permis aux blancs créoles, excepté à un très-petit nombre qui sont en
+faveur, la signification d'un tel fait ne peut échapper à personne.
 
-Tout esclave a le droit de se prï¿½senter devant un magistrat, de se
-faire estimer, et, en payant la somme fixï¿½e, de recevoir des papiers
-qui ï¿½tablissent sa libertï¿½. L'ï¿½valuation est faite par trois
-assesseurs; le maï¿½tre de l'esclave en nomme un, le magistrat les deux
-autres. L'esclave n'est pas obligï¿½ de payer toute la somme ï¿½ la fois,
-mais il peut payer par petites sommes qui ne doivent pas ï¿½tre
+Tout esclave a le droit de se présenter devant un magistrat, de se
+faire estimer, et, en payant la somme fixée, de recevoir des papiers
+qui établissent sa liberté. L'évaluation est faite par trois
+assesseurs; le maître de l'esclave en nomme un, le magistrat les deux
+autres. L'esclave n'est pas obligé de payer toute la somme à la fois,
+mais il peut payer par petites sommes qui ne doivent pas être
 au-dessous de vingt-cinq francs. Il y a une autre prescription qui, au
-premier abord, ne paraï¿½t pas trï¿½s-importante, mais qui est, je suis
-inclinï¿½ ï¿½ le croire, la protection pratiquement la plus efficace et la
-meilleure garantie donnï¿½e aux noirs contre leurs possesseurs: c'est le
-droit de vente forcï¿½e. Un esclave peut, aprï¿½s s'ï¿½tre fait estimer,
-forcer son maï¿½tre ï¿½ le transfï¿½rer ï¿½ quiconque voudra payer la somme
-dï¿½terminï¿½e. Pour exercer ce droit, il n'a pas besoin de rendre compte
-de ses griefs; il suffit qu'il exprime le dï¿½sir du transfert et que
-quelqu'un soit disposï¿½ ï¿½ l'acheter. Cette loi de transfert est
-appliquï¿½e trï¿½s-frï¿½quemment et est un frein perpï¿½tuel imposï¿½ aux
-maï¿½tres d'esclaves.
+premier abord, ne paraît pas très-importante, mais qui est, je suis
+incliné à le croire, la protection pratiquement la plus efficace et la
+meilleure garantie donnée aux noirs contre leurs possesseurs: c'est le
+droit de vente forcée. Un esclave peut, après s'être fait estimer,
+forcer son maître à le transférer à quiconque voudra payer la somme
+déterminée. Pour exercer ce droit, il n'a pas besoin de rendre compte
+de ses griefs; il suffit qu'il exprime le désir du transfert et que
+quelqu'un soit disposé à l'acheter. Cette loi de transfert est
+appliquée très-fréquemment et est un frein perpétuel imposé aux
+maîtres d'esclaves.
 
-D'aprï¿½s une autre loi, les noirs sont baptisï¿½s et enterrï¿½s suivant les
-rites chrï¿½tiens. Mais on n'applique pas les articles qui commandent de
+D'après une autre loi, les noirs sont baptisés et enterrés suivant les
+rites chrétiens. Mais on n'applique pas les articles qui commandent de
 leur donner une instruction religieuse, et de les conduire aux
-offices. Dans la plupart des districts ruraux, les nï¿½gres ne voient
-jamais un prï¿½tre ni une ï¿½glise.
+offices. Dans la plupart des districts ruraux, les nègres ne voient
+jamais un prêtre ni une église.
 
-L'ï¿½glise cï¿½lï¿½bre rarement les mariages des noirs; comme dans le dogme
+L'Église célèbre rarement les mariages des noirs; comme dans le dogme
 catholique le mariage est un sacrement qui noue un lien indissoluble,
-le maï¿½tre l'ï¿½vite pour ne pas ï¿½tre gï¿½nï¿½ dans les ventes et les
-hypothï¿½ques; en consï¿½quence, les mariages sont ordinairement faits par
-le maï¿½tre lui-mï¿½me, et naturellement ils n'ont aucune valeur lï¿½gale;
-aussi ce lien n'est-il que bien peu respectï¿½.
+le maître l'évite pour ne pas être gêné dans les ventes et les
+hypothèques; en conséquence, les mariages sont ordinairement faits par
+le maître lui-même, et naturellement ils n'ont aucune valeur légale;
+aussi ce lien n'est-il que bien peu respecté.
 
-Il est, au reste, trï¿½s-difficile pour un ï¿½tranger de se rendre un
+Il est, au reste, très-difficile pour un étranger de se rendre un
 compte exact de la situation relative des noirs et des blancs. Si
-quelqu'un, venu du Nord, s'attend ï¿½ trouver ici des chaï¿½nes, ï¿½ voir le
+quelqu'un, venu du Nord, s'attend à trouver ici des chaînes, à voir le
 sang couler; si, muni de lettres pour les planteurs les plus riches,
-il se mï¿½le ï¿½ leur existence, ï¿½coute leurs anecdotes ï¿½ table en
-dï¿½jeunant et en dï¿½nant avec des dames, il n'entendra parler d'aucune
-cruautï¿½, d'aucune violence; il sera peut-ï¿½tre assez naï¿½f pour croire
+il se mêle à leur existence, écoute leurs anecdotes à table en
+déjeunant et en dînant avec des dames, il n'entendra parler d'aucune
+cruauté, d'aucune violence; il sera peut-être assez naïf pour croire
 qu'il a vu ce qui s'appelle l'esclavage. Il ne sait pas que cette
-large plantation, avec ses cheminï¿½es qui fument, et que son hï¿½te ne
-visite pas, a passï¿½ aux crï¿½anciers du dernier propriï¿½taire, qui a fait
+large plantation, avec ses cheminées qui fument, et que son hôte ne
+visite pas, a passé aux créanciers du dernier propriétaire, qui a fait
 faillite, et qu'elle est aujourd'hui sous la charge d'un homme
 d'affaires qui doit en tirer le plus qu'il pourra dans le moindre
 temps possible, et vendre les esclaves comme il pourra. Il ne sait pas
-que cette autre plantation, qui appartient ï¿½ un jeune dï¿½bauchï¿½ qui
-passe la moitiï¿½ de son temps ï¿½ la Havane, est un sï¿½jour de licence et
-de cruautï¿½. Il ignore peut-ï¿½tre que ces grands chiens enchaï¿½nï¿½s ï¿½ la
-maison qu'il visite, sont des bouledogues cubains, dressï¿½s ï¿½ la chasse
-aux nï¿½gres. Il ne sait pas que les aboiements qu'il a entendus une
-nuit ï¿½taient le signal d'une poursuite oï¿½ tous les blancs du voisinage
-ont pris part, et que la semaine derniï¿½re, tous les propriï¿½taires du
-canton ont ï¿½tï¿½ obligï¿½s de s'ï¿½riger en comitï¿½ de surveillance et de
+que cette autre plantation, qui appartient à un jeune débauché qui
+passe la moitié de son temps à la Havane, est un séjour de licence et
+de cruauté. Il ignore peut-être que ces grands chiens enchaînés à la
+maison qu'il visite, sont des bouledogues cubains, dressés à la chasse
+aux nègres. Il ne sait pas que les aboiements qu'il a entendus une
+nuit étaient le signal d'une poursuite où tous les blancs du voisinage
+ont pris part, et que la semaine dernière, tous les propriétaires du
+canton ont été obligés de s'ériger en comité de surveillance et de
 police. Il ne sait pas que cet homme de mauvaise mine qui est venu
-hier, et que les dames ont reï¿½u froidement, avec une aversion mal
-dï¿½guisï¿½e, ï¿½tait un chasseur de nï¿½gres de profession. Il n'a jamais vu
-la _Sierra del Cristal_, la chaï¿½ne qui s'ï¿½tend dans la partie
-orientale de Cuba, habitï¿½e par des fugitifs, et oï¿½ les blancs osent ï¿½
+hier, et que les dames ont reçu froidement, avec une aversion mal
+déguisée, était un chasseur de nègres de profession. Il n'a jamais vu
+la _Sierra del Cristal_, la chaîne qui s'étend dans la partie
+orientale de Cuba, habitée par des fugitifs, et où les blancs osent à
 peine s'aventurer. Dans les villes, il ne va pas visiter hors des murs
-les endroits oï¿½ les blancs de bas ï¿½tage fouettent pour quelques rï¿½aux
+les endroits où les blancs de bas étage fouettent pour quelques réaux
 les domestiques noirs, hommes ou femmes, qui ont encouru une punition.
 
-Disons quelque chose des ressources matï¿½rielles de la belle colonie
+Disons quelque chose des ressources matérielles de la belle colonie
 espagnole. Cuba contient certainement plus de bons ports que toute la
-cï¿½te amï¿½ricaine aux latitudes supï¿½rieures ï¿½ celles de Norfolk. Le sol
-y est trï¿½s-riche, et il n'y a point de grandes plaines de sable, ni le
-long de la mer, ni dans l'intï¿½rieur. Les rochers de coraux forment le
-rivage, et l'herbe et les arbres descendent jusqu'au bord mï¿½me des
-falaises. La surface du pays est diversifiï¿½e par des montagnes et des
-collines, et est trï¿½s-bien boisï¿½e et suffisamment irriguï¿½e. L'ï¿½le a
+côte américaine aux latitudes supérieures à celles de Norfolk. Le sol
+y est très-riche, et il n'y a point de grandes plaines de sable, ni le
+long de la mer, ni dans l'intérieur. Les rochers de coraux forment le
+rivage, et l'herbe et les arbres descendent jusqu'au bord même des
+falaises. La surface du pays est diversifiée par des montagnes et des
+collines, et est très-bien boisée et suffisamment irriguée. L'île a
 des mines de cuivre et de fer; elle produit aussi du charbon
 bitumineux qu'on peut employer dans les manufactures, du marbre, des
-bois durs en abondance, tels que l'acajou, le cï¿½dre, l'ï¿½bï¿½ne, le
+bois durs en abondance, tels que l'acajou, le cèdre, l'ébène, le
 _lignum vitae_, le bois de fer. Les Cubains se vantent de n'avoir dans
-leur ï¿½le ni bï¿½tes fï¿½roces ni reptiles venimeux. En fait d'animaux
+leur île ni bêtes féroces ni reptiles venimeux. En fait d'animaux
 dangereux ils n'ont que le scorpion, la tarentule et le nigua; mais la
-morsure du scorpion et de la tarentule, bien que trï¿½s-douloureuse, ne
-cause pas la mort. Le nigua est trï¿½s-dï¿½sagrï¿½able; si on le laisse
-longtemps sous la peau, il ne peut plus ï¿½tre extirpï¿½ et rend une
-opï¿½ration nï¿½cessaire.
+morsure du scorpion et de la tarentule, bien que très-douloureuse, ne
+cause pas la mort. Le nigua est très-désagréable; si on le laisse
+longtemps sous la peau, il ne peut plus être extirpé et rend une
+opération nécessaire.
 
-Quant au climat, je n'ai aucun doute que dans l'intï¿½rieur, surtout sur
-les terres rouges, il ne soit agrï¿½able et sain, ï¿½tï¿½ comme hiver; mais
-sur le bord des riviï¿½res, dans le pays bas en terres noires, dans les
-savanes, la fiï¿½vre intermittente rï¿½gne ainsi que la fiï¿½vre aiguï¿½. Les
-citï¿½s sont dï¿½solï¿½es par la fiï¿½vre jaune, et dans les derniï¿½res annï¿½es
-le cholï¿½ra les a aussi visitï¿½es. Dans les villes, l'annï¿½e, au point de
-vue de la salubritï¿½, peut ï¿½tre divisï¿½e en trois parties: pendant les
+Quant au climat, je n'ai aucun doute que dans l'intérieur, surtout sur
+les terres rouges, il ne soit agréable et sain, été comme hiver; mais
+sur le bord des rivières, dans le pays bas en terres noires, dans les
+savanes, la fièvre intermittente règne ainsi que la fièvre aiguë. Les
+cités sont désolées par la fièvre jaune, et dans les dernières années
+le choléra les a aussi visitées. Dans les villes, l'année, au point de
+vue de la salubrité, peut être divisée en trois parties: pendant les
 quatre mois d'hiver, les villes sont saines; pendant les quatre mois
-d'ï¿½tï¿½, elles sont malsaines; les quatre autres mois d'automne et de
-printemps ont un caractï¿½re intermï¿½diaire. Il y a toujours quelques cas
-de fiï¿½vre jaune pendant l'hiver, mais on y fait peu d'attention et ils
-ne rï¿½sultent que d'une imprudence excessive. On estime que vingt-cinq
-soldats sur cent meurent de cette maladie pendant les premiï¿½res annï¿½es
-de leur acclimatation; pendant l'annï¿½e du cholï¿½ra, il en est mort
-soixante sur cent. La tempï¿½rature moyenne de l'ï¿½le est de 70ï¿½
-Fahrenheit l'hiver, et 83ï¿½ l'ï¿½tï¿½. L'ï¿½le est visitï¿½e quelquefois par de
-violentes tempï¿½tes, mais elles n'y sont pas aussi frï¿½quentes que dans
-les Antilles. Il y a de forts orages l'ï¿½tï¿½, et de grandes sï¿½cheresses
-l'hiver, bien qu'ordinairement la rosï¿½e suffise ï¿½ entretenir
-l'humiditï¿½ nï¿½cessaire ï¿½ la vï¿½gï¿½tation dans l'intervalle des saisons de
+d'été, elles sont malsaines; les quatre autres mois d'automne et de
+printemps ont un caractère intermédiaire. Il y a toujours quelques cas
+de fièvre jaune pendant l'hiver, mais on y fait peu d'attention et ils
+ne résultent que d'une imprudence excessive. On estime que vingt-cinq
+soldats sur cent meurent de cette maladie pendant les premières années
+de leur acclimatation; pendant l'année du choléra, il en est mort
+soixante sur cent. La température moyenne de l'île est de 70°
+Fahrenheit l'hiver, et 83° l'été. L'île est visitée quelquefois par de
+violentes tempêtes, mais elles n'y sont pas aussi fréquentes que dans
+les Antilles. Il y a de forts orages l'été, et de grandes sécheresses
+l'hiver, bien qu'ordinairement la rosée suffise à entretenir
+l'humidité nécessaire à la végétation dans l'intervalle des saisons de
 pluie.
 
 Le steamer qui doit m'emmener, _le Cahawba_, vient d'arriver. Quand
-une fois le dï¿½part est dï¿½cidï¿½, on trouve un caractï¿½re plus ï¿½trange et
-plus pittoresque ï¿½ la ville que l'on va quitter; je regardais pour la
-derniï¿½re fois les enseignes familiï¿½res, les noms des rues, l'_Obria
+une fois le départ est décidé, on trouve un caractère plus étrange et
+plus pittoresque à la ville que l'on va quitter; je regardais pour la
+dernière fois les enseignes familières, les noms des rues, l'_Obria
 pia_, _Lamparilla_, _Mercaderes_, _San Ignacio_, _Obispo_, et les
 jolis et fantastiques noms des boutiques. Il me semblait que les rues
-ï¿½troites avaient bien leur avantage, puisqu'on s'y trouve mieux ï¿½
-l'ombre, et qu'on peut les tendre avec des draperies d'un cï¿½tï¿½ ï¿½
-l'autre, bien qu'on y rende ainsi l'air ï¿½touffant. Aucune ville n'a de
+étroites avaient bien leur avantage, puisqu'on s'y trouve mieux à
+l'ombre, et qu'on peut les tendre avec des draperies d'un côté à
+l'autre, bien qu'on y rende ainsi l'air étouffant. Aucune ville n'a de
 plus belles avenues que celles de l'Isabel et de Tacon; et je ne
 reverrai plus les palmiers dans les pays du Nord. Voici la Dominica;
-quel charmant endroit le soir, aprï¿½s la _retreta_, pour prendre le
-cafï¿½ ou le thï¿½ prï¿½s de la fontaine, dans la grande cour; c'est le seul
-lieu public, avec les thï¿½ï¿½tres, oï¿½ l'on voie les dames hors de leurs
+quel charmant endroit le soir, après la _retreta_, pour prendre le
+café ou le thé près de la fontaine, dans la grande cour; c'est le seul
+lieu public, avec les théâtres, où l'on voie les dames hors de leurs
 volantes. Il faut quitter tout cela.
 
-Tout le long du quai, oï¿½ sont rangï¿½s les navires et oï¿½ se fait tout le
-travail des chargements et des dï¿½chargements, est une longue et haute
-galerie, oï¿½ l'on est abritï¿½ contre les rayons du soleil. Avant qu'elle
-fï¿½t construite, on dit que l'on a vu des ouvriers tomber morts, sur le
+Tout le long du quai, où sont rangés les navires et où se fait tout le
+travail des chargements et des déchargements, est une longue et haute
+galerie, où l'on est abrité contre les rayons du soleil. Avant qu'elle
+fût construite, on dit que l'on a vu des ouvriers tomber morts, sur le
 quai, sous les coups du soleil.
 
-Je trouve ï¿½ bord du _Cahawba_ ma cargaison d'oranges d'Iglesia, mes
-confitures de la Dominica et mes cigares de Cabaï¿½a; tous les passagers
-sont rï¿½unis; le pont est couvert de montagnes d'oranges; l'ancre est
-levï¿½e, le steamer sort du port avec le pavillon ï¿½toile flottant. Le
-ciel est rougi ï¿½ l'occident par le soleil couchant; les tambours et
-les trompettes rï¿½sonnent dans les fortifications, pendant que nous
-passons devant la Casa Blanca, la Cabaï¿½a, la Punta et le Morro. Le
+Je trouve à bord du _Cahawba_ ma cargaison d'oranges d'Iglesia, mes
+confitures de la Dominica et mes cigares de Cabaña; tous les passagers
+sont réunis; le pont est couvert de montagnes d'oranges; l'ancre est
+levée, le steamer sort du port avec le pavillon étoile flottant. Le
+ciel est rougi à l'occident par le soleil couchant; les tambours et
+les trompettes résonnent dans les fortifications, pendant que nous
+passons devant la Casa Blanca, la Cabaña, la Punta et le Morro. Le
 ciel s'assombrit, le vaisseau monte et descend sur la vague, la
 lanterne du Morro jette son rayon sur les eaux, et les rives de Cuba
-s'ï¿½vanouissent dans la profondeur de l'horizon.
+s'évanouissent dans la profondeur de l'horizon.
 
-Aprï¿½s le thï¿½, tout le monde est sur le pont. La nuit est claire, mais
+Après le thé, tout le monde est sur le pont. La nuit est claire, mais
 je n'ai jamais vu autre chose que des jours et des nuits claires sur
-mer et sur terre, depuis que j'ai passï¿½ le Gulf-Stream, en allant ï¿½
-Cuba. La Croix du Sud est visible ï¿½ l'horizon, et l'ï¿½toile du Nord se
-montre au-dessus de l'horizon, du cï¿½tï¿½ du septentrion. L'air de Cuba,
-sur la montagne ou la plaine, l'air d'aucun pays ne peut ï¿½tre comparï¿½
-ï¿½ celui de l'Ocï¿½an, ï¿½ cet air vigoureux et salin! Comme on le boit
-avec aviditï¿½! Que j'aime aussi ce puissant mouvement qui me berce et
-ferme peu ï¿½ peu mes yeux! La nï¿½cessitï¿½ seule du sommeil peut cependant
-me dï¿½terminer ï¿½ goï¿½ter quelque repos dans la splendeur de ces nuits
-ï¿½quinoxiales.
+mer et sur terre, depuis que j'ai passé le Gulf-Stream, en allant à
+Cuba. La Croix du Sud est visible à l'horizon, et l'étoile du Nord se
+montre au-dessus de l'horizon, du côté du septentrion. L'air de Cuba,
+sur la montagne ou la plaine, l'air d'aucun pays ne peut être comparé
+à celui de l'Océan, à cet air vigoureux et salin! Comme on le boit
+avec avidité! Que j'aime aussi ce puissant mouvement qui me berce et
+ferme peu à peu mes yeux! La nécessité seule du sommeil peut cependant
+me déterminer à goûter quelque repos dans la splendeur de ces nuits
+équinoxiales.
 
-Nous arrivons le troisiï¿½me jour, par un temps frais, devant la cï¿½te de
+Nous arrivons le troisième jour, par un temps frais, devant la côte de
 la Caroline du Nord; mais, comme nous restons dans le Gulf-Stream,
-nous ne voyons pas la terre. Nous voilï¿½ sur la grande route du
-commerce de toute la partie centrale de l'Amï¿½rique, et cependant
+nous ne voyons pas la terre. Nous voilà sur la grande route du
+commerce de toute la partie centrale de l'Amérique, et cependant
 combien peu nous voyons de navires; pas un seul pendant trois jours.
 Le lendemain, nous sortons du Gulf-Stream; le temps est plus froid; un
-jour aprï¿½s, nous voyons la lumiï¿½re de Barnegat, ï¿½ quatre heures du
-matin, puis les hauteurs de Neversink; la longue cï¿½te de New-Jersey
-est ï¿½tendue devant nous; le port de New-York n'est plus qu'ï¿½ quatre ou
-cinq heures. Sur la plage sableuse de Long-Island sont les dï¿½bris du
-_Black-Warrior_, rï¿½cemment naufragï¿½, l'ancien second de notre
-_Cahawba_. Bien loin ï¿½ l'horizon, du cï¿½tï¿½ de l'orient, et ï¿½ peine
+jour après, nous voyons la lumière de Barnegat, à quatre heures du
+matin, puis les hauteurs de Neversink; la longue côte de New-Jersey
+est étendue devant nous; le port de New-York n'est plus qu'à quatre ou
+cinq heures. Sur la plage sableuse de Long-Island sont les débris du
+_Black-Warrior_, récemment naufragé, l'ancien second de notre
+_Cahawba_. Bien loin à l'horizon, du côté de l'orient, et à peine
 discernable, est l'_Europa_, en route pour Liverpool. Bien loin de la
-cï¿½te, jusqu'ï¿½ vingt ou trente milles du port, la mer est tachï¿½e de
-petits bateaux qui font leur pï¿½che pour le marchï¿½ de New-York; et des
-bateaux remorqueurs guettent, en lanï¿½ant un peu de vapeur, bien loin
+côte, jusqu'à vingt ou trente milles du port, la mer est tachée de
+petits bateaux qui font leur pêche pour le marché de New-York; et des
+bateaux remorqueurs guettent, en lançant un peu de vapeur, bien loin
 dans la pleine mer, les vaisseaux qui arrivent. Un pilote vient nous
-chercher et nous amï¿½ne dans le port.
+chercher et nous amène dans le port.
 
-Aucun port n'a une aussi belle entrï¿½e que celui de New-York: on a
-devant soi l'ï¿½le de Staten, les hauteurs de Brooklyn, la vue lointaine
-des ï¿½les de la riviï¿½re Hudson, les faubourgs populeux qui s'ï¿½tendent
-dans toutes les directions, la large baie, les clochers ï¿½levï¿½s et les
-hautes maisons de la ville, et la forï¿½t entrelacï¿½e des mï¿½ts des
+Aucun port n'a une aussi belle entrée que celui de New-York: on a
+devant soi l'île de Staten, les hauteurs de Brooklyn, la vue lointaine
+des îles de la rivière Hudson, les faubourgs populeux qui s'étendent
+dans toutes les directions, la large baie, les clochers élevés et les
+hautes maisons de la ville, et la forêt entrelacée des mâts des
 navires.
 
 Il n'y a pas encore de neige sur la campagne et sur le sommet des
-maisons, mais les arbres dï¿½pouillï¿½s de feuilles, le gazon dessï¿½chï¿½,
+maisons, mais les arbres dépouillés de feuilles, le gazon desséché,
 les lourds paletots et les fourrures forment un contraste saisissant
 avec les chapeaux de paille, les habits de toile blanche, les
-persiennes abaissï¿½es et les moissons jaunies par le soleil que je
+persiennes abaissées et les moissons jaunies par le soleil que je
 voyais il y a cinq jours seulement.
 
-Nous entrons dans notre dock avec le calme et la prï¿½cision qui
+Nous entrons dans notre dock avec le calme et la précision qui
 marquent tous les mouvements du _Cahawba_. Une troupe de cochers de
-New-York est rï¿½unie sur le quai; ils ont l'air de gens qui ont volï¿½
+New-York est réunie sur le quai; ils ont l'air de gens qui ont volé
 leurs voitures et leurs chevaux, et qui voudraient voler notre bagage.
-Pas d'agents de la police en vue. Tout le monde prï¿½dit une bataille.
-Pendant quelques minutes il n'y a d'autre inconvï¿½nient que celui de
-cris violents qui rï¿½clament des voyageurs et du bagage; mais bientï¿½t
+Pas d'agents de la police en vue. Tout le monde prédit une bataille.
+Pendant quelques minutes il n'y a d'autre inconvénient que celui de
+cris violents qui réclament des voyageurs et du bagage; mais bientôt
 les cochers se pressent sur le pont, on leur donne l'ordre de reculer;
-l'ï¿½quipage tï¿½che de les repousser, puis on ï¿½change des injures et
-bientï¿½t des coups. L'un des assiï¿½geants, renversï¿½ par un coup violent,
-tombe ï¿½vanoui et est portï¿½ ï¿½ terre par ses camarades, sur le quai,
-puis ils reviennent et continuent leurs menaces contre l'ï¿½quipage. Les
-officiers du navire sont accoutumï¿½s ï¿½ tout cela, et sont dï¿½terminï¿½s ï¿½
-se protï¿½ger eux et leur ï¿½quipage, ï¿½ leurs risques et pï¿½rils.
+l'équipage tâche de les repousser, puis on échange des injures et
+bientôt des coups. L'un des assiégeants, renversé par un coup violent,
+tombe évanoui et est porté à terre par ses camarades, sur le quai,
+puis ils reviennent et continuent leurs menaces contre l'équipage. Les
+officiers du navire sont accoutumés à tout cela, et sont déterminés à
+se protéger eux et leur équipage, à leurs risques et périls.
 
-[Illustration: Paysage dans l'ï¿½le de Cuba (Loma de la Givora).--Dessin
-de Paul Huet d'aprï¿½s F. Mialhe.]
+[Illustration: Paysage dans l'île de Cuba (Loma de la Givora).--Dessin
+de Paul Huet d'après F. Mialhe.]
 
-Pendant la traversï¿½e, nous avions vantï¿½ patriotiquement notre pays ï¿½
-plusieurs passagers cubains; et toutes les comparaisons, jusqu'ï¿½
-prï¿½sent, avaient ï¿½tï¿½ favorables ï¿½ notre patrie; mais ici nous n'avions
-dï¿½cidï¿½ment pas l'avantage. Les ï¿½trangers s'inquiï¿½taient beaucoup plus
+Pendant la traversée, nous avions vanté patriotiquement notre pays à
+plusieurs passagers cubains; et toutes les comparaisons, jusqu'à
+présent, avaient été favorables à notre patrie; mais ici nous n'avions
+décidément pas l'avantage. Les étrangers s'inquiétaient beaucoup plus
 que nous. Nous savions qu'il ne s'agissait que d'une rixe pour obtenir
-une charge, et que tout cela finirait par quelques coups, peut-ï¿½tre
-par une malle ou deux perdues. Les ï¿½trangers voyaient lï¿½ une
+une charge, et que tout cela finirait par quelques coups, peut-être
+par une malle ou deux perdues. Les étrangers voyaient là une
 insurrection des basses classes. Une vieille dame surtout, qui avait
-une immense quantitï¿½ de bagages, ï¿½tait dans un ï¿½tat de trï¿½pidation
-extraordinaire, et n'osait confier ni elle-mï¿½me ni ses malles aux
+une immense quantité de bagages, était dans un état de trépidation
+extraordinaire, et n'osait confier ni elle-même ni ses malles aux
 chances d'un conflit.
 
-Mais c'est l'esprit de notre peuple de se jeter dans des difficultï¿½s
-pour se donner le plaisir d'en sortir. L'affaire est bientï¿½t calmï¿½e;
-la foule s'ï¿½claircit ï¿½ mesure que les passagers choisissent leur
-voiture et quittent le bateau; une heure ou deux aprï¿½s avoir touchï¿½ le
-quai, le pont est silencieux, la machine vomit ses derniï¿½res bouffï¿½es
-de fumï¿½e; le capitaine et le lieutenant ont reï¿½u les poignï¿½es de main
-et les adieux de tout le monde; et la sociï¿½tï¿½ rï¿½unie pendant cinq
+Mais c'est l'esprit de notre peuple de se jeter dans des difficultés
+pour se donner le plaisir d'en sortir. L'affaire est bientôt calmée;
+la foule s'éclaircit à mesure que les passagers choisissent leur
+voiture et quittent le bateau; une heure ou deux après avoir touché le
+quai, le pont est silencieux, la machine vomit ses dernières bouffées
+de fumée; le capitaine et le lieutenant ont reçu les poignées de main
+et les adieux de tout le monde; et la société réunie pendant cinq
 jours pour ne plus jamais se revoir sur mer ou sur terre, se disperse
-dans les rues de la grande citï¿½, les uns pour aller vers les collines
-neigeuses de la Nouvelle-Angleterre, les autres pour se rï¿½pandre dans
+dans les rues de la grande cité, les uns pour aller vers les collines
+neigeuses de la Nouvelle-Angleterre, les autres pour se répandre dans
 le vaste monde du _fart west_.
 
                                    Traduit par M. A. LAUGEL.
@@ -1415,268 +1415,268 @@ le vaste monde du _fart west_.
 GRAVURES.
 
                                                       Dessinateurs.
-  Chapelle de Sainte-Rosalie (prï¿½s Palerme)              Rouargue      1
+  Chapelle de Sainte-Rosalie (près Palerme)              Rouargue      1
   Types et costumes siciliens                            Rouargue      4
-  Ruines ï¿½ Girgenti (Agrigente)                          Rouargue      5
+  Ruines à Girgenti (Agrigente)                          Rouargue      5
   Vue de Syracuse                                        Rouargue      8
   Taormine et l'Etna                                     Rouargue      9
-  La Marine ï¿½ Messine                                    Rouargue     12
+  La Marine à Messine                                    Rouargue     12
   Rocher de Scylla                                       Rouargue     13
   Stromboli                                              Rouargue     16
-  Pigeonnier prï¿½s d'Ispahan                         Jules Laurens     17
-  Pont d'Allah-Verdi-Khan sur le Zend-ï¿½-Roud,
-    ï¿½ Ispahan                                       Jules Laurens     21
-  Collï¿½ge de la Mï¿½re du roi, ï¿½ Ispahan              Jules Laurens     24
+  Pigeonnier près d'Ispahan                         Jules Laurens     17
+  Pont d'Allah-Verdi-Khan sur le Zend-è-Roud,
+    à Ispahan                                       Jules Laurens     21
+  Collége de la Mère du roi, à Ispahan              Jules Laurens     24
   Une peinture indienne dans le palais des
-    Quarante-Colonnes, ï¿½ Ispahan                    Jules Laurens     25
-  Entrï¿½e de Kaschan                                 Jules Laurens     28
+    Quarante-Colonnes, à Ispahan                    Jules Laurens     25
+  Entrée de Kaschan                                 Jules Laurens     28
   Une caravane persane au repos                     Jules Laurens     29
   Types persans                                     Jules Laurens     32
-  Faubourg de Tï¿½hï¿½ran                               Jules Laurens     33
+  Faubourg de Téhéran                               Jules Laurens     33
   La porte de Schah-Abdoulazim                      Jules Laurens     36
-  Dans une cour, ï¿½ Tï¿½hï¿½ran                          Jules Laurens     37
+  Dans une cour, à Téhéran                          Jules Laurens     37
   Types et portraits persans                        Jules Laurens     40
   Groupe de Persans                                 Jules Laurens     41
-  Dans l'Enderoun (appartement intï¿½rieur
-    -- Costumes d'intï¿½rieur et de sortie)           Jules Laurens     44
+  Dans l'Enderoun (appartement intérieur
+    -- Costumes d'intérieur et de sortie)           Jules Laurens     44
   Choix d'armes, d'instruments et objets divers
     persans                                         Jules Laurens     45
-  Le Dï¿½mavend                                       Jules Laurens     48
-  Vue de l'ï¿½le Saint-Thomas                             de Bï¿½rard     49
-  Saint-Pierre, ï¿½ la Martinique                         de Bï¿½rard     52
-  Cataracte de Weinachts (Guyane anglaise)              de Bï¿½rard     53
-  Une sucrerie ï¿½ la Guadeloupe                          de Bï¿½rard     56
-  La Pointe-ï¿½-Pï¿½tre, ï¿½ la Guadeloupe                    de Bï¿½rard     57
-  Le port d'Espagne, ï¿½ la Trinidad                      de Bï¿½rard     60
-  La baie de Panama                                     de Bï¿½rard     61
-  Vue des Bermudes                                      de Bï¿½rard     64
-  Costumes norvï¿½giens d'Hitterdal                          Pelcoq     65
-  La vallï¿½e de Bolkesjï¿½                                      Dorï¿½     68
-  Costumes du Tï¿½lï¿½mark                                     Pelcoq     69
-  La vallï¿½e de Vestfjordal                                   Dorï¿½     72
-  Intï¿½rieur d'auberge ï¿½ Bolkesjï¿½                         Lancelot     73
-  ï¿½glise d'Hitterdal                                      Wormser     75
-  Le Rjukandfoss                                             Dorï¿½     76
-  Un chalet ï¿½ Bamble                                     Lancelot     77
-  Vue du lac Bandak                                          Dorï¿½     80
-  Le lac Flatdal                                             Dorï¿½     81
-  Fjord de Gudvangen                                         Dorï¿½     84
-  ï¿½glise de Bakke                                            Dorï¿½     85
-  Route de Stalheim                                          Dorï¿½     88
-  Le Vï¿½ringfoss                                              Dorï¿½     89
-  Vallï¿½e de l'Heimdal                                        Dorï¿½     92
+  Le Démavend                                       Jules Laurens     48
+  Vue de l'île Saint-Thomas                             de Bérard     49
+  Saint-Pierre, à la Martinique                         de Bérard     52
+  Cataracte de Weinachts (Guyane anglaise)              de Bérard     53
+  Une sucrerie à la Guadeloupe                          de Bérard     56
+  La Pointe-à-Pître, à la Guadeloupe                    de Bérard     57
+  Le port d'Espagne, à la Trinidad                      de Bérard     60
+  La baie de Panama                                     de Bérard     61
+  Vue des Bermudes                                      de Bérard     64
+  Costumes norvégiens d'Hitterdal                          Pelcoq     65
+  La vallée de Bolkesjö                                      Doré     68
+  Costumes du Télémark                                     Pelcoq     69
+  La vallée de Vestfjordal                                   Doré     72
+  Intérieur d'auberge à Bolkesjö                         Lancelot     73
+  Église d'Hitterdal                                      Wormser     75
+  Le Rjukandfoss                                             Doré     76
+  Un chalet à Bamble                                     Lancelot     77
+  Vue du lac Bandak                                          Doré     80
+  Le lac Flatdal                                             Doré     81
+  Fjord de Gudvangen                                         Doré     84
+  Église de Bakke                                            Doré     85
+  Route de Stalheim                                          Doré     88
+  Le Vöringfoss                                              Doré     89
+  Vallée de l'Heimdal                                        Doré     92
   Femme du Sogn                                            Pelcoq     93
-  Une noce en Norvï¿½ge                                      Pelcoq     96
-  Le marchï¿½ aux grains (Suez)                       Karl Girardet     97
+  Une noce en Norvége                                      Pelcoq     96
+  Le marché aux grains (Suez)                       Karl Girardet     97
   Port de Suez                                      Karl Girardet    100
-  Cimetiï¿½re europï¿½en ï¿½ Suez                         Karl Girardet    100
-  Qossï¿½ir                                           Karl Girardet    101
+  Cimetière européen à Suez                         Karl Girardet    100
+  Qosséir                                           Karl Girardet    101
   Djeddah                                           Karl Girardet    101
   Port de Souakin                                   Karl Girardet    101
-  Mosquï¿½e de Salonique                              Karl Girardet    104
-  Femmes albanaises, prï¿½s d'un arabas,
-    ï¿½ Vasilika                                       Villevieille    105
+  Mosquée de Salonique                              Karl Girardet    104
+  Femmes albanaises, près d'un arabas,
+    à Vasilika                                       Villevieille    105
   Un Juif de Salonique                                       Bida    108
   Une Juive de Salonique                                     Bida    109
-  Sceau du monastï¿½re de Kariï¿½s                                       111
-  Vue gï¿½nï¿½rale de mont Athos                         Villevieille    112
-  Le Conseil des ï¿½pistates au mont Athos                Boulanger    113
+  Sceau du monastère de Kariès                                       111
+  Vue générale de mont Athos                         Villevieille    112
+  Le Conseil des Épistates au mont Athos                Boulanger    113
   Saint Georges (fresque de Panselinos dans le
-    Catholicon de Kariï¿½s)                                  Pelcoq    116
-  Monastï¿½re d'Iveron                                Karl Girardet    117
-  L'higoumï¿½ne d'Iveron                                     Pelcoq    120
-  La Phiale ou le Baptistï¿½re du couvent de Lavra         Lancelot    121
-  Croix sculptï¿½e en bois dans le trï¿½sor de Kariï¿½s         Thï¿½rond    124
-  Coffret dans le trï¿½sor de Kariï¿½s                        Thï¿½rond    125
-  Peinture de la trapeza de Lavra: les trois patriarches  Thï¿½rond    128
+    Catholicon de Kariès)                                  Pelcoq    116
+  Monastère d'Iveron                                Karl Girardet    117
+  L'higoumène d'Iveron                                     Pelcoq    120
+  La Phiale ou le Baptistère du couvent de Lavra         Lancelot    121
+  Croix sculptée en bois dans le trésor de Kariès         Thérond    124
+  Coffret dans le trésor de Kariès                        Thérond    125
+  Peinture de la trapeza de Lavra: les trois patriarches  Thérond    128
   La confession                                              Bida    129
-  Bas-relief du couvent de Vatopï¿½di                     A. Proust    130
-  Albanais, soldat de la garde des ï¿½pistates         Villevieille    132
+  Bas-relief du couvent de Vatopédi                     A. Proust    130
+  Albanais, soldat de la garde des Épistates         Villevieille    132
   Vue du couvent d'Esphigmenou                      Karl Girardet    133
-  Intï¿½rieur de la cour principale du couvent slave
+  Intérieur de la cour principale du couvent slave
     de Kiliandari                                        Lancelot    136
-  La rï¿½colte des noisettes au mont Athos             Villevieille    137
-  L'ï¿½le Chatam, dans l'archipel Galapagos            E. de Bï¿½rard    140
-  Baie de la Poste, dans l'ï¿½le Floriana
-    (archipel Galapagos)                             E. de Bï¿½rard    140
-  L'ï¿½le Charles, dans l'archipel Galapagos           E. de Bï¿½rard    141
-  Aiguade de l'ï¿½le Charles (archipel Galapagos)      E. de Bï¿½rard    144
+  La récolte des noisettes au mont Athos             Villevieille    137
+  L'île Chatam, dans l'archipel Galapagos            E. de Bérard    140
+  Baie de la Poste, dans l'île Floriana
+    (archipel Galapagos)                             E. de Bérard    140
+  L'île Charles, dans l'archipel Galapagos           E. de Bérard    141
+  Aiguade de l'île Charles (archipel Galapagos)      E. de Bérard    144
   Oiseaux et reptile (archipel Galapagos)                  Rouyer    145
-  Cï¿½tes de l'ï¿½le Albermale, dans l'archipel
-    Galapagos                                        E. de Bï¿½rard    148
-  Oeno, dans l'archipel Pomotou (ï¿½les ï¿½ coraux)      E. de Bï¿½rard    149
-  Village de Vanou, dans l'ï¿½le de Vanikoro
-    (ï¿½les ï¿½ coraux)                                  E. de Bï¿½rard    149
-  Baie de Manevai, dans l'ï¿½le de Vanikoro
-    (ï¿½les ï¿½ coraux)                                  E. de Bï¿½rard    152
-  Rï¿½cifs et piton de l'ï¿½le de Borabora
-    (ï¿½les ï¿½ coraux)                                  E. de Bï¿½rard    153
-  Rade et pic de l'ï¿½le de Borabora (ï¿½les ï¿½ coraux)   E. de Bï¿½rard    156
-  ï¿½le de Whitsunday, dans l'archipel Pomotou
-    (ï¿½les ï¿½ coraux)                                  E. de Bï¿½rard    157
+  Côtes de l'île Albermale, dans l'archipel
+    Galapagos                                        E. de Bérard    148
+  Oeno, dans l'archipel Pomotou (îles à coraux)      E. de Bérard    149
+  Village de Vanou, dans l'île de Vanikoro
+    (îles à coraux)                                  E. de Bérard    149
+  Baie de Manevai, dans l'île de Vanikoro
+    (îles à coraux)                                  E. de Bérard    152
+  Récifs et piton de l'île de Borabora
+    (îles à coraux)                                  E. de Bérard    153
+  Rade et pic de l'île de Borabora (îles à coraux)   E. de Bérard    156
+  Île de Whitsunday, dans l'archipel Pomotou
+    (îles à coraux)                                  E. de Bérard    157
   Brun-Rollet                                                Fath    160
-  Traï¿½neau yakoute                                    Victor Adam    161
-  Une sorciï¿½re tongouse                               Victor Adam    164
+  Traîneau yakoute                                    Victor Adam    161
+  Une sorcière tongouse                               Victor Adam    164
   Port d'Okhotsk                                      Victor Adam    165
   Bazar de Nertchinsk                                 Victor Adam    168
   Colonie ou village yakoute                          Victor Adam    169
-  Voyageur russe en Sibï¿½rie                           Victor Adam    172
+  Voyageur russe en Sibérie                           Victor Adam    172
   Argali (mouton sauvage)                             Victor Adam    173
   Campement de Tongouses                              Victor Adam    176
   Chamans yakoutes                                    Victor Adam    177
   Femme yakoute                                       Victor Adam    180
-  Poteaux des frontiï¿½res du pays des Yakoutes et
+  Poteaux des frontières du pays des Yakoutes et
     de la Chine                                       Victor Adam    181
-  Types indigï¿½nes (Australie du Sud)                      G. Fath    184
-  Sï¿½pultures australiennes dans les bois                 Lancelot    185
-  Sï¿½pulture australienne au dï¿½sert                           Dorï¿½    189
-  Restes d'un voyageur retrouvï¿½s par ses compagnons
-    dans les dï¿½serts du lac Torrens                          Dorï¿½    192
-  Oasis d'ï¿½deri (Fezzan)                                 Rouargue    193
+  Types indigènes (Australie du Sud)                      G. Fath    184
+  Sépultures australiennes dans les bois                 Lancelot    185
+  Sépulture australienne au désert                           Doré    189
+  Restes d'un voyageur retrouvés par ses compagnons
+    dans les déserts du lac Torrens                          Doré    192
+  Oasis d'Éderi (Fezzan)                                 Rouargue    193
   Mourzouk (capitale du Fezzan)                          Rouargue    196
   Gorge d'Agueri                                         Lancelot    197
-  Vallï¿½e d'Auderaz                                       Rouargue    200
+  Vallée d'Auderaz                                       Rouargue    200
   Vue d'Agadez                                           Lancelot    201
-  Vue de Kano (entrepï¿½t du Soudan central)               Lancelot    204
+  Vue de Kano (entrepôt du Soudan central)               Lancelot    204
   Dendal ou boulevard de Kouka (capitale du Bornou)      Lancelot    205
   Vue du lac Tchad                                       Rouargue    208
   Village marghi                                         Rouargue    209
-  Halte dans une forï¿½t du Marghi                         Rouargue    212
+  Halte dans une forêt du Marghi                         Rouargue    212
   Village mosgou                                         Rouargue    213
   Chef mosgovien                                         Rouargue    216
-  Intï¿½rieur d'une habitation mosgovienne                 Rouargue    217
+  Intérieur d'une habitation mosgovienne                 Rouargue    217
   Chef kanembou                                          Rouargue    220
-  Entrï¿½e du sultan de Baghirmi dans Masï¿½na
+  Entrée du sultan de Baghirmi dans Maséna
     (sa capitale)                                        Rouargue    221
-  Une razzia ï¿½ Barea (Mosgou)                            Rouargue    224
-  Vue du marchï¿½ de Sokoto                                Hadamard    225
-  Bac sur le Niger, ï¿½ Say                                Rouargue    228
+  Une razzia à Barea (Mosgou)                            Rouargue    224
+  Vue du marché de Sokoto                                Hadamard    225
+  Bac sur le Niger, à Say                                Rouargue    228
   Vue des monts Homboris                                 Lancelot    229
   Village sonray                                         Lancelot    232
   Vue de Kabra (port de Tembouctou)                      Rouargue    233
   Camp touareg                                           Lancelot    236
-  Arrivï¿½e ï¿½ Tembouctou                                   Lancelot    237
-  Vue gï¿½nï¿½rale de Tembouctou                             Lancelot    240
+  Arrivée à Tembouctou                                   Lancelot    237
+  Vue générale de Tembouctou                             Lancelot    240
   Portrait en pied du baron de Wogan en costume
     de voyage                                           J. Pelcoq    241
   Grass-Valley                                          J. Pelcoq    244
   Un claim ou atelier de mineur                         J. Pelcoq    245
-  Forï¿½t de _taxodium giganteum_ ou pins gï¿½ants           Lancelot    248
-  Un caï¿½on ou passage de la Sierra-Wah                   Lancelot    249
+  Forêt de _taxodium giganteum_ ou pins géants           Lancelot    248
+  Un cañon ou passage de la Sierra-Wah                   Lancelot    249
   La case du jugement                                   J. Pelcoq    252
   Le poteau de la guerre                                J. Pelcoq    253
   Types d'Indiennes du Rio-Colorado                     J. Pelcoq    256
-  Grande pagode de Rangoun                               Franï¿½ais    257
-  Bateau ï¿½ voile sur l'Irawady                     Clichï¿½ anglais    258
-  Canot de parade                                  Clichï¿½ anglais    259
-  Bateau de commerce                               Clichï¿½ anglais    259
-  Birmans dans une forï¿½t                                J. Pelcoq    261
-  Pattshaing ou tambour-harmonica                  Clichï¿½ anglais    262
-  Pattshaing ï¿½ baguettes                           Clichï¿½ anglais    262
-  Harpe birmane                                    Clichï¿½ anglais    263
-  Harmonica birman                                 Clichï¿½ anglais    263
-  Pagode ï¿½ Pagï¿½n                                   Clichï¿½ anglais    264
-  Reprï¿½sentation thï¿½ï¿½trale dans le royaume d'Ava         Hadamard    265
-  Dagobah ou pagode en forme de cloche             Clichï¿½ anglais    266
-  Intï¿½rieur d'une pagode                           Clichï¿½ anglais    267
-  Maison de l'ambassade ï¿½ Amarapoura               Clichï¿½ anglais    268
-  Vallï¿½e des puits de bitume                        Karl Girardet    269
+  Grande pagode de Rangoun                               Français    257
+  Bateau à voile sur l'Irawady                     Cliché anglais    258
+  Canot de parade                                  Cliché anglais    259
+  Bateau de commerce                               Cliché anglais    259
+  Birmans dans une forêt                                J. Pelcoq    261
+  Pattshaing ou tambour-harmonica                  Cliché anglais    262
+  Pattshaing à baguettes                           Cliché anglais    262
+  Harpe birmane                                    Cliché anglais    263
+  Harmonica birman                                 Cliché anglais    263
+  Pagode à Pagán                                   Cliché anglais    264
+  Représentation théâtrale dans le royaume d'Ava         Hadamard    265
+  Dagobah ou pagode en forme de cloche             Cliché anglais    266
+  Intérieur d'une pagode                           Cliché anglais    267
+  Maison de l'ambassade à Amarapoura               Cliché anglais    268
+  Vallée des puits de bitume                        Karl Girardet    269
   Types de grands seigneurs et hauts fonctionnaires
     birmans                                                 Morin    272
-  Le palais du roi et l'ï¿½lï¿½phant blanc                     Navlet    273
-  Sculptures comiques dans le monastï¿½re royal ï¿½
+  Le palais du roi et l'éléphant blanc                     Navlet    273
+  Sculptures comiques dans le monastère royal à
     Amarapoura                                           Lancelot    276
-  Vue du Maha-Toolut-Boungyo (monastï¿½re royal ï¿½
+  Vue du Maha-Toolut-Boungyo (monastère royal à
     Amarapoura)                                          Lancelot    277
-  Dï¿½tails intï¿½rieurs du Maha-comiye-peima ï¿½ Amarapoura     Navlet    281
-  Une porte ï¿½ Amarapoura                           Clichï¿½ anglais    284
-  Canon birman                                     Clichï¿½ anglais    284
-  Danse des ï¿½lï¿½phants                              Clichï¿½ anglais    284
-  Canal d'irrigation dans le royaume d'Ava         Clichï¿½ anglais    285
+  Détails intérieurs du Maha-comiye-peima à Amarapoura     Navlet    281
+  Une porte à Amarapoura                           Cliché anglais    284
+  Canon birman                                     Cliché anglais    284
+  Danse des éléphants                              Cliché anglais    284
+  Canal d'irrigation dans le royaume d'Ava         Cliché anglais    285
   Jeunes dames birmanes                                     Morin    288
   Le temple du Dragon                                    Lancelot    289
-  Rives de l'Irawady (prï¿½s des mines de rubis)     Clichï¿½ anglais    292
-  Petite pagode ï¿½ Mengoun                          Clichï¿½ anglais    292
+  Rives de l'Irawady (près des mines de rubis)     Cliché anglais    292
+  Petite pagode à Mengoun                          Cliché anglais    292
   Grand temple de Mengoun (depuis le tremblement
     de terre de 1839)                               Karl Girardet    293
-  Vallï¿½e de l'Irawady au confluent du Myit-Nge          Paul Huet    297
-  Temple ruinï¿½ ï¿½ Pagï¿½n                                   Lancelot    300
-  Salces ou volcans de boue ï¿½ Membo                Clichï¿½ anglais    301
-  Cï¿½nes volcaniques dans la plaine de Membo        Clichï¿½ anglais    301
-  Paysans birmans en voyage                        Clichï¿½ anglais    302
-  Statue gigantesque de Bouddha ï¿½ Amarapoura             Lancelot    304
-  Zanzibar vue de la mer                             E. de Bï¿½rard    305
-  Portrait de feu l'iman de Zanzibar                 E. de Bï¿½rard    308
-  Pont de la ville de Zanzibar                       E. de Bï¿½rard    309
+  Vallée de l'Irawady au confluent du Myit-Nge          Paul Huet    297
+  Temple ruiné à Pagán                                   Lancelot    300
+  Salces ou volcans de boue à Membo                Cliché anglais    301
+  Cônes volcaniques dans la plaine de Membo        Cliché anglais    301
+  Paysans birmans en voyage                        Cliché anglais    302
+  Statue gigantesque de Bouddha à Amarapoura             Lancelot    304
+  Zanzibar vue de la mer                             E. de Bérard    305
+  Portrait de feu l'iman de Zanzibar                 E. de Bérard    308
+  Pont de la ville de Zanzibar                       E. de Bérard    309
   Un village de la Mrima                                Lavieille    312
-  Jihouï¿½ la Mkoa ou la roche ronde                 Clichï¿½ anglais    313
+  Jihoué la Mkoa ou la roche ronde                 Cliché anglais    313
   La fontaine qui bout (source thermale dans le
-    Khoutou)                                       Clichï¿½ anglais    313
-  Sycomore africain                                Clichï¿½ anglais    314
-  L'Ougogo                                         Clichï¿½ anglais    315
+    Khoutou)                                       Cliché anglais    313
+  Sycomore africain                                Cliché anglais    314
+  L'Ougogo                                         Cliché anglais    315
   Burton et ses compagnons en marche                    Lavieille    316
-  Chaï¿½ne cï¿½tiï¿½re de l'Afrique occidentale               Lavieille    317
+  Chaîne côtière de l'Afrique occidentale               Lavieille    317
   Passe dans l'Ousagara                                 Lavieille    320
-  Paysage dans l'Ounyamouï¿½zi                            Lavieille    321
+  Paysage dans l'Ounyamouézi                            Lavieille    321
   Noirs de l'Ousumboua                               G. Boulanger    324
-  Huttes ï¿½ Msï¿½nï¿½                                        Lavieille    325
-  Nï¿½gres porteurs                                    G. Boulanger    328
+  Huttes à Mséné                                        Lavieille    325
+  Nègres porteurs                                    G. Boulanger    328
   Noir de l'Ouganda                                  G. Boulanger    329
-  Habitation de Snay ben Amir ï¿½ Kazeh                   Lavieille    332
-  Jeunes dames ï¿½ Kazeh                               G. Boulanger    333
-  Coiffures des indigï¿½nes de l'Ounyanyembï¿½         Clichï¿½ anglais    334
-  Coiffures des indigï¿½nes de l'Oujiji              Clichï¿½ anglais    335
-  Maison des ï¿½trangers ï¿½ Kaouï¿½lï¿½                        Lavieille    336
+  Habitation de Snay ben Amir à Kazeh                   Lavieille    332
+  Jeunes dames à Kazeh                               G. Boulanger    333
+  Coiffures des indigènes de l'Ounyanyembé         Cliché anglais    334
+  Coiffures des indigènes de l'Oujiji              Cliché anglais    335
+  Maison des étrangers à Kaouélé                        Lavieille    336
   Navigation sur le lac Tanganyika                      Lavieille    337
   Le capitaine Burton sur le lac Tanganyika             Lavieille    339
   Habitation au bord du lac Tanganyika                  Lavieille    340
   Le bassin du Maroro                                   Lavieille    341
-  Instruments et ustensiles des Ouajiji            Clichï¿½ anglais    342
-  Riverains du Tanganyika (cï¿½tï¿½ ouest)             Clichï¿½ anglais    343
-  Riverains du Tanganyika (cï¿½tï¿½ sud)               Clichï¿½ anglais    343
+  Instruments et ustensiles des Ouajiji            Cliché anglais    342
+  Riverains du Tanganyika (côté ouest)             Cliché anglais    343
+  Riverains du Tanganyika (côté sud)               Cliché anglais    343
   Le bassin du Kisanga                                  Lavieille    344
-  Vï¿½gï¿½tation de l'Ougogi                                Lavieille    345
-  Passe de l'Ouzagara                              Clichï¿½ anglais    346
-  Rocher de l'ï¿½lï¿½phant prï¿½s du cap Gardafui        Clichï¿½ anglais    347
-  Dernier ï¿½tablissement ï¿½gyptien dans le Fazogl          Lancelot    348
-  Contrï¿½e des Shelouks sur le Saubat                     Lancelot    349
-  Bï¿½lï¿½nia (village bari sur le fleuve Blanc)             Lancelot    352
+  Végétation de l'Ougogi                                Lavieille    345
+  Passe de l'Ouzagara                              Cliché anglais    346
+  Rocher de l'Éléphant près du cap Gardafui        Cliché anglais    347
+  Dernier établissement égyptien dans le Fazogl          Lancelot    348
+  Contrée des Shelouks sur le Saubat                     Lancelot    349
+  Bélénia (village bari sur le fleuve Blanc)             Lancelot    352
   Habitants de la Havane                                    Potin    353
-  Coolies chinois ï¿½ Cuba                                   Pelcoq    356
-  Vue gï¿½nï¿½rale de la Havane (capitale de Cuba)           Lancelot    357
-  Avenue de palmiers devant une habitation de Cuba   E. de Bï¿½rard    360
-  Cathï¿½drale de la Havane                                  Navlet    361
+  Coolies chinois à Cuba                                   Pelcoq    356
+  Vue générale de la Havane (capitale de Cuba)           Lancelot    357
+  Avenue de palmiers devant une habitation de Cuba   E. de Bérard    360
+  Cathédrale de la Havane                                  Navlet    361
   La volante (voiture de la Havane)                   Victor Adam    363
   Vue de Matanzas                                        Lancelot    364
-  Paysage dans l'ï¿½le de Cuba: Loma (coteau)
+  Paysage dans l'île de Cuba: Loma (coteau)
     de Candela                                          Paul Huet    365
-  Paysage dans l'ï¿½le de Cuba (Loma de la Givora)        Paul Huet    368
+  Paysage dans l'île de Cuba (Loma de la Givora)        Paul Huet    368
   Grenoble et les Alpes dauphinoises                Karl Girardet    369
   Les Grands Goulets                                Karl Girardet    372
-  Pont-en-Royans                                             Dorï¿½    373
-  Sainte-Croix et les ruines du chï¿½teau de Quint    Karl Girardet    376
-  Die et la vallï¿½e de Roumeyer (vue prise des
-    hauteurs de Saint-Justin)                            Franï¿½ais    377
+  Pont-en-Royans                                             Doré    373
+  Sainte-Croix et les ruines du château de Quint    Karl Girardet    376
+  Die et la vallée de Roumeyer (vue prise des
+    hauteurs de Saint-Justin)                            Français    377
   Le Mont-Aiguille (vu de Clelles)                       Daubigny    380
   Pontaix                                           Karl Girardet    381
-  Roumeyer et le mont Glandaz                            Franï¿½ais    384
-  Entrï¿½e de la vallï¿½e de Roumeyer                   Karl Girardet    385
-  La vallï¿½e de Lï¿½oncel                              Karl Girardet    388
-  La vallï¿½e de la Vï¿½oure et de la plaine du Rhï¿½ne
+  Roumeyer et le mont Glandaz                            Français    384
+  Entrée de la vallée de Roumeyer                   Karl Girardet    385
+  La vallée de Léoncel                              Karl Girardet    388
+  La vallée de la Véoure et de la plaine du Rhône
     (vue prise des hauteurs de la Vacherie)         Karl Girardet    389
-  Beaufort                                               Franï¿½ais    392
-  La forï¿½t de Saou                                       Sabatier    394
-  Poï¿½t-Cellard                                      Karl Girardet    395
+  Beaufort                                               Français    392
+  La forêt de Saou                                       Sabatier    394
+  Poët-Cellard                                      Karl Girardet    395
   Bourdeaux                                         Karl Girardet    396
   Le Velan et Plan-de-Baix (vue des sources
-    du Ruï¿½doux)                                     Karl Girardet    397
-  Cascade de la Druï¿½se                              Karl Girardet    398
+    du Ruïdoux)                                     Karl Girardet    397
+  Cascade de la Druïse                              Karl Girardet    398
   La gorge de Trente-Pas                            Karl Girardet    400
   Le mont Viso                                           Sabatier    401
   Le pont du Diable                                      Sabatier    405
-  Le lac de l'ï¿½chauda                                    Sabatier    408
+  Le lac de l'Échauda                                    Sabatier    408
   Le Pelvoux                                             Sabatier    409
-  Le mont Aurouze                                        Franï¿½ais    412
+  Le mont Aurouze                                        Français    412
   Les montagnes du Devoluy                          Karl Girardet    413
   Ruines de la Chartreuse de Durbon                 Karl Girardet    416
 
@@ -1689,31 +1689,31 @@ CARTES ET PLANS.
   Carte de la Sicile, par M. A. Vuillemin.                             3
   Carte de la Perse, par M. A. Vuillemin.                             19
   Carte des grandes et petites Antilles, par M. A. Vuillemin.         51
-  Carte du haut Tï¿½lï¿½mark (Norvï¿½ge mï¿½ridionale), d'aprï¿½s
+  Carte du haut Télémark (Norvége méridionale), d'après
     M. Paul Riant.                                                    67
-  Carte de la presqu'ï¿½le de Bergen, d'aprï¿½s M. Paul Riant.            83
+  Carte de la presqu'île de Bergen, d'après M. Paul Riant.            83
   Carte de la Chalcidique, par M. A. Vuillemin.                      115
   Partie du gouvernement d'Yakoutsk, par Piadischeff.                167
   Carte de l'Australie, par M. A. Vuillemin.                         187
   Carte des voyages du docteur Henri Barth en Afrique (partie
-    orientale) d'aprï¿½s M. de Lanoye.                                 195
-  Voyage du docteur Barth (Itinï¿½raire de Sokoto ï¿½ Tembouctou),
+    orientale) d'après M. de Lanoye.                                 195
+  Voyage du docteur Barth (Itinéraire de Sokoto à Tembouctou),
     par M. A. Vuillemin.                                             234
-  Carte du cours infï¿½rieur de l'Irawady comprenant les possessions
-    britanniques et la partie sud du royaume d'Ava, d'aprï¿½s le
+  Carte du cours inférieur de l'Irawady comprenant les possessions
+    britanniques et la partie sud du royaume d'Ava, d'après le
     capitaine H. Yule.                                               260
-  Plan d'Amarapoura et de sa banlieue, d'aprï¿½s les relevï¿½s du
+  Plan d'Amarapoura et de sa banlieue, d'après les relevés du
     major Grant Allan.                                               280
-  Carte du cours supï¿½rieur de l'Irawady et partie nord du royaume
-    d'Ava, d'aprï¿½s le cap. Yule.                                     296
+  Carte du cours supérieur de l'Irawady et partie nord du royaume
+    d'Ava, d'après le cap. Yule.                                     296
   Carte du voyage de Burton et Speke aux grands lacs de l'Afrique
-    orientale (Itinï¿½raire de Zanzibar ï¿½ Kazeh).                      307
+    orientale (Itinéraire de Zanzibar à Kazeh).                      307
   Carte du voyage de Burton et Speke aux grands lacs de l'Afrique
     orientale (2e partie).                                           338
-  Carte de l'ï¿½le de Cuba, par M. A. Vuillemin.                       355
-  Carte du Dauphinï¿½ (partie occidentale: Isï¿½re et Drï¿½me),
+  Carte de l'île de Cuba, par M. A. Vuillemin.                       355
+  Carte du Dauphiné (partie occidentale: Isère et Drôme),
     par M. A. Vuillemin.                                             371
-  Carte du Dauphinï¿½ (partie orientale: Isï¿½re et Hautes-Alpes),
+  Carte du Dauphiné (partie orientale: Isère et Hautes-Alpes),
     par M. A. Vuillemin.                                             404
 
 
@@ -1723,66 +1723,66 @@ ERRATA.
 
 
 I. Sous le titre _Voyage d'un naturaliste_, pages 139 et 146, on
-a imprimï¿½: (1858.--INï¿½DIT).--Cette date et cette qualification ne
-peuvent s'appliquer qu'ï¿½ la traduction.
+a imprimé: (1858.--INÉDIT).--Cette date et cette qualification ne
+peuvent s'appliquer qu'à la traduction.
 
 La note qui commence la page 139 donne la date du voyage (1838)
-et avertit les lecteurs que le texte a ï¿½tï¿½ publiï¿½ en anglais.
+et avertit les lecteurs que le texte a été publié en anglais.
 
 
 II. Dans un certain nombre d'exemplaires, le voyage du capitaine
 Burton AUX GRANDS LACS DE L'AFRIQUE ORIENTALE, 1re partie,
-46e livraison, le mot ORIENTALE se trouve remplacï¿½ par celui
+46e livraison, le mot ORIENTALE se trouve remplacé par celui
 d'OCCIDENTALE.
 
 
 III. On a omis, sous les titres de _Juif_ et _Juive de
 Salonique_, dessins de Bida, pages 108 et 109, la mention
-suivante: d'aprï¿½s M. A. Proust.
+suivante: d'après M. A. Proust.
 
 
-IV. On a ï¿½galement omis de donner, ï¿½ la page 146, la description
-des oiseaux et du reptile de l'archipel des Galapagos reprï¿½sentï¿½s
-sur la page 145. Nous rï¿½parons cette omission:
+IV. On a également omis de donner, à la page 146, la description
+des oiseaux et du reptile de l'archipel des Galapagos représentés
+sur la page 145. Nous réparons cette omission:
 
-1ï¿½ _Tanagra Darwinii_, variï¿½tï¿½ du genre des
-_Tanagras_ trï¿½s-nombreux en Amï¿½rique. Ces oiseaux ne diffï¿½rent de
-nos moineaux, dont ils ont ï¿½ peu prï¿½s les habitudes, que par la
-brillante diversitï¿½ des couleurs et par les ï¿½chancrures de la
-mandibule supï¿½rieure de leur bec.
+1º _Tanagra Darwinii_, variété du genre des
+_Tanagras_ très-nombreux en Amérique. Ces oiseaux ne diffèrent de
+nos moineaux, dont ils ont à peu près les habitudes, que par la
+brillante diversité des couleurs et par les échancrures de la
+mandibule supérieure de leur bec.
 
-2ï¿½ _Cactornis assimilis:_ Darwin le nomme _Tisseim des
-Galapagos_, oï¿½ l'on peut le voir souvent grimper autour des
-fleurs du grand cactus. Il appartient particuliï¿½rement ï¿½ l'ï¿½le
-Saint-Charles. Des treize espï¿½ces du genre _pinson_, que le
-naturaliste trouva dans cet archipel, chacune semble affectï¿½e ï¿½
-une ï¿½le en particulier.
+2º _Cactornis assimilis:_ Darwin le nomme _Tisseim des
+Galapagos_, où l'on peut le voir souvent grimper autour des
+fleurs du grand cactus. Il appartient particulièrement à l'île
+Saint-Charles. Des treize espèces du genre _pinson_, que le
+naturaliste trouva dans cet archipel, chacune semble affectée à
+une île en particulier.
 
-3ï¿½ _Pyrocephalus nanus_, trï¿½s-joli petit oiseau du
+3º _Pyrocephalus nanus_, très-joli petit oiseau du
 sous-genre _muscicapa_, gobe-mouches, tyrans ou moucherolles. Le
-mï¿½le de cette variï¿½tï¿½ a une tï¿½te de feu. Il hante ï¿½ la fois les
-bois humides des plus hautes parties des ï¿½les _Galapagos_ et les
+mâle de cette variété a une tête de feu. Il hante à la fois les
+bois humides des plus hautes parties des îles _Galapagos_ et les
 districts arides et rocailleux.
 
-4ï¿½ _Sylvicola aureola._ Ce charmant oiseau, d'un jaune
-d'or, appartient aux ï¿½les Galapagos.
+4º _Sylvicola aureola._ Ce charmant oiseau, d'un jaune
+d'or, appartient aux îles Galapagos.
 
-5ï¿½ Le _Leiocephalus grayii_ est l'une des nombreuses
-nouveautï¿½s rapportï¿½es par les navigateurs du _Beagle_. Dans le
-pays on le nomme _holotropis_, et moins curieux peut-ï¿½tre que
+5º Le _Leiocephalus grayii_ est l'une des nombreuses
+nouveautés rapportées par les navigateurs du _Beagle_. Dans le
+pays on le nomme _holotropis_, et moins curieux peut-être que
 l'_amblyrhinchus_, il est cependant remarquable en ce que c'est
 un des plus beaux sauriens, sinon le plus beau saurien qui
 existe.
 
 Le saurien _amblyrhinchus cristatus_, que nous reproduisons ici,
-est dï¿½crit dans le texte, page 147.
+est décrit dans le texte, page 147.
 
-[Illustration: _Amblyrhinchus cristatus_, iguane des ï¿½les Galapagos.]
+[Illustration: _Amblyrhinchus cristatus_, iguane des îles Galapagos.]
 
        *       *       *       *       *
 
-IMPRIMERIE Gï¿½Nï¿½RALE DE CH. LAHURE
-Rue de Fleurus, 9, ï¿½ Paris.
+IMPRIMERIE GÉNÉRALE DE CH. LAHURE
+Rue de Fleurus, 9, à Paris.
 
        *       *       *       *       *
 

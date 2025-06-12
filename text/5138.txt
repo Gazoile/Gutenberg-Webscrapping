@@ -1,7 +1,7 @@
 
-Nous remercions la Bibliothï¿½que Nationale de France qui a mis ï¿½
-disposition les images dans www://gallica.bnf.fr, et a donnï¿½
-l'autorisation de les utiliser pour prï¿½parer ce texte.
+Nous remercions la Bibliothèque Nationale de France qui a mis à
+disposition les images dans www://gallica.bnf.fr, et a donné
+l'autorisation de les utiliser pour préparer ce texte.
 
 
 
@@ -19,7 +19,7 @@ l'autorisation de les utiliser pour prï¿½parer ce texte.
 
 	      DE L' IMPRIMERIE DE A.  FIRMIN DIDOT,
 
-			RUE JACOB, Nï¿½ 24.
+			RUE JACOB, N° 24.
 
 
 
@@ -30,7 +30,7 @@ l'autorisation de les utiliser pour prï¿½parer ce texte.
 
 			    VOLTAIRE
 
-	      PRï¿½FACES, AVERTISSEMENTS, NOTES, ETC.
+	      PRÉFACES, AVERTISSEMENTS, NOTES, ETC.
 
 			PAR  M. BEUCHOT.
 
@@ -40,11 +40,11 @@ l'autorisation de les utiliser pour prï¿½parer ce texte.
 
 			    A PARIS,
 
-		     CHEZ LEFï¿½VRE, LIBRAIRE,
+		     CHEZ LEFÈVRE, LIBRAIRE,
 
-	 RUE DE L'ï¿½PERON, Kï¿½ 6.  WERDET ET LEQUIEN FILS,
+	 RUE DE L'ÉPERON, K° 6.  WERDET ET LEQUIEN FILS,
 
-		     RUE DU BATTOIR, Nï¿½ 2O.
+		     RUE DU BATTOIR, N° 2O.
 
 			   MDCCCXXIX.
 
@@ -62,49 +62,49 @@ l'autorisation de les utiliser pour prï¿½parer ce texte.
 
 
 
-Prï¿½face de l'ï¿½diteur
+Préface de l'Éditeur
 
 
-Longchamp, secrï¿½taire de Voltaire de 1746 ï¿½ 1754, dit dans ses
-_Mï¿½moires_[*] que _Babouc, ou le Monde comme il va_, fut composï¿½ en
-1746, pendant la retraite de Voltaire ï¿½ Sceaux ; et je n'ai rien
-trouvï¿½ qui contredise Longchamp.  La plus ancienne ï¿½dition que je
-connaisse est celle de 1748, dans le tome VIII de l'ï¿½dition faite ï¿½
+Longchamp, secrétaire de Voltaire de 1746 à 1754, dit dans ses
+_Mémoires_[*] que _Babouc, ou le Monde comme il va_, fut composé en
+1746, pendant la retraite de Voltaire à Sceaux ; et je n'ai rien
+trouvé qui contredise Longchamp.  La plus ancienne édition que je
+connaisse est celle de 1748, dans le tome VIII de l'édition faite à
 Dresde des _Oeuvres de Voltaire_. Ce conte fait aussi partie du
-_Recueil de piï¿½ces en vers et en prose, par l'auteur de la tragï¿½die
-de Sï¿½miramis_, 1750, in-12.
+_Recueil de pièces en vers et en prose, par l'auteur de la tragédie
+de Sémiramis_, 1750, in-12.
 
-  [*] _Mï¿½moires sur Voltaire_, etc., 1826, 2 vol. in-8ï¿½; voyez tom. II,
+  [*] _Mémoires sur Voltaire_, etc., 1826, 2 vol. in-8°; voyez tom. II,
   p. 240.
 
 C'est une imitation de _Babouc_, ou du moins de son titre, qu'a faite
-l'auteur inconnu d'une brochure intitulï¿½e: _La Lune comme elle va_,
-MDCCLXXXI, in-8ï¿½, de trente-six pages; brochure au-dessous de la
+l'auteur inconnu d'une brochure intitulée: _La Lune comme elle va_,
+MDCCLXXXI, in-8°, de trente-six pages; brochure au-dessous de la
 critique, et relative aux discussions entre Joseph II et les
 Hollandais pour l'ouverture de l'Escaut.
 
-La rï¿½volution franï¿½aise a fait naï¿½tre trois imitations de Babouc :
-I. _Le Retour de Babouc ï¿½ Persï¿½polis, ou la suite du Monde comme il
-va_, 1789, in-8ï¿½, a eu deux ï¿½ditions; c'est un opuscule de trente
-pages: je n'ai pu en dï¿½couvrir l'auteur.  II. Le Fils de Babouc ï¿½
-Persï¿½polis, ou le Monde nouveau, Paris, dï¿½cembre, 1790, in-8ï¿½, de
+La révolution française a fait naître trois imitations de Babouc :
+I. _Le Retour de Babouc à Persépolis, ou la suite du Monde comme il
+va_, 1789, in-8°, a eu deux éditions; c'est un opuscule de trente
+pages: je n'ai pu en découvrir l'auteur.  II. Le Fils de Babouc à
+Persépolis, ou le Monde nouveau, Paris, décembre, 1790, in-8°, de
 cent vingt-quatre pages.  III. _Nouvelle Vision de Babouc, ou la Perse
-comme elle va_, 1796, in-8ï¿½, de cent douze pages, contenant seulement
-la premiï¿½re partie, et l'annonce de la seconde. Je ne crois pas que la
+comme elle va_, 1796, in-8°, de cent douze pages, contenant seulement
+la première partie, et l'annonce de la seconde. Je ne crois pas que la
 seconde partie ait paru. L'auteur s'appelait Bunel.
 
 				------
 
-Les notes sans signature, et qui sont indiquï¿½es par des lettres,
+Les notes sans signature, et qui sont indiquées par des lettres,
 sont de Voltaire.
 
-Les notes signï¿½es d'un K sont des ï¿½diteurs de Kehl, MM. Condorcet
+Les notes signées d'un K sont des éditeurs de Kehl, MM. Condorcet
 et Decroix.  Il est impossible de faire rigoureusement la part de
 chacun.
 
 Les additions que j'ai faites aux notes de Voltaire ou aux notes
-des ï¿½diteurs de Kehl, en sont sï¿½parï¿½es par un --, et sont, comme
-mes notes, signï¿½es de l'initiale de mon nom.
+des éditeurs de Kehl, en sont séparées par un --, et sont, comme
+mes notes, signées de l'initiale de mon nom.
 
                                                  BEUCHOT.
 
@@ -124,139 +124,139 @@ mes notes, signï¿½es de l'initiale de mon nom.
 
 
 
-I.  Parmi les gï¿½nies qui prï¿½sident aux empires du monde, Ituriel tient
-un des premiers rangs, et il a le dï¿½partement de la Haute-Asie.  Il
+I.  Parmi les génies qui président aux empires du monde, Ituriel tient
+un des premiers rangs, et il a le département de la Haute-Asie.  Il
 descendit un matin dans la demeure du Scythe Babouc, sur le rivage de
-l'Oxus, et lui dit: Babouc, les folies et les excï¿½s des Perses ont
-attirï¿½ notre colï¿½re: il s'est tenu hier une assemblï¿½e des gï¿½nies de la
-Haute-Asie pour savoir si on chï¿½tierait Persï¿½polis, ou si on la
-dï¿½truirait.  Va dans cette ville, examine tout; tu reviendras m'en
-rendre un compte fidï¿½le, et je me dï¿½terminerai sur ton rapport ï¿½
-corriger la ville, ou ï¿½ l'exterminer.  Mais, seigneur, dit humblement
-Babouc, je n'ai jamais ï¿½tï¿½ en Perse; je n'y connais personne.  Tant
-mieux, dit l'ange, tu ne seras point partial; tu as reï¿½u du ciel le
+l'Oxus, et lui dit: Babouc, les folies et les excès des Perses ont
+attiré notre colère: il s'est tenu hier une assemblée des génies de la
+Haute-Asie pour savoir si on châtierait Persépolis, ou si on la
+détruirait.  Va dans cette ville, examine tout; tu reviendras m'en
+rendre un compte fidèle, et je me déterminerai sur ton rapport à
+corriger la ville, ou à l'exterminer.  Mais, seigneur, dit humblement
+Babouc, je n'ai jamais été en Perse; je n'y connais personne.  Tant
+mieux, dit l'ange, tu ne seras point partial; tu as reçu du ciel le
 discernement[1], et j'y ajoute le don d'inspirer la confiance; marche,
-regarde, ï¿½coute, observe, et ne crains rien; tu seras partout bien
-reï¿½u.
+regarde, écoute, observe, et ne crains rien; tu seras partout bien
+reçu.
 
-  [1] L'ï¿½dition de 1750, dont j'ai parlï¿½ dans ma prï¿½face, porte de
-  plus ces mots: ï¿½C'est un assez beau prï¿½sent.ï¿½ B.
+  [1] L'édition de 1750, dont j'ai parlé dans ma préface, porte de
+  plus ces mots: «C'est un assez beau présent.» B.
 
 
 Babouc monta sur son chameau, et partit avec ses serviteurs.  Au bout
-de quelques journï¿½es, il rencontra vers les plaines de Sennaar l'armï¿½e
-persane, qui allait combattre l'armï¿½e indienne.  Il s'adressa d'abord
-ï¿½ un soldat qu'il trouva ï¿½cartï¿½.  Il lui parla, et lui demanda quel
-ï¿½tait le sujet de la guerre.  Par tous les dieux, dit le soldat, je
-n'en sais rien; ce n'est pas mon affaire; mon mï¿½tier est de tuer et
-d'ï¿½tre tuï¿½ pour gagner ma vie; il n'importe qui je serve.  Je pourrais
-bien mï¿½me dï¿½s demain passer dans le camp des Indiens; car on dit
-qu'ils donnent prï¿½s d'une demi-drachme de cuivre par jour ï¿½ leurs
+de quelques journées, il rencontra vers les plaines de Sennaar l'armée
+persane, qui allait combattre l'armée indienne.  Il s'adressa d'abord
+à un soldat qu'il trouva écarté.  Il lui parla, et lui demanda quel
+était le sujet de la guerre.  Par tous les dieux, dit le soldat, je
+n'en sais rien; ce n'est pas mon affaire; mon métier est de tuer et
+d'être tué pour gagner ma vie; il n'importe qui je serve.  Je pourrais
+bien même dès demain passer dans le camp des Indiens; car on dit
+qu'ils donnent près d'une demi-drachme de cuivre par jour à leurs
 soldats de plus que nous n'en avons dans ce maudit service de Perse.
-Si vous voulez savoir pourquoi on se bat, parlez ï¿½ mon capitaine.
+Si vous voulez savoir pourquoi on se bat, parlez à mon capitaine.
 
-Babouc ayant fait un petit prï¿½sent au soldat entra dans le camp.  Il
-fit bientï¿½t connaissance avec le capitaine, et lui demanda le sujet de
+Babouc ayant fait un petit présent au soldat entra dans le camp.  Il
+fit bientôt connaissance avec le capitaine, et lui demanda le sujet de
 la guerre.  Comment voulez-vous que je le sache? dit le capitaine, et
-que m'importe ce beau sujet? J'habite ï¿½ deux cents lieues de
-Persï¿½polis; j'entends dire que la guerre est dï¿½clarï¿½e; j'abandonne
-aussitï¿½t ma famille, et je vais chercher, selon notre coutume, la
-fortune ou la mort, attendu que je n'ai rien ï¿½ faire.  Mais vos
+que m'importe ce beau sujet? J'habite à deux cents lieues de
+Persépolis; j'entends dire que la guerre est déclarée; j'abandonne
+aussitôt ma famille, et je vais chercher, selon notre coutume, la
+fortune ou la mort, attendu que je n'ai rien à faire.  Mais vos
 camarades, dit Babouc, ne sont-ils pas un peu plus instruits que vous?
-Non, dit l'officier; il n'y a guï¿½re que nos principaux satrapes qui
-savent bien prï¿½cisï¿½ment pourquoi on s'ï¿½gorge.
+Non, dit l'officier; il n'y a guère que nos principaux satrapes qui
+savent bien précisément pourquoi on s'égorge.
 
-Babouc ï¿½tonnï¿½ s'introduisit chez les gï¿½nï¿½raux; il entra dans leur
-familiaritï¿½.  L'un d'eux lui dit enfin: La cause de cette guerre, qui
-dï¿½sole depuis vingt ans l'Asie, vient originairement d'une querelle
+Babouc étonné s'introduisit chez les généraux; il entra dans leur
+familiarité.  L'un d'eux lui dit enfin: La cause de cette guerre, qui
+désole depuis vingt ans l'Asie, vient originairement d'une querelle
 entre un eunuque d'une femme du grand roi de Perse, et un commis d'un
 bureau du grand roi des Indes.  Il s'agissait d'un droit qui revenait
-ï¿½ peu prï¿½s ï¿½ la trentiï¿½me partie d'une darique[2].  Le premier
-ministre des Indes et le nï¿½tre soutinrent dignement les droits de
-leurs maï¿½tres.  La querelle s'ï¿½chauffa.  On mit de part et d'autre en
-campagne une armï¿½e d'un million de soldats.  Il faut recruter cette
-armï¿½e tous les ans de plus de quatre cent mille hommes.  Les meurtres,
-les incendies, les ruines, les dï¿½vastations se multiplient, l'univers
+à peu près à la trentième partie d'une darique[2].  Le premier
+ministre des Indes et le nôtre soutinrent dignement les droits de
+leurs maîtres.  La querelle s'échauffa.  On mit de part et d'autre en
+campagne une armée d'un million de soldats.  Il faut recruter cette
+armée tous les ans de plus de quatre cent mille hommes.  Les meurtres,
+les incendies, les ruines, les dévastations se multiplient, l'univers
 souffre, et l'acharnement continue.  Notre premier ministre et celui
 des Indes protestent souvent qu'ils n'agissent que pour le bonheur du
-genre humain; et ï¿½ chaque protestation il y a toujours quelques villes
-dï¿½truites et quelque province ravagï¿½e.
+genre humain; et à chaque protestation il y a toujours quelques villes
+détruites et quelque province ravagée.
 
    [2] La darique vaut vingt-quatre francs: vojez tome XXXII, page
    494.  B.
 
-Le lendemain, sur un bruit qui se rï¿½pandit que la paix allait ï¿½tre
-conclue, le gï¿½nï¿½ral persan et le gï¿½nï¿½ral indien s'empressï¿½rent de
+Le lendemain, sur un bruit qui se répandit que la paix allait être
+conclue, le général persan et le général indien s'empressèrent de
 donner bataille; elle fut sanglante.  Babouc en vit toutes les fautes
-et toutes les abominations; il fut tï¿½moin des manoeuvres des
+et toutes les abominations; il fut témoin des manoeuvres des
 principaux satrapes, qui firent ce qu'ils purent pour faire battre
-leur chef.  Il vit des officiers tuï¿½s par leurs propres troupes; il
-vit des soldats qui achevaient d'ï¿½gorger leurs camarades expirants,
-pour leur arracher quelques lambeaux sanglants, dï¿½chirï¿½s et couverts
-de fange.  Il entra dans les hï¿½pitaux oï¿½ l'on transportait les
-blessï¿½s, dont la plupart expiraient par la nï¿½gligence inhumaine de
-ceux mï¿½mes que le roi de Perse payait chï¿½rement pour les secourir.
-Sont-ce lï¿½ des hommes, s'ï¿½cria Babouc, ou des bï¿½tes fï¿½roces? Ah!  je
-vois bien que Persï¿½polis sera dï¿½truite."
+leur chef.  Il vit des officiers tués par leurs propres troupes; il
+vit des soldats qui achevaient d'égorger leurs camarades expirants,
+pour leur arracher quelques lambeaux sanglants, déchirés et couverts
+de fange.  Il entra dans les hôpitaux où l'on transportait les
+blessés, dont la plupart expiraient par la négligence inhumaine de
+ceux mêmes que le roi de Perse payait chèrement pour les secourir.
+Sont-ce là des hommes, s'écria Babouc, ou des bêtes féroces? Ah!  je
+vois bien que Persépolis sera détruite."
 
-Occupï¿½ de cette pensï¿½e, il passa dans le camp des Indiens; il y fut
-aussi bien reï¿½u que dans celui des Perses, selon ce qui lui avait ï¿½tï¿½
-prï¿½dit; mais il y vit tous les mï¿½mes excï¿½s qui l'avaient saisi
-d'horreur.  Oh, oh! dit-il en lui-mï¿½me, si l'ange Ituriel veut
-exterminer les Persans, il faut donc que l'ange des Indes dï¿½truise
-aussi les Indiens.  S'ï¿½tant ensuite informï¿½ plus en dï¿½tail de ce qui
-s'ï¿½tait passï¿½ dans l'une et l'autre armï¿½e, il apprit des actions de
-gï¿½nï¿½rositï¿½, de grandeur d'ï¿½me, d'humanitï¿½, qui l'ï¿½tonnï¿½rent et le
-ravirent.  Inexplicables humains, s'ï¿½cria-t-il, comment pouvez-vous
-rï¿½unir tant de bassesse et de grandeur, tant de vertus et de crimes?
+Occupé de cette pensée, il passa dans le camp des Indiens; il y fut
+aussi bien reçu que dans celui des Perses, selon ce qui lui avait été
+prédit; mais il y vit tous les mêmes excès qui l'avaient saisi
+d'horreur.  Oh, oh! dit-il en lui-même, si l'ange Ituriel veut
+exterminer les Persans, il faut donc que l'ange des Indes détruise
+aussi les Indiens.  S'étant ensuite informé plus en détail de ce qui
+s'était passé dans l'une et l'autre armée, il apprit des actions de
+générosité, de grandeur d'âme, d'humanité, qui l'étonnèrent et le
+ravirent.  Inexplicables humains, s'écria-t-il, comment pouvez-vous
+réunir tant de bassesse et de grandeur, tant de vertus et de crimes?
 
- Cependant la paix fut dï¿½clarï¿½e.  Les chefs des deux armï¿½es, dont
-aucun n'avait remportï¿½ la victoire, mais qui, pour leur seul intï¿½rï¿½t,
+ Cependant la paix fut déclarée.  Les chefs des deux armées, dont
+aucun n'avait remporté la victoire, mais qui, pour leur seul intérêt,
 avaient fait verser le sang de tant d'hommes, leurs semblables,
-allï¿½rent briguer dans leurs cours des rï¿½compenses.  On cï¿½lï¿½bra la paix
-dans des ï¿½crits publics, qui n'annonï¿½aient que le retour de la vertu
-et de la fï¿½licitï¿½ sur la terre.  Dieu soit louï¿½! dit Babouc;
-Persï¿½polis sera le sï¿½jour de l'innocence ï¿½purï¿½e; elle ne sera point
-dï¿½truite, comme le voulaient ces vilains gï¿½nies: courons sans tarder
+allèrent briguer dans leurs cours des récompenses.  On célébra la paix
+dans des écrits publics, qui n'annonçaient que le retour de la vertu
+et de la félicité sur la terre.  Dieu soit loué! dit Babouc;
+Persépolis sera le séjour de l'innocence épurée; elle ne sera point
+détruite, comme le voulaient ces vilains génies: courons sans tarder
 dans cette capitale de l'Asie.
 
 
 
-II.  Il arriva dans cette ville immense par l'ancienne entrï¿½e, qui
-ï¿½tait toute barbare, et dont la rusticitï¿½ dï¿½goï¿½tante offensait les
-yeux[3].  Toute cette partie de la ville se ressentait du temps oï¿½
-elle avait ï¿½tï¿½ bï¿½tie; car, malgrï¿½ l'opiniï¿½tretï¿½ des hommes ï¿½ louer
-l'antique aux dï¿½pens du moderne, il faut avouer qu'en tout genre les
+II.  Il arriva dans cette ville immense par l'ancienne entrée, qui
+était toute barbare, et dont la rusticité dégoûtante offensait les
+yeux[3].  Toute cette partie de la ville se ressentait du temps où
+elle avait été bâtie; car, malgré l'opiniâtreté des hommes à louer
+l'antique aux dépens du moderne, il faut avouer qu'en tout genre les
 premiers essais sont toujours grossiers.
 
-  [3] Persï¿½polis ï¿½tant Paris, l'entrï¿½e toute barbare est celle du
+  [3] Persépolis étant Paris, l'entrée toute barbare est celle du
   faubourg Saint-Marceau: voyez le chapitre XXII de _Candide_.  B.
 
-Babouc se mï¿½la dans la foule d'un peuple composï¿½ de ce qu'il y avait
+Babouc se mêla dans la foule d'un peuple composé de ce qu'il y avait
 de plus sale et de plus laid dans les deux sexes.  Cette foule se
-prï¿½cipitait d'un air hï¿½bï¿½tï¿½ dans un enclos vaste et sombre.  Au
-bourdonnement continuel, au mouvement qu'il remarqua, ï¿½ l'argent que
-quelques personnes donnaient ï¿½ d'autres pour avoir droit de s'asseoir,
-il crut ï¿½tre dans un marchï¿½ oï¿½ l'on vendait des chaises de paille;
-mais bientï¿½t, voyant que plusieurs femmes se mettaient ï¿½ genoux, en
+précipitait d'un air hébété dans un enclos vaste et sombre.  Au
+bourdonnement continuel, au mouvement qu'il remarqua, à l'argent que
+quelques personnes donnaient à d'autres pour avoir droit de s'asseoir,
+il crut être dans un marché où l'on vendait des chaises de paille;
+mais bientôt, voyant que plusieurs femmes se mettaient à genoux, en
 fesant semblant de regarder fixement devant elles, et en regardant les
-hommes de cï¿½tï¿½, il s'aperï¿½ut qu'il ï¿½tait dans un temple.  Des voix
-aigres, rauques, sauvages, discordantes, fesaient retentir la voï¿½te de
-sons mal articulï¿½s, qui fesaient le mï¿½me effet que les voix des
-onagres quand elles rï¿½pondent, dans les plaines des Pictaves[4], au
-cornet ï¿½ bouquin qui les appelle.  Il se bouchait les oreilles; mais
-il fut prï¿½s de se boucher encore les yeux et le nez, quand il vit
+hommes de côté, il s'aperçut qu'il était dans un temple.  Des voix
+aigres, rauques, sauvages, discordantes, fesaient retentir la voûte de
+sons mal articulés, qui fesaient le même effet que les voix des
+onagres quand elles répondent, dans les plaines des Pictaves[4], au
+cornet à bouquin qui les appelle.  Il se bouchait les oreilles; mais
+il fut près de se boucher encore les yeux et le nez, quand il vit
 entrer dans ce temple des ouvriers avec des pinces et des pelles.  Ils
-remuï¿½rent une large pierre, et jetï¿½rent ï¿½ droite et ï¿½ gauche une terre
-dont s'exhalait une odeur empestï¿½e; ensuite on vint poser un mort dans
-cette ouverture, et on remit la pierre par-dessus.  Quoi!  s'ï¿½cria
-Babouc, ces peuples enterrent leurs morts dans les mï¿½mes lieux oï¿½ ils
-adorent la Divinitï¿½! Quoi! leurs temples sont pavï¿½s de cadavres! Je ne
-m'ï¿½tonne plus de ces maladies pestilentielles qui dï¿½solent souvent
-Persï¿½polis.  La pourriture des morts, et celle de tant de vivants
-rassemblï¿½s et pressï¿½s dans le mï¿½me lieu, est capable d'empoisonner le
-globe terrestre.  Ah! la vilaine ville que Persï¿½polis! Apparemment que
-les anges veulent la dï¿½truire pour en rebï¿½tir une plus belle, et la
+remuèrent une large pierre, et jetèrent à droite et à gauche une terre
+dont s'exhalait une odeur empestée; ensuite on vint poser un mort dans
+cette ouverture, et on remit la pierre par-dessus.  Quoi!  s'écria
+Babouc, ces peuples enterrent leurs morts dans les mêmes lieux où ils
+adorent la Divinité! Quoi! leurs temples sont pavés de cadavres! Je ne
+m'étonne plus de ces maladies pestilentielles qui désolent souvent
+Persépolis.  La pourriture des morts, et celle de tant de vivants
+rassemblés et pressés dans le même lieu, est capable d'empoisonner le
+globe terrestre.  Ah! la vilaine ville que Persépolis! Apparemment que
+les anges veulent la détruire pour en rebâtir une plus belle, et la
 peupler d'habitants moins malpropres, et qui chantent mieux.  La
 Providence peut avoir ses raisons; laissons-la faire.
 
@@ -264,540 +264,540 @@ Providence peut avoir ses raisons; laissons-la faire.
 
 
 
-III.  Cependant le soleil approchait du haut de sa carriï¿½re.  Babouc
-devait aller dï¿½ner ï¿½ l'autre bout de la ville, chez une dame pour
-laquelle son mari, officier de l'armï¿½e, lui avait donnï¿½ des lettres.
-Il fit d'abord plusieurs tours dans Persï¿½polis; il vit d'autres
-temples mieux bï¿½tis et mieux ornï¿½s, remplis d'un peuple poli, et
+III.  Cependant le soleil approchait du haut de sa carrière.  Babouc
+devait aller dîner à l'autre bout de la ville, chez une dame pour
+laquelle son mari, officier de l'armée, lui avait donné des lettres.
+Il fit d'abord plusieurs tours dans Persépolis; il vit d'autres
+temples mieux bâtis et mieux ornés, remplis d'un peuple poli, et
 retentissant d'une musique harmonieuse; il remarqua des fontaines
-publiques, lesquelles, quoique mal placï¿½es[5], frappaient les yeux par
-leur beautï¿½; des places oï¿½ semblaient respirer en bronze les meilleurs
-rois[6] qui avaient gouvernï¿½ la Perse; d'autres places oï¿½ il entendait
-le peuple s'ï¿½crier: Quand verrons-nous ici le maï¿½tre que nous
-chï¿½rissons? Il admira les ponts magnifiques ï¿½levï¿½s sur le fleuve, les
-quais superbes et commodes, les palais bï¿½tis ï¿½ droite et ï¿½ gauche, une
-maison immense[7] oï¿½ des milliers de vieux soldats blessï¿½s et
-vainqueurs rendaient chaque jour grï¿½ces au Dieu des armï¿½es.  Il entra
-enfin chez la dame, qui l'attendait ï¿½ dï¿½ner avec une compagnie
-d'honnï¿½tes gens.  La maison ï¿½tait propre et ornï¿½e, le repas dï¿½licieux,
+publiques, lesquelles, quoique mal placées[5], frappaient les yeux par
+leur beauté; des places où semblaient respirer en bronze les meilleurs
+rois[6] qui avaient gouverné la Perse; d'autres places où il entendait
+le peuple s'écrier: Quand verrons-nous ici le maître que nous
+chérissons? Il admira les ponts magnifiques élevés sur le fleuve, les
+quais superbes et commodes, les palais bâtis à droite et à gauche, une
+maison immense[7] où des milliers de vieux soldats blessés et
+vainqueurs rendaient chaque jour grâces au Dieu des armées.  Il entra
+enfin chez la dame, qui l'attendait à dîner avec une compagnie
+d'honnêtes gens.  La maison était propre et ornée, le repas délicieux,
 la dame jeune, belle, spirituelle, engageante, la compagnie digne
-d'elle; et Babouc disait en lui-mï¿½me ï¿½ tout moment: L'ange Ituriel se
-moque du monde de vouloir dï¿½truire une ville si charmante.
+d'elle; et Babouc disait en lui-même à tout moment: L'ange Ituriel se
+moque du monde de vouloir détruire une ville si charmante.
 
-  [5] C'est de Paris que Voltaire parle, sous le nom de Persï¿½polis:
-  les fontaines mal placï¿½es sont la fontaine de la rue de Grenelle,
-  faubourg Saint Germain, et la fontaine des Innocents, qui ï¿½tait
+  [5] C'est de Paris que Voltaire parle, sous le nom de Persépolis:
+  les fontaines mal placées sont la fontaine de la rue de Grenelle,
+  faubourg Saint Germain, et la fontaine des Innocents, qui était
   alors au coin des rues aux Fers et de Saint-Denis.  C'est de 1788
-  que date la construction de cette derniï¿½re fontaine telle qu'elle
+  que date la construction de cette dernière fontaine telle qu'elle
   est aujourd'hui. Voyez, dans le tome XIX, la liste des _Artistes
-  cï¿½lï¿½bres du Siï¿½cle de Louis XIV_ (aprï¿½s l'article MANSARD).  B.
+  célèbres du Siècle de Louis XIV_ (après l'article MANSARD).  B.
 
-  [6] Les seuls rois qui eussent des statues ï¿½taient Henri IV, Louis
-  XIII, Louis XIV.  La statue de Louis XV ne Fut ï¿½rigï¿½e que beaucoup
-  plus tard, en 1763; elle avait ï¿½tï¿½ votï¿½e, en 1748, par le prï¿½vï¿½t des
-  marchands et les ï¿½chevins de la ville de Paris.  B.
+  [6] Les seuls rois qui eussent des statues étaient Henri IV, Louis
+  XIII, Louis XIV.  La statue de Louis XV ne Fut érigée que beaucoup
+  plus tard, en 1763; elle avait été votée, en 1748, par le prévôt des
+  marchands et les échevins de la ville de Paris.  B.
 
-  [7] L'Hï¿½tel des Invalides.  B.
+  [7] L'Hôtel des Invalides.  B.
 
 
 
-IV.  Cependant il s'aperï¿½ut que la dame, qui avait commencï¿½ par lui
+IV.  Cependant il s'aperçut que la dame, qui avait commencé par lui
 demander tendrement des nouvelles de son mari, parlait plus tendrement
-encore, sur la fin du repas, ï¿½ un jeune mage.  Il vit un magistrat
-qui, en prï¿½sence de sa femme, pressait avec vivacitï¿½ une veuve; et
-cette veuve indulgente[7] avait une main passï¿½e autour du cou du
-magistrat, tandis qu'elle tendait l'autre ï¿½ un jeune citoyen trï¿½s beau
-et trï¿½s modeste.  La femme du magistrat se leva de table la premiï¿½re,
+encore, sur la fin du repas, à un jeune mage.  Il vit un magistrat
+qui, en présence de sa femme, pressait avec vivacité une veuve; et
+cette veuve indulgente[7] avait une main passée autour du cou du
+magistrat, tandis qu'elle tendait l'autre à un jeune citoyen très beau
+et très modeste.  La femme du magistrat se leva de table la première,
 pour aller entretenir dans un cabinet voisin son directeur qui
-arrivait trop tard, et qu'on avait attendu ï¿½ dï¿½ner; et le directeur,
-homme ï¿½loquent, lui parla dans ce cabinet avec tant de vï¿½hï¿½mence et
+arrivait trop tard, et qu'on avait attendu à dîner; et le directeur,
+homme éloquent, lui parla dans ce cabinet avec tant de véhémence et
 d'onction, que la dame avait quand elle revint les yeux humides, les
-joues enflammï¿½es, la dï¿½marche mal assurï¿½e, la parole tremblante.
+joues enflammées, la démarche mal assurée, la parole tremblante.
 
 
-  [8] L'ï¿½dition de 1750 porte: ï¿½Cette veuve indulgente lorgnait
-  vivement le magistrat tandis qu'elle tendait la main ï¿½ un jeune
-  citoyen, etc.ï¿½ B.
+  [8] L'édition de 1750 porte: «Cette veuve indulgente lorgnait
+  vivement le magistrat tandis qu'elle tendait la main à un jeune
+  citoyen, etc.» B.
 
-Alors Babouc commenï¿½a ï¿½ craindre que le gï¿½nie Ituriel n'eï¿½t raison.
-Le talent qu'il avait d'attirer la confiance le mit dï¿½s le jour mï¿½me
-dans les secrets de la dame: elle lui confia son goï¿½t pour le jeune
-mage, l'assura que dans toutes les maisons de Persï¿½polis il trouverait
-l'ï¿½quivalent de ce qu'il avait vu dans la sienne.  Babouc conclut
-qu'une telle sociï¿½tï¿½ ne pouvait subsister; que la jalousie, la
-discorde, la vengeance, devaient dï¿½soler toutes les maisons; que les
+Alors Babouc commença à craindre que le génie Ituriel n'eût raison.
+Le talent qu'il avait d'attirer la confiance le mit dès le jour même
+dans les secrets de la dame: elle lui confia son goût pour le jeune
+mage, l'assura que dans toutes les maisons de Persépolis il trouverait
+l'équivalent de ce qu'il avait vu dans la sienne.  Babouc conclut
+qu'une telle société ne pouvait subsister; que la jalousie, la
+discorde, la vengeance, devaient désoler toutes les maisons; que les
 larmes et le sang devaient couler tous les jours; que certainement les
-maris tueraient les galants de leurs femmes, ou en seraient tuï¿½s; et
-qu'enfin Ituriel ferait fort bien de dï¿½truire tout d'un coup une ville
-abandonnï¿½e ï¿½ de continuels dï¿½sordres.
+maris tueraient les galants de leurs femmes, ou en seraient tués; et
+qu'enfin Ituriel ferait fort bien de détruire tout d'un coup une ville
+abandonnée à de continuels désordres.
 
 
 
-V.  Il ï¿½tait plongï¿½ dans ces idï¿½es funestes, quand il se prï¿½senta ï¿½ la
-porte un homme grave, en manteau noir, qui demanda humblement ï¿½ parler
+V.  Il était plongé dans ces idées funestes, quand il se présenta à la
+porte un homme grave, en manteau noir, qui demanda humblement à parler
 au jeune magistrat.  Celui-ci, sans se lever, sans le regarder, lui
-donna fiï¿½rement, et d'un air distrait, quelques papiers, et le
-congï¿½dia.  Babouc demanda quel ï¿½tait cet homme.  La maï¿½tresse de la
+donna fièrement, et d'un air distrait, quelques papiers, et le
+congédia.  Babouc demanda quel était cet homme.  La maîtresse de la
 maison lui dit tout bas: C'est un des meilleurs avocats de la ville;
-il y a cinquante ans qu'il ï¿½tudie les lois.  Monsieur, qui n'a que
+il y a cinquante ans qu'il étudie les lois.  Monsieur, qui n'a que
 vingt-cinq ans, et qui est satrape[9] de loi depuis deux jours, lui
-donne ï¿½ faire l'extrait d'un procï¿½s qu'il doit juger demain; et qu'il
-n'a pas encore examinï¿½.  Ce jeune ï¿½tourdi fait sagement, dit Babouc,
-de demander conseil ï¿½ un vieillard; mais pourquoi n'est-ce pas ce
+donne à faire l'extrait d'un procès qu'il doit juger demain; et qu'il
+n'a pas encore examiné.  Ce jeune étourdi fait sagement, dit Babouc,
+de demander conseil à un vieillard; mais pourquoi n'est-ce pas ce
 vieillard qui est juge? Vous vous moquez, lui dit-on; jamais ceux qui
 ont vieilli dans les emplois laborieux et subalternes ne parviennent
-aux dignitï¿½s.  Ce jeune homme a une grande charge, parceque son pï¿½re
-est riche, et qu'ici le droit de rendre la justice s'achï¿½te comme une
-mï¿½tairie[10].  O moeurs! ï¿½ malheureuse ville! s'ï¿½cria Babouc; voilï¿½ le
-comble du dï¿½sordre; sans doute, ceux qui ont ainsi achetï¿½ le droit de
-juger vendent leurs jugements: je ne vois ici que des abï¿½mes
-d'iniquitï¿½.
+aux dignités.  Ce jeune homme a une grande charge, parceque son père
+est riche, et qu'ici le droit de rendre la justice s'achète comme une
+métairie[10].  O moeurs! ô malheureuse ville! s'écria Babouc; voilà le
+comble du désordre; sans doute, ceux qui ont ainsi acheté le droit de
+juger vendent leurs jugements: je ne vois ici que des abîmes
+d'iniquité.
 
   [9] Satrape de loi signifie ici conseiller au parlement.  Il
   arrivait souvent aux conseillers-rapporteurs de charger quelque
-  avocat de faire les extraits dos procï¿½s ï¿½ juger.  B.
+  avocat de faire les extraits dos procès à juger.  B.
 
-  [10] Voltaire n'a cessï¿½ de s'ï¿½lever contre la vï¿½nalitï¿½ des offices
-  de judicature; et c'est la suppression de la vï¿½nalitï¿½ qui l'avait
+  [10] Voltaire n'a cessé de s'élever contre la vénalité des offices
+  de judicature; et c'est la suppression de la vénalité qui l'avait
   rendu partisan des mesures prises eu 1771.  Voyez l'_Histoire du
   parlement_, chapitre LXIX, tome XXII, pages 366-67, dans les
-  _Mï¿½langes_, annï¿½e 1771, diffï¿½rentes piï¿½ces relatives au parlement
-  Maupeou; dans la _Correspondance_, la lettre ï¿½ madame de Florian,
+  _Mélanges_, année 1771, différentes pièces relatives au parlement
+  Maupeou; dans la _Correspondance_, la lettre à madame de Florian,
   du 1er avril 1771, et autres lettres.  B.
 
 Comme il marquait ainsi sa douleur et sa surprise, un jeune guerrier,
-qui ï¿½tait revenu ce jour mï¿½me de l'armï¿½e, lui dit: Pourquoi ne
-voulez-vous pas qu'on achï¿½te les emplois de la robe? j'ai bien achetï¿½,
-moi, le droit d'affronter la mort ï¿½ la tï¿½te de deux mille hommes que
-je commande; il m'en a coï¿½tï¿½ quarante mille dariques d'or cette annï¿½e,
+qui était revenu ce jour même de l'armée, lui dit: Pourquoi ne
+voulez-vous pas qu'on achète les emplois de la robe? j'ai bien acheté,
+moi, le droit d'affronter la mort à la tête de deux mille hommes que
+je commande; il m'en a coûté quarante mille dariques d'or cette année,
 pour coucher sur la terre trente nuits de suite en habit rouge, et
-pour recevoir ensuite deux bons coups de flï¿½ches dont je me sens
+pour recevoir ensuite deux bons coups de flèches dont je me sens
 encore.  Si je me ruine pour servir l'empereur persan que je n'ai
 jamais vu, M. le satrape de robe peut bien payer quelque chose pour
-avoir le plaisir de donner audience ï¿½ des plaideurs.  Babouc indignï¿½
-ne put s'empï¿½cher de condamner dans son coeur un pays oï¿½ l'on mettait
-ï¿½ l'encan les dignitï¿½s de la paix et de la guerre; il conclut
-prï¿½cipitamment que l'on y devait ignorer absolument la guerre et les
-lois, et que, quand mï¿½me Ituriel n'exterminerait pas ces peuples, ils
-pï¿½riraient par leur dï¿½testable administration.
+avoir le plaisir de donner audience à des plaideurs.  Babouc indigné
+ne put s'empêcher de condamner dans son coeur un pays où l'on mettait
+à l'encan les dignités de la paix et de la guerre; il conclut
+précipitamment que l'on y devait ignorer absolument la guerre et les
+lois, et que, quand même Ituriel n'exterminerait pas ces peuples, ils
+périraient par leur détestable administration.
 
 
-Sa mauvaise opinion augmenta encore ï¿½ l'arrivï¿½e d'un gros homme, qui,
-ayant saluï¿½ trï¿½s familiï¿½rement toute la compagnie, s'approcha du jeune
-officier, et lui dit: Je ne peux vous prï¿½ter que cinquante mille
-dariques d'or; car, en vï¿½ritï¿½, les douanes de l'empire ne m'en ont
-rapportï¿½ que trois cent mille cette annï¿½e.  Babouc s'informa quel
-ï¿½tait cet homme qui se plaignait de gagner si peu; il apprit qu'il y
-avait dans Persï¿½polis quarante[11] rois plï¿½bï¿½iens qui tenaient ï¿½ bail
+Sa mauvaise opinion augmenta encore à l'arrivée d'un gros homme, qui,
+ayant salué très familièrement toute la compagnie, s'approcha du jeune
+officier, et lui dit: Je ne peux vous prêter que cinquante mille
+dariques d'or; car, en vérité, les douanes de l'empire ne m'en ont
+rapporté que trois cent mille cette année.  Babouc s'informa quel
+était cet homme qui se plaignait de gagner si peu; il apprit qu'il y
+avait dans Persépolis quarante[11] rois plébéiens qui tenaient à bail
 l'empire de Perse, et qui en rendaient quelque chose au monarque.
 
-  [11] _Quarante_ est ce qu'on lit dans les ï¿½ditions depuis 1756.  Les
-  ï¿½ditions de 1748 et 1750 portent, _soixante et douze_.  Le nombre
-  des fermiers-gï¿½nï¿½raux a variï¿½.  Louis XV, en 1765, avait crï¿½ï¿½ vingt
-  nouvelles places.  Voyez, tome XXI, le chapitre XXXI du _Prï¿½cis du
-  Siï¿½cle de Louis XV_.  B.
+  [11] _Quarante_ est ce qu'on lit dans les éditions depuis 1756.  Les
+  éditions de 1748 et 1750 portent, _soixante et douze_.  Le nombre
+  des fermiers-généraux a varié.  Louis XV, en 1765, avait créé vingt
+  nouvelles places.  Voyez, tome XXI, le chapitre XXXI du _Précis du
+  Siècle de Louis XV_.  B.
 
 
 
-VI.  Aprï¿½s dï¿½ner il alla dans un des plus superbes temples de la
+VI.  Après dîner il alla dans un des plus superbes temples de la
 ville; il s'assit au milieu d'une troupe de femmes et d'hommes qui
-ï¿½taient venus lï¿½ pour passer le temps.  Un mage parut dans une machine
-ï¿½levï¿½e, qui parla long-temps du vice et de la vertu.  Ce mage divisa
-en plusieurs parties ce qui n'avait pas besoin d'ï¿½tre divisï¿½; il
-prouva mï¿½thodiquement tout ce qui ï¿½tait clair; il enseigna tout ce
+étaient venus là pour passer le temps.  Un mage parut dans une machine
+élevée, qui parla long-temps du vice et de la vertu.  Ce mage divisa
+en plusieurs parties ce qui n'avait pas besoin d'être divisé; il
+prouva méthodiquement tout ce qui était clair; il enseigna tout ce
 qu'on savait.  Il se passionna froidement, et sortit suant et hors
-d'haleine.  Toute l'assemblï¿½e alors se rï¿½veilla, et crut avoir assistï¿½
-ï¿½ une instruction.  Babouc dit: Voilï¿½ un homme qui a fait de son
+d'haleine.  Toute l'assemblée alors se réveilla, et crut avoir assisté
+à une instruction.  Babouc dit: Voilà un homme qui a fait de son
 mieux pour ennuyer deux ou trois cents de ses concitoyens; mais son
-intention ï¿½tait bonne: il n'y a pas lï¿½ de quoi dï¿½truire Persï¿½polis.
+intention était bonne: il n'y a pas là de quoi détruire Persépolis.
 
-Au sortir de cette assemblï¿½e, on le mena voir une fï¿½te publique qu'on
-donnait tous les jours de l'annï¿½e; c'ï¿½tait dans une espï¿½ce de
+Au sortir de cette assemblée, on le mena voir une fête publique qu'on
+donnait tous les jours de l'année; c'était dans une espèce de
 basilique, au fond de laquelle on voyait un palais.  Les plus belles
-citoyennes de Persï¿½polis, les plus considï¿½rables satrapes rangï¿½s avec
+citoyennes de Persépolis, les plus considérables satrapes rangés avec
 ordre formaient un spectacle si beau, que Babouc crut d'abord que
-c'ï¿½tait lï¿½ toute la fï¿½te.  Deux ou trois personnes, qui paraissaient
-des rois et des reines, parurent bientï¿½t dans le vestibule de ce
-palais; leur langage ï¿½tait trï¿½s diffï¿½rent de celui du peuple; il ï¿½tait
-mesurï¿½, harmonieux, et sublime.  Personne ne dormait, on ï¿½coutait dans
-un profond silence, qui n'ï¿½tait interrompu que par les tï¿½moignages de
-la sensibilitï¿½ et de l'admiration publique.  Le devoir des rois,
-l'amour de la vertu, les dangers des passions ï¿½taient exprimï¿½s par des
+c'était là toute la fête.  Deux ou trois personnes, qui paraissaient
+des rois et des reines, parurent bientôt dans le vestibule de ce
+palais; leur langage était très différent de celui du peuple; il était
+mesuré, harmonieux, et sublime.  Personne ne dormait, on écoutait dans
+un profond silence, qui n'était interrompu que par les témoignages de
+la sensibilité et de l'admiration publique.  Le devoir des rois,
+l'amour de la vertu, les dangers des passions étaient exprimés par des
 traits si vifs et si touchants, que Babouc versa des larmes.  Il ne
-douta pas que ces hï¿½ros et ces hï¿½roï¿½nes, ces rois et ces reines qu'il
-venait d'entendre, ne fussent les prï¿½dicateurs de l'empire.  Il se
-proposa mï¿½me d'engager Ituriel ï¿½ les venir entendre; bien sï¿½r qu'un
-tel spectacle le rï¿½concilierait pour jamais avec la ville.
+douta pas que ces héros et ces héroïnes, ces rois et ces reines qu'il
+venait d'entendre, ne fussent les prédicateurs de l'empire.  Il se
+proposa même d'engager Ituriel à les venir entendre; bien sûr qu'un
+tel spectacle le réconcilierait pour jamais avec la ville.
 
-Dï¿½s que cette fï¿½te fut finie, il voulut voir la principale reine qui
-avait dï¿½bitï¿½ dans ce beau palais une morale si noble et si pure; il se
-fit introduire chez sa majestï¿½; on le mena par un petit escalier, au
-second ï¿½tage, dans un appartement mal meublï¿½, oï¿½ il trouva une femme
-mal vï¿½tue, qui lui dit d'un air noble et pathï¿½tique: Ce mï¿½tier-ci ne
+Dès que cette fête fut finie, il voulut voir la principale reine qui
+avait débité dans ce beau palais une morale si noble et si pure; il se
+fit introduire chez sa majesté; on le mena par un petit escalier, au
+second étage, dans un appartement mal meublé, où il trouva une femme
+mal vêtue, qui lui dit d'un air noble et pathétique: Ce métier-ci ne
 me donne pas de quoi vivre; un des princes que vous avez vus m'a fait
-un enfant; j'accoucherai bientï¿½t; je manque d'argent, et sans argent
+un enfant; j'accoucherai bientôt; je manque d'argent, et sans argent
 on n'accouche point.  Babouc lui donna cent dariques d'or, en disant:
-S'il n'y avait que ce mal-lï¿½ dans la ville, Ituriel aurait tort de se
-tant fï¿½cher.
+S'il n'y avait que ce mal-là dans la ville, Ituriel aurait tort de se
+tant fâcher.
 
-De lï¿½ il alla passer sa soirï¿½e chez des marchands de magnificences
+De là il alla passer sa soirée chez des marchands de magnificences
 inutiles.  Un homme intelligent, avec lequel il avait fait
 connaissance, l'y mena; il acheta ce qui lui plut, et on le lui vendit
 avec politesse beaucoup plus qu'il ne valait.  Son ami, de retour chez
 lui, lui fit voir combien on le trompait.  Babouc mit sur ses
 tablettes le nom du marchand, pour le faire distinguer par Ituriel au
-jour de la punition de la ville.  Comme il ï¿½crivait, on frappa ï¿½ sa
-porte; c'ï¿½tait le marchand lui-mï¿½me qui venait lui rapporter sa
-bourse, que Babouc avait laissï¿½e par mï¿½garde sur son comptoir.
-Comment se peut-il, s'ï¿½cria Babouc, que vous soyez si fidï¿½le et si
-gï¿½nï¿½reux, aprï¿½s n'avoir pas eu honte[12] de me vendre des colifichets
-quatre fois au-dessus de leur valeur? Il n'y a aucun nï¿½gociant un peu
-connu dans cette ville, lui rï¿½pondit le marchand, qui ne fï¿½t venu vous
-rapporter votre bourse; mais on vous a trompï¿½ quand on vous a dit que
+jour de la punition de la ville.  Comme il écrivait, on frappa à sa
+porte; c'était le marchand lui-même qui venait lui rapporter sa
+bourse, que Babouc avait laissée par mégarde sur son comptoir.
+Comment se peut-il, s'écria Babouc, que vous soyez si fidèle et si
+généreux, après n'avoir pas eu honte[12] de me vendre des colifichets
+quatre fois au-dessus de leur valeur? Il n'y a aucun négociant un peu
+connu dans cette ville, lui répondit le marchand, qui ne fût venu vous
+rapporter votre bourse; mais on vous a trompé quand on vous a dit que
 je vous avais vendu ce que vous avez pris chez moi quatre fois plus
 qu'il ne vaut, je vous l'ai vendu dix fois davantage: et cela est si
 vrai, que si dans un mois vous voulez le revendre, vous n'en aurez pas
-mï¿½me ce dixiï¿½me.  Mais rien n'est plus juste; c'est la fantaisie
-passagï¿½re[13] des hommes qui met le prix ï¿½ ces choses frivoles; c'est
+même ce dixième.  Mais rien n'est plus juste; c'est la fantaisie
+passagère[13] des hommes qui met le prix à ces choses frivoles; c'est
 cette fantaisie qui fait vivre cent ouvriers que j'emploie; c'est elle
 qui me donne une belle maison, un char commode, des chevaux; c'est
-elle qui excite l'industrie, qui entretient le goï¿½t, la circulation,
+elle qui excite l'industrie, qui entretient le goût, la circulation,
 et l'abondance.
 
-  [12] On lit _de honte_ dans l'ï¿½dition de 1748, faite ï¿½ Dresde; mais
-  l'ï¿½dition de 1750, faite probablement sous les yeux de l'auteur,
+  [12] On lit _de honte_ dans l'édition de 1748, faite à Dresde; mais
+  l'édition de 1750, faite probablement sous les yeux de l'auteur,
   quoique portant l'adresse d'Amslerdam, porte seulement: _eu
   honte_.  B.
 
-  [13] C'est d'aprï¿½s l'ï¿½dition de 1750 que j'ai ajoutï¿½ le mot
-  passagï¿½re.  B.
+  [13] C'est d'après l'édition de 1750 que j'ai ajouté le mot
+  passagère.  B.
 
-Je vends aux nations voisines les mï¿½mes bagatelles plus chï¿½rement qu'ï¿½
-vous, et par lï¿½ je suis utile ï¿½ l'empire.  Babouc, aprï¿½s avoir un peu
-rï¿½vï¿½, le raya de ses tablettes[14]; car enfin, disait-il, les arts du
+Je vends aux nations voisines les mêmes bagatelles plus chèrement qu'à
+vous, et par là je suis utile à l'empire.  Babouc, après avoir un peu
+rêvé, le raya de ses tablettes[14]; car enfin, disait-il, les arts du
 luxe ne sont en grand nombre dans un empire que quand tous les arts
-nï¿½cessaires sont exercï¿½s, et que la nation est nombreuse et opulente.
-Ituriel me paraï¿½t un peu sï¿½vï¿½re.
+nécessaires sont exercés, et que la nation est nombreuse et opulente.
+Ituriel me paraît un peu sévère.
 
-  [14] C'est aussi d'aprï¿½s l'ï¿½dition de 1750 que je rï¿½tablis la fin de
-  cet alinï¿½a.  B.
+  [14] C'est aussi d'après l'édition de 1750 que je rétablis la fin de
+  cet alinéa.  B.
 
 
 
-VII.  Babouc, fort incertain sur ce qu'il devait penser de Persï¿½polis,
-rï¿½solut de voir les mages et les lettrï¿½s; car les uns ï¿½tudient la
-sagesse, et les autres la religion; et il se flatta que ceux-lï¿½
-obtiendraient grï¿½ce pour le reste du peuple.  Dï¿½s le lendemain matin
-il se transporta dans un collï¿½ge de mages.  L'archimandrite lui avoua
-qu'il avait cent mille ï¿½cus de rente pour avoir fait voeu de pauvretï¿½,
-et qu'il exerï¿½ait un empire assez ï¿½tendu en vertu de son voeu
-d'humilitï¿½; aprï¿½s quoi il laissa Babouc entre les mains d'un petit
-frï¿½re qui lui fit les honneurs.
+VII.  Babouc, fort incertain sur ce qu'il devait penser de Persépolis,
+résolut de voir les mages et les lettrés; car les uns étudient la
+sagesse, et les autres la religion; et il se flatta que ceux-là
+obtiendraient grâce pour le reste du peuple.  Dès le lendemain matin
+il se transporta dans un collège de mages.  L'archimandrite lui avoua
+qu'il avait cent mille écus de rente pour avoir fait voeu de pauvreté,
+et qu'il exerçait un empire assez étendu en vertu de son voeu
+d'humilité; après quoi il laissa Babouc entre les mains d'un petit
+frère qui lui fit les honneurs.
 
-Tandis que ce frï¿½re lui montrait les magnificences de cette maison de
-pï¿½nitence, un bruit se rï¿½pandit qu'il ï¿½tait venu pour rï¿½former toutes
-ces maisons.  Aussitï¿½t il reï¿½ut des mï¿½moires de chacune d'elles; et
-les mï¿½moires disaient tous en substance: ï¿½Conservez-nous, et dï¿½truisez
-toutes les autres.ï¿½ A entendre leurs apologies, ces sociï¿½tï¿½s ï¿½taient
-toutes nï¿½cessaires; ï¿½ entendre leurs accusations rï¿½ciproques, elles
-mï¿½ritaient toutes d'ï¿½tre anï¿½anties.  Il admirait comme il n'y avait
-aucune d'elles qui, pour ï¿½difier l'univers, ne voulï¿½t en avoir
-l'empire.  Alors il se prï¿½senta un petit homme qui ï¿½tait un demi-mage,
+Tandis que ce frère lui montrait les magnificences de cette maison de
+pénitence, un bruit se répandit qu'il était venu pour réformer toutes
+ces maisons.  Aussitôt il reçut des mémoires de chacune d'elles; et
+les mémoires disaient tous en substance: «Conservez-nous, et détruisez
+toutes les autres.» A entendre leurs apologies, ces sociétés étaient
+toutes nécessaires; à entendre leurs accusations réciproques, elles
+méritaient toutes d'être anéanties.  Il admirait comme il n'y avait
+aucune d'elles qui, pour édifier l'univers, ne voulût en avoir
+l'empire.  Alors il se présenta un petit homme qui était un demi-mage,
 et qui lui dit: Je vois bien que l'oeuvre va s'accomplir; car Zerdust
-est revenu sur la terre; les petites filles prophï¿½tisent, en se fesant
-donner des coups de pincettes par-devant et le fouet par-derriï¿½re[15].
+est revenu sur la terre; les petites filles prophétisent, en se fesant
+donner des coups de pincettes par-devant et le fouet par-derrière[15].
 Ainsi nous vous demandons votre protection contre le grand-lama.
-Comment! dit Babouc, contre ce pontife-roi qui rï¿½side au
-Thibet?--Contre lui-mï¿½me.--Vous lui faites donc la guerre, et vous
-levez contre lui des armï¿½es?--Non; mais il dit que l'homme est libre;
-et nous n'en croyons rien; nous ï¿½crivons contre lui de petits livres
-qu'il ne lit pas; ï¿½ peine a-t-il entendu parler de nous, il nous a
-seulement fait condamner, comme un maï¿½tre ordonne qu'on ï¿½chenille les
-arbres de ses jardins.  Babouc frï¿½mit de la folie de ces hommes qui
+Comment! dit Babouc, contre ce pontife-roi qui réside au
+Thibet?--Contre lui-même.--Vous lui faites donc la guerre, et vous
+levez contre lui des armées?--Non; mais il dit que l'homme est libre;
+et nous n'en croyons rien; nous écrivons contre lui de petits livres
+qu'il ne lit pas; à peine a-t-il entendu parler de nous, il nous a
+seulement fait condamner, comme un maître ordonne qu'on échenille les
+arbres de ses jardins.  Babouc frémit de la folie de ces hommes qui
 fesaient profession de sagesse, des intrigues de ceux qui avaient
-renoncï¿½ au monde, de l'ambition et de la convoitise orgueilleuse de
-ceux qui enseignaient l'humilitï¿½ et le dï¿½sintï¿½ressement; il conclut
-qu'Ituriel avait de bonnes raisons pour dï¿½truire toute cette engeance
+renoncé au monde, de l'ambition et de la convoitise orgueilleuse de
+ceux qui enseignaient l'humilité et le désintéressement; il conclut
+qu'Ituriel avait de bonnes raisons pour détruire toute cette engeance
 
-  [15] Tel est le texte de 1748 et de toutes les autres ï¿½ditions.
-  Mais l'ï¿½dition de 1750, que j'aurais peut-ï¿½tre dï¿½ suivre, porte:
+  [15] Tel est le texte de 1748 et de toutes les autres éditions.
+  Mais l'édition de 1750, que j'aurais peut-être dû suivre, porte:
 
-  ï¿½... par-derriï¿½re.  Il est ï¿½vident que le monde va finir: ne
-  pourriez-vous point, avant cette belle ï¿½poque, nous protï¿½ger contre
+  «... par-derrière.  Il est évident que le monde va finir: ne
+  pourriez-vous point, avant cette belle époque, nous protéger contre
   le grand-lama?--Quel galimatias, dit Babouc, contre le grand-lama?
-  contre ce pontife-roi qui rï¿½side au Thibet?--Oui, dit le petit
-  demi-mage avec un air opiniï¿½tre, contre lui-mï¿½me.--Vous lui faites
-  donc la guerre, vous avez donc des armï¿½es? dit Babouc.--Non, dit
-  l'autre, mais nous avons ï¿½crit contre lui trois on quatre mille gros
+  contre ce pontife-roi qui réside au Thibet?--Oui, dit le petit
+  demi-mage avec un air opiniâtre, contre lui-même.--Vous lui faites
+  donc la guerre, vous avez donc des armées? dit Babouc.--Non, dit
+  l'autre, mais nous avons écrit contre lui trois on quatre mille gros
   livres qu'on ne lit point, et autant de brochures, que nous fesons
-  lire par des femmes: ï¿½ peine a-t-il entendu, etc.ï¿½ B.
+  lire par des femmes: à peine a-t-il entendu, etc.» B.
 
 
 
-VIII.  Retirï¿½ chez lui, il envoya chercher des livres nouveaux pour
-adoucir son chagrin, et il pria quelques lettrï¿½s ï¿½ dï¿½ner pour se
-rï¿½jouir.  Il en vint deux fois plus qu'il n'en avait demandï¿½, comme
-les guï¿½pes que le miel attire.  Ces parasites se pressaient de manger
+VIII.  Retiré chez lui, il envoya chercher des livres nouveaux pour
+adoucir son chagrin, et il pria quelques lettrés à dîner pour se
+réjouir.  Il en vint deux fois plus qu'il n'en avait demandé, comme
+les guêpes que le miel attire.  Ces parasites se pressaient de manger
 et de parler; ils louaient deux sortes de personnes, les morts et
-eux-mï¿½mes, et jamais leurs contemporains, exceptï¿½ le maï¿½tre de la
+eux-mêmes, et jamais leurs contemporains, excepté le maître de la
 maison.  Si quelqu'un d'eux disait un bon mot, les autres baissaient
-les yeux et se mordaient les lï¿½vres de douleur de ne l'avoir pas dit.
+les yeux et se mordaient les lèvres de douleur de ne l'avoir pas dit.
 Ils avaient moins de dissimulation que les mages, parcequ'ils
 n'avaient pas de si grands objets d'ambition.  Chacun d'eux briguait
-une place de valet et une rï¿½putation de grand homme; ils se disaient
+une place de valet et une réputation de grand homme; ils se disaient
 en face des choses insultantes, qu'ils croyaient des traits d'esprit.
 [16]Ils avaient eu quelque connaissance de la mission de Babouc.  L'un
 d'eux le pria tout bas d'exterminer un auteur qui ne l'avait pas assez
-louï¿½ il y avait cinq ans; un autre demanda la perte d'un citoyen qui
-n'avait jamais ri ï¿½ ses comï¿½dies; un troisiï¿½me demanda l'extinction de
-l'acadï¿½mie, parcequ'il n'avait jamais pu parvenir ï¿½ y ï¿½tre admis.  Le
+loué il y avait cinq ans; un autre demanda la perte d'un citoyen qui
+n'avait jamais ri à ses comédies; un troisième demanda l'extinction de
+l'académie, parcequ'il n'avait jamais pu parvenir à y être admis.  Le
 repas fini, chacun d'eux s'en alla seul, car il n'y avait pas dans
-toute la troupe deux hommes qui pussent se souffrir, ni mï¿½me se parler
-ailleurs que chez les riches qui les invitaient ï¿½ leur table.  Babouc
-jugea qu'il n'y aurait pas grand mal quand cette vermine pï¿½rirait dans
-la destruction gï¿½nï¿½rale.
+toute la troupe deux hommes qui pussent se souffrir, ni même se parler
+ailleurs que chez les riches qui les invitaient à leur table.  Babouc
+jugea qu'il n'y aurait pas grand mal quand cette vermine périrait dans
+la destruction générale.
 
-  [16] Cette phrase et la suivante furent ajoutï¿½es en 1756.  Les
-   ï¿½ditions de 1748 et 1750 portent: ï¿½traits d'esprit.  Le repas fini,
-   etc.ï¿½ B.
+  [16] Cette phrase et la suivante furent ajoutées en 1756.  Les
+   éditions de 1748 et 1750 portent: «traits d'esprit.  Le repas fini,
+   etc.» B.
 
 
 
-IX.  Dï¿½s qu'il se fut dï¿½fait d'eux, il se mit ï¿½ lire quelques livres
+IX.  Dès qu'il se fut défait d'eux, il se mit à lire quelques livres
 nouveaux.  Il y reconnut l'esprit de ses convives.  Il vit surtout
-avec indignation ces gazettes de la mï¿½disance, ces archives du mauvais
-goï¿½t, que l'envie, la bassesse et la faim ont dictï¿½es; ces lï¿½ches
-satires oï¿½ l'on mï¿½nage le vautour, et oï¿½ l'on dï¿½chire la colombe; ces
-romans dï¿½nuï¿½s d'imagination, oï¿½ l'on voit tant de portraits de femmes
-que l'auteur ne connaï¿½t pas.
+avec indignation ces gazettes de la médisance, ces archives du mauvais
+goût, que l'envie, la bassesse et la faim ont dictées; ces lâches
+satires où l'on ménage le vautour, et où l'on déchire la colombe; ces
+romans dénués d'imagination, où l'on voit tant de portraits de femmes
+que l'auteur ne connaît pas.
 
-Il jeta au feu tous ces dï¿½testables ï¿½crits, et sortit pour aller le
-soir ï¿½ la promenade.  On le prï¿½senta ï¿½ un vieux lettrï¿½ qui n'ï¿½tait
-point venu grossir le nombre de ses parasites.  Ce lettrï¿½ fuyait
+Il jeta au feu tous ces détestables écrits, et sortit pour aller le
+soir à la promenade.  On le présenta à un vieux lettré qui n'était
+point venu grossir le nombre de ses parasites.  Ce lettré fuyait
 toujours la foule, connaissait les hommes, en fesait usage, et se
-communiquait avec discrï¿½tion.  Babouc lui parla avec douleur de ce
+communiquait avec discrétion.  Babouc lui parla avec douleur de ce
 qu'il avait lu et de ce qu'il avait vu.
 
-Vous avez lu des choses bien mï¿½prisables, lui dit le sage lettrï¿½; mais
+Vous avez lu des choses bien méprisables, lui dit le sage lettré; mais
 dans tous les temps, dans tous les pays, et dans tous les genres, le
-mauvais fourmille, et le bon est rare.  Vous avez reï¿½u chez vous le
-rebut de la pï¿½danterie, parceque, dans toutes les professions, ce
-qu'il y a de plus indigne de paraï¿½tre est toujours ce qui se prï¿½sente
-avec le plus d'impudence.  Les vï¿½ritables sages vivent entre eux
-retirï¿½s et tranquilles; il y a encore parmi nous des hommes et des
+mauvais fourmille, et le bon est rare.  Vous avez reçu chez vous le
+rebut de la pédanterie, parceque, dans toutes les professions, ce
+qu'il y a de plus indigne de paraître est toujours ce qui se présente
+avec le plus d'impudence.  Les véritables sages vivent entre eux
+retirés et tranquilles; il y a encore parmi nous des hommes et des
 livres dignes de votre attention.  Dans le temps qu'il parlait ainsi,
-un autre lettrï¿½ les joignit; leurs discours furent si agrï¿½ables et si
-instructifs, si ï¿½levï¿½s au-dessus des prï¿½jugï¿½s et si conformes ï¿½ la
-vertu, que Babouc avoua n'avoir jamais rien entendu de pareil.  Voilï¿½
-des hommes, disait-il tout bas, ï¿½ qui l'ange Ituriel n'osera toucher,
+un autre lettré les joignit; leurs discours furent si agréables et si
+instructifs, si élevés au-dessus des préjugés et si conformes à la
+vertu, que Babouc avoua n'avoir jamais rien entendu de pareil.  Voilà
+des hommes, disait-il tout bas, à qui l'ange Ituriel n'osera toucher,
 ou il sera bien impitoyable.
 
-Raccommodï¿½ avec les lettrï¿½s, il ï¿½tait toujours en colï¿½re contre le
-reste de la nation.  Vous ï¿½tes ï¿½tranger, lui dit l'homme judicieux qui
-lui parlait; les abus se prï¿½sentent ï¿½ vos yeux en foule, et le bien
-qui est cachï¿½, et qui rï¿½sulte quelquefois de ces abus mï¿½mes, vous
-ï¿½chappe.[17] Alors il apprit que parmi les lettrï¿½s il y en avait
-quelques uns qui n'ï¿½taient pas envieux, et que parmi les mages mï¿½me il
-y en avait de vertueux.  Il conï¿½ut ï¿½ la fin que ces grands corps, qui
-semblaient en se choquant prï¿½parer leurs communes ruines, ï¿½taient au
-fond des institutions salutaires; que chaque sociï¿½tï¿½ de mages ï¿½tait un
-frein ï¿½ ses rivales; que si ces ï¿½mules diffï¿½raient dans quelques
-opinions, ils enseignaient tous la mï¿½me morale, qu'ils instruisaient
+Raccommodé avec les lettrés, il était toujours en colère contre le
+reste de la nation.  Vous êtes étranger, lui dit l'homme judicieux qui
+lui parlait; les abus se présentent à vos yeux en foule, et le bien
+qui est caché, et qui résulte quelquefois de ces abus mêmes, vous
+échappe.[17] Alors il apprit que parmi les lettrés il y en avait
+quelques uns qui n'étaient pas envieux, et que parmi les mages même il
+y en avait de vertueux.  Il conçut à la fin que ces grands corps, qui
+semblaient en se choquant préparer leurs communes ruines, étaient au
+fond des institutions salutaires; que chaque société de mages était un
+frein à ses rivales; que si ces émules différaient dans quelques
+opinions, ils enseignaient tous la même morale, qu'ils instruisaient
 le peuple, et qu'ils vivaient soumis aux lois; semblables aux
-prï¿½cepteurs qui veillent sur le fils de la maison, tandis que le
-maï¿½tre veille sur eux-mï¿½mes.  Il en pratiqua plusieurs, et vit des
-ï¿½mes cï¿½lestes.  Il apprit mï¿½me que parmi les fous [18] qui
-prï¿½tendaient faire la guerre au grand-lama, il y avait eu de trï¿½s
-grands hommes.  Il soupï¿½onna enfin qu'il pourrait bien en ï¿½tre des
-moeurs de Persï¿½polis comme des ï¿½difices, dont les uns lui avaient paru
-dignes de pitiï¿½, et les autres l'avaient ravi en admiration.
+précepteurs qui veillent sur le fils de la maison, tandis que le
+maître veille sur eux-mêmes.  Il en pratiqua plusieurs, et vit des
+âmes célestes.  Il apprit même que parmi les fous [18] qui
+prétendaient faire la guerre au grand-lama, il y avait eu de très
+grands hommes.  Il soupçonna enfin qu'il pourrait bien en être des
+moeurs de Persépolis comme des édifices, dont les uns lui avaient paru
+dignes de pitié, et les autres l'avaient ravi en admiration.
 
-  [17] Ce texte est de 1751.  Dans les ï¿½ditions de 1748 et 1750, on
-  lit: ï¿½...vous ï¿½chappe.  Alors ils le menï¿½rent chez le principal
+  [17] Ce texte est de 1751.  Dans les éditions de 1748 et 1750, on
+  lit: «...vous échappe.  Alors ils le menèrent chez le principal
   mage, qu'on appelait le surveillant, Babouc vit dans ce mage un
-  homme digne d'ï¿½tre ï¿½ la tï¿½te des justes; il sut qu'il y en avait
-  beaucoup qui lui ressemblaient.  Il conï¿½ut mï¿½me que ces grands corps,
-  etc.ï¿½
+  homme digne d'être à la tête des justes; il sut qu'il y en avait
+  beaucoup qui lui ressemblaient.  Il conçut même que ces grands corps,
+  etc.»
 
-  Le mot ï¿½vï¿½que, en latin _episcopus_, vient du grec _episcopos_, qui
-  veut dire inspecteur.  En 1748 et 1750 l'archevï¿½que de Paris ï¿½tait
-  Christophe de Beaumont, alors rï¿½cemment nommï¿½, mais qui se rendit
-  bientï¿½t _ridicule et odieux ï¿½ tout Paris_ (voyez tome XXII, page
-  339).  Beaumont, vingt-cinq ans aprï¿½s, ne permit pas qu'ï¿½ la mort
-  de Voltaire on fï¿½t le service d'usage jusque-lï¿½ pour chaque membre
-  de l'acadï¿½mie franï¿½aise.  B.
+  Le mot évêque, en latin _episcopus_, vient du grec _episcopos_, qui
+  veut dire inspecteur.  En 1748 et 1750 l'archevêque de Paris était
+  Christophe de Beaumont, alors récemment nommé, mais qui se rendit
+  bientôt _ridicule et odieux à tout Paris_ (voyez tome XXII, page
+  339).  Beaumont, vingt-cinq ans après, ne permit pas qu'à la mort
+  de Voltaire on fît le service d'usage jusque-là pour chaque membre
+  de l'académie française.  B.
 
-  [18] Les jansï¿½nistes.  B.
+  [18] Les jansénistes.  B.
 
 
 
-X.  Il dit ï¿½ son lettrï¿½: Je conï¿½ois trï¿½s bien que ces mages, que
-j'avais crus si dangereux, sont en effet trï¿½s utiles, surtout quand un
-gouvernement sage les empï¿½che de se rendre trop nï¿½cessaires; mais vous
-m'avouerez au moins que vos jeunes magistrats, qui achï¿½tent une charge
-de juge dï¿½s qu'ils ont appris ï¿½ monter ï¿½ cheval, doivent ï¿½taler dans
+X.  Il dit à son lettré: Je conçois très bien que ces mages, que
+j'avais crus si dangereux, sont en effet très utiles, surtout quand un
+gouvernement sage les empêche de se rendre trop nécessaires; mais vous
+m'avouerez au moins que vos jeunes magistrats, qui achètent une charge
+de juge dès qu'ils ont appris à monter à cheval, doivent étaler dans
 les[19] tribunaux tout ce que l'impertinence a de plus ridicule, et
-tout ce que l'iniquitï¿½ a de plus pervers; il vaudrait mieux sans doute
-donner ces places gratuitement ï¿½ ces vieux jurisconsultes qui ont
-passï¿½ toute leur vie ï¿½ peser le pour et le contre.
+tout ce que l'iniquité a de plus pervers; il vaudrait mieux sans doute
+donner ces places gratuitement à ces vieux jurisconsultes qui ont
+passé toute leur vie à peser le pour et le contre.
 
-  [19] L'ï¿½dition de 1750 porte: leurs.  B.
+  [19] L'édition de 1750 porte: leurs.  B.
 
-Le lettrï¿½ lui rï¿½pliqua: Vous avez vu notre armï¿½e avant d'arriver ï¿½
-Persï¿½polis; vous savez que nos jeunes officiers se battent trï¿½s bien,
-quoiqu'ils aient achetï¿½ leurs charges: peut-ï¿½tre verrez-vous que nos
-jeunes magistrats ne jugent pas mal, quoiqu'ils aient payï¿½ pour juger.
+Le lettré lui répliqua: Vous avez vu notre armée avant d'arriver à
+Persépolis; vous savez que nos jeunes officiers se battent très bien,
+quoiqu'ils aient acheté leurs charges: peut-être verrez-vous que nos
+jeunes magistrats ne jugent pas mal, quoiqu'ils aient payé pour juger.
 
-Il le mena le lendemain au grand tribunal, oï¿½ l'on devait rendre un
-arrï¿½t important.  La cause ï¿½tait connue de tout le monde.  Tous ces
-vieux avocats qui en parlaient ï¿½taient flottants dans leurs opinions;
-ils allï¿½guaient cent lois, dont aucune n'ï¿½tait applicable au fond de
-la question; ils regardaient l'affaire par cent cï¿½tï¿½s, dont aucun
-n'ï¿½tait dans son vrai jour: les juges dï¿½cidï¿½rent plus vite que les
-avocats ne doutï¿½rent.  Leur jugement fut presque unanime; ils jugï¿½rent
-bien, parcequ'ils suivaient les lumiï¿½res de la raison; et les autres
-avaient opinï¿½ mal, parcequ'ils n'avaient consultï¿½ que leurs livres.
+Il le mena le lendemain au grand tribunal, où l'on devait rendre un
+arrêt important.  La cause était connue de tout le monde.  Tous ces
+vieux avocats qui en parlaient étaient flottants dans leurs opinions;
+ils alléguaient cent lois, dont aucune n'était applicable au fond de
+la question; ils regardaient l'affaire par cent côtés, dont aucun
+n'était dans son vrai jour: les juges décidèrent plus vite que les
+avocats ne doutèrent.  Leur jugement fut presque unanime; ils jugèrent
+bien, parcequ'ils suivaient les lumières de la raison; et les autres
+avaient opiné mal, parcequ'ils n'avaient consulté que leurs livres.
 
 
-Babouc conclut qu'il y avait souvent de trï¿½s bonnes choses dans les
-abus.  Il vit dï¿½s le jour mï¿½me que les richesses des financiers, qui
-l'avaient tant rï¿½voltï¿½, pouvaient produire un effet excellent, car
+Babouc conclut qu'il y avait souvent de très bonnes choses dans les
+abus.  Il vit dès le jour même que les richesses des financiers, qui
+l'avaient tant révolté, pouvaient produire un effet excellent, car
 l'empereur ayant eu besoin d'argent, il trouva en une heure, par leur
 moyen, ce qu'il n'aurait pas eu en six mois par les voies ordinaires;
-il vit que ces gros nuages, enflï¿½s de la rosï¿½e de la terre, lui
+il vit que ces gros nuages, enflés de la rosée de la terre, lui
 rendaient en pluie ce qu'ils en recevaient[20].  D'ailleurs les
-enfants de ces hommes nouveaux, souvent mieux ï¿½levï¿½s que ceux des
+enfants de ces hommes nouveaux, souvent mieux élevés que ceux des
 familles plus anciennes, valaient quelquefois beaucoup mieux; car rien
-n'empï¿½che qu'on ne soit un bon juge, un brave guerrier, un homme
-d'ï¿½tat habile, quand on a eu un pï¿½re bon calculateur.
+n'empêche qu'on ne soit un bon juge, un brave guerrier, un homme
+d'état habile, quand on a eu un père bon calculateur.
 
-  [20] Voyez daus les _Mï¿½langes_, annï¿½e 1749, le morceau intitulï¿½:
+  [20] Voyez daus les _Mélanges_, année 1749, le morceau intitulé:
   _Embellissements de Paris_.  B.
 
 
 
-XI.  Insensiblement Babouc fesait grï¿½ce ï¿½ l'aviditï¿½ du financier, qui
+XI.  Insensiblement Babouc fesait grâce à l'avidité du financier, qui
 n'est pas au fond plus avide que les autres hommes, et qui est
-nï¿½cessaire[21].  Il excusait la folie de se ruiner pour juger et pour
-se battre, folie qui produit de grands magistrats et des hï¿½ros.  Il
-pardonnait ï¿½ l'envie des lettrï¿½s, parmi lesquels il se trouvait des
-hommes qui ï¿½clairaient le monde; il se rï¿½conciliait avec les mages
+nécessaire[21].  Il excusait la folie de se ruiner pour juger et pour
+se battre, folie qui produit de grands magistrats et des héros.  Il
+pardonnait à l'envie des lettrés, parmi lesquels il se trouvait des
+hommes qui éclairaient le monde; il se réconciliait avec les mages
 ambitieux et intrigants, chez lesquels il y avait plus de grandes
 vertus encore que de petits vices; mais il lui restait bien des
-griefs, et surtout les galanteries des dames; et les dï¿½solations qui
-en devaient ï¿½tre la suite le remplissaient d'inquiï¿½tude et d'effroi.
+griefs, et surtout les galanteries des dames; et les désolations qui
+en devaient être la suite le remplissaient d'inquiétude et d'effroi.
 
-  [21] 1750 porte: ï¿½trï¿½s nï¿½cessaire.ï¿½ B.
+  [21] 1750 porte: «très nécessaire.» B.
 
-Comme il voulait pï¿½nï¿½trer dans toutes les conditions humaines, il se
+Comme il voulait pénétrer dans toutes les conditions humaines, il se
 fit mener chez un ministre; mais il tremblait toujours en chemin que
-quelque femme ne fï¿½t assassinï¿½e en sa prï¿½sence par son mari.  Arrivï¿½
-chez l'homme d'ï¿½tat, il resta deux heures dans l'antichambre sans ï¿½tre
-annoncï¿½, et deux heures encore aprï¿½s l'avoir ï¿½tï¿½.  Il se promettait
-bien dans cet intervalle de recommander ï¿½ l'ange Ituriel et le
-ministre et ses insolents huissiers.  L'antichambre ï¿½tait remplie de
-dames de tout ï¿½tage, de mages de toutes couleurs, de juges, de
-marchands, d'officiers, de pï¿½dants; tous se plaignaient du ministre.
-L'avare et l'usurier disaient: Sans doute cet homme-lï¿½ pille les
-provinces; le capricieux lui reprochait d'ï¿½tre bizarre; le voluptueux
-disait: Il ne songe qu'ï¿½ ses plaisirs; l'intrigant se flattait de le
-voir bientï¿½t perdu par une cabale; les femmes espï¿½raient qu'on leur
-donnerait bientï¿½t un ministre plus jeune.
+quelque femme ne fût assassinée en sa présence par son mari.  Arrivé
+chez l'homme d'état, il resta deux heures dans l'antichambre sans être
+annoncé, et deux heures encore après l'avoir été.  Il se promettait
+bien dans cet intervalle de recommander à l'ange Ituriel et le
+ministre et ses insolents huissiers.  L'antichambre était remplie de
+dames de tout étage, de mages de toutes couleurs, de juges, de
+marchands, d'officiers, de pédants; tous se plaignaient du ministre.
+L'avare et l'usurier disaient: Sans doute cet homme-là pille les
+provinces; le capricieux lui reprochait d'être bizarre; le voluptueux
+disait: Il ne songe qu'à ses plaisirs; l'intrigant se flattait de le
+voir bientôt perdu par une cabale; les femmes espéraient qu'on leur
+donnerait bientôt un ministre plus jeune.
 
-Babouc entendait leurs discours; il ne put s'empï¿½cher de dire: Voilï¿½
+Babouc entendait leurs discours; il ne put s'empêcher de dire: Voilà
 un homme bien heureux, il a tous ses ennemis dans son antichambre; il
-ï¿½crase de son pouvoir ceux qui l'envient; il voit ï¿½ ses pieds ceux qui
-le dï¿½testent.  Il entra enfin; il vit un petit vieillard courbï¿½ sous
-le poids des annï¿½es et des affaires, mais encore vif et plein
+écrase de son pouvoir ceux qui l'envient; il voit à ses pieds ceux qui
+le détestent.  Il entra enfin; il vit un petit vieillard courbé sous
+le poids des années et des affaires, mais encore vif et plein
 d'esprit.[22]
 
-  [22] C'est le cardinal de Fleuri que Voltaire dï¿½signe ici; il en
-  fait encore l'ï¿½loge dans le _Panï¿½gyrique de Louis XV_ (voyez les
-  _Mï¿½langes_, annï¿½e 1748).  B.
+  [22] C'est le cardinal de Fleuri que Voltaire désigne ici; il en
+  fait encore l'éloge dans le _Panégyrique de Louis XV_ (voyez les
+  _Mélanges_, année 1748).  B.
 
-Babouc lui plut, et il parut ï¿½ Babouc un homme estimable.  La
-conversation devint intï¿½ressante.  Le ministre lui avoua qu'il ï¿½tait
-un homme trï¿½s malheureux, qu'il passait pour riche, et qu'il ï¿½tait
-pauvre; qu'on le croyait tout puissant, et qu'il ï¿½tait toujours
-contredit; qu'il n'avait guï¿½re obligï¿½ que des ingrats, et que dans un
-travail continuel de quarante annï¿½es il avait eu ï¿½ peine un moment de
-consolation.  Babouc en fut touchï¿½, et pensa que, si cet homme avait
+Babouc lui plut, et il parut à Babouc un homme estimable.  La
+conversation devint intéressante.  Le ministre lui avoua qu'il était
+un homme très malheureux, qu'il passait pour riche, et qu'il était
+pauvre; qu'on le croyait tout puissant, et qu'il était toujours
+contredit; qu'il n'avait guère obligé que des ingrats, et que dans un
+travail continuel de quarante années il avait eu à peine un moment de
+consolation.  Babouc en fut touché, et pensa que, si cet homme avait
 fait des fautes, et si l'ange Ituriel voulait le punir, il ne fallait
 pas l'exterminer, mais seulement lui laisser sa place.
 
 
 
 XII.  Tandis qu'il parlait au ministre entre brusquement la belle dame
-chez qui Babouc avait dï¿½nï¿½; on voyait dans ses yeux et sur son front
-les symptï¿½mes de la douleur et de la colï¿½re.  Elle ï¿½clata en reproches
-contre l'homme d'ï¿½tat, elle versa des larmes; elle se plaignit avec
-amertume de ce qu'on avait refusï¿½ ï¿½ son mari une place oï¿½ sa naissance
+chez qui Babouc avait dîné; on voyait dans ses yeux et sur son front
+les symptômes de la douleur et de la colère.  Elle éclata en reproches
+contre l'homme d'état, elle versa des larmes; elle se plaignit avec
+amertume de ce qu'on avait refusé à son mari une place où sa naissance
 lui permettait d'aspirer, et que ses services et ses blessures
-mï¿½ritaient; elle s'exprima avec tant de force, elle mit tant de grï¿½ces
-dans ses plaintes, elle dï¿½truisit les objections avec tant d'adresse,
-elle fit valoir les raisons avec tant d'ï¿½loquence, qu'elle ne sortit
+méritaient; elle s'exprima avec tant de force, elle mit tant de grâces
+dans ses plaintes, elle détruisit les objections avec tant d'adresse,
+elle fit valoir les raisons avec tant d'éloquence, qu'elle ne sortit
 point de la chambre sans avoir fait la fortune de son mari.
 
 Babouc lui donna la main: Est-il possible, madame, lui dit-il, que
-vous vous soyez donnï¿½ toute cette peine pour un homme que vous n'aimez
-point, et dont vous avez tout ï¿½ craindre?  Un homme que je n'aime
-point!  s'ï¿½cria-t-elle: sachez que mon mari est le meilleur ami que
+vous vous soyez donné toute cette peine pour un homme que vous n'aimez
+point, et dont vous avez tout à craindre?  Un homme que je n'aime
+point!  s'écria-t-elle: sachez que mon mari est le meilleur ami que
 j'aie au monde, qu'il n'y a rien que je ne lui sacrifie, hors mon
-amant; et qu'il ferait tout pour moi, hors de quitter sa maï¿½tresse.
-Je veux vous la faire connaï¿½tre; c'est une femme charmante, pleine
-d'esprit, et du meilleur caractï¿½re du monde; nous soupons ensemble ce
+amant; et qu'il ferait tout pour moi, hors de quitter sa maîtresse.
+Je veux vous la faire connaître; c'est une femme charmante, pleine
+d'esprit, et du meilleur caractère du monde; nous soupons ensemble ce
 soir avec mon mari et mon petit mage; venez partager notre joie.
 
-La dame mena Babouc chez elle.  Le mari, qui ï¿½tait enfin arrivï¿½ plongï¿½
-dans la douleur, revit sa femme avec des transports d'allï¿½gresse et de
-reconnaissance: il embrassait tour-ï¿½-tour sa femme, sa maï¿½tresse, le
-petit mage, et Babouc.  L'union, la gaietï¿½, l'esprit, et les grï¿½ces,
-furent l'ï¿½me de ce repas.  Apprenez, lui dit la belle dame chez
+La dame mena Babouc chez elle.  Le mari, qui était enfin arrivé plongé
+dans la douleur, revit sa femme avec des transports d'allégresse et de
+reconnaissance: il embrassait tour-à-tour sa femme, sa maîtresse, le
+petit mage, et Babouc.  L'union, la gaieté, l'esprit, et les grâces,
+furent l'âme de ce repas.  Apprenez, lui dit la belle dame chez
 laquelle il soupait, que celles qu'on appelle quelquefois de
-malhonnï¿½tes femmes ont presque toujours le mï¿½rite d'un trï¿½s honnï¿½te
-homme; et pour vous en convaincre, venez demain dï¿½ner avec moi chez la
-belle Tï¿½one[23].  Il y a quelques vieilles vestales qui la dï¿½chirent;
+malhonnêtes femmes ont presque toujours le mérite d'un très honnête
+homme; et pour vous en convaincre, venez demain dîner avec moi chez la
+belle Téone[23].  Il y a quelques vieilles vestales qui la déchirent;
 mais elle fait plus de bien qu'elles toutes ensemble.  Elle ne
-commettrait pas une lï¿½gï¿½re injustice pour le plus grand intï¿½rï¿½t; elle
-ne donne ï¿½ son amant que des conseils gï¿½nï¿½reux; elle n'est occupï¿½e que
-de sa gloire: il rougirait devant elle, s'il avait laissï¿½ ï¿½chapper une
+commettrait pas une légère injustice pour le plus grand intérêt; elle
+ne donne à son amant que des conseils généreux; elle n'est occupée que
+de sa gloire: il rougirait devant elle, s'il avait laissé échapper une
 occasion de faire du bien; car rien n'encourage plus aux actions
-vertueuses que d'avoir pour tï¿½moin et pour juge de sa conduite une
-maï¿½tresse dont on veut mï¿½riter l'estime.
+vertueuses que d'avoir pour témoin et pour juge de sa conduite une
+maîtresse dont on veut mériter l'estime.
 
-  [23] On a prï¿½tendu que sous le nom de Tï¿½one Voltaire dï¿½signait
-  madame du Chï¿½telet; ce serait plutï¿½t la marquise de Pompadour.  B.
+  [23] On a prétendu que sous le nom de Téone Voltaire désignait
+  madame du Châtelet; ce serait plutôt la marquise de Pompadour.  B.
 
 
-Babouc ne manqua pas au rendez-vous.  Il vit une maison oï¿½ rï¿½gnaient
-tous les plaisirs.  Tï¿½one rï¿½gnait sur eux; elle savait parler ï¿½ chacun
-son langage.  Son esprit naturel mettait ï¿½ son aise celui des autres;
-elle plaisait sans presque le vouloir; elle ï¿½tait aussi aimable que
+Babouc ne manqua pas au rendez-vous.  Il vit une maison où régnaient
+tous les plaisirs.  Téone régnait sur eux; elle savait parler à chacun
+son langage.  Son esprit naturel mettait à son aise celui des autres;
+elle plaisait sans presque le vouloir; elle était aussi aimable que
 bienfesante; et, ce qui augmentait le prix de toutes ses bonnes
-qualitï¿½s, elle ï¿½tait belle.
+qualités, elle était belle.
 
-Babouc, tout Scythe et tout envoyï¿½ qu'il ï¿½tait d'un gï¿½nie, s'aperï¿½ut
-que, s'il restait encore ï¿½ Persï¿½polis, il oublierait Ituriel pour
-Tï¿½one.  Il s'affectionnait ï¿½ la ville, dont le peuple ï¿½tait poli,
-doux, et bienfesant, quoique lï¿½ger, mï¿½disant, et plein de vanitï¿½.  Il
-craignait que Persï¿½polis ne fï¿½t condamnï¿½e; il craignait mï¿½me le compte
+Babouc, tout Scythe et tout envoyé qu'il était d'un génie, s'aperçut
+que, s'il restait encore à Persépolis, il oublierait Ituriel pour
+Téone.  Il s'affectionnait à la ville, dont le peuple était poli,
+doux, et bienfesant, quoique léger, médisant, et plein de vanité.  Il
+craignait que Persépolis ne fût condamnée; il craignait même le compte
 qu'il allait rendre.
 
 
 Voici comme il s'y prit pour rendre ce compte.  Il fit faire par le
-meilleur fondeur de la ville une petite statue composï¿½e de tous les
-mï¿½taux, des terres et des pierres les plus prï¿½cieuses et les plus
-viles; il la porta ï¿½ Ituriel: Casserez-vous, dit-il, cette jolie
-statue, parceque tout n'y est pas or et diamants? Ituriel entendit ï¿½
-demi-mot; il rï¿½solut de ne pas mï¿½me songer ï¿½ corriger Persï¿½polis, et
+meilleur fondeur de la ville une petite statue composée de tous les
+métaux, des terres et des pierres les plus précieuses et les plus
+viles; il la porta à Ituriel: Casserez-vous, dit-il, cette jolie
+statue, parceque tout n'y est pas or et diamants? Ituriel entendit à
+demi-mot; il résolut de ne pas même songer à corriger Persépolis, et
 de laisser aller le monde comme il va; car, dit-il, si tout n'est pas
-bien, tout est passable[24].  On laissa donc subsister Persï¿½polis, et
-Babouc fut bien loin de se plaindre, comme Jonas, qui se fï¿½cha de ce
-qu'on ne dï¿½truisait pas Ninive[25].  Mais quand on a ï¿½tï¿½ trois jours
+bien, tout est passable[24].  On laissa donc subsister Persépolis, et
+Babouc fut bien loin de se plaindre, comme Jonas, qui se fâcha de ce
+qu'on ne détruisait pas Ninive[25].  Mais quand on a été trois jours
 dans le corps d'une baleine, on n'est pas de si bonne humeur que quand
-on a ï¿½tï¿½ ï¿½ l'opï¿½ra, ï¿½ la comï¿½die, et qu'on a soupï¿½ en bonne compagnie.
+on a été à l'opéra, à la comédie, et qu'on a soupé en bonne compagnie.
 
-  [24] Fin du chapitre en 1748 et 1750.  Le reste fut ajoutï¿½ en 1756.
+  [24] Fin du chapitre en 1748 et 1750.  Le reste fut ajouté en 1756.
   B.
 
   [25] Voyez, dans la Bible, le chapitre IV de _Jonas_.  B.
